@@ -1,1 +1,1 @@
-# su20_project
+# Trending_AI
