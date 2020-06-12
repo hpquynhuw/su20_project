@@ -1,0 +1,280 @@
+[
+      {
+            "trends": [
+                  {
+                        "name": "Xbox",
+                        "url": "http://twitter.com/search?q=Xbox",
+                        "promoted_content": null,
+                        "query": "Xbox",
+                        "tweet_volume": 410985
+                  },
+                  {
+                        "name": "#dontbuythesun",
+                        "url": "http://twitter.com/search?q=%23dontbuythesun",
+                        "promoted_content": null,
+                        "query": "%23dontbuythesun",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "The PS5",
+                        "url": "http://twitter.com/search?q=%22The+PS5%22",
+                        "promoted_content": null,
+                        "query": "%22The+PS5%22",
+                        "tweet_volume": 700574
+                  },
+                  {
+                        "name": "#bbcqt",
+                        "url": "http://twitter.com/search?q=%23bbcqt",
+                        "promoted_content": null,
+                        "query": "%23bbcqt",
+                        "tweet_volume": 11485
+                  },
+                  {
+                        "name": "Fawlty Towers",
+                        "url": "http://twitter.com/search?q=%22Fawlty+Towers%22",
+                        "promoted_content": null,
+                        "query": "%22Fawlty+Towers%22",
+                        "tweet_volume": 24718
+                  },
+                  {
+                        "name": "Sony",
+                        "url": "http://twitter.com/search?q=Sony",
+                        "promoted_content": null,
+                        "query": "Sony",
+                        "tweet_volume": 278242
+                  },
+                  {
+                        "name": "Miles Morales",
+                        "url": "http://twitter.com/search?q=%22Miles+Morales%22",
+                        "promoted_content": null,
+                        "query": "%22Miles+Morales%22",
+                        "tweet_volume": 273790
+                  },
+                  {
+                        "name": "Resident Evil 8",
+                        "url": "http://twitter.com/search?q=%22Resident+Evil+8%22",
+                        "promoted_content": null,
+                        "query": "%22Resident+Evil+8%22",
+                        "tweet_volume": 50224
+                  },
+                  {
+                        "name": "Horizon",
+                        "url": "http://twitter.com/search?q=Horizon",
+                        "promoted_content": null,
+                        "query": "Horizon",
+                        "tweet_volume": 171409
+                  },
+                  {
+                        "name": "#UngodlyHour",
+                        "url": "http://twitter.com/search?q=%23UngodlyHour",
+                        "promoted_content": null,
+                        "query": "%23UngodlyHour",
+                        "tweet_volume": 21658
+                  },
+                  {
+                        "name": "Basil",
+                        "url": "http://twitter.com/search?q=Basil",
+                        "promoted_content": null,
+                        "query": "Basil",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Heyman",
+                        "url": "http://twitter.com/search?q=Heyman",
+                        "promoted_content": null,
+                        "query": "Heyman",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Rockstar",
+                        "url": "http://twitter.com/search?q=Rockstar",
+                        "promoted_content": null,
+                        "query": "Rockstar",
+                        "tweet_volume": 50395
+                  },
+                  {
+                        "name": "Series X",
+                        "url": "http://twitter.com/search?q=%22Series+X%22",
+                        "promoted_content": null,
+                        "query": "%22Series+X%22",
+                        "tweet_volume": 88133
+                  },
+                  {
+                        "name": "stray",
+                        "url": "http://twitter.com/search?q=stray",
+                        "promoted_content": null,
+                        "query": "stray",
+                        "tweet_volume": 342258
+                  },
+                  {
+                        "name": "deathloop",
+                        "url": "http://twitter.com/search?q=deathloop",
+                        "promoted_content": null,
+                        "query": "deathloop",
+                        "tweet_volume": 25403
+                  },
+                  {
+                        "name": "Kena",
+                        "url": "http://twitter.com/search?q=Kena",
+                        "promoted_content": null,
+                        "query": "Kena",
+                        "tweet_volume": 177212
+                  },
+                  {
+                        "name": "Ratchet",
+                        "url": "http://twitter.com/search?q=Ratchet",
+                        "promoted_content": null,
+                        "query": "Ratchet",
+                        "tweet_volume": 99280
+                  },
+                  {
+                        "name": "Skyrim",
+                        "url": "http://twitter.com/search?q=Skyrim",
+                        "promoted_content": null,
+                        "query": "Skyrim",
+                        "tweet_volume": 12859
+                  },
+                  {
+                        "name": "Aloy",
+                        "url": "http://twitter.com/search?q=Aloy",
+                        "promoted_content": null,
+                        "query": "Aloy",
+                        "tweet_volume": 22862
+                  },
+                  {
+                        "name": "#BoycottStarbucks",
+                        "url": "http://twitter.com/search?q=%23BoycottStarbucks",
+                        "promoted_content": null,
+                        "query": "%23BoycottStarbucks",
+                        "tweet_volume": 56104
+                  },
+                  {
+                        "name": "Nintendo DS",
+                        "url": "http://twitter.com/search?q=%22Nintendo+DS%22",
+                        "promoted_content": null,
+                        "query": "%22Nintendo+DS%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "nba 2k21",
+                        "url": "http://twitter.com/search?q=%22nba+2k21%22",
+                        "promoted_content": null,
+                        "query": "%22nba+2k21%22",
+                        "tweet_volume": 54083
+                  },
+                  {
+                        "name": "Zion",
+                        "url": "http://twitter.com/search?q=Zion",
+                        "promoted_content": null,
+                        "query": "Zion",
+                        "tweet_volume": 30778
+                  },
+                  {
+                        "name": "Goodbye Volcano High",
+                        "url": "http://twitter.com/search?q=%22Goodbye+Volcano+High%22",
+                        "promoted_content": null,
+                        "query": "%22Goodbye+Volcano+High%22",
+                        "tweet_volume": 15927
+                  },
+                  {
+                        "name": "#BBCQuestionTime",
+                        "url": "http://twitter.com/search?q=%23BBCQuestionTime",
+                        "promoted_content": null,
+                        "query": "%23BBCQuestionTime",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "godfall",
+                        "url": "http://twitter.com/search?q=godfall",
+                        "promoted_content": null,
+                        "query": "godfall",
+                        "tweet_volume": 14854
+                  },
+                  {
+                        "name": "gta online",
+                        "url": "http://twitter.com/search?q=%22gta+online%22",
+                        "promoted_content": null,
+                        "query": "%22gta+online%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Disc",
+                        "url": "http://twitter.com/search?q=Disc",
+                        "promoted_content": null,
+                        "query": "Disc",
+                        "tweet_volume": 39005
+                  },
+                  {
+                        "name": "PS5 Console",
+                        "url": "http://twitter.com/search?q=%22PS5+Console%22",
+                        "promoted_content": null,
+                        "query": "%22PS5+Console%22",
+                        "tweet_volume": 20212
+                  },
+                  {
+                        "name": "Huncho",
+                        "url": "http://twitter.com/search?q=Huncho",
+                        "promoted_content": null,
+                        "query": "Huncho",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "capcom",
+                        "url": "http://twitter.com/search?q=capcom",
+                        "promoted_content": null,
+                        "query": "capcom",
+                        "tweet_volume": 69471
+                  },
+                  {
+                        "name": "wii u",
+                        "url": "http://twitter.com/search?q=%22wii+u%22",
+                        "promoted_content": null,
+                        "query": "%22wii+u%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "wall-e",
+                        "url": "http://twitter.com/search?q=wall-e",
+                        "promoted_content": null,
+                        "query": "wall-e",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "PS4 Pro",
+                        "url": "http://twitter.com/search?q=%22PS4+Pro%22",
+                        "promoted_content": null,
+                        "query": "%22PS4+Pro%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "john cleese",
+                        "url": "http://twitter.com/search?q=%22john+cleese%22",
+                        "promoted_content": null,
+                        "query": "%22john+cleese%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "oddworld soulstorm",
+                        "url": "http://twitter.com/search?q=%22oddworld+soulstorm%22",
+                        "promoted_content": null,
+                        "query": "%22oddworld+soulstorm%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#projectathia",
+                        "url": "http://twitter.com/search?q=%23projectathia",
+                        "promoted_content": null,
+                        "query": "%23projectathia",
+                        "tweet_volume": null
+                  }
+            ],
+            "as_of": "2020-06-12T03:34:48Z",
+            "created_at": "2020-06-12T03:28:13Z",
+            "locations": [
+                  {
+                        "name": "London",
+                        "woeid": 44418
+                  }
+            ]
+      }
+]
