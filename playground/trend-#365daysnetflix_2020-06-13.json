@@ -1,0 +1,156 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Sat Jun 13 16:44:15 +0000 2020",
+                  "id": 1271845853087567873,
+                  "id_str": "1271845853087567873",
+                  "text": "Sad but true \ud83c\uddf5\ud83c\uddf8 #Freepalestine #salvinisciacallo #tvtalk #iolavoroconlamusica #senzamusica #SkyMotori #vaccino\u2026 https://t.co/2PCvp4ejJM",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "Freepalestine",
+                                    "indices": [
+                                          16,
+                                          30
+                                    ]
+                              },
+                              {
+                                    "text": "salvinisciacallo",
+                                    "indices": [
+                                          31,
+                                          48
+                                    ]
+                              },
+                              {
+                                    "text": "tvtalk",
+                                    "indices": [
+                                          49,
+                                          56
+                                    ]
+                              },
+                              {
+                                    "text": "iolavoroconlamusica",
+                                    "indices": [
+                                          57,
+                                          77
+                                    ]
+                              },
+                              {
+                                    "text": "senzamusica",
+                                    "indices": [
+                                          78,
+                                          90
+                                    ]
+                              },
+                              {
+                                    "text": "SkyMotori",
+                                    "indices": [
+                                          91,
+                                          101
+                                    ]
+                              },
+                              {
+                                    "text": "vaccino",
+                                    "indices": [
+                                          102,
+                                          110
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/2PCvp4ejJM",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271845853087567873",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          112,
+                                          135
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 1269037446,
+                        "id_str": "1269037446",
+                        "name": "Chef Rubio",
+                        "screen_name": "rubio_chef",
+                        "location": "",
+                        "description": "Human Being",
+                        "url": null,
+                        "entities": {
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 175639,
+                        "friends_count": 16,
+                        "listed_count": 354,
+                        "created_at": "Fri Mar 15 07:13:44 +0000 2013",
+                        "favourites_count": 24166,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 6348,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1261547095250567168/wGBgu22U_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1261547095250567168/wGBgu22U_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1269037446/1590230829",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 5,
+                  "favorite_count": 26,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.016,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1271845853087567872&q=%23365daysnetflix&count=10&include_entities=1&result_type=popular",
+            "query": "%23365daysnetflix",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

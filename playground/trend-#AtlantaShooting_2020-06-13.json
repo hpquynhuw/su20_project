@@ -1,0 +1,1540 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Sat Jun 13 20:48:12 +0000 2020",
+                  "id": 1271907245391876096,
+                  "id_str": "1271907245391876096",
+                  "text": "Don\u2019t physically attack police officers or try to take their gun, and you reduce your chances of getting shot by th\u2026 https://t.co/fZ0rAXxyRs",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/fZ0rAXxyRs",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271907245391876096",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 35039490,
+                        "id_str": "35039490",
+                        "name": "Mark Dice",
+                        "screen_name": "MarkDice",
+                        "location": "MAGA Country",
+                        "description": "Media Analyst. Bestselling author of \"The Liberal Media Industrial Complex.\"  Check out my YouTube channel (link below) & I'll see ya there!",
+                        "url": "https://t.co/jCpbNU2RAc",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/jCpbNU2RAc",
+                                                "expanded_url": "http://YouTube.com/MarkDice",
+                                                "display_url": "YouTube.com/MarkDice",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 635673,
+                        "friends_count": 340,
+                        "listed_count": 3170,
+                        "created_at": "Fri Apr 24 21:02:52 +0000 2009",
+                        "favourites_count": 23023,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 5707,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "1A1B1F",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1270615393086763010/sx7mm3Ei_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1270615393086763010/sx7mm3Ei_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/35039490/1541232536",
+                        "profile_link_color": "2FC2EF",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "252429",
+                        "profile_text_color": "666666",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 1674,
+                  "favorite_count": 5277,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 21:06:37 +0000 2020",
+                  "id": 1271911876612493313,
+                  "id_str": "1271911876612493313",
+                  "text": "The #AtlantaShooting hashtag is showing you only the short portion where the man was shot. NOT this portion where t\u2026 https://t.co/EY4RGnetWo",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "AtlantaShooting",
+                                    "indices": [
+                                          4,
+                                          20
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/EY4RGnetWo",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271911876612493313",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 19091173,
+                        "id_str": "19091173",
+                        "name": "Steven Crowder",
+                        "screen_name": "scrowder",
+                        "location": "Ghostlike",
+                        "description": "https://t.co/91mcSUahXm for all you need to know. Join #MugClub. \nInstagram: louderwithcrowder",
+                        "url": "https://t.co/91mcSUahXm",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/91mcSUahXm",
+                                                "expanded_url": "http://Youtube.com/StevenCrowder",
+                                                "display_url": "Youtube.com/StevenCrowder",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/91mcSUahXm",
+                                                "expanded_url": "http://Youtube.com/StevenCrowder",
+                                                "display_url": "Youtube.com/StevenCrowder",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1070009,
+                        "friends_count": 2764,
+                        "listed_count": 5029,
+                        "created_at": "Fri Jan 16 23:00:21 +0000 2009",
+                        "favourites_count": 804,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 58104,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FFFFFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1131761677937008640/RxXm6b3r_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131761677937008640/RxXm6b3r_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19091173/1546555587",
+                        "profile_link_color": "A1A1A1",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "100B2B",
+                        "profile_text_color": "878585",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1271837171083816964,
+                  "quoted_status_id_str": "1271837171083816964",
+                  "quoted_status": {
+                        "created_at": "Sat Jun 13 16:09:45 +0000 2020",
+                        "id": 1271837171083816964,
+                        "id_str": "1271837171083816964",
+                        "text": "Another video of the incident https://t.co/lzD3i8UHiP",
+                        "truncated": false,
+                        "entities": {
+                              "hashtags": [],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": [],
+                              "media": [
+                                    {
+                                          "id": 1271837133490335744,
+                                          "id_str": "1271837133490335744",
+                                          "indices": [
+                                                30,
+                                                53
+                                          ],
+                                          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271837133490335744/pu/img/bJk41n3XXB7fO2aY.jpg",
+                                          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271837133490335744/pu/img/bJk41n3XXB7fO2aY.jpg",
+                                          "url": "https://t.co/lzD3i8UHiP",
+                                          "display_url": "pic.twitter.com/lzD3i8UHiP",
+                                          "expanded_url": "https://twitter.com/balleralert/status/1271837171083816964/video/1",
+                                          "type": "photo",
+                                          "sizes": {
+                                                "medium": {
+                                                      "w": 640,
+                                                      "h": 640,
+                                                      "resize": "fit"
+                                                },
+                                                "thumb": {
+                                                      "w": 150,
+                                                      "h": 150,
+                                                      "resize": "crop"
+                                                },
+                                                "large": {
+                                                      "w": 640,
+                                                      "h": 640,
+                                                      "resize": "fit"
+                                                },
+                                                "small": {
+                                                      "w": 640,
+                                                      "h": 640,
+                                                      "resize": "fit"
+                                                }
+                                          }
+                                    }
+                              ]
+                        },
+                        "extended_entities": {
+                              "media": [
+                                    {
+                                          "id": 1271837133490335744,
+                                          "id_str": "1271837133490335744",
+                                          "indices": [
+                                                30,
+                                                53
+                                          ],
+                                          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271837133490335744/pu/img/bJk41n3XXB7fO2aY.jpg",
+                                          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271837133490335744/pu/img/bJk41n3XXB7fO2aY.jpg",
+                                          "url": "https://t.co/lzD3i8UHiP",
+                                          "display_url": "pic.twitter.com/lzD3i8UHiP",
+                                          "expanded_url": "https://twitter.com/balleralert/status/1271837171083816964/video/1",
+                                          "type": "video",
+                                          "sizes": {
+                                                "medium": {
+                                                      "w": 640,
+                                                      "h": 640,
+                                                      "resize": "fit"
+                                                },
+                                                "thumb": {
+                                                      "w": 150,
+                                                      "h": 150,
+                                                      "resize": "crop"
+                                                },
+                                                "large": {
+                                                      "w": 640,
+                                                      "h": 640,
+                                                      "resize": "fit"
+                                                },
+                                                "small": {
+                                                      "w": 640,
+                                                      "h": 640,
+                                                      "resize": "fit"
+                                                }
+                                          },
+                                          "video_info": {
+                                                "aspect_ratio": [
+                                                      1,
+                                                      1
+                                                ],
+                                                "duration_millis": 37000,
+                                                "variants": [
+                                                      {
+                                                            "bitrate": 432000,
+                                                            "content_type": "video/mp4",
+                                                            "url": "https://video.twimg.com/ext_tw_video/1271837133490335744/pu/vid/320x320/0DwlsjNTLE7c5xAW.mp4?tag=10"
+                                                      },
+                                                      {
+                                                            "bitrate": 832000,
+                                                            "content_type": "video/mp4",
+                                                            "url": "https://video.twimg.com/ext_tw_video/1271837133490335744/pu/vid/480x480/tx_Xhhq14a3HGh38.mp4?tag=10"
+                                                      },
+                                                      {
+                                                            "content_type": "application/x-mpegURL",
+                                                            "url": "https://video.twimg.com/ext_tw_video/1271837133490335744/pu/pl/jqhBemb1MBlN-qJ1.m3u8?tag=10"
+                                                      },
+                                                      {
+                                                            "bitrate": 1280000,
+                                                            "content_type": "video/mp4",
+                                                            "url": "https://video.twimg.com/ext_tw_video/1271837133490335744/pu/vid/640x640/jjEvx0UOVoWDzaA5.mp4?tag=10"
+                                                      }
+                                                ]
+                                          },
+                                          "additional_media_info": {
+                                                "monetizable": false
+                                          }
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                        "in_reply_to_status_id": 1271803898785787905,
+                        "in_reply_to_status_id_str": "1271803898785787905",
+                        "in_reply_to_user_id": 14204133,
+                        "in_reply_to_user_id_str": "14204133",
+                        "in_reply_to_screen_name": "balleralert",
+                        "user": {
+                              "id": 14204133,
+                              "id_str": "14204133",
+                              "name": "BallerAlert",
+                              "screen_name": "balleralert",
+                              "location": "Ballerville",
+                              "description": "News, Events, Gossip, Sports, Politics and More Twitter/TikTok/Instagram/ - balleralert Facebook/Snapchat - balleralertcom Youtube - balleralerttv",
+                              "url": "https://t.co/w7DCq0hZoq",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/w7DCq0hZoq",
+                                                      "expanded_url": "http://balleralert.com",
+                                                      "display_url": "balleralert.com",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 203870,
+                              "friends_count": 323,
+                              "listed_count": 594,
+                              "created_at": "Sun Mar 23 23:07:33 +0000 2008",
+                              "favourites_count": 1723,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": false,
+                              "verified": true,
+                              "statuses_count": 13992,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "A7B8B9",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_tile": true,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1267708078184693761/FEWRvKdF_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1267708078184693761/FEWRvKdF_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/14204133/1590854084",
+                              "profile_link_color": "C4BABA",
+                              "profile_sidebar_border_color": "E70DFF",
+                              "profile_sidebar_fill_color": "2E2929",
+                              "profile_text_color": "E814FF",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": false,
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 297,
+                        "favorite_count": 506,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 1718,
+                  "favorite_count": 4381,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 22:29:46 +0000 2020",
+                  "id": 1271932803349807104,
+                  "id_str": "1271932803349807104",
+                  "text": "I have watched this video of the #AtlantaShooting several times, and other videos of #RayshardBrooks. There is enou\u2026 https://t.co/k1ZQRdQC1k",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "AtlantaShooting",
+                                    "indices": [
+                                          33,
+                                          49
+                                    ]
+                              },
+                              {
+                                    "text": "RayshardBrooks",
+                                    "indices": [
+                                          85,
+                                          100
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/k1ZQRdQC1k",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271932803349807104",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 21059255,
+                        "id_str": "21059255",
+                        "name": "Ted Lieu",
+                        "screen_name": "tedlieu",
+                        "location": "California",
+                        "description": "Husband of Betty, the love of my life. Father of two great kids. USAF veteran. Member of Congress. In that order. Also, I don't take orders from Vladimir Putin.",
+                        "url": "https://t.co/YZX138uDSy",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/YZX138uDSy",
+                                                "expanded_url": "http://www.TedLieu.com",
+                                                "display_url": "TedLieu.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1323447,
+                        "friends_count": 9940,
+                        "listed_count": 6795,
+                        "created_at": "Tue Feb 17 03:12:31 +0000 2009",
+                        "favourites_count": 58256,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 25510,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "022330",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/537271043937673217/3O1qePzP_normal.jpeg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/537271043937673217/3O1qePzP_normal.jpeg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21059255/1485531357",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "A8C7F7",
+                        "profile_sidebar_fill_color": "C0DFEC",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1271909804848623617,
+                  "quoted_status_id_str": "1271909804848623617",
+                  "quoted_status": {
+                        "created_at": "Sat Jun 13 20:58:23 +0000 2020",
+                        "id": 1271909804848623617,
+                        "id_str": "1271909804848623617",
+                        "text": "GBI released video that shows the moment Rayshard Brooks was shot and killed by an Atlanta Police officer at a Wend\u2026 https://t.co/3KWOoTvvsY",
+                        "truncated": true,
+                        "entities": {
+                              "hashtags": [],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/3KWOoTvvsY",
+                                          "expanded_url": "https://twitter.com/i/web/status/1271909804848623617",
+                                          "display_url": "twitter.com/i/web/status/1\u2026",
+                                          "indices": [
+                                                117,
+                                                140
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 187562678,
+                              "id_str": "187562678",
+                              "name": "Matt Johnson",
+                              "screen_name": "MattWSB",
+                              "location": "Atlanta, GA",
+                              "description": "Reporter @WSBTV. Squeezing in some tweets and reporting in the streets.",
+                              "url": "https://t.co/DDidl0A1z6",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/DDidl0A1z6",
+                                                      "expanded_url": "http://www.wsbtv.com",
+                                                      "display_url": "wsbtv.com",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 6106,
+                              "friends_count": 920,
+                              "listed_count": 177,
+                              "created_at": "Mon Sep 06 15:39:21 +0000 2010",
+                              "favourites_count": 6842,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": true,
+                              "verified": true,
+                              "statuses_count": 19542,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "FFFFFF",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1184309103872614400/o5rfm3Em_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1184309103872614400/o5rfm3Em_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/187562678/1529965163",
+                              "profile_link_color": "000000",
+                              "profile_sidebar_border_color": "000000",
+                              "profile_sidebar_fill_color": "000000",
+                              "profile_text_color": "000000",
+                              "profile_use_background_image": false,
+                              "has_extended_profile": true,
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 1136,
+                        "favorite_count": 1533,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 1782,
+                  "favorite_count": 4323,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 21:09:03 +0000 2020",
+                  "id": 1271912489182285824,
+                  "id_str": "1271912489182285824",
+                  "text": "A taser is not a deadly weapon. A gun is. \n\nAdrenaline and irritation are not the same as mortal fear. \n\nRunning aw\u2026 https://t.co/BUXbMf838M",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/BUXbMf838M",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271912489182285824",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 216065430,
+                        "id_str": "216065430",
+                        "name": "Stacey Abrams",
+                        "screen_name": "staceyabrams",
+                        "location": "Georgia",
+                        "description": "Founder of @fairfightaction & @faircount & @The_SEAP. Co-founder & former SVP @NowAccount. Writes as Selena Montgomery. she/her. Available: #OurTimeIsNow\ud83d\udc47\ud83c\udffe",
+                        "url": "https://t.co/JRsXXXIppa",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/JRsXXXIppa",
+                                                "expanded_url": "https://static.macmillan.com/static/holt/our-time-is-now",
+                                                "display_url": "static.macmillan.com/static/holt/ou\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 737867,
+                        "friends_count": 1704,
+                        "listed_count": 2964,
+                        "created_at": "Mon Nov 15 18:12:10 +0000 2010",
+                        "favourites_count": 6134,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 11698,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1047553831238868992/PW262iym_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047553831238868992/PW262iym_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/216065430/1549898895",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1271909804848623617,
+                  "quoted_status_id_str": "1271909804848623617",
+                  "quoted_status": {
+                        "created_at": "Sat Jun 13 20:58:23 +0000 2020",
+                        "id": 1271909804848623617,
+                        "id_str": "1271909804848623617",
+                        "text": "GBI released video that shows the moment Rayshard Brooks was shot and killed by an Atlanta Police officer at a Wend\u2026 https://t.co/3KWOoTvvsY",
+                        "truncated": true,
+                        "entities": {
+                              "hashtags": [],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/3KWOoTvvsY",
+                                          "expanded_url": "https://twitter.com/i/web/status/1271909804848623617",
+                                          "display_url": "twitter.com/i/web/status/1\u2026",
+                                          "indices": [
+                                                117,
+                                                140
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 187562678,
+                              "id_str": "187562678",
+                              "name": "Matt Johnson",
+                              "screen_name": "MattWSB",
+                              "location": "Atlanta, GA",
+                              "description": "Reporter @WSBTV. Squeezing in some tweets and reporting in the streets.",
+                              "url": "https://t.co/DDidl0A1z6",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/DDidl0A1z6",
+                                                      "expanded_url": "http://www.wsbtv.com",
+                                                      "display_url": "wsbtv.com",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 6106,
+                              "friends_count": 920,
+                              "listed_count": 177,
+                              "created_at": "Mon Sep 06 15:39:21 +0000 2010",
+                              "favourites_count": 6842,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": true,
+                              "verified": true,
+                              "statuses_count": 19542,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "FFFFFF",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1184309103872614400/o5rfm3Em_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1184309103872614400/o5rfm3Em_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/187562678/1529965163",
+                              "profile_link_color": "000000",
+                              "profile_sidebar_border_color": "000000",
+                              "profile_sidebar_fill_color": "000000",
+                              "profile_text_color": "000000",
+                              "profile_use_background_image": false,
+                              "has_extended_profile": true,
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 1136,
+                        "favorite_count": 1533,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 2495,
+                  "favorite_count": 5698,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 18:55:47 +0000 2020",
+                  "id": 1271878954240991232,
+                  "id_str": "1271878954240991232",
+                  "text": "Here we go again. \n\nIf you don\u2019t want to get shot, don\u2019t resist arrest and don\u2019t fight with the police.\u2026 https://t.co/cPwKZclYDg",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/cPwKZclYDg",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271878954240991232",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          105,
+                                          128
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 43906698,
+                        "id_str": "43906698",
+                        "name": "Jesse Lee Peterson",
+                        "screen_name": "JLPtalk",
+                        "location": "Los Angeles, CA",
+                        "description": "Talk Show Host, Author, Pastor, Counselor. Not \"African-American,\" I'm \ud83d\udcaf\ud83c\uddfa\ud83c\uddf8 https://t.co/CcdGZva0JU | https://t.co/7pkCLntIq5",
+                        "url": "https://t.co/gPd9aPDNg8",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/gPd9aPDNg8",
+                                                "expanded_url": "http://www.rebuildingtheman.com",
+                                                "display_url": "rebuildingtheman.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/CcdGZva0JU",
+                                                "expanded_url": "http://www.jesseleepeterson.com",
+                                                "display_url": "jesseleepeterson.com",
+                                                "indices": [
+                                                      75,
+                                                      98
+                                                ]
+                                          },
+                                          {
+                                                "url": "https://t.co/7pkCLntIq5",
+                                                "expanded_url": "https://thefallenstate.tv",
+                                                "display_url": "thefallenstate.tv",
+                                                "indices": [
+                                                      101,
+                                                      124
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 87499,
+                        "friends_count": 2233,
+                        "listed_count": 571,
+                        "created_at": "Mon Jun 01 15:46:06 +0000 2009",
+                        "favourites_count": 10072,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 19722,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "BADFCD",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1268593655213768704/OhcTiKcE_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268593655213768704/OhcTiKcE_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/43906698/1587012278",
+                        "profile_link_color": "FF691F",
+                        "profile_sidebar_border_color": "F2E195",
+                        "profile_sidebar_fill_color": "FFF7CC",
+                        "profile_text_color": "0C3E53",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 1050,
+                  "favorite_count": 3157,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 17:25:15 +0000 2020",
+                  "id": 1271856168562909184,
+                  "id_str": "1271856168562909184",
+                  "text": "So Rayshard Brooks was UNARMED and RUNNING AWAY from police when they shot him in the back and murdered him. \n\nIn w\u2026 https://t.co/qcBvLBcBKd",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/qcBvLBcBKd",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271856168562909184",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 2294004324,
+                        "id_str": "2294004324",
+                        "name": "Alice Evans",
+                        "screen_name": "AliceEvansGruff",
+                        "location": "Los Angeles",
+                        "description": "Mum to Ella + Elsie. Wife of @ioangruffudd. British-American. Actress. Democrat. Police reform now. #VoteBiden #Blacklivesmatter",
+                        "url": "https://t.co/29wQBtJdS5",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/29wQBtJdS5",
+                                                "expanded_url": "https://www.imdb.com/name/nm0262521/",
+                                                "display_url": "imdb.com/name/nm0262521/",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 23669,
+                        "friends_count": 2395,
+                        "listed_count": 120,
+                        "created_at": "Thu Jan 16 07:06:48 +0000 2014",
+                        "favourites_count": 120004,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 43535,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1215851698423353346/z2J7LxJh_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1215851698423353346/z2J7LxJh_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2294004324/1591847152",
+                        "profile_link_color": "E81C4F",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 2071,
+                  "favorite_count": 4434,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 21:31:45 +0000 2020",
+                  "id": 1271918203351023617,
+                  "id_str": "1271918203351023617",
+                  "text": "I\u2019m just a basic white guy. I know. And even I can\u2019t IMAGINE a world in which I attack two cops, punch them in the\u2026 https://t.co/QbgFIM9yIj",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/QbgFIM9yIj",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271918203351023617",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          116,
+                                          139
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 19091173,
+                        "id_str": "19091173",
+                        "name": "Steven Crowder",
+                        "screen_name": "scrowder",
+                        "location": "Ghostlike",
+                        "description": "https://t.co/91mcSUahXm for all you need to know. Join #MugClub. \nInstagram: louderwithcrowder",
+                        "url": "https://t.co/91mcSUahXm",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/91mcSUahXm",
+                                                "expanded_url": "http://Youtube.com/StevenCrowder",
+                                                "display_url": "Youtube.com/StevenCrowder",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/91mcSUahXm",
+                                                "expanded_url": "http://Youtube.com/StevenCrowder",
+                                                "display_url": "Youtube.com/StevenCrowder",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1070009,
+                        "friends_count": 2764,
+                        "listed_count": 5029,
+                        "created_at": "Fri Jan 16 23:00:21 +0000 2009",
+                        "favourites_count": 804,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 58104,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FFFFFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1131761677937008640/RxXm6b3r_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131761677937008640/RxXm6b3r_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19091173/1546555587",
+                        "profile_link_color": "A1A1A1",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "100B2B",
+                        "profile_text_color": "878585",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 1323,
+                  "favorite_count": 6019,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 18:42:49 +0000 2020",
+                  "id": 1271875689302708229,
+                  "id_str": "1271875689302708229",
+                  "text": "Just a reminder that physically fighting police officers and trying to take their weapons is hazardous to your heal\u2026 https://t.co/vC54MESMzU",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/vC54MESMzU",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271875689302708229",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 34367582,
+                        "id_str": "34367582",
+                        "name": "Tim Young",
+                        "screen_name": "TimRunsHisMouth",
+                        "location": "Washington, DC",
+                        "description": "Author, Host, Comedian, @Fox5DC Contributor | @WashTimes Columnist | @SiriusXMPatriot Personality | Founder #2020network\n\nContact: Tim@timyoung.com",
+                        "url": "https://t.co/oYNHG0H5Ot",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/oYNHG0H5Ot",
+                                                "expanded_url": "http://www.NoThingsConsidered.com",
+                                                "display_url": "NoThingsConsidered.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 266653,
+                        "friends_count": 65996,
+                        "listed_count": 908,
+                        "created_at": "Wed Apr 22 19:20:20 +0000 2009",
+                        "favourites_count": 55271,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 28476,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "090A0A",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1244145332574920705/ZNEIMCRe_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244145332574920705/ZNEIMCRe_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/34367582/1550269097",
+                        "profile_link_color": "FF0000",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "D90D0D",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 514,
+                  "favorite_count": 1247,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 18:33:52 +0000 2020",
+                  "id": 1271873437552779267,
+                  "id_str": "1271873437552779267",
+                  "text": "Stop it. The #AtlantaShooting was justified against a man who grabbed an officer's Taser. Stop defending criminals.",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "AtlantaShooting",
+                                    "indices": [
+                                          13,
+                                          29
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": []
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 143169070,
+                        "id_str": "143169070",
+                        "name": "Carmine Sabia",
+                        "screen_name": "CarmineSabia",
+                        "location": "",
+                        "description": "Christian conservative. Editor-At-Large, The Sabia Report. Yankees fan. NRA member. Israel supporter.\ncj@sabiareport.com.",
+                        "url": "https://t.co/JeOd28k3YA",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/JeOd28k3YA",
+                                                "expanded_url": "http://www.sabiareport.com",
+                                                "display_url": "sabiareport.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 67387,
+                        "friends_count": 977,
+                        "listed_count": 635,
+                        "created_at": "Wed May 12 19:43:39 +0000 2010",
+                        "favourites_count": 26826,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 61986,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "131516",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1205150232704622592/wozKPGGa_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205150232704622592/wozKPGGa_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/143169070/1570120797",
+                        "profile_link_color": "1B95E0",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "1C1939",
+                        "profile_text_color": "777777",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 448,
+                  "favorite_count": 1357,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 18:37:06 +0000 2020",
+                  "id": 1271874253047115787,
+                  "id_str": "1271874253047115787",
+                  "text": "Another unarmed Black man has been shot dead by police in Atlanta. Rayshard Brooks' crime: Sleeping while in a Wend\u2026 https://t.co/lvcAsqqQtj",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/lvcAsqqQtj",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271874253047115787",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 24745957,
+                        "id_str": "24745957",
+                        "name": "Rep. Hank Johnson",
+                        "screen_name": "RepHankJohnson",
+                        "location": "Lithonia, GA; Washington",
+                        "description": "CBC Secretary, Chairman of the Courts, IP & Internet Subcommittee; Champion for working people",
+                        "url": "https://t.co/9yX6VnQSmY",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/9yX6VnQSmY",
+                                                "expanded_url": "https://www.facebook.com/pages/Congressman-Hank-Johnson/115356957005?ref=hl",
+                                                "display_url": "facebook.com/pages/Congress\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 47065,
+                        "friends_count": 1055,
+                        "listed_count": 1517,
+                        "created_at": "Mon Mar 16 18:52:49 +0000 2009",
+                        "favourites_count": 1508,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 6141,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/979005069248081925/dN03wCY1_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/979005069248081925/dN03wCY1_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24745957/1571150020",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 319,
+                  "favorite_count": 455,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.055,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1271856168562909183&q=%23AtlantaShooting&count=10&include_entities=1&result_type=popular",
+            "query": "%23AtlantaShooting",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

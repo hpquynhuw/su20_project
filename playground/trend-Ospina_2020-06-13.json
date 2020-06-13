@@ -1,0 +1,1426 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Sat Jun 13 19:11:04 +0000 2020",
+                  "id": 1271882798551445504,
+                  "id_str": "1271882798551445504",
+                  "text": "\ud83c\udde9\ud83c\uddf0 | ERIKSEEEEEEEEENNNNN\n\n3' - Siamo gi\u00e0 avanti!!! Corner velenoso di Christian #Eriksen, Di Lorenzo sfiora la sfer\u2026 https://t.co/Bl2pG3i0Ma",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "Eriksen",
+                                    "indices": [
+                                          80,
+                                          88
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/Bl2pG3i0Ma",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271882798551445504",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "it"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 124450567,
+                        "id_str": "124450567",
+                        "name": "Inter",
+                        "screen_name": "Inter",
+                        "location": "Milano, Lombardia",
+                        "description": "Profilo Twitter ufficiale dell'Inter!\nSeguici anche su @Inter_en; @Inter_id; @Inter_jp; @Inter_ar; @Inter_br; @Inter_es; @Inter_Women\n#NotForEveryone",
+                        "url": "https://t.co/TeURIlNq4z",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/TeURIlNq4z",
+                                                "expanded_url": "http://www.inter.it",
+                                                "display_url": "inter.it",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 2158117,
+                        "friends_count": 80,
+                        "listed_count": 4874,
+                        "created_at": "Fri Mar 19 12:47:21 +0000 2010",
+                        "favourites_count": 1368,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 78325,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "0066AA",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1265222597693919232/dRn08x6T_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265222597693919232/dRn08x6T_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/124450567/1590487550",
+                        "profile_link_color": "0066AA",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "F2F0E9",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 387,
+                  "favorite_count": 2144,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "it"
+            },
+            {
+                  "created_at": "Sat Jun 13 18:35:12 +0000 2020",
+                  "id": 1271873774036664320,
+                  "id_str": "1271873774036664320",
+                  "text": "Este asesino, que junto con Ivan Marino Ospina y Guillermo Asprilla hicieron pactos con Pablo Escobar, \u00bfhabla de al\u2026 https://t.co/SlCSlXk5lu",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/SlCSlXk5lu",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271873774036664320",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 1869817063,
+                        "id_str": "1869817063",
+                        "name": "Ernesto Yamhure",
+                        "screen_name": "ernestoyamhure",
+                        "location": "Miami, FL",
+                        "description": "Ad Iesum per Mariam",
+                        "url": "https://t.co/sIdsqZIogs",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/sIdsqZIogs",
+                                                "expanded_url": "http://losirreverentes.com",
+                                                "display_url": "losirreverentes.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 41493,
+                        "friends_count": 74,
+                        "listed_count": 122,
+                        "created_at": "Mon Sep 16 01:14:39 +0000 2013",
+                        "favourites_count": 1038,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 22713,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1216486012362412033/kWCS43gK_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1216486012362412033/kWCS43gK_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1869817063/1550958798",
+                        "profile_link_color": "89C9FA",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1271792128402886656,
+                  "quoted_status_id_str": "1271792128402886656",
+                  "quoted_status": {
+                        "created_at": "Sat Jun 13 13:10:46 +0000 2020",
+                        "id": 1271792128402886656,
+                        "id_str": "1271792128402886656",
+                        "text": "Quieren maquillar a la impresentable Vicepresidenta de la Rep\u00fablica como si habl\u00e1ramos de un delito de sangre.\n\nEl\u2026 https://t.co/d7RSjfynl0",
+                        "truncated": true,
+                        "entities": {
+                              "hashtags": [],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/d7RSjfynl0",
+                                          "expanded_url": "https://twitter.com/i/web/status/1271792128402886656",
+                                          "display_url": "twitter.com/i/web/status/1\u2026",
+                                          "indices": [
+                                                116,
+                                                139
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "es"
+                        },
+                        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 49849732,
+                              "id_str": "49849732",
+                              "name": "Gustavo Petro",
+                              "screen_name": "petrogustavo",
+                              "location": "\u00dcT: 4.650541,-74.074043",
+                              "description": "Perfil Oficial del dirigente pol\u00edtico progresista colombiano Gustavo Petro. Por una Colombia Humana con justicia social y en Paz",
+                              "url": "https://t.co/ho5XWkfwTr",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/ho5XWkfwTr",
+                                                      "expanded_url": "http://petro.com.co/",
+                                                      "display_url": "petro.com.co",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 3879513,
+                              "friends_count": 2417,
+                              "listed_count": 4596,
+                              "created_at": "Tue Jun 23 02:04:11 +0000 2009",
+                              "favourites_count": 15983,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": false,
+                              "verified": true,
+                              "statuses_count": 124628,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "C71218",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/962471262747529216/Uo8lOkRJ_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/962471262747529216/Uo8lOkRJ_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/49849732/1583873059",
+                              "profile_link_color": "09324D",
+                              "profile_sidebar_border_color": "FFFFFF",
+                              "profile_sidebar_fill_color": "E8E8CC",
+                              "profile_text_color": "000000",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": false,
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "regular"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 4870,
+                        "favorite_count": 15082,
+                        "favorited": false,
+                        "retweeted": false,
+                        "lang": "es"
+                  },
+                  "retweet_count": 259,
+                  "favorite_count": 328,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Sat Jun 13 19:48:56 +0000 2020",
+                  "id": 1271892329201373185,
+                  "id_str": "1271892329201373185",
+                  "text": "A Ospina hay que contabilizarle cinco atajadas y medio gol https://t.co/K6q64zmVdf",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1271892272716697607,
+                                    "id_str": "1271892272716697607",
+                                    "indices": [
+                                          59,
+                                          82
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EaarSIPX0AcPpiU.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EaarSIPX0AcPpiU.jpg",
+                                    "url": "https://t.co/K6q64zmVdf",
+                                    "display_url": "pic.twitter.com/K6q64zmVdf",
+                                    "expanded_url": "https://twitter.com/VarskySports/status/1271892329201373185/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 700,
+                                                "h": 700,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 700,
+                                                "h": 700,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1271892272716697607,
+                                    "id_str": "1271892272716697607",
+                                    "indices": [
+                                          59,
+                                          82
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EaarSIPX0AcPpiU.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EaarSIPX0AcPpiU.jpg",
+                                    "url": "https://t.co/K6q64zmVdf",
+                                    "display_url": "pic.twitter.com/K6q64zmVdf",
+                                    "expanded_url": "https://twitter.com/VarskySports/status/1271892329201373185/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 700,
+                                                "h": 700,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 700,
+                                                "h": 700,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              },
+                              {
+                                    "id": 1271892299195338753,
+                                    "id_str": "1271892299195338753",
+                                    "indices": [
+                                          59,
+                                          82
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EaarTq4X0AEf8Aa.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EaarTq4X0AEf8Aa.jpg",
+                                    "url": "https://t.co/K6q64zmVdf",
+                                    "display_url": "pic.twitter.com/K6q64zmVdf",
+                                    "expanded_url": "https://twitter.com/VarskySports/status/1271892329201373185/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "medium": {
+                                                "w": 600,
+                                                "h": 600,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "large": {
+                                                "w": 600,
+                                                "h": 600,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 600,
+                                                "h": 600,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 131967942,
+                        "id_str": "131967942",
+                        "name": "VarskySports",
+                        "screen_name": "VarskySports",
+                        "location": "Desde Buenos Aires, Argentina",
+                        "description": "Bienvenidos al Canal de Deportes en Twitter. https://t.co/05l1mhRANa. https://t.co/kZNfoVk5v0 VarskySports@VarskySports.com.ar",
+                        "url": "https://t.co/xCFgeBoIv5",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/xCFgeBoIv5",
+                                                "expanded_url": "http://www.VarskySports.com.ar",
+                                                "display_url": "VarskySports.com.ar",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/05l1mhRANa",
+                                                "expanded_url": "http://Facebook.com/VarskySports",
+                                                "display_url": "Facebook.com/VarskySports",
+                                                "indices": [
+                                                      45,
+                                                      68
+                                                ]
+                                          },
+                                          {
+                                                "url": "https://t.co/kZNfoVk5v0",
+                                                "expanded_url": "http://Instagram.com/VarskySports",
+                                                "display_url": "Instagram.com/VarskySports",
+                                                "indices": [
+                                                      70,
+                                                      93
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1702844,
+                        "friends_count": 146830,
+                        "listed_count": 5711,
+                        "created_at": "Sun Apr 11 22:24:12 +0000 2010",
+                        "favourites_count": 146,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 150894,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": true,
+                        "profile_background_color": "ABB8C2",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1245350162349862912/9H7S-3Ki_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245350162349862912/9H7S-3Ki_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/131967942/1585749592",
+                        "profile_link_color": "115EA1",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "E4E4E4",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 232,
+                  "favorite_count": 1883,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Sat Jun 13 01:00:57 +0000 2020",
+                  "id": 1271608460770185218,
+                  "id_str": "1271608460770185218",
+                  "text": "Estuvimos reunidos con el Ministro Ruiz @MinSaludCol, la directora del @INSColombia Martha Ospina, el doctor\u2026 https://t.co/zmgSDC6TNM",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "MinSaludCol",
+                                    "name": "MinSaludCol",
+                                    "id": 371797057,
+                                    "id_str": "371797057",
+                                    "indices": [
+                                          40,
+                                          52
+                                    ]
+                              },
+                              {
+                                    "screen_name": "INSColombia",
+                                    "name": "Instituto Nacional de Salud",
+                                    "id": 151922663,
+                                    "id_str": "151922663",
+                                    "indices": [
+                                          71,
+                                          83
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/zmgSDC6TNM",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271608460770185218",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          110,
+                                          133
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 137908875,
+                        "id_str": "137908875",
+                        "name": "Claudia L\u00f3pez \ud83d\udc4d",
+                        "screen_name": "ClaudiaLopez",
+                        "location": "Bogot\u00e1, DC, Colombia",
+                        "description": "Primera Alcaldesa de Bogota\u0301. Orgullosa bogotana y ciudadana.\n\n\u00a1Inspiramos, unimos y ganamos!\n\n#ClaudiaAlcaldesa \ud83d\udc9a\ud83d\udc9c #Un\u00e1monosPorBogot\u00e1",
+                        "url": "https://t.co/hAgbECv6PO",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/hAgbECv6PO",
+                                                "expanded_url": "https://facebook.com/ClaudiaLopezCL/",
+                                                "display_url": "facebook.com/ClaudiaLopezCL/",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 2283056,
+                        "friends_count": 2419,
+                        "listed_count": 2835,
+                        "created_at": "Wed Apr 28 03:12:07 +0000 2010",
+                        "favourites_count": 24918,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 60128,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "4A913C",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1212157426696433666/fh7BLx6k_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212157426696433666/fh7BLx6k_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/137908875/1577833003",
+                        "profile_link_color": "00A232",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 132,
+                  "favorite_count": 918,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Sat Jun 13 17:55:40 +0000 2020",
+                  "id": 1271863822974889985,
+                  "id_str": "1271863822974889985",
+                  "text": "\ud83d\udccc StartingXI: Ospina, Di Lorenzo, Maksimovic, Koulibaly, Hysaj, Elmas, Demme, Zielinski, Politano, Mertens, Insigne\u2026 https://t.co/69QGzfwjgZ",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/69QGzfwjgZ",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271863822974889985",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "sl"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 454873450,
+                        "id_str": "454873450",
+                        "name": "Official SSC Napoli",
+                        "screen_name": "sscnapoli",
+                        "location": "Napoli",
+                        "description": "Official SSC Napoli Twitter account | Societ\u00e0 Sportiva Calcio Napoli. Seguiteci anche su @en_sscnapoli @sscnapoliES @sscnapoli_br #ForzaNapoliSempre",
+                        "url": "https://t.co/00iQquyCUt",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/00iQquyCUt",
+                                                "expanded_url": "http://www.sscnapoli.it",
+                                                "display_url": "sscnapoli.it",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1606564,
+                        "friends_count": 157,
+                        "listed_count": 2928,
+                        "created_at": "Wed Jan 04 13:46:38 +0000 2012",
+                        "favourites_count": 1705,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 39047,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "418CC5",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/876788716332875776/Tk9FqM6-_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/876788716332875776/Tk9FqM6-_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/454873450/1561718026",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DFF1F5",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 226,
+                  "favorite_count": 990,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "sl"
+            },
+            {
+                  "created_at": "Sat Jun 13 20:59:32 +0000 2020",
+                  "id": 1271910095803351041,
+                  "id_str": "1271910095803351041",
+                  "text": "\u00a1\u00a1NAPOLI JUGAR\u00c1 LA FINAL DE LA COPPA ITALIA!! \n\u00a1\u00a1ECHARON AL INTER DE CONTE!!\n\u00a1\u00a1OSPINA FUE FIGURA EN EL SAN PAOLO!! https://t.co/hbu7pXDPHf",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1271910031949258755,
+                                    "id_str": "1271910031949258755",
+                                    "indices": [
+                                          115,
+                                          138
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eaa7b2iXYAMUkZT.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eaa7b2iXYAMUkZT.jpg",
+                                    "url": "https://t.co/hbu7pXDPHf",
+                                    "display_url": "pic.twitter.com/hbu7pXDPHf",
+                                    "expanded_url": "https://twitter.com/InvictosSomos/status/1271910095803351041/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 857,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1600,
+                                                "h": 1142,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 485,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1271910031949258755,
+                                    "id_str": "1271910031949258755",
+                                    "indices": [
+                                          115,
+                                          138
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eaa7b2iXYAMUkZT.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eaa7b2iXYAMUkZT.jpg",
+                                    "url": "https://t.co/hbu7pXDPHf",
+                                    "display_url": "pic.twitter.com/hbu7pXDPHf",
+                                    "expanded_url": "https://twitter.com/InvictosSomos/status/1271910095803351041/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 857,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1600,
+                                                "h": 1142,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 485,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 4488217998,
+                        "id_str": "4488217998",
+                        "name": "Invictos",
+                        "screen_name": "InvictosSomos",
+                        "location": "social@somosinvictos.com",
+                        "description": "Revista digital con todo lo relacionado con el medio futbol\u00edstico nacional e internacional. #SomosInvictos",
+                        "url": "https://t.co/o9zaLIJiEO",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/o9zaLIJiEO",
+                                                "expanded_url": "http://www.somosinvictos.com",
+                                                "display_url": "somosinvictos.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 560532,
+                        "friends_count": 1775,
+                        "listed_count": 1113,
+                        "created_at": "Mon Dec 07 17:47:27 +0000 2015",
+                        "favourites_count": 41535,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 146303,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1249554701768589312/oR9YCl-T_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249554701768589312/oR9YCl-T_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4488217998/1586752033",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 179,
+                  "favorite_count": 2119,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Sat Jun 13 21:05:14 +0000 2020",
+                  "id": 1271911529865150464,
+                  "id_str": "1271911529865150464",
+                  "text": "En el San Paolo, fu\u00e9 San Ospina. Solo por \u00e9l Napoli est\u00e1 en la final de la Copa Italia. Fue @d_ospina1 contra el re\u2026 https://t.co/TvZe0C9QT4",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "D_Ospina1",
+                                    "name": "David Ospina",
+                                    "id": 1471068170,
+                                    "id_str": "1471068170",
+                                    "indices": [
+                                          92,
+                                          102
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/TvZe0C9QT4",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271911529865150464",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 226009677,
+                        "id_str": "226009677",
+                        "name": "Martin Liberman",
+                        "screen_name": "libermanmartin",
+                        "location": "All over the world",
+                        "description": "Periodista-conductor-productor. Amo a mi familia, mis amigos y el running. Maratonista amateur muy esforzado x 5 NY/RIO/MDQ/NY/PARIS .",
+                        "url": "https://t.co/L3SyztXyaY",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/L3SyztXyaY",
+                                                "expanded_url": "http://facebook.com/martinlibermanoficial",
+                                                "display_url": "facebook.com/martinliberman\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 728424,
+                        "friends_count": 551,
+                        "listed_count": 1561,
+                        "created_at": "Mon Dec 13 02:31:40 +0000 2010",
+                        "favourites_count": 2614,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 35261,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1123567137791139842/x4Ip6a6g_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123567137791139842/x4Ip6a6g_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/226009677/1474616627",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 178,
+                  "favorite_count": 1126,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Sat Jun 13 19:09:29 +0000 2020",
+                  "id": 1271882402072350721,
+                  "id_str": "1271882402072350721",
+                  "text": "\u00a1GOOOOOOOOOOOOOOOOOOOOL del Inter! Christian Eriksen (3') marc\u00f3 un GOL OL\u00cdMPICO en el San Paolo. Un desastre de la\u2026 https://t.co/oBvYJG9KFp",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/oBvYJG9KFp",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271882402072350721",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          116,
+                                          139
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 4488217998,
+                        "id_str": "4488217998",
+                        "name": "Invictos",
+                        "screen_name": "InvictosSomos",
+                        "location": "social@somosinvictos.com",
+                        "description": "Revista digital con todo lo relacionado con el medio futbol\u00edstico nacional e internacional. #SomosInvictos",
+                        "url": "https://t.co/o9zaLIJiEO",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/o9zaLIJiEO",
+                                                "expanded_url": "http://www.somosinvictos.com",
+                                                "display_url": "somosinvictos.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 560532,
+                        "friends_count": 1775,
+                        "listed_count": 1113,
+                        "created_at": "Mon Dec 07 17:47:27 +0000 2015",
+                        "favourites_count": 41535,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 146303,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1249554701768589312/oR9YCl-T_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249554701768589312/oR9YCl-T_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4488217998/1586752033",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 76,
+                  "favorite_count": 830,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Sat Jun 13 21:03:30 +0000 2020",
+                  "id": 1271911095557636096,
+                  "id_str": "1271911095557636096",
+                  "text": "\ud83c\udde8\ud83c\uddf4David Ospina puso a Napoli en la final de la #CoppaItalia\n\u2b07\ufe0fSe repuso de su mala respuesta en el gol ol\u00edmpico\n\ud83d\ude4cAt\u2026 https://t.co/nmPLFqoEOD",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "CoppaItalia",
+                                    "indices": [
+                                          47,
+                                          59
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/nmPLFqoEOD",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271911095557636096",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 131967942,
+                        "id_str": "131967942",
+                        "name": "VarskySports",
+                        "screen_name": "VarskySports",
+                        "location": "Desde Buenos Aires, Argentina",
+                        "description": "Bienvenidos al Canal de Deportes en Twitter. https://t.co/05l1mhRANa. https://t.co/kZNfoVk5v0 VarskySports@VarskySports.com.ar",
+                        "url": "https://t.co/xCFgeBoIv5",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/xCFgeBoIv5",
+                                                "expanded_url": "http://www.VarskySports.com.ar",
+                                                "display_url": "VarskySports.com.ar",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/05l1mhRANa",
+                                                "expanded_url": "http://Facebook.com/VarskySports",
+                                                "display_url": "Facebook.com/VarskySports",
+                                                "indices": [
+                                                      45,
+                                                      68
+                                                ]
+                                          },
+                                          {
+                                                "url": "https://t.co/kZNfoVk5v0",
+                                                "expanded_url": "http://Instagram.com/VarskySports",
+                                                "display_url": "Instagram.com/VarskySports",
+                                                "indices": [
+                                                      70,
+                                                      93
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1702844,
+                        "friends_count": 146830,
+                        "listed_count": 5711,
+                        "created_at": "Sun Apr 11 22:24:12 +0000 2010",
+                        "favourites_count": 146,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 150894,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": true,
+                        "profile_background_color": "ABB8C2",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1245350162349862912/9H7S-3Ki_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245350162349862912/9H7S-3Ki_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/131967942/1585749592",
+                        "profile_link_color": "115EA1",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "E4E4E4",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 115,
+                  "favorite_count": 668,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Sat Jun 13 21:02:24 +0000 2020",
+                  "id": 1271910819006160898,
+                  "id_str": "1271910819006160898",
+                  "text": "\u23f9\ufe0f | FINITA\n\nTermina dopo cinque minuti di recupero la sfida del San Paolo: i nerazzurri creano molto ma sbattono c\u2026 https://t.co/xRrnzjyyn9",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/xRrnzjyyn9",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271910819006160898",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "it"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 124450567,
+                        "id_str": "124450567",
+                        "name": "Inter",
+                        "screen_name": "Inter",
+                        "location": "Milano, Lombardia",
+                        "description": "Profilo Twitter ufficiale dell'Inter!\nSeguici anche su @Inter_en; @Inter_id; @Inter_jp; @Inter_ar; @Inter_br; @Inter_es; @Inter_Women\n#NotForEveryone",
+                        "url": "https://t.co/TeURIlNq4z",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/TeURIlNq4z",
+                                                "expanded_url": "http://www.inter.it",
+                                                "display_url": "inter.it",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 2158117,
+                        "friends_count": 80,
+                        "listed_count": 4874,
+                        "created_at": "Fri Mar 19 12:47:21 +0000 2010",
+                        "favourites_count": 1368,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 78325,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "0066AA",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1265222597693919232/dRn08x6T_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265222597693919232/dRn08x6T_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/124450567/1590487550",
+                        "profile_link_color": "0066AA",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "F2F0E9",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 86,
+                  "favorite_count": 457,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "it"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.042,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1271608460770185217&q=Ospina&count=10&include_entities=1&result_type=popular",
+            "query": "Ospina",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

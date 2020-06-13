@@ -1,0 +1,794 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Fri Jun 12 23:45:55 +0000 2020",
+                  "id": 1271589581482192897,
+                  "id_str": "1271589581482192897",
+                  "text": "#FonzieFriday Who could use a little Fonz in their day? I sure could. https://t.co/8QytFT1OJ3",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "FonzieFriday",
+                                    "indices": [
+                                          0,
+                                          13
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1271589112584081408,
+                                    "id_str": "1271589112584081408",
+                                    "indices": [
+                                          70,
+                                          93
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EaWXj4vUEAA40-8.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EaWXj4vUEAA40-8.jpg",
+                                    "url": "https://t.co/8QytFT1OJ3",
+                                    "display_url": "pic.twitter.com/8QytFT1OJ3",
+                                    "expanded_url": "https://twitter.com/JohnStamos/status/1271589581482192897/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "large": {
+                                                "w": 2048,
+                                                "h": 1383,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 811,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 459,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1271589112584081408,
+                                    "id_str": "1271589112584081408",
+                                    "indices": [
+                                          70,
+                                          93
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EaWXj4vUEAA40-8.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EaWXj4vUEAA40-8.jpg",
+                                    "url": "https://t.co/8QytFT1OJ3",
+                                    "display_url": "pic.twitter.com/8QytFT1OJ3",
+                                    "expanded_url": "https://twitter.com/JohnStamos/status/1271589581482192897/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "large": {
+                                                "w": 2048,
+                                                "h": 1383,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 811,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 459,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 56405314,
+                        "id_str": "56405314",
+                        "name": "John Stamos",
+                        "screen_name": "JohnStamos",
+                        "location": "",
+                        "description": "ex teen-idol.",
+                        "url": null,
+                        "entities": {
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1673907,
+                        "friends_count": 811,
+                        "listed_count": 11121,
+                        "created_at": "Mon Jul 13 15:46:21 +0000 2009",
+                        "favourites_count": 9226,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 560,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "131516",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/997395514474708992/nWx1rm8f_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/997395514474708992/nWx1rm8f_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/56405314/1549300775",
+                        "profile_link_color": "045FB4",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "EFEFEF",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 114,
+                  "favorite_count": 3389,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 10 16:59:35 +0000 2020",
+                  "id": 1270762545712902144,
+                  "id_str": "1270762545712902144",
+                  "text": "Thank god the drive-in cinemas are reopening. Might see if Cunningham, Potsie and the Fonz fancy a night out.",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": []
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 22850174,
+                        "id_str": "22850174",
+                        "name": "Steve Edge",
+                        "screen_name": "sirsteveedge",
+                        "location": "London",
+                        "description": "Actor, writer, director and breakdance finalist (1988 West Midlands heat)",
+                        "url": "https://t.co/WCIIrbjnie",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/WCIIrbjnie",
+                                                "expanded_url": "http://www.shepherdmanagement.co.uk",
+                                                "display_url": "shepherdmanagement.co.uk",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 18284,
+                        "friends_count": 849,
+                        "listed_count": 75,
+                        "created_at": "Wed Mar 04 23:41:47 +0000 2009",
+                        "favourites_count": 3404,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 6307,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1110635156824604673/FM_AKpJ-_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110635156824604673/FM_AKpJ-_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22850174/1491041241",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 331,
+                  "favorite_count": 3613,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 20:20:17 +0000 2020",
+                  "id": 1271900219278589953,
+                  "id_str": "1271900219278589953",
+                  "text": "FONZ VS EAZY THE BLOCK CAPTAIN HAPPENING NOW!!! https://t.co/S2Lbepo7W4",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/S2Lbepo7W4",
+                                    "expanded_url": "http://caf.tv/URLTV",
+                                    "display_url": "caf.tv/URLTV",
+                                    "indices": [
+                                          48,
+                                          71
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 82923436,
+                        "id_str": "82923436",
+                        "name": "Ultimate Rap League",
+                        "screen_name": "urltv",
+                        "location": "EVERYWHERE",
+                        "description": "THE WORLDS MOST RESPECTED BATTLE LEAGUE | WORLD WIDE LEADERS | #youcantcopyrespect",
+                        "url": "https://t.co/Jvzum7pWyS",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/Jvzum7pWyS",
+                                                "expanded_url": "http://urltv.tv",
+                                                "display_url": "urltv.tv",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 138311,
+                        "friends_count": 684,
+                        "listed_count": 567,
+                        "created_at": "Fri Oct 16 17:01:59 +0000 2009",
+                        "favourites_count": 7423,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 26980,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1192170666721710082/upmTB81h_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192170666721710082/upmTB81h_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82923436/1586355684",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 7,
+                  "favorite_count": 5,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Tue Jun 09 17:32:50 +0000 2020",
+                  "id": 1270408527064907776,
+                  "id_str": "1270408527064907776",
+                  "text": "The Fonz lives! https://t.co/ddAYVlufEq",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/ddAYVlufEq",
+                                    "expanded_url": "https://twitter.com/NYCPBA/status/1270401236941131776",
+                                    "display_url": "twitter.com/NYCPBA/status/\u2026",
+                                    "indices": [
+                                          16,
+                                          39
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 358545917,
+                        "id_str": "358545917",
+                        "name": "Cernovich",
+                        "screen_name": "Cernovich",
+                        "location": "Orange County, California",
+                        "description": "Filmmaker (Hoaxed), Author (Gorilla Mindset), Journalist (broken too many stories to count), all around nice guy.",
+                        "url": "https://t.co/F3Iih63tVc",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/F3Iih63tVc",
+                                                "expanded_url": "http://www.Cernovich.com",
+                                                "display_url": "Cernovich.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 613879,
+                        "friends_count": 3099,
+                        "listed_count": 4476,
+                        "created_at": "Sat Aug 20 03:02:29 +0000 2011",
+                        "favourites_count": 69133,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 101215,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "1A1B1F",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1264001184303472640/Avxc57Vn_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1264001184303472640/Avxc57Vn_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/358545917/1589928750",
+                        "profile_link_color": "E81C4F",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1270401236941131776,
+                  "quoted_status_id_str": "1270401236941131776",
+                  "quoted_status": {
+                        "created_at": "Tue Jun 09 17:03:52 +0000 2020",
+                        "id": 1270401236941131776,
+                        "id_str": "1270401236941131776",
+                        "text": "Pat Lynch on the effect of the anti-police movement: Our politicians want us to walk away from our communities and\u2026 https://t.co/9Bbu1kNV4M",
+                        "truncated": true,
+                        "entities": {
+                              "hashtags": [],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/9Bbu1kNV4M",
+                                          "expanded_url": "https://twitter.com/i/web/status/1270401236941131776",
+                                          "display_url": "twitter.com/i/web/status/1\u2026",
+                                          "indices": [
+                                                116,
+                                                139
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 117096653,
+                              "id_str": "117096653",
+                              "name": "NYC PBA",
+                              "screen_name": "NYCPBA",
+                              "location": "NYC",
+                              "description": "The Police Benevolent Association of the City of New York, which represents over 50,000 active and retired New York City Police Officers",
+                              "url": "https://t.co/TDp5jReq6E",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/TDp5jReq6E",
+                                                      "expanded_url": "http://nycpba.org",
+                                                      "display_url": "nycpba.org",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 34235,
+                              "friends_count": 1240,
+                              "listed_count": 161,
+                              "created_at": "Wed Feb 24 14:36:49 +0000 2010",
+                              "favourites_count": 1996,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": true,
+                              "verified": true,
+                              "statuses_count": 4672,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "C0DEED",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1248387743622688768/9Y-otpJF_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248387743622688768/9Y-otpJF_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/117096653/1587140420",
+                              "profile_link_color": "1DA1F2",
+                              "profile_sidebar_border_color": "C0DEED",
+                              "profile_sidebar_fill_color": "DDEEF6",
+                              "profile_text_color": "333333",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": false,
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 14001,
+                        "favorite_count": 27628,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 140,
+                  "favorite_count": 594,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Tue Jun 09 19:40:57 +0000 2020",
+                  "id": 1270440768528879627,
+                  "id_str": "1270440768528879627",
+                  "text": "Wait. The Fonz is now an NYC cop? https://t.co/AoCZvlfR2a",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/AoCZvlfR2a",
+                                    "expanded_url": "https://twitter.com/nycsouthpaw/status/1270439578550353920",
+                                    "display_url": "twitter.com/nycsouthpaw/st\u2026",
+                                    "indices": [
+                                          34,
+                                          57
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 95463107,
+                        "id_str": "95463107",
+                        "name": "Charlie Sykes",
+                        "screen_name": "SykesCharlie",
+                        "location": "Milwaukee, WI",
+                        "description": "Founder, Editor-at-large, The Bulwark; Host, Bulwark Podcast; Contributor, MSNBC; Author, \"How the Right Lost Its Mind\" Email: cjaysykes@gmail.com",
+                        "url": "https://t.co/3TscBlNVgT",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/3TscBlNVgT",
+                                                "expanded_url": "http://www.thebulwark.com",
+                                                "display_url": "thebulwark.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 216772,
+                        "friends_count": 5238,
+                        "listed_count": 2578,
+                        "created_at": "Tue Dec 08 17:28:49 +0000 2009",
+                        "favourites_count": 55325,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 102271,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1043994237484838914/ToTYNxxN_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043994237484838914/ToTYNxxN_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/95463107/1536011327",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1270439578550353920,
+                  "quoted_status_id_str": "1270439578550353920",
+                  "quoted_status": {
+                        "created_at": "Tue Jun 09 19:36:13 +0000 2020",
+                        "id": 1270439578550353920,
+                        "id_str": "1270439578550353920",
+                        "text": "Not a single black police official standing behind him https://t.co/GLrxwi4YFr",
+                        "truncated": false,
+                        "entities": {
+                              "hashtags": [],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/GLrxwi4YFr",
+                                          "expanded_url": "https://twitter.com/NYCPBA/status/1270401236941131776",
+                                          "display_url": "twitter.com/NYCPBA/status/\u2026",
+                                          "indices": [
+                                                55,
+                                                78
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 22429979,
+                              "id_str": "22429979",
+                              "name": "southpaw",
+                              "screen_name": "nycsouthpaw",
+                              "location": "",
+                              "description": "Writer, lawyer, Dodger fan, idealist, hater. nycsouthpaw18 at gmail. RTs = endorsement or scorn.",
+                              "url": null,
+                              "entities": {
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 193145,
+                              "friends_count": 5286,
+                              "listed_count": 2819,
+                              "created_at": "Mon Mar 02 00:50:07 +0000 2009",
+                              "favourites_count": 95760,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": true,
+                              "verified": false,
+                              "statuses_count": 301377,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "1D5287",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1245923396812066816/4w4uQuHM_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245923396812066816/4w4uQuHM_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/22429979/1353169389",
+                              "profile_link_color": "177A0A",
+                              "profile_sidebar_border_color": "000000",
+                              "profile_sidebar_fill_color": "FFF7CC",
+                              "profile_text_color": "0C3E53",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": false,
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": true,
+                        "quoted_status_id": 1270401236941131776,
+                        "quoted_status_id_str": "1270401236941131776",
+                        "retweet_count": 2267,
+                        "favorite_count": 9538,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 26,
+                  "favorite_count": 148,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.039,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1270408527064907775&q=Fonz&count=10&include_entities=1&result_type=popular",
+            "query": "Fonz",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

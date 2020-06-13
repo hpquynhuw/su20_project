@@ -1,0 +1,897 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Sat Jun 13 17:59:53 +0000 2020",
+                  "id": 1271864885496832001,
+                  "id_str": "1271864885496832001",
+                  "text": "#TLWIN or #TSMWIN?\n\n@TeamLiquidLoL and @TSM face off today at 2PM PDT / 5PM EDT (Approx.) with both teams looking t\u2026 https://t.co/xzUhijSqkg",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "TLWIN",
+                                    "indices": [
+                                          0,
+                                          6
+                                    ]
+                              },
+                              {
+                                    "text": "TSMWIN",
+                                    "indices": [
+                                          10,
+                                          17
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "TeamLiquidLoL",
+                                    "name": "Team Liquid LoL",
+                                    "id": 964529942,
+                                    "id_str": "964529942",
+                                    "indices": [
+                                          20,
+                                          34
+                                    ]
+                              },
+                              {
+                                    "screen_name": "TSM",
+                                    "name": "TSM",
+                                    "id": 286505380,
+                                    "id_str": "286505380",
+                                    "indices": [
+                                          39,
+                                          43
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/xzUhijSqkg",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271864885496832001",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 1099419521654222848,
+                        "id_str": "1099419521654222848",
+                        "name": "LCS",
+                        "screen_name": "LCSOfficial",
+                        "location": "",
+                        "description": "Official Twitter account for the League of Legends Championship Series! #LCS",
+                        "url": "https://t.co/bFDVppHMI4",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/bFDVppHMI4",
+                                                "expanded_url": "http://watch.lolesports.com",
+                                                "display_url": "watch.lolesports.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 106411,
+                        "friends_count": 174,
+                        "listed_count": 242,
+                        "created_at": "Sat Feb 23 21:23:34 +0000 2019",
+                        "favourites_count": 6502,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 3281,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1271605541911969793/kZLwbs3U_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271605541911969793/kZLwbs3U_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1099419521654222848/1574118494",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 173,
+                  "favorite_count": 1852,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 21:44:47 +0000 2020",
+                  "id": 1271921485486030848,
+                  "id_str": "1271921485486030848",
+                  "text": "#TLWIN! @TeamLiquidLoL dominate @TSM to pick up their first win of the 2020 #LCS Summer Split! #LCS\n\n\ud83d\udcfa\u2026 https://t.co/STraeqHRqy",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "TLWIN",
+                                    "indices": [
+                                          0,
+                                          6
+                                    ]
+                              },
+                              {
+                                    "text": "LCS",
+                                    "indices": [
+                                          76,
+                                          80
+                                    ]
+                              },
+                              {
+                                    "text": "LCS",
+                                    "indices": [
+                                          95,
+                                          99
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "TeamLiquidLoL",
+                                    "name": "Team Liquid LoL",
+                                    "id": 964529942,
+                                    "id_str": "964529942",
+                                    "indices": [
+                                          8,
+                                          22
+                                    ]
+                              },
+                              {
+                                    "screen_name": "TSM",
+                                    "name": "TSM",
+                                    "id": 286505380,
+                                    "id_str": "286505380",
+                                    "indices": [
+                                          32,
+                                          36
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/STraeqHRqy",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271921485486030848",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          104,
+                                          127
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://www.twitter.com/\" rel=\"nofollow\">Twitter Media Studio - LiveCut</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 1099419521654222848,
+                        "id_str": "1099419521654222848",
+                        "name": "LCS",
+                        "screen_name": "LCSOfficial",
+                        "location": "",
+                        "description": "Official Twitter account for the League of Legends Championship Series! #LCS",
+                        "url": "https://t.co/bFDVppHMI4",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/bFDVppHMI4",
+                                                "expanded_url": "http://watch.lolesports.com",
+                                                "display_url": "watch.lolesports.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 106411,
+                        "friends_count": 174,
+                        "listed_count": 242,
+                        "created_at": "Sat Feb 23 21:23:34 +0000 2019",
+                        "favourites_count": 6502,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 3281,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1271605541911969793/kZLwbs3U_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271605541911969793/kZLwbs3U_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1099419521654222848/1574118494",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 94,
+                  "favorite_count": 1083,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 21:48:26 +0000 2020",
+                  "id": 1271922402440560640,
+                  "id_str": "1271922402440560640",
+                  "text": "Great start from the team! \n\nCouldn\u2019t be happier with how we played this one.\n\n#TLWIN #LCS",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "TLWIN",
+                                    "indices": [
+                                          79,
+                                          85
+                                    ]
+                              },
+                              {
+                                    "text": "LCS",
+                                    "indices": [
+                                          86,
+                                          90
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": []
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 398505928,
+                        "id_str": "398505928",
+                        "name": "Josh Leesman",
+                        "screen_name": "TL_Jatt",
+                        "location": "",
+                        "description": "Head Coach for Team Liquid LoL. Former Riot Shoutcaster/Game Designer. Former Pro Player",
+                        "url": "https://t.co/FzprM8SDDn",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/FzprM8SDDn",
+                                                "expanded_url": "https://www.instagram.com/esportsjatt",
+                                                "display_url": "instagram.com/esportsjatt",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 288746,
+                        "friends_count": 500,
+                        "listed_count": 1153,
+                        "created_at": "Wed Oct 26 04:44:56 +0000 2011",
+                        "favourites_count": 2279,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 5410,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "131516",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/467920785315594240/J3KsF7gy_normal.jpeg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/467920785315594240/J3KsF7gy_normal.jpeg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/398505928/1588635862",
+                        "profile_link_color": "000000",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "EFEFEF",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 89,
+                  "favorite_count": 3306,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Fri Jun 12 15:02:19 +0000 2020",
+                  "id": 1271457813680676864,
+                  "id_str": "1271457813680676864",
+                  "text": "\"Our first test in summer is gonna be against a familiar face. Let me tell you, we're going to be ready\" -@TL_Jatt\u2026 https://t.co/RkGTxMmdrx",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "TL_Jatt",
+                                    "name": "Josh Leesman",
+                                    "id": 398505928,
+                                    "id_str": "398505928",
+                                    "indices": [
+                                          106,
+                                          114
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/RkGTxMmdrx",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271457813680676864",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          116,
+                                          139
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 1099419521654222848,
+                        "id_str": "1099419521654222848",
+                        "name": "LCS",
+                        "screen_name": "LCSOfficial",
+                        "location": "",
+                        "description": "Official Twitter account for the League of Legends Championship Series! #LCS",
+                        "url": "https://t.co/bFDVppHMI4",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/bFDVppHMI4",
+                                                "expanded_url": "http://watch.lolesports.com",
+                                                "display_url": "watch.lolesports.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 106411,
+                        "friends_count": 174,
+                        "listed_count": 242,
+                        "created_at": "Sat Feb 23 21:23:34 +0000 2019",
+                        "favourites_count": 6502,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 3281,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1271605541911969793/kZLwbs3U_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271605541911969793/kZLwbs3U_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1099419521654222848/1574118494",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 63,
+                  "favorite_count": 872,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 17:49:46 +0000 2020",
+                  "id": 1271862338933665792,
+                  "id_str": "1271862338933665792",
+                  "text": "GG's @Cloud9 we win 2-0 and now we play @100Thieves soon! #TLWIN @DreamHack",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "TLWIN",
+                                    "indices": [
+                                          58,
+                                          64
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "Cloud9",
+                                    "name": "Cloud9",
+                                    "id": 1452520626,
+                                    "id_str": "1452520626",
+                                    "indices": [
+                                          5,
+                                          12
+                                    ]
+                              },
+                              {
+                                    "screen_name": "100Thieves",
+                                    "name": "100 Thieves",
+                                    "id": 720303639277928448,
+                                    "id_str": "720303639277928448",
+                                    "indices": [
+                                          40,
+                                          51
+                                    ]
+                              },
+                              {
+                                    "screen_name": "DreamHack",
+                                    "name": "DreamHack",
+                                    "id": 278142809,
+                                    "id_str": "278142809",
+                                    "indices": [
+                                          65,
+                                          75
+                                    ]
+                              }
+                        ],
+                        "urls": []
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 2833268733,
+                        "id_str": "2833268733",
+                        "name": "Nick Cannella",
+                        "screen_name": "nitr0",
+                        "location": "Slidell, LA",
+                        "description": "Professional CS:GO player under @TeamLiquid https://t.co/fnOTo9HskJ \u2014 Business inquires: nitr0@teamliquid.net",
+                        "url": "https://t.co/0WubeLoOFw",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/0WubeLoOFw",
+                                                "expanded_url": "http://instagram.com/nacannella",
+                                                "display_url": "instagram.com/nacannella",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/fnOTo9HskJ",
+                                                "expanded_url": "http://www.twitch.tv/nitr0",
+                                                "display_url": "twitch.tv/nitr0",
+                                                "indices": [
+                                                      44,
+                                                      67
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 140903,
+                        "friends_count": 772,
+                        "listed_count": 406,
+                        "created_at": "Thu Oct 16 04:18:44 +0000 2014",
+                        "favourites_count": 6743,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 5136,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FF6699",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1167976122279022593/l7MpLWNB_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1167976122279022593/l7MpLWNB_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2833268733/1587940628",
+                        "profile_link_color": "91D2FA",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 19,
+                  "favorite_count": 619,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 19:30:00 +0000 2020",
+                  "id": 1271887564077543424,
+                  "id_str": "1271887564077543424",
+                  "text": "The 2020 #LCS Summer Split continues now with #LCS Countdown! What are your predictions for today's games?\n\n#EGWIN\u2026 https://t.co/5r9WMguCA1",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "LCS",
+                                    "indices": [
+                                          9,
+                                          13
+                                    ]
+                              },
+                              {
+                                    "text": "LCS",
+                                    "indices": [
+                                          46,
+                                          50
+                                    ]
+                              },
+                              {
+                                    "text": "EGWIN",
+                                    "indices": [
+                                          108,
+                                          114
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/5r9WMguCA1",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271887564077543424",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          116,
+                                          139
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 1099419521654222848,
+                        "id_str": "1099419521654222848",
+                        "name": "LCS",
+                        "screen_name": "LCSOfficial",
+                        "location": "",
+                        "description": "Official Twitter account for the League of Legends Championship Series! #LCS",
+                        "url": "https://t.co/bFDVppHMI4",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/bFDVppHMI4",
+                                                "expanded_url": "http://watch.lolesports.com",
+                                                "display_url": "watch.lolesports.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 106411,
+                        "friends_count": 174,
+                        "listed_count": 242,
+                        "created_at": "Sat Feb 23 21:23:34 +0000 2019",
+                        "favourites_count": 6502,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 3281,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1271605541911969793/kZLwbs3U_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271605541911969793/kZLwbs3U_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1099419521654222848/1574118494",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 13,
+                  "favorite_count": 224,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 23:08:42 +0000 2020",
+                  "id": 1271942603609501696,
+                  "id_str": "1271942603609501696",
+                  "text": "gg TSM, great start to the split \ud83d\ude0a\ud83d\ude0a\n#TLWIN",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "TLWIN",
+                                    "indices": [
+                                          36,
+                                          42
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": []
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 877390870818856965,
+                        "id_str": "877390870818856965",
+                        "name": "Edward Ra",
+                        "screen_name": "Tactical",
+                        "location": "",
+                        "description": "19 | ADC for @TeamLiquidLoL | email: loltactical1@gmail.com | https://t.co/vJUI9oyeYs",
+                        "url": null,
+                        "entities": {
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/vJUI9oyeYs",
+                                                "expanded_url": "http://twitch.tv/tactical",
+                                                "display_url": "twitch.tv/tactical",
+                                                "indices": [
+                                                      62,
+                                                      85
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 6880,
+                        "friends_count": 274,
+                        "listed_count": 23,
+                        "created_at": "Wed Jun 21 05:00:59 +0000 2017",
+                        "favourites_count": 717,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 277,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1260119344224198656/Xp_3Mjfy_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1260119344224198656/Xp_3Mjfy_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/877390870818856965/1587798633",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 8,
+                  "favorite_count": 396,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.029,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1271457813680676863&q=%23TLWIN&count=10&include_entities=1&result_type=popular",
+            "query": "%23TLWIN",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

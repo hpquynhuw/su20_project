@@ -1,0 +1,1873 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Sat Jun 13 21:31:07 +0000 2020",
+                  "id": 1271918042746769408,
+                  "id_str": "1271918042746769408",
+                  "text": "Wow he can barely make it down that ramp. My 87 year old mom can do it better. And she has Parkinson\u2019s. https://t.co/aUdVHK5TiP",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/aUdVHK5TiP",
+                                    "expanded_url": "https://twitter.com/atrupar/status/1271902553417138176",
+                                    "display_url": "twitter.com/atrupar/status\u2026",
+                                    "indices": [
+                                          104,
+                                          127
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 84957890,
+                        "id_str": "84957890",
+                        "name": "Nick Hanauer",
+                        "screen_name": "NickHanauer",
+                        "location": "Seattle",
+                        "description": "Entrepreneur, venture capitalist, civic activist, philanthropist, author. Host of Pitchfork Economics. NOT a billionaire.  https://t.co/YDLOR7PQjO",
+                        "url": "https://t.co/RYqhoo1nmW",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/RYqhoo1nmW",
+                                                "expanded_url": "http://www.nickhanauer.com",
+                                                "display_url": "nickhanauer.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/YDLOR7PQjO",
+                                                "expanded_url": "http://www.pitchforkeconomics.com/",
+                                                "display_url": "pitchforkeconomics.com",
+                                                "indices": [
+                                                      123,
+                                                      146
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 50249,
+                        "friends_count": 316,
+                        "listed_count": 1124,
+                        "created_at": "Sat Oct 24 22:58:34 +0000 2009",
+                        "favourites_count": 1070,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 18793,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/579451107753119744/1gmwaVQY_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/579451107753119744/1gmwaVQY_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/84957890/1556053945",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1271902553417138176,
+                  "quoted_status_id_str": "1271902553417138176",
+                  "quoted_status": {
+                        "created_at": "Sat Jun 13 20:29:34 +0000 2020",
+                        "id": 1271902553417138176,
+                        "id_str": "1271902553417138176",
+                        "text": "Trump descended a ramp extremely carefully at the end of his West Point speech today https://t.co/uMG3KyB1V1",
+                        "truncated": false,
+                        "entities": {
+                              "hashtags": [],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": [],
+                              "media": [
+                                    {
+                                          "id": 1271902522714750987,
+                                          "id_str": "1271902522714750987",
+                                          "indices": [
+                                                85,
+                                                108
+                                          ],
+                                          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271902522714750987/pu/img/apy9R61xd6EgoGal.jpg",
+                                          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271902522714750987/pu/img/apy9R61xd6EgoGal.jpg",
+                                          "url": "https://t.co/uMG3KyB1V1",
+                                          "display_url": "pic.twitter.com/uMG3KyB1V1",
+                                          "expanded_url": "https://twitter.com/atrupar/status/1271902553417138176/video/1",
+                                          "type": "photo",
+                                          "sizes": {
+                                                "thumb": {
+                                                      "w": 150,
+                                                      "h": 150,
+                                                      "resize": "crop"
+                                                },
+                                                "medium": {
+                                                      "w": 1200,
+                                                      "h": 675,
+                                                      "resize": "fit"
+                                                },
+                                                "small": {
+                                                      "w": 680,
+                                                      "h": 383,
+                                                      "resize": "fit"
+                                                },
+                                                "large": {
+                                                      "w": 1280,
+                                                      "h": 720,
+                                                      "resize": "fit"
+                                                }
+                                          }
+                                    }
+                              ]
+                        },
+                        "extended_entities": {
+                              "media": [
+                                    {
+                                          "id": 1271902522714750987,
+                                          "id_str": "1271902522714750987",
+                                          "indices": [
+                                                85,
+                                                108
+                                          ],
+                                          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271902522714750987/pu/img/apy9R61xd6EgoGal.jpg",
+                                          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271902522714750987/pu/img/apy9R61xd6EgoGal.jpg",
+                                          "url": "https://t.co/uMG3KyB1V1",
+                                          "display_url": "pic.twitter.com/uMG3KyB1V1",
+                                          "expanded_url": "https://twitter.com/atrupar/status/1271902553417138176/video/1",
+                                          "type": "video",
+                                          "sizes": {
+                                                "thumb": {
+                                                      "w": 150,
+                                                      "h": 150,
+                                                      "resize": "crop"
+                                                },
+                                                "medium": {
+                                                      "w": 1200,
+                                                      "h": 675,
+                                                      "resize": "fit"
+                                                },
+                                                "small": {
+                                                      "w": 680,
+                                                      "h": 383,
+                                                      "resize": "fit"
+                                                },
+                                                "large": {
+                                                      "w": 1280,
+                                                      "h": 720,
+                                                      "resize": "fit"
+                                                }
+                                          },
+                                          "video_info": {
+                                                "aspect_ratio": [
+                                                      16,
+                                                      9
+                                                ],
+                                                "duration_millis": 24559,
+                                                "variants": [
+                                                      {
+                                                            "bitrate": 256000,
+                                                            "content_type": "video/mp4",
+                                                            "url": "https://video.twimg.com/ext_tw_video/1271902522714750987/pu/vid/480x270/bQxHCfh05_K149TN.mp4?tag=10"
+                                                      },
+                                                      {
+                                                            "content_type": "application/x-mpegURL",
+                                                            "url": "https://video.twimg.com/ext_tw_video/1271902522714750987/pu/pl/lLIVBMy1Z0wIbWYP.m3u8?tag=10"
+                                                      },
+                                                      {
+                                                            "bitrate": 832000,
+                                                            "content_type": "video/mp4",
+                                                            "url": "https://video.twimg.com/ext_tw_video/1271902522714750987/pu/vid/640x360/5ArLG4FiYi9rqDtI.mp4?tag=10"
+                                                      },
+                                                      {
+                                                            "bitrate": 2176000,
+                                                            "content_type": "video/mp4",
+                                                            "url": "https://video.twimg.com/ext_tw_video/1271902522714750987/pu/vid/1280x720/dX0ByeqMvMCYDezV.mp4?tag=10"
+                                                      }
+                                                ]
+                                          },
+                                          "additional_media_info": {
+                                                "monetizable": false
+                                          }
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"http://www.snapstream.com\" rel=\"nofollow\">SnapStream TV Search</a>",
+                        "in_reply_to_status_id": 1271843695843835905,
+                        "in_reply_to_status_id_str": "1271843695843835905",
+                        "in_reply_to_user_id": 288277167,
+                        "in_reply_to_user_id_str": "288277167",
+                        "in_reply_to_screen_name": "atrupar",
+                        "user": {
+                              "id": 288277167,
+                              "id_str": "288277167",
+                              "name": "Aaron Rupar",
+                              "screen_name": "atrupar",
+                              "location": "",
+                              "description": "journalist @voxdotcom. on parental leave.",
+                              "url": "https://t.co/RnqX4a5AQt",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/RnqX4a5AQt",
+                                                      "expanded_url": "http://vox.com",
+                                                      "display_url": "vox.com",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 403101,
+                              "friends_count": 998,
+                              "listed_count": 3411,
+                              "created_at": "Tue Apr 26 15:22:47 +0000 2011",
+                              "favourites_count": 108753,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": true,
+                              "verified": true,
+                              "statuses_count": 75283,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "C0DEED",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_tile": true,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/816281781011959808/aGIAz8Qe_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/816281781011959808/aGIAz8Qe_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/288277167/1469538346",
+                              "profile_link_color": "1B95E0",
+                              "profile_sidebar_border_color": "FFFFFF",
+                              "profile_sidebar_fill_color": "DDEEF6",
+                              "profile_text_color": "333333",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": false,
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 2477,
+                        "favorite_count": 6608,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 20,
+                  "favorite_count": 42,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Mon Jun 08 11:45:00 +0000 2020",
+                  "id": 1269958602904580096,
+                  "id_str": "1269958602904580096",
+                  "text": "\u201cHow come is everything white?\u201d Muhammad Ali appeared on Parkinson in 1971. https://t.co/crxn4525FF",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1269938134638346240,
+                                    "id_str": "1269938134638346240",
+                                    "indices": [
+                                          76,
+                                          99
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EZ-8VWIXQAIMP6W.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EZ-8VWIXQAIMP6W.jpg",
+                                    "url": "https://t.co/crxn4525FF",
+                                    "display_url": "pic.twitter.com/crxn4525FF",
+                                    "expanded_url": "https://twitter.com/BBCArchive/status/1269958602904580096/video/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 675,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 383,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1280,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1269938134638346240,
+                                    "id_str": "1269938134638346240",
+                                    "indices": [
+                                          76,
+                                          99
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EZ-8VWIXQAIMP6W.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EZ-8VWIXQAIMP6W.jpg",
+                                    "url": "https://t.co/crxn4525FF",
+                                    "display_url": "pic.twitter.com/crxn4525FF",
+                                    "expanded_url": "https://twitter.com/BBCArchive/status/1269958602904580096/video/1",
+                                    "type": "video",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 675,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 383,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1280,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    },
+                                    "video_info": {
+                                          "aspect_ratio": [
+                                                16,
+                                                9
+                                          ],
+                                          "duration_millis": 160080,
+                                          "variants": [
+                                                {
+                                                      "bitrate": 2176000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/amplify_video/1269938134638346240/vid/1280x720/_kNqUoDOn6cufEHc.mp4?tag=13"
+                                                },
+                                                {
+                                                      "bitrate": 832000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/amplify_video/1269938134638346240/vid/640x360/u-H5PeLoIgNdDbV0.mp4?tag=13"
+                                                },
+                                                {
+                                                      "content_type": "application/x-mpegURL",
+                                                      "url": "https://video.twimg.com/amplify_video/1269938134638346240/pl/EuDYEQmk2E3z-Pz6.m3u8?tag=13"
+                                                },
+                                                {
+                                                      "bitrate": 288000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/amplify_video/1269938134638346240/vid/480x270/Mk-N53044ipPMHRa.mp4?tag=13"
+                                                }
+                                          ]
+                                    },
+                                    "additional_media_info": {
+                                          "title": "\"Tarzan is  king of the jungle in Africa. He was white.\"",
+                                          "description": "",
+                                          "embeddable": true,
+                                          "monetizable": false
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 51023770,
+                        "id_str": "51023770",
+                        "name": "BBC Archive",
+                        "screen_name": "BBCArchive",
+                        "location": "London",
+                        "description": "Official Twitter presence of the @BBC Archive. Unless otherwise stated images are \u00a9BBC.",
+                        "url": "https://t.co/ZEVADTCcC6",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/ZEVADTCcC6",
+                                                "expanded_url": "https://www.bbc.co.uk/archive",
+                                                "display_url": "bbc.co.uk/archive",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 190889,
+                        "friends_count": 7274,
+                        "listed_count": 2268,
+                        "created_at": "Fri Jun 26 11:40:26 +0000 2009",
+                        "favourites_count": 2667,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 13967,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "9AE4E8",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1171341855541342210/632qEenS_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171341855541342210/632qEenS_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51023770/1578045921",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "BDDCAD",
+                        "profile_sidebar_fill_color": "DDFFCC",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 9294,
+                  "favorite_count": 22755,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Thu Jun 11 01:16:39 +0000 2020",
+                  "id": 1270887638476693504,
+                  "id_str": "1270887638476693504",
+                  "text": "Conoc\u00ed a Maruja hace 8 meses. Padece Parkinson. Los temblores aumentaron por no tomar su medicina Levodopa/carbidop\u2026 https://t.co/icwjB2mX2x",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/icwjB2mX2x",
+                                    "expanded_url": "https://twitter.com/i/web/status/1270887638476693504",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 137849206,
+                        "id_str": "137849206",
+                        "name": "Esteninf Olivarez",
+                        "screen_name": "esteninf",
+                        "location": "Caracas/Venezuela",
+                        "description": "Periodista venezolana viviendo en Venezuela\ud83d\udc9b\ud83d\udc99\u2764\ufe0f Reportera",
+                        "url": null,
+                        "entities": {
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 124973,
+                        "friends_count": 1420,
+                        "listed_count": 335,
+                        "created_at": "Tue Apr 27 23:26:16 +0000 2010",
+                        "favourites_count": 1258,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 28525,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "BADFCD",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1110680454150193153/iKzTTFZN_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110680454150193153/iKzTTFZN_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/137849206/1553641831",
+                        "profile_link_color": "FF0000",
+                        "profile_sidebar_border_color": "F2E195",
+                        "profile_sidebar_fill_color": "FFF7CC",
+                        "profile_text_color": "0C3E53",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 3359,
+                  "favorite_count": 765,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Sat Jun 13 20:22:49 +0000 2020",
+                  "id": 1271900856477253633,
+                  "id_str": "1271900856477253633",
+                  "text": "Experi\u00eancia pr\u00e9via, com formas anteriores de coronav\u00edrus, sugere que, a longo prazo, os pacientes podem desenvolver\u2026 https://t.co/U10Qp2Gp73",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/U10Qp2Gp73",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271900856477253633",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "iso_language_code": "pt",
+                        "result_type": "popular"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 56219067,
+                        "id_str": "56219067",
+                        "name": "Stevens Rehen",
+                        "screen_name": "stevensrehen",
+                        "location": "Rio de Janeiro, Brazil",
+                        "description": "Cientista com interesse em biologia, em neuroci\u00eancias, e em ser feliz.",
+                        "url": "https://t.co/krN95lxRGE",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/krN95lxRGE",
+                                                "expanded_url": "https://www.stevensrehen.com",
+                                                "display_url": "stevensrehen.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 9070,
+                        "friends_count": 1456,
+                        "listed_count": 110,
+                        "created_at": "Sun Jul 12 23:10:45 +0000 2009",
+                        "favourites_count": 10874,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 8610,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "9AE4E8",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1270109948211605513/QEaHulhh_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1270109948211605513/QEaHulhh_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/56219067/1591918320",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "BDDCAD",
+                        "profile_sidebar_fill_color": "DDFFCC",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1271875643576332288,
+                  "quoted_status_id_str": "1271875643576332288",
+                  "quoted_status": {
+                        "created_at": "Sat Jun 13 18:42:38 +0000 2020",
+                        "id": 1271875643576332288,
+                        "id_str": "1271875643576332288",
+                        "text": "O que a covid-19 pode fazer com o c\u00e9rebro humano?\n\nO 'Journal of Alzheimer's Disease' acaba de publicar um artigo c\u2026 https://t.co/OKJ9A5rU9p",
+                        "truncated": true,
+                        "entities": {
+                              "hashtags": [],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/OKJ9A5rU9p",
+                                          "expanded_url": "https://twitter.com/i/web/status/1271875643576332288",
+                                          "display_url": "twitter.com/i/web/status/1\u2026",
+                                          "indices": [
+                                                117,
+                                                140
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "iso_language_code": "pt",
+                              "result_type": "popular"
+                        },
+                        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 1077975469788667905,
+                              "id_str": "1077975469788667905",
+                              "name": "Luiza Caires - jornalista de ci\u00eancias",
+                              "screen_name": "luizacaires3",
+                              "location": "",
+                              "description": "Editora do @cienciausp / Jornal da USP. Mestre em Comunica\u00e7\u00e3o. Divulgadora de ci\u00eancias luiza.caires(a)https://t.co/YHy02yJw9W\n#SciComm #Divulga\u00e7\u00e3oCient\u00edfica \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                              "url": "https://t.co/LNCzMzF6KO",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/LNCzMzF6KO",
+                                                      "expanded_url": "http://jornal.usp.br",
+                                                      "display_url": "jornal.usp.br",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/YHy02yJw9W",
+                                                      "expanded_url": "http://usp.br",
+                                                      "display_url": "usp.br",
+                                                      "indices": [
+                                                            102,
+                                                            125
+                                                      ]
+                                                }
+                                          ]
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 4410,
+                              "friends_count": 1792,
+                              "listed_count": 25,
+                              "created_at": "Wed Dec 26 17:12:34 +0000 2018",
+                              "favourites_count": 19611,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": false,
+                              "verified": false,
+                              "statuses_count": 6962,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "000000",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1141149746398158848/cT5mfkKv_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141149746398158848/cT5mfkKv_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1077975469788667905/1579813504",
+                              "profile_link_color": "000000",
+                              "profile_sidebar_border_color": "000000",
+                              "profile_sidebar_fill_color": "000000",
+                              "profile_text_color": "000000",
+                              "profile_use_background_image": false,
+                              "has_extended_profile": false,
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 84,
+                        "favorite_count": 199,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "lang": "pt"
+                  },
+                  "retweet_count": 7,
+                  "favorite_count": 27,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "pt"
+            },
+            {
+                  "created_at": "Thu Jun 11 22:55:54 +0000 2020",
+                  "id": 1271214604912394240,
+                  "id_str": "1271214604912394240",
+                  "text": "48% des femmes et 36% des hommes sont \u00e0 risque de d\u00e9velopper un AVC, une d\u00e9mence ou Parkinson. \nDes affections qui\u2026 https://t.co/5xNB8iiIgO",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/5xNB8iiIgO",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271214604912394240",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          116,
+                                          139
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "fr"
+                  },
+                  "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 861574608,
+                        "id_str": "861574608",
+                        "name": "Sciences et Avenir",
+                        "screen_name": "Sciences_Avenir",
+                        "location": "Paris",
+                        "description": "\ud83d\udc28\ud83c\udf0d\ud83d\udc9a\ud83d\udd2c\ud83e\uddea De l'infiniment petit \u00e0 l'infiniment grand et du Big Bang aux g\u00e9n\u00e9rations futures, le meilleur de l'actu scientifique \ud83d\udc23\ud83d\ude80\ud83c\udf0c\ud83c\udf0b\ud83d\uddff",
+                        "url": "https://t.co/2iopzCTsc4",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/2iopzCTsc4",
+                                                "expanded_url": "https://www.sciencesetavenir.fr/",
+                                                "display_url": "sciencesetavenir.fr",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 137420,
+                        "friends_count": 223,
+                        "listed_count": 1689,
+                        "created_at": "Thu Oct 04 15:31:24 +0000 2012",
+                        "favourites_count": 800,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 40255,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FFFFFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1228019428668985352/RBCCuyPg_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1228019428668985352/RBCCuyPg_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/861574608/1589561008",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 34,
+                  "favorite_count": 28,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "fr"
+            },
+            {
+                  "created_at": "Thu Jun 11 12:29:58 +0000 2020",
+                  "id": 1271057084885467139,
+                  "id_str": "1271057084885467139",
+                  "text": "#Testimonio | Rodolfo Rivera V\u00e1zquez  trabaj\u00f3 como corresponsal de Notimex en Venezuela durante 19 a\u00f1os. Tiene park\u2026 https://t.co/TB5LRcEZXc",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "Testimonio",
+                                    "indices": [
+                                          0,
+                                          11
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/TB5LRcEZXc",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271057084885467139",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 41156599,
+                        "id_str": "41156599",
+                        "name": "Proceso",
+                        "screen_name": "proceso",
+                        "location": "M\u00e9xico",
+                        "description": "Informaci\u00f3n y an\u00e1lisis https://t.co/dJbnDCIjvd",
+                        "url": null,
+                        "entities": {
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/dJbnDCIjvd",
+                                                "expanded_url": "http://www.proceso.com.mx",
+                                                "display_url": "proceso.com.mx",
+                                                "indices": [
+                                                      23,
+                                                      46
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 4832742,
+                        "friends_count": 1724,
+                        "listed_count": 13659,
+                        "created_at": "Tue May 19 17:00:37 +0000 2009",
+                        "favourites_count": 1929,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 167948,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "EBEBEB",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/791445782024949760/_Mlnv2Z-_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/791445782024949760/_Mlnv2Z-_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41156599/1591641090",
+                        "profile_link_color": "990000",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "F3F3F3",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 67,
+                  "favorite_count": 79,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Wed Jun 10 06:37:02 +0000 2020",
+                  "id": 1270605875338776576,
+                  "id_str": "1270605875338776576",
+                  "text": "Ali on Parkinson in 1971. \nhttps://t.co/DfK92GY57M",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1269938134638346240,
+                                    "id_str": "1269938134638346240",
+                                    "indices": [
+                                          27,
+                                          50
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EZ-8VWIXQAIMP6W.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EZ-8VWIXQAIMP6W.jpg",
+                                    "url": "https://t.co/DfK92GY57M",
+                                    "display_url": "pic.twitter.com/DfK92GY57M",
+                                    "expanded_url": "https://twitter.com/BBCArchive/status/1269958602904580096/video/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 675,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 383,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1280,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    },
+                                    "source_status_id": 1269958602904580096,
+                                    "source_status_id_str": "1269958602904580096",
+                                    "source_user_id": 51023770,
+                                    "source_user_id_str": "51023770"
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1269938134638346240,
+                                    "id_str": "1269938134638346240",
+                                    "indices": [
+                                          27,
+                                          50
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EZ-8VWIXQAIMP6W.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EZ-8VWIXQAIMP6W.jpg",
+                                    "url": "https://t.co/DfK92GY57M",
+                                    "display_url": "pic.twitter.com/DfK92GY57M",
+                                    "expanded_url": "https://twitter.com/BBCArchive/status/1269958602904580096/video/1",
+                                    "type": "video",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 675,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 383,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1280,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    },
+                                    "source_status_id": 1269958602904580096,
+                                    "source_status_id_str": "1269958602904580096",
+                                    "source_user_id": 51023770,
+                                    "source_user_id_str": "51023770",
+                                    "video_info": {
+                                          "aspect_ratio": [
+                                                16,
+                                                9
+                                          ],
+                                          "duration_millis": 160080,
+                                          "variants": [
+                                                {
+                                                      "bitrate": 2176000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/amplify_video/1269938134638346240/vid/1280x720/_kNqUoDOn6cufEHc.mp4?tag=13"
+                                                },
+                                                {
+                                                      "bitrate": 832000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/amplify_video/1269938134638346240/vid/640x360/u-H5PeLoIgNdDbV0.mp4?tag=13"
+                                                },
+                                                {
+                                                      "content_type": "application/x-mpegURL",
+                                                      "url": "https://video.twimg.com/amplify_video/1269938134638346240/pl/EuDYEQmk2E3z-Pz6.m3u8?tag=13"
+                                                },
+                                                {
+                                                      "bitrate": 288000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/amplify_video/1269938134638346240/vid/480x270/Mk-N53044ipPMHRa.mp4?tag=13"
+                                                }
+                                          ]
+                                    },
+                                    "additional_media_info": {
+                                          "title": "\"Tarzan is  king of the jungle in Africa. He was white.\"",
+                                          "description": "",
+                                          "embeddable": true,
+                                          "monetizable": false,
+                                          "source_user": {
+                                                "id": 51023770,
+                                                "id_str": "51023770",
+                                                "name": "BBC Archive",
+                                                "screen_name": "BBCArchive",
+                                                "location": "London",
+                                                "description": "Official Twitter presence of the @BBC Archive. Unless otherwise stated images are \u00a9BBC.",
+                                                "url": "https://t.co/ZEVADTCcC6",
+                                                "entities": {
+                                                      "url": {
+                                                            "urls": [
+                                                                  {
+                                                                        "url": "https://t.co/ZEVADTCcC6",
+                                                                        "expanded_url": "https://www.bbc.co.uk/archive",
+                                                                        "display_url": "bbc.co.uk/archive",
+                                                                        "indices": [
+                                                                              0,
+                                                                              23
+                                                                        ]
+                                                                  }
+                                                            ]
+                                                      },
+                                                      "description": {
+                                                            "urls": []
+                                                      }
+                                                },
+                                                "protected": false,
+                                                "followers_count": 190889,
+                                                "friends_count": 7274,
+                                                "listed_count": 2268,
+                                                "created_at": "Fri Jun 26 11:40:26 +0000 2009",
+                                                "favourites_count": 2667,
+                                                "utc_offset": null,
+                                                "time_zone": null,
+                                                "geo_enabled": false,
+                                                "verified": true,
+                                                "statuses_count": 13967,
+                                                "lang": null,
+                                                "contributors_enabled": false,
+                                                "is_translator": false,
+                                                "is_translation_enabled": false,
+                                                "profile_background_color": "9AE4E8",
+                                                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                                                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                                                "profile_background_tile": true,
+                                                "profile_image_url": "http://pbs.twimg.com/profile_images/1171341855541342210/632qEenS_normal.png",
+                                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171341855541342210/632qEenS_normal.png",
+                                                "profile_banner_url": "https://pbs.twimg.com/profile_banners/51023770/1578045921",
+                                                "profile_link_color": "0084B4",
+                                                "profile_sidebar_border_color": "BDDCAD",
+                                                "profile_sidebar_fill_color": "DDFFCC",
+                                                "profile_text_color": "333333",
+                                                "profile_use_background_image": true,
+                                                "has_extended_profile": false,
+                                                "default_profile": false,
+                                                "default_profile_image": false,
+                                                "following": null,
+                                                "follow_request_sent": null,
+                                                "notifications": null,
+                                                "translator_type": "none"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "fr"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 40837929,
+                        "id_str": "40837929",
+                        "name": "Jake Humphrey",
+                        "screen_name": "mrjakehumphrey",
+                        "location": "Norwich, England",
+                        "description": "High Performance Pod - https://t.co/JFm82tDqpt * BT Sport * Co-founder @wearewhispertv * @clicsargent patron * Enquiries hannah@jakehumphreyofficial.com",
+                        "url": "https://t.co/pMj5My9vZF",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/pMj5My9vZF",
+                                                "expanded_url": "https://podfollow.com/highperformance/",
+                                                "display_url": "podfollow.com/highperformanc\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/JFm82tDqpt",
+                                                "expanded_url": "https://apple.co/3dHkOaG",
+                                                "display_url": "apple.co/3dHkOaG",
+                                                "indices": [
+                                                      23,
+                                                      46
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 902679,
+                        "friends_count": 989,
+                        "listed_count": 7045,
+                        "created_at": "Mon May 18 08:23:52 +0000 2009",
+                        "favourites_count": 5555,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 34016,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FFFFFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/606143538095656960/4xzGbJmH_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/606143538095656960/4xzGbJmH_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40837929/1458128158",
+                        "profile_link_color": "B8803D",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "6699FF",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 146,
+                  "favorite_count": 586,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "fr"
+            },
+            {
+                  "created_at": "Tue Jun 09 13:40:46 +0000 2020",
+                  "id": 1270350126326992900,
+                  "id_str": "1270350126326992900",
+                  "text": "Michael J. Fox turns 59 years old today. \n\nHere he is with Kid Cudi at the \"A Funny Thing Happened On The Way To Cu\u2026 https://t.co/6Hnmayip4P",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/6Hnmayip4P",
+                                    "expanded_url": "https://twitter.com/i/web/status/1270350126326992900",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 18033816,
+                        "id_str": "18033816",
+                        "name": "Pigeons & Planes",
+                        "screen_name": "PigsAndPlans",
+                        "location": "New York, NY",
+                        "description": "Keeping up with good music. Discovering new music. No ceilings. Black Lives Matter.",
+                        "url": "https://t.co/ScNVY5d91C",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/ScNVY5d91C",
+                                                "expanded_url": "https://blacklivesmatters.carrd.co/",
+                                                "display_url": "blacklivesmatters.carrd.co",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 304085,
+                        "friends_count": 3341,
+                        "listed_count": 2400,
+                        "created_at": "Wed Dec 10 23:07:53 +0000 2008",
+                        "favourites_count": 50225,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 110511,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "161616",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/755417835191623680/PEEosNS5_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/755417835191623680/PEEosNS5_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18033816/1591158851",
+                        "profile_link_color": "F2346D",
+                        "profile_sidebar_border_color": "8A8886",
+                        "profile_sidebar_fill_color": "CCCCCC",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 40,
+                  "favorite_count": 449,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Tue Jun 09 11:52:13 +0000 2020",
+                  "id": 1270322808686546949,
+                  "id_str": "1270322808686546949",
+                  "text": "\u201cHow come is everything white?\u201d \n\nWhen Muhammad Ali appeared on Parkinson in 1971. \n\n(via @BBCArchive)\nhttps://t.co/5qXvubLl16",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "BBCArchive",
+                                    "name": "BBC Archive",
+                                    "id": 51023770,
+                                    "id_str": "51023770",
+                                    "indices": [
+                                          90,
+                                          101
+                                    ]
+                              }
+                        ],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1269938134638346240,
+                                    "id_str": "1269938134638346240",
+                                    "indices": [
+                                          103,
+                                          126
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EZ-8VWIXQAIMP6W.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EZ-8VWIXQAIMP6W.jpg",
+                                    "url": "https://t.co/5qXvubLl16",
+                                    "display_url": "pic.twitter.com/5qXvubLl16",
+                                    "expanded_url": "https://twitter.com/BBCArchive/status/1269958602904580096/video/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 675,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 383,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1280,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    },
+                                    "source_status_id": 1269958602904580096,
+                                    "source_status_id_str": "1269958602904580096",
+                                    "source_user_id": 51023770,
+                                    "source_user_id_str": "51023770"
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1269938134638346240,
+                                    "id_str": "1269938134638346240",
+                                    "indices": [
+                                          103,
+                                          126
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EZ-8VWIXQAIMP6W.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EZ-8VWIXQAIMP6W.jpg",
+                                    "url": "https://t.co/5qXvubLl16",
+                                    "display_url": "pic.twitter.com/5qXvubLl16",
+                                    "expanded_url": "https://twitter.com/BBCArchive/status/1269958602904580096/video/1",
+                                    "type": "video",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 675,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 383,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1280,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    },
+                                    "source_status_id": 1269958602904580096,
+                                    "source_status_id_str": "1269958602904580096",
+                                    "source_user_id": 51023770,
+                                    "source_user_id_str": "51023770",
+                                    "video_info": {
+                                          "aspect_ratio": [
+                                                16,
+                                                9
+                                          ],
+                                          "duration_millis": 160080,
+                                          "variants": [
+                                                {
+                                                      "bitrate": 2176000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/amplify_video/1269938134638346240/vid/1280x720/_kNqUoDOn6cufEHc.mp4?tag=13"
+                                                },
+                                                {
+                                                      "bitrate": 832000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/amplify_video/1269938134638346240/vid/640x360/u-H5PeLoIgNdDbV0.mp4?tag=13"
+                                                },
+                                                {
+                                                      "content_type": "application/x-mpegURL",
+                                                      "url": "https://video.twimg.com/amplify_video/1269938134638346240/pl/EuDYEQmk2E3z-Pz6.m3u8?tag=13"
+                                                },
+                                                {
+                                                      "bitrate": 288000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/amplify_video/1269938134638346240/vid/480x270/Mk-N53044ipPMHRa.mp4?tag=13"
+                                                }
+                                          ]
+                                    },
+                                    "additional_media_info": {
+                                          "title": "\"Tarzan is  king of the jungle in Africa. He was white.\"",
+                                          "description": "",
+                                          "embeddable": true,
+                                          "monetizable": false,
+                                          "source_user": {
+                                                "id": 51023770,
+                                                "id_str": "51023770",
+                                                "name": "BBC Archive",
+                                                "screen_name": "BBCArchive",
+                                                "location": "London",
+                                                "description": "Official Twitter presence of the @BBC Archive. Unless otherwise stated images are \u00a9BBC.",
+                                                "url": "https://t.co/ZEVADTCcC6",
+                                                "entities": {
+                                                      "url": {
+                                                            "urls": [
+                                                                  {
+                                                                        "url": "https://t.co/ZEVADTCcC6",
+                                                                        "expanded_url": "https://www.bbc.co.uk/archive",
+                                                                        "display_url": "bbc.co.uk/archive",
+                                                                        "indices": [
+                                                                              0,
+                                                                              23
+                                                                        ]
+                                                                  }
+                                                            ]
+                                                      },
+                                                      "description": {
+                                                            "urls": []
+                                                      }
+                                                },
+                                                "protected": false,
+                                                "followers_count": 190889,
+                                                "friends_count": 7274,
+                                                "listed_count": 2268,
+                                                "created_at": "Fri Jun 26 11:40:26 +0000 2009",
+                                                "favourites_count": 2667,
+                                                "utc_offset": null,
+                                                "time_zone": null,
+                                                "geo_enabled": false,
+                                                "verified": true,
+                                                "statuses_count": 13967,
+                                                "lang": null,
+                                                "contributors_enabled": false,
+                                                "is_translator": false,
+                                                "is_translation_enabled": false,
+                                                "profile_background_color": "9AE4E8",
+                                                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                                                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                                                "profile_background_tile": true,
+                                                "profile_image_url": "http://pbs.twimg.com/profile_images/1171341855541342210/632qEenS_normal.png",
+                                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171341855541342210/632qEenS_normal.png",
+                                                "profile_banner_url": "https://pbs.twimg.com/profile_banners/51023770/1578045921",
+                                                "profile_link_color": "0084B4",
+                                                "profile_sidebar_border_color": "BDDCAD",
+                                                "profile_sidebar_fill_color": "DDFFCC",
+                                                "profile_text_color": "333333",
+                                                "profile_use_background_image": true,
+                                                "has_extended_profile": false,
+                                                "default_profile": false,
+                                                "default_profile_image": false,
+                                                "following": null,
+                                                "follow_request_sent": null,
+                                                "notifications": null,
+                                                "translator_type": "none"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 89452962,
+                        "id_str": "89452962",
+                        "name": "ESPN UK",
+                        "screen_name": "ESPNUK",
+                        "location": "United Kingdom",
+                        "description": "The Nat Coombs Show is open for business! Follow @thencshow and download the latest episode using the link below.",
+                        "url": "https://t.co/NPg96gRH11",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/NPg96gRH11",
+                                                "expanded_url": "http://smarturl.it/n2t2b4",
+                                                "display_url": "smarturl.it/n2t2b4",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 127839,
+                        "friends_count": 1018,
+                        "listed_count": 1108,
+                        "created_at": "Thu Nov 12 14:07:24 +0000 2009",
+                        "favourites_count": 618,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 101154,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "0099B9",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/693731557299720193/z0EeBAZE_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/693731557299720193/z0EeBAZE_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/89452962/1591686100",
+                        "profile_link_color": "DD2E44",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "95E8EC",
+                        "profile_text_color": "3C3940",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 55,
+                  "favorite_count": 102,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Thu Jun 11 01:23:43 +0000 2020",
+                  "id": 1270889414877540352,
+                  "id_str": "1270889414877540352",
+                  "text": "LATEST: Manhunt continues for man who authorities say shot a sheriff\u2019s deputy in Paso Robles, California. \n\nSan Lui\u2026 https://t.co/e7rRkBOYXu",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/e7rRkBOYXu",
+                                    "expanded_url": "https://twitter.com/i/web/status/1270889414877540352",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                  "in_reply_to_status_id": 1270752563944722432,
+                  "in_reply_to_status_id_str": "1270752563944722432",
+                  "in_reply_to_user_id": 28785486,
+                  "in_reply_to_user_id_str": "28785486",
+                  "in_reply_to_screen_name": "ABC",
+                  "user": {
+                        "id": 28785486,
+                        "id_str": "28785486",
+                        "name": "ABC News",
+                        "screen_name": "ABC",
+                        "location": "New York City / Worldwide",
+                        "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+                        "url": "https://t.co/B4vihbwCGa",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/B4vihbwCGa",
+                                                "expanded_url": "https://abcnews.go.com/",
+                                                "display_url": "abcnews.go.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/PKeobr4xt0",
+                                                "expanded_url": "http://instagram.com/abcnews",
+                                                "display_url": "instagram.com/abcnews",
+                                                "indices": [
+                                                      77,
+                                                      100
+                                                ]
+                                          },
+                                          {
+                                                "url": "https://t.co/2ICEX6CuXd",
+                                                "expanded_url": "https://abcn.ws/tips",
+                                                "display_url": "abcn.ws/tips",
+                                                "indices": [
+                                                      107,
+                                                      130
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 15710539,
+                        "friends_count": 528,
+                        "listed_count": 56904,
+                        "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+                        "favourites_count": 32,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 305375,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": true,
+                        "profile_background_color": "6E8EB5",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+                        "profile_link_color": "336699",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 52,
+                  "favorite_count": 80,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.051,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1269958602904580095&q=Parkinson&count=10&include_entities=1&result_type=popular",
+            "query": "Parkinson",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

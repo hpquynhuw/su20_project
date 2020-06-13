@@ -1,0 +1,532 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Sat Jun 13 21:30:54 +0000 2020",
+                  "id": 1271917990582288385,
+                  "id_str": "1271917990582288385",
+                  "text": "#IGenerallyBelieveIn magic https://t.co/kgOmXjFqjd",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "IGenerallyBelieveIn",
+                                    "indices": [
+                                          0,
+                                          20
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1271917984055951361,
+                                    "id_str": "1271917984055951361",
+                                    "indices": [
+                                          27,
+                                          50
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EabCqucWAAEWnBU.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EabCqucWAAEWnBU.jpg",
+                                    "url": "https://t.co/kgOmXjFqjd",
+                                    "display_url": "pic.twitter.com/kgOmXjFqjd",
+                                    "expanded_url": "https://twitter.com/bigmacher/status/1271917990582288385/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "medium": {
+                                                "w": 274,
+                                                "h": 252,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "large": {
+                                                "w": 274,
+                                                "h": 252,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 274,
+                                                "h": 252,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1271917984055951361,
+                                    "id_str": "1271917984055951361",
+                                    "indices": [
+                                          27,
+                                          50
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EabCqucWAAEWnBU.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EabCqucWAAEWnBU.jpg",
+                                    "url": "https://t.co/kgOmXjFqjd",
+                                    "display_url": "pic.twitter.com/kgOmXjFqjd",
+                                    "expanded_url": "https://twitter.com/bigmacher/status/1271917990582288385/photo/1",
+                                    "type": "animated_gif",
+                                    "sizes": {
+                                          "medium": {
+                                                "w": 274,
+                                                "h": 252,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "large": {
+                                                "w": 274,
+                                                "h": 252,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 274,
+                                                "h": 252,
+                                                "resize": "fit"
+                                          }
+                                    },
+                                    "video_info": {
+                                          "aspect_ratio": [
+                                                137,
+                                                126
+                                          ],
+                                          "variants": [
+                                                {
+                                                      "bitrate": 0,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/tweet_video/EabCqucWAAEWnBU.mp4"
+                                                }
+                                          ]
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 8522892,
+                        "id_str": "8522892",
+                        "name": "Jeff Dwoskin Says Stay HOME",
+                        "screen_name": "bigmacher",
+                        "location": "Detroit, Michigan",
+                        "description": "Makes HaHa, Entrepreneur, Life Changer, @HashtagRoundup; Instagram: bigmacher01; host of @JeffDwoskinShow; loves #games",
+                        "url": "https://t.co/bQzQ59vIAI",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/bQzQ59vIAI",
+                                                "expanded_url": "https://app.hashtagroundup.com",
+                                                "display_url": "app.hashtagroundup.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 44226,
+                        "friends_count": 15954,
+                        "listed_count": 731,
+                        "created_at": "Thu Aug 30 00:26:07 +0000 2007",
+                        "favourites_count": 130951,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 153766,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "9AE4E8",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000575169408/235cc183aca1193d012e374f18c85047_normal.jpeg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000575169408/235cc183aca1193d012e374f18c85047_normal.jpeg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/8522892/1513563421",
+                        "profile_link_color": "0000FF",
+                        "profile_sidebar_border_color": "87BC44",
+                        "profile_sidebar_fill_color": "E0FF92",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 15,
+                  "favorite_count": 31,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 21:30:04 +0000 2020",
+                  "id": 1271917778619023362,
+                  "id_str": "1271917778619023362",
+                  "text": "#IGenerallyBelieveIn love \u2764\ufe0f",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "IGenerallyBelieveIn",
+                                    "indices": [
+                                          0,
+                                          20
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": []
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 8522892,
+                        "id_str": "8522892",
+                        "name": "Jeff Dwoskin Says Stay HOME",
+                        "screen_name": "bigmacher",
+                        "location": "Detroit, Michigan",
+                        "description": "Makes HaHa, Entrepreneur, Life Changer, @HashtagRoundup; Instagram: bigmacher01; host of @JeffDwoskinShow; loves #games",
+                        "url": "https://t.co/bQzQ59vIAI",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/bQzQ59vIAI",
+                                                "expanded_url": "https://app.hashtagroundup.com",
+                                                "display_url": "app.hashtagroundup.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 44226,
+                        "friends_count": 15954,
+                        "listed_count": 731,
+                        "created_at": "Thu Aug 30 00:26:07 +0000 2007",
+                        "favourites_count": 130951,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 153766,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "9AE4E8",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000575169408/235cc183aca1193d012e374f18c85047_normal.jpeg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000575169408/235cc183aca1193d012e374f18c85047_normal.jpeg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/8522892/1513563421",
+                        "profile_link_color": "0000FF",
+                        "profile_sidebar_border_color": "87BC44",
+                        "profile_sidebar_fill_color": "E0FF92",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 9,
+                  "favorite_count": 16,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 21:30:07 +0000 2020",
+                  "id": 1271917790513987587,
+                  "id_str": "1271917790513987587",
+                  "text": "#IGenerallyBelieveIn is this week's @RoesRage hosted by @RoeGhost @VeiledHeart_ https://t.co/f3gEDqBkGK",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "IGenerallyBelieveIn",
+                                    "indices": [
+                                          0,
+                                          20
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "RoesRage",
+                                    "name": "Roe's Rage \ud83d\udc4a\ud83c\udffb",
+                                    "id": 759402171473469440,
+                                    "id_str": "759402171473469440",
+                                    "indices": [
+                                          36,
+                                          45
+                                    ]
+                              },
+                              {
+                                    "screen_name": "RoeGhost",
+                                    "name": "Roe Loves Sad Country Music",
+                                    "id": 881796060796129282,
+                                    "id_str": "881796060796129282",
+                                    "indices": [
+                                          56,
+                                          65
+                                    ]
+                              },
+                              {
+                                    "screen_name": "VeiledHeart_",
+                                    "name": "\u00b0\u2022\u2661 A\u0325\u2022\u028d\u0336\u2022y\u2022s\u2022t\u0319\u2022e\u2022r\u033c\u0339\u2022y \u032a\u033c\u0316\u2661\u2022\u00b0",
+                                    "id": 1134321923486130177,
+                                    "id_str": "1134321923486130177",
+                                    "indices": [
+                                          66,
+                                          79
+                                    ]
+                              }
+                        ],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1271917789213872130,
+                                    "id_str": "1271917789213872130",
+                                    "indices": [
+                                          80,
+                                          103
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EabCfYmX0AIPW4u.png",
+                                    "media_url_https": "https://pbs.twimg.com/media/EabCfYmX0AIPW4u.png",
+                                    "url": "https://t.co/f3gEDqBkGK",
+                                    "display_url": "pic.twitter.com/f3gEDqBkGK",
+                                    "expanded_url": "https://twitter.com/HashtagRoundup/status/1271917790513987587/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "small": {
+                                                "w": 600,
+                                                "h": 350,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 600,
+                                                "h": 350,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 600,
+                                                "h": 350,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1271917789213872130,
+                                    "id_str": "1271917789213872130",
+                                    "indices": [
+                                          80,
+                                          103
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EabCfYmX0AIPW4u.png",
+                                    "media_url_https": "https://pbs.twimg.com/media/EabCfYmX0AIPW4u.png",
+                                    "url": "https://t.co/f3gEDqBkGK",
+                                    "display_url": "pic.twitter.com/f3gEDqBkGK",
+                                    "expanded_url": "https://twitter.com/HashtagRoundup/status/1271917790513987587/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "small": {
+                                                "w": 600,
+                                                "h": 350,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 600,
+                                                "h": 350,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 600,
+                                                "h": 350,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 2901732224,
+                        "id_str": "2901732224",
+                        "name": "Hashtag Roundup",
+                        "screen_name": "HashtagRoundup",
+                        "location": "Detroit, Michigan",
+                        "description": "Do you \u2764\ufe0f #HashtagGames? Get our free #game app at https://t.co/PuxWIFu0yI courtesy of @bigmacher & @robyndwoskin. Never miss a game! Open DM.",
+                        "url": "https://t.co/PuxWIFu0yI",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/PuxWIFu0yI",
+                                                "expanded_url": "http://app.hashtagroundup.com",
+                                                "display_url": "app.hashtagroundup.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/PuxWIFu0yI",
+                                                "expanded_url": "http://app.hashtagroundup.com",
+                                                "display_url": "app.hashtagroundup.com",
+                                                "indices": [
+                                                      51,
+                                                      74
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 41272,
+                        "friends_count": 3872,
+                        "listed_count": 537,
+                        "created_at": "Sun Nov 16 14:27:47 +0000 2014",
+                        "favourites_count": 371056,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 478004,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/647423686702727168/uIErv3AX_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/647423686702727168/uIErv3AX_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2901732224/1521454491",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 4,
+                  "favorite_count": 5,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.022,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1271917778619023361&q=%23IGenerallyBelieveIn&count=10&include_entities=1&result_type=popular",
+            "query": "%23IGenerallyBelieveIn",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

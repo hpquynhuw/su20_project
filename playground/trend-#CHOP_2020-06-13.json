@@ -1,0 +1,547 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Fri Jun 12 21:04:54 +0000 2020",
+                  "id": 1271549059359113216,
+                  "id_str": "1271549059359113216",
+                  "text": "Take a look at our home, one of America\u2019s best college towns.\n#NAUStrong \u2692\ud83c\udf32\ud83d\udcaa #CHOP https://t.co/47gRnFyVXO",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "NAUStrong",
+                                    "indices": [
+                                          62,
+                                          72
+                                    ]
+                              },
+                              {
+                                    "text": "CHOP",
+                                    "indices": [
+                                          77,
+                                          82
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1271548985409335296,
+                                    "id_str": "1271548985409335296",
+                                    "indices": [
+                                          83,
+                                          106
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271548985409335296/pu/img/vpQ0bv4VjIiUUdb9.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271548985409335296/pu/img/vpQ0bv4VjIiUUdb9.jpg",
+                                    "url": "https://t.co/47gRnFyVXO",
+                                    "display_url": "pic.twitter.com/47gRnFyVXO",
+                                    "expanded_url": "https://twitter.com/NAU_Football/status/1271549059359113216/video/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 675,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 383,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1280,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1271548985409335296,
+                                    "id_str": "1271548985409335296",
+                                    "indices": [
+                                          83,
+                                          106
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271548985409335296/pu/img/vpQ0bv4VjIiUUdb9.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271548985409335296/pu/img/vpQ0bv4VjIiUUdb9.jpg",
+                                    "url": "https://t.co/47gRnFyVXO",
+                                    "display_url": "pic.twitter.com/47gRnFyVXO",
+                                    "expanded_url": "https://twitter.com/NAU_Football/status/1271549059359113216/video/1",
+                                    "type": "video",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 675,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 383,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1280,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    },
+                                    "video_info": {
+                                          "aspect_ratio": [
+                                                16,
+                                                9
+                                          ],
+                                          "duration_millis": 75492,
+                                          "variants": [
+                                                {
+                                                      "bitrate": 2176000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1271548985409335296/pu/vid/1280x720/QMvUbmnEEkA6fcaW.mp4?tag=10"
+                                                },
+                                                {
+                                                      "bitrate": 256000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1271548985409335296/pu/vid/480x270/7_yH09p0okcs1Sc9.mp4?tag=10"
+                                                },
+                                                {
+                                                      "content_type": "application/x-mpegURL",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1271548985409335296/pu/pl/B3wVqc_lFYHfB4bz.m3u8?tag=10"
+                                                },
+                                                {
+                                                      "bitrate": 832000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1271548985409335296/pu/vid/640x360/qHoGfCJ8t6JG61_1.mp4?tag=10"
+                                                }
+                                          ]
+                                    },
+                                    "additional_media_info": {
+                                          "monetizable": false
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 759599924,
+                        "id_str": "759599924",
+                        "name": "NAU Football",
+                        "screen_name": "NAU_Football",
+                        "location": "Flagstaff, AZ",
+                        "description": "The official Twitter account of Northern Arizona Football. #NAUStrong \u2692\ud83c\udf32\ud83c\udfc8",
+                        "url": "https://t.co/TzZQJlYuGu",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/TzZQJlYuGu",
+                                                "expanded_url": "http://www.nauathletics.com",
+                                                "display_url": "nauathletics.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 17507,
+                        "friends_count": 522,
+                        "listed_count": 75,
+                        "created_at": "Wed Aug 15 15:34:51 +0000 2012",
+                        "favourites_count": 3141,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 9958,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "131516",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1025177185747795968/1NEztHr-_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025177185747795968/1NEztHr-_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/759599924/1591660273",
+                        "profile_link_color": "009999",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 85,
+                  "favorite_count": 290,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 23:21:33 +0000 2020",
+                  "id": 1271945834951618562,
+                  "id_str": "1271945834951618562",
+                  "text": "People giving speeches out here at #CHAZ #CHOP https://t.co/9Kws44bVWl",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "CHAZ",
+                                    "indices": [
+                                          35,
+                                          40
+                                    ]
+                              },
+                              {
+                                    "text": "CHOP",
+                                    "indices": [
+                                          41,
+                                          46
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1271945829230624769,
+                                    "id_str": "1271945829230624769",
+                                    "indices": [
+                                          47,
+                                          70
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eabb_hzUwAEaxEn.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eabb_hzUwAEaxEn.jpg",
+                                    "url": "https://t.co/9Kws44bVWl",
+                                    "display_url": "pic.twitter.com/9Kws44bVWl",
+                                    "expanded_url": "https://twitter.com/GreggHoush/status/1271945834951618562/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 900,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 510,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 2048,
+                                                "h": 1536,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1271945829230624769,
+                                    "id_str": "1271945829230624769",
+                                    "indices": [
+                                          47,
+                                          70
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eabb_hzUwAEaxEn.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eabb_hzUwAEaxEn.jpg",
+                                    "url": "https://t.co/9Kws44bVWl",
+                                    "display_url": "pic.twitter.com/9Kws44bVWl",
+                                    "expanded_url": "https://twitter.com/GreggHoush/status/1271945834951618562/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 900,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 510,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 2048,
+                                                "h": 1536,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 537567953,
+                        "id_str": "537567953",
+                        "name": "Gregg Housh",
+                        "screen_name": "GreggHoush",
+                        "location": "GPG: 0x5B9EE576F9EF31BA",
+                        "description": "I am an activist and podcaster focused on internet freedoms, censorship, over-prosecution, Anonymous, and a lot more.",
+                        "url": "https://t.co/oQP8YJXxiL",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/oQP8YJXxiL",
+                                                "expanded_url": "https://gregghoush.com",
+                                                "display_url": "gregghoush.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 92805,
+                        "friends_count": 8733,
+                        "listed_count": 418,
+                        "created_at": "Mon Mar 26 21:15:02 +0000 2012",
+                        "favourites_count": 89268,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 26380,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/808735333579751424/lUj1pSZi_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/808735333579751424/lUj1pSZi_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/537567953/1398221358",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 6,
+                  "favorite_count": 10,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Fri Jun 05 20:21:57 +0000 2020",
+                  "id": 1269001534995488768,
+                  "id_str": "1269001534995488768",
+                  "text": "As promised, here's @CantGuardChuk's story on how he became one of @BigSkyFB's most talented receivers.\n\n\ud83d\udd17:\u2026 https://t.co/NLSeGMq1CZ",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "CantGuardChuk",
+                                    "name": "Stacy Chuk",
+                                    "id": 1150159921,
+                                    "id_str": "1150159921",
+                                    "indices": [
+                                          20,
+                                          34
+                                    ]
+                              },
+                              {
+                                    "screen_name": "BigSkyFB",
+                                    "name": "Big Sky Football",
+                                    "id": 2667250386,
+                                    "id_str": "2667250386",
+                                    "indices": [
+                                          67,
+                                          76
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/NLSeGMq1CZ",
+                                    "expanded_url": "https://twitter.com/i/web/status/1269001534995488768",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          109,
+                                          132
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 759599924,
+                        "id_str": "759599924",
+                        "name": "NAU Football",
+                        "screen_name": "NAU_Football",
+                        "location": "Flagstaff, AZ",
+                        "description": "The official Twitter account of Northern Arizona Football. #NAUStrong \u2692\ud83c\udf32\ud83c\udfc8",
+                        "url": "https://t.co/TzZQJlYuGu",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/TzZQJlYuGu",
+                                                "expanded_url": "http://www.nauathletics.com",
+                                                "display_url": "nauathletics.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 17507,
+                        "friends_count": 522,
+                        "listed_count": 75,
+                        "created_at": "Wed Aug 15 15:34:51 +0000 2012",
+                        "favourites_count": 3141,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 9958,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "131516",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1025177185747795968/1NEztHr-_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025177185747795968/1NEztHr-_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/759599924/1591660273",
+                        "profile_link_color": "009999",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 21,
+                  "favorite_count": 75,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.029,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1269001534995488767&q=%23CHOP&count=10&include_entities=1&result_type=popular",
+            "query": "%23CHOP",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

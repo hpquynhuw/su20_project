@@ -1,0 +1,1515 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Sat Jun 13 21:44:43 +0000 2020",
+                  "id": 1271921467106693121,
+                  "id_str": "1271921467106693121",
+                  "text": "SHE'S A JULIE battles to the end with @RSantana_Jr in the irons in the Ogden Phipps (G1)!\n\n@BreedersCup\u2026 https://t.co/IKbkZY1l8Z",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "RSantana_Jr",
+                                    "name": "Ricardo Santana, Jr.",
+                                    "id": 2732493515,
+                                    "id_str": "2732493515",
+                                    "indices": [
+                                          38,
+                                          50
+                                    ]
+                              },
+                              {
+                                    "screen_name": "BreedersCup",
+                                    "name": "Breeders' Cup",
+                                    "id": 29723393,
+                                    "id_str": "29723393",
+                                    "indices": [
+                                          91,
+                                          103
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/IKbkZY1l8Z",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271921467106693121",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          105,
+                                          128
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 20993036,
+                        "id_str": "20993036",
+                        "name": "NYRA",
+                        "screen_name": "TheNYRA",
+                        "location": "New York, USA",
+                        "description": "The official Twitter account for Live Racing at #Aqueduct \u2022 #Saratoga \u2022 #BelmontPark home of the @belmontstakes",
+                        "url": "https://t.co/We14dahJab",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/We14dahJab",
+                                                "expanded_url": "http://www.nyra.com",
+                                                "display_url": "nyra.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 59792,
+                        "friends_count": 1881,
+                        "listed_count": 653,
+                        "created_at": "Mon Feb 16 15:20:13 +0000 2009",
+                        "favourites_count": 15471,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 59975,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "939E9F",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1265700724761133068/9EcYCHTL_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265700724761133068/9EcYCHTL_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20993036/1590601544",
+                        "profile_link_color": "1B95E0",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "BBB9BA",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 60,
+                  "favorite_count": 197,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 22:28:41 +0000 2020",
+                  "id": 1271932533416972289,
+                  "id_str": "1271932533416972289",
+                  "text": "thought julies were cancelled when i saw \u201cshe\u2019s a julie\u201d trending lol ok logging off now https://t.co/pKQTwWiVUX",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/pKQTwWiVUX",
+                                    "expanded_url": "https://twitter.com/breederscup/status/1271924173389078528",
+                                    "display_url": "twitter.com/breederscup/st\u2026",
+                                    "indices": [
+                                          89,
+                                          112
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 47548476,
+                        "id_str": "47548476",
+                        "name": "julie",
+                        "screen_name": "juliephayer",
+                        "location": "Los Angeles",
+                        "description": "probably watching a show that was popular five years ago",
+                        "url": "https://t.co/cgESWMYesH",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/cgESWMYesH",
+                                                "expanded_url": "https://twitter.com/i/lists/1187469956826324994",
+                                                "display_url": "twitter.com/i/lists/118746\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 15589,
+                        "friends_count": 2638,
+                        "listed_count": 529,
+                        "created_at": "Tue Jun 16 05:06:07 +0000 2009",
+                        "favourites_count": 48913,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 58178,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "131516",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1261400988226732036/NMIQpqpc_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1261400988226732036/NMIQpqpc_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47548476/1586581905",
+                        "profile_link_color": "297FD5",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "2280A9",
+                        "profile_text_color": "17406C",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1271924173389078528,
+                  "quoted_status_id_str": "1271924173389078528",
+                  "quoted_status": {
+                        "created_at": "Sat Jun 13 21:55:28 +0000 2020",
+                        "id": 1271924173389078528,
+                        "id_str": "1271924173389078528",
+                        "text": "What a race! \ud83d\ude4c \n\nShe's A Julie battles to win the Ogden Phipps, a #WinAndYoureIN for the @LonginesEq #BreedersCup D\u2026 https://t.co/3ODcq1v7F0",
+                        "truncated": true,
+                        "entities": {
+                              "hashtags": [
+                                    {
+                                          "text": "WinAndYoureIN",
+                                          "indices": [
+                                                66,
+                                                80
+                                          ]
+                                    },
+                                    {
+                                          "text": "BreedersCup",
+                                          "indices": [
+                                                101,
+                                                113
+                                          ]
+                                    }
+                              ],
+                              "symbols": [],
+                              "user_mentions": [
+                                    {
+                                          "screen_name": "LonginesEq",
+                                          "name": "Longines Equestrian",
+                                          "id": 3152255205,
+                                          "id_str": "3152255205",
+                                          "indices": [
+                                                89,
+                                                100
+                                          ]
+                                    }
+                              ],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/3ODcq1v7F0",
+                                          "expanded_url": "https://twitter.com/i/web/status/1271924173389078528",
+                                          "display_url": "twitter.com/i/web/status/1\u2026",
+                                          "indices": [
+                                                117,
+                                                140
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 29723393,
+                              "id_str": "29723393",
+                              "name": "Breeders' Cup",
+                              "screen_name": "BreedersCup",
+                              "location": "New York, NY and Lexington, KY",
+                              "description": "Two-day, 14-race, year-end culmination that every \ud83d\udc0e, breeder, trainer, owner and bettor in the \ud83c\udf0d have \ud83c\udf1fin their \ud83d\uddd3! #BC20 #WinAndYoureIN #BCBC",
+                              "url": "https://t.co/DBax7eINMi",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/DBax7eINMi",
+                                                      "expanded_url": "https://www.breederscup.com",
+                                                      "display_url": "breederscup.com",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 104047,
+                              "friends_count": 6035,
+                              "listed_count": 936,
+                              "created_at": "Wed Apr 08 14:15:07 +0000 2009",
+                              "favourites_count": 27997,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": true,
+                              "verified": true,
+                              "statuses_count": 41074,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "FFFFFF",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1190814614088536072/gYKIbhvq_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190814614088536072/gYKIbhvq_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/29723393/1577981086",
+                              "profile_link_color": "512470",
+                              "profile_sidebar_border_color": "FFFFFF",
+                              "profile_sidebar_fill_color": "DDEEF6",
+                              "profile_text_color": "333333",
+                              "profile_use_background_image": false,
+                              "has_extended_profile": false,
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 19,
+                        "favorite_count": 85,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 17,
+                  "favorite_count": 92,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 21:50:32 +0000 2020",
+                  "id": 1271922930725933057,
+                  "id_str": "1271922930725933057",
+                  "text": "She\u2019s a Julie, YOU\u2019RE IN! Congratulations on the Ogden Phipps (G1) victory earning a spot in the @BreedersCup\u2026 https://t.co/FNAu0JhnME",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "BreedersCup",
+                                    "name": "Breeders' Cup",
+                                    "id": 29723393,
+                                    "id_str": "29723393",
+                                    "indices": [
+                                          97,
+                                          109
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/FNAu0JhnME",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271922930725933057",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          111,
+                                          134
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 20993036,
+                        "id_str": "20993036",
+                        "name": "NYRA",
+                        "screen_name": "TheNYRA",
+                        "location": "New York, USA",
+                        "description": "The official Twitter account for Live Racing at #Aqueduct \u2022 #Saratoga \u2022 #BelmontPark home of the @belmontstakes",
+                        "url": "https://t.co/We14dahJab",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/We14dahJab",
+                                                "expanded_url": "http://www.nyra.com",
+                                                "display_url": "nyra.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 59792,
+                        "friends_count": 1881,
+                        "listed_count": 653,
+                        "created_at": "Mon Feb 16 15:20:13 +0000 2009",
+                        "favourites_count": 15471,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 59975,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "939E9F",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1265700724761133068/9EcYCHTL_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265700724761133068/9EcYCHTL_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20993036/1590601544",
+                        "profile_link_color": "1B95E0",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "BBB9BA",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 33,
+                  "favorite_count": 172,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 21:55:28 +0000 2020",
+                  "id": 1271924173389078528,
+                  "id_str": "1271924173389078528",
+                  "text": "What a race! \ud83d\ude4c \n\nShe's A Julie battles to win the Ogden Phipps, a #WinAndYoureIN for the @LonginesEq #BreedersCup D\u2026 https://t.co/3ODcq1v7F0",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "WinAndYoureIN",
+                                    "indices": [
+                                          66,
+                                          80
+                                    ]
+                              },
+                              {
+                                    "text": "BreedersCup",
+                                    "indices": [
+                                          101,
+                                          113
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "LonginesEq",
+                                    "name": "Longines Equestrian",
+                                    "id": 3152255205,
+                                    "id_str": "3152255205",
+                                    "indices": [
+                                          89,
+                                          100
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/3ODcq1v7F0",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271924173389078528",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 29723393,
+                        "id_str": "29723393",
+                        "name": "Breeders' Cup",
+                        "screen_name": "BreedersCup",
+                        "location": "New York, NY and Lexington, KY",
+                        "description": "Two-day, 14-race, year-end culmination that every \ud83d\udc0e, breeder, trainer, owner and bettor in the \ud83c\udf0d have \ud83c\udf1fin their \ud83d\uddd3! #BC20 #WinAndYoureIN #BCBC",
+                        "url": "https://t.co/DBax7eINMi",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/DBax7eINMi",
+                                                "expanded_url": "https://www.breederscup.com",
+                                                "display_url": "breederscup.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 104047,
+                        "friends_count": 6035,
+                        "listed_count": 936,
+                        "created_at": "Wed Apr 08 14:15:07 +0000 2009",
+                        "favourites_count": 27997,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 41074,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FFFFFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1190814614088536072/gYKIbhvq_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190814614088536072/gYKIbhvq_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29723393/1577981086",
+                        "profile_link_color": "512470",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 19,
+                  "favorite_count": 85,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 21:44:39 +0000 2020",
+                  "id": 1271921450090328064,
+                  "id_str": "1271921450090328064",
+                  "text": "#3 She\u2019s a Julie wins a thrilling edition of the Ogden Phipps (G1) with @RSantana_Jr up for Steve Asmussen https://t.co/ZVz1EGsqWN",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "RSantana_Jr",
+                                    "name": "Ricardo Santana, Jr.",
+                                    "id": 2732493515,
+                                    "id_str": "2732493515",
+                                    "indices": [
+                                          72,
+                                          84
+                                    ]
+                              }
+                        ],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1271921118488588288,
+                                    "id_str": "1271921118488588288",
+                                    "indices": [
+                                          107,
+                                          130
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271921118488588288/pu/img/bFPdow9qEhLdgoxB.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271921118488588288/pu/img/bFPdow9qEhLdgoxB.jpg",
+                                    "url": "https://t.co/ZVz1EGsqWN",
+                                    "display_url": "pic.twitter.com/ZVz1EGsqWN",
+                                    "expanded_url": "https://twitter.com/TwinSpires/status/1271921450090328064/video/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 379,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 1080,
+                                                "h": 602,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1080,
+                                                "h": 602,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1271921118488588288,
+                                    "id_str": "1271921118488588288",
+                                    "indices": [
+                                          107,
+                                          130
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271921118488588288/pu/img/bFPdow9qEhLdgoxB.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271921118488588288/pu/img/bFPdow9qEhLdgoxB.jpg",
+                                    "url": "https://t.co/ZVz1EGsqWN",
+                                    "display_url": "pic.twitter.com/ZVz1EGsqWN",
+                                    "expanded_url": "https://twitter.com/TwinSpires/status/1271921450090328064/video/1",
+                                    "type": "video",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 379,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 1080,
+                                                "h": 602,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1080,
+                                                "h": 602,
+                                                "resize": "fit"
+                                          }
+                                    },
+                                    "video_info": {
+                                          "aspect_ratio": [
+                                                540,
+                                                301
+                                          ],
+                                          "duration_millis": 118388,
+                                          "variants": [
+                                                {
+                                                      "bitrate": 832000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1271921118488588288/pu/vid/644x360/voXZJSYIxpOsOmW_.mp4?tag=10"
+                                                },
+                                                {
+                                                      "bitrate": 256000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1271921118488588288/pu/vid/484x270/v8R6jGAnC4Vav0PB.mp4?tag=10"
+                                                },
+                                                {
+                                                      "bitrate": 2176000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1271921118488588288/pu/vid/1080x602/ycNYdXvYn4iNJgvv.mp4?tag=10"
+                                                },
+                                                {
+                                                      "content_type": "application/x-mpegURL",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1271921118488588288/pu/pl/_TN66I3v_tgOXBAt.m3u8?tag=10"
+                                                }
+                                          ]
+                                    },
+                                    "additional_media_info": {
+                                          "monetizable": false
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 36457488,
+                        "id_str": "36457488",
+                        "name": "TwinSpires",
+                        "screen_name": "TwinSpires",
+                        "location": "",
+                        "description": "The Official Betting Partner of the Kentucky Derby. Claim your $100 Sign-Up Bonus today.",
+                        "url": null,
+                        "entities": {
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 22599,
+                        "friends_count": 1722,
+                        "listed_count": 361,
+                        "created_at": "Wed Apr 29 19:47:20 +0000 2009",
+                        "favourites_count": 1782,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 49353,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/639861256787111936/HowtjxM6_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/639861256787111936/HowtjxM6_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36457488/1555332039",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 14,
+                  "favorite_count": 45,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 22:03:51 +0000 2020",
+                  "id": 1271926281572093953,
+                  "id_str": "1271926281572093953",
+                  "text": "FULL REPLAY: She's a Julie captures the 2020 #WinAndYoureIN Ogden Phipps, securing her spot in the @LonginesEq\u2026 https://t.co/fqC1Z1QW2u",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "WinAndYoureIN",
+                                    "indices": [
+                                          45,
+                                          59
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "LonginesEq",
+                                    "name": "Longines Equestrian",
+                                    "id": 3152255205,
+                                    "id_str": "3152255205",
+                                    "indices": [
+                                          99,
+                                          110
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/fqC1Z1QW2u",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271926281572093953",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          112,
+                                          135
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 29723393,
+                        "id_str": "29723393",
+                        "name": "Breeders' Cup",
+                        "screen_name": "BreedersCup",
+                        "location": "New York, NY and Lexington, KY",
+                        "description": "Two-day, 14-race, year-end culmination that every \ud83d\udc0e, breeder, trainer, owner and bettor in the \ud83c\udf0d have \ud83c\udf1fin their \ud83d\uddd3! #BC20 #WinAndYoureIN #BCBC",
+                        "url": "https://t.co/DBax7eINMi",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/DBax7eINMi",
+                                                "expanded_url": "https://www.breederscup.com",
+                                                "display_url": "breederscup.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 104047,
+                        "friends_count": 6035,
+                        "listed_count": 936,
+                        "created_at": "Wed Apr 08 14:15:07 +0000 2009",
+                        "favourites_count": 27997,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 41074,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FFFFFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1190814614088536072/gYKIbhvq_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190814614088536072/gYKIbhvq_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29723393/1577981086",
+                        "profile_link_color": "512470",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 10,
+                  "favorite_count": 36,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 22:55:28 +0000 2020",
+                  "id": 1271939272636010497,
+                  "id_str": "1271939272636010497",
+                  "text": "Congratulations to the connections of #WinAndYoureIN Ogden Phipps winner, She's a Julie! We'll see you in November\u2026 https://t.co/Nz0ZZA5PAQ",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "WinAndYoureIN",
+                                    "indices": [
+                                          38,
+                                          52
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/Nz0ZZA5PAQ",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271939272636010497",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          116,
+                                          139
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 29723393,
+                        "id_str": "29723393",
+                        "name": "Breeders' Cup",
+                        "screen_name": "BreedersCup",
+                        "location": "New York, NY and Lexington, KY",
+                        "description": "Two-day, 14-race, year-end culmination that every \ud83d\udc0e, breeder, trainer, owner and bettor in the \ud83c\udf0d have \ud83c\udf1fin their \ud83d\uddd3! #BC20 #WinAndYoureIN #BCBC",
+                        "url": "https://t.co/DBax7eINMi",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/DBax7eINMi",
+                                                "expanded_url": "https://www.breederscup.com",
+                                                "display_url": "breederscup.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 104047,
+                        "friends_count": 6035,
+                        "listed_count": 936,
+                        "created_at": "Wed Apr 08 14:15:07 +0000 2009",
+                        "favourites_count": 27997,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 41074,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FFFFFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1190814614088536072/gYKIbhvq_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190814614088536072/gYKIbhvq_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29723393/1577981086",
+                        "profile_link_color": "512470",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 8,
+                  "favorite_count": 33,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 22:05:51 +0000 2020",
+                  "id": 1271926785832189952,
+                  "id_str": "1271926785832189952",
+                  "text": "\ud83d\udd12 Lock it in. #WinAndYoureIN \n\nShe's a Julie wins the Ogden Phipps Stakes and books a @LonginesEq @BreedersCup Dist\u2026 https://t.co/Psymmn5uXO",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "WinAndYoureIN",
+                                    "indices": [
+                                          14,
+                                          28
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "LonginesEq",
+                                    "name": "Longines Equestrian",
+                                    "id": 3152255205,
+                                    "id_str": "3152255205",
+                                    "indices": [
+                                          86,
+                                          97
+                                    ]
+                              },
+                              {
+                                    "screen_name": "BreedersCup",
+                                    "name": "Breeders' Cup",
+                                    "id": 29723393,
+                                    "id_str": "29723393",
+                                    "indices": [
+                                          98,
+                                          110
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/Psymmn5uXO",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271926785832189952",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 791927201931337728,
+                        "id_str": "791927201931337728",
+                        "name": "World Horse Racing",
+                        "screen_name": "WHR",
+                        "location": "Global",
+                        "description": "Your access-all-areas pass to the world's greatest racing festivals.\nDM us your favourite photos, behind-the-scenes videos & fan art to feature. #WHRStablemates",
+                        "url": null,
+                        "entities": {
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 29777,
+                        "friends_count": 1207,
+                        "listed_count": 192,
+                        "created_at": "Fri Oct 28 08:58:53 +0000 2016",
+                        "favourites_count": 23144,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 10487,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1265154123621527553/YygJPOMK_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265154123621527553/YygJPOMK_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/791927201931337728/1584632964",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 8,
+                  "favorite_count": 32,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 21:47:04 +0000 2020",
+                  "id": 1271922058885292032,
+                  "id_str": "1271922058885292032",
+                  "text": "SHE'S A JULIE is IN the @LonginesEq #BreedersCup Distaff! \n\n#WinAndYoureIN #WAYI https://t.co/SyMGJTA5Qy",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "BreedersCup",
+                                    "indices": [
+                                          36,
+                                          48
+                                    ]
+                              },
+                              {
+                                    "text": "WinAndYoureIN",
+                                    "indices": [
+                                          60,
+                                          74
+                                    ]
+                              },
+                              {
+                                    "text": "WAYI",
+                                    "indices": [
+                                          75,
+                                          80
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "LonginesEq",
+                                    "name": "Longines Equestrian",
+                                    "id": 3152255205,
+                                    "id_str": "3152255205",
+                                    "indices": [
+                                          24,
+                                          35
+                                    ]
+                              }
+                        ],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1271921996260093958,
+                                    "id_str": "1271921996260093958",
+                                    "indices": [
+                                          81,
+                                          104
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EabGUREWsAYQIZf.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EabGUREWsAYQIZf.jpg",
+                                    "url": "https://t.co/SyMGJTA5Qy",
+                                    "display_url": "pic.twitter.com/SyMGJTA5Qy",
+                                    "expanded_url": "https://twitter.com/BreedersCup/status/1271922058885292032/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "medium": {
+                                                "w": 1000,
+                                                "h": 500,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 340,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1000,
+                                                "h": 500,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1271921996260093958,
+                                    "id_str": "1271921996260093958",
+                                    "indices": [
+                                          81,
+                                          104
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EabGUREWsAYQIZf.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EabGUREWsAYQIZf.jpg",
+                                    "url": "https://t.co/SyMGJTA5Qy",
+                                    "display_url": "pic.twitter.com/SyMGJTA5Qy",
+                                    "expanded_url": "https://twitter.com/BreedersCup/status/1271922058885292032/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "medium": {
+                                                "w": 1000,
+                                                "h": 500,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 340,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1000,
+                                                "h": 500,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 29723393,
+                        "id_str": "29723393",
+                        "name": "Breeders' Cup",
+                        "screen_name": "BreedersCup",
+                        "location": "New York, NY and Lexington, KY",
+                        "description": "Two-day, 14-race, year-end culmination that every \ud83d\udc0e, breeder, trainer, owner and bettor in the \ud83c\udf0d have \ud83c\udf1fin their \ud83d\uddd3! #BC20 #WinAndYoureIN #BCBC",
+                        "url": "https://t.co/DBax7eINMi",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/DBax7eINMi",
+                                                "expanded_url": "https://www.breederscup.com",
+                                                "display_url": "breederscup.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 104047,
+                        "friends_count": 6035,
+                        "listed_count": 936,
+                        "created_at": "Wed Apr 08 14:15:07 +0000 2009",
+                        "favourites_count": 27997,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 41074,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FFFFFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1190814614088536072/gYKIbhvq_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190814614088536072/gYKIbhvq_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29723393/1577981086",
+                        "profile_link_color": "512470",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 11,
+                  "favorite_count": 36,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 22:45:31 +0000 2020",
+                  "id": 1271936768548446210,
+                  "id_str": "1271936768548446210",
+                  "text": "She's a Julie gave it her all to win by a nose in the Ogden Phipps, a #WinAndYoureIN for the @LonginesEq\u2026 https://t.co/YoOvSwuLvN",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "WinAndYoureIN",
+                                    "indices": [
+                                          70,
+                                          84
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "LonginesEq",
+                                    "name": "Longines Equestrian",
+                                    "id": 3152255205,
+                                    "id_str": "3152255205",
+                                    "indices": [
+                                          93,
+                                          104
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/YoOvSwuLvN",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271936768548446210",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          106,
+                                          129
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 29723393,
+                        "id_str": "29723393",
+                        "name": "Breeders' Cup",
+                        "screen_name": "BreedersCup",
+                        "location": "New York, NY and Lexington, KY",
+                        "description": "Two-day, 14-race, year-end culmination that every \ud83d\udc0e, breeder, trainer, owner and bettor in the \ud83c\udf0d have \ud83c\udf1fin their \ud83d\uddd3! #BC20 #WinAndYoureIN #BCBC",
+                        "url": "https://t.co/DBax7eINMi",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/DBax7eINMi",
+                                                "expanded_url": "https://www.breederscup.com",
+                                                "display_url": "breederscup.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 104047,
+                        "friends_count": 6035,
+                        "listed_count": 936,
+                        "created_at": "Wed Apr 08 14:15:07 +0000 2009",
+                        "favourites_count": 27997,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 41074,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FFFFFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1190814614088536072/gYKIbhvq_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190814614088536072/gYKIbhvq_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29723393/1577981086",
+                        "profile_link_color": "512470",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 5,
+                  "favorite_count": 13,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.039,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1271921450090328063&q=%22She%27s%20a%20Julie%22&count=10&include_entities=1&result_type=popular",
+            "query": "%22She%27s+a+Julie%22",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

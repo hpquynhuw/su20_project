@@ -1,0 +1,1601 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Fri Jun 12 20:38:28 +0000 2020",
+                  "id": 1271542405456703489,
+                  "id_str": "1271542405456703489",
+                  "text": "Spread across two weeks, round one of the Ultimate Rap League\u2019s battle rap series delivered raw, gritty lyricism fr\u2026 https://t.co/5CbN7In4Vj",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/5CbN7In4Vj",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271542405456703489",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 13049362,
+                        "id_str": "13049362",
+                        "name": "Complex",
+                        "screen_name": "Complex",
+                        "location": "New York",
+                        "description": "Making Culture Pop.",
+                        "url": "https://t.co/jPEji9tZYr",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/jPEji9tZYr",
+                                                "expanded_url": "http://www.complex.com",
+                                                "display_url": "complex.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 2261962,
+                        "friends_count": 734,
+                        "listed_count": 7933,
+                        "created_at": "Mon Feb 04 14:34:39 +0000 2008",
+                        "favourites_count": 26927,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 340309,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": true,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/839858358920310785/JVgCbSHx_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/839858358920310785/JVgCbSHx_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13049362/1591156909",
+                        "profile_link_color": "FF0000",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "F2F2F2",
+                        "profile_text_color": "787878",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 49,
+                  "favorite_count": 238,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 19:07:36 +0000 2020",
+                  "id": 1271881925490327552,
+                  "id_str": "1271881925490327552",
+                  "text": "Make sure y\u2019all tune in today for the 2nd RD of #UltimateMadness where Ace Amin faces @BrooklynHanz for a chance at\u2026 https://t.co/uw7qP4JeKk",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "UltimateMadness",
+                                    "indices": [
+                                          48,
+                                          64
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "BrooklynHanz",
+                                    "name": "HANZ",
+                                    "id": 118610519,
+                                    "id_str": "118610519",
+                                    "indices": [
+                                          86,
+                                          99
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/uw7qP4JeKk",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271881925490327552",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 82923436,
+                        "id_str": "82923436",
+                        "name": "Ultimate Rap League",
+                        "screen_name": "urltv",
+                        "location": "EVERYWHERE",
+                        "description": "THE WORLDS MOST RESPECTED BATTLE LEAGUE | WORLD WIDE LEADERS | #youcantcopyrespect",
+                        "url": "https://t.co/Jvzum7pWyS",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/Jvzum7pWyS",
+                                                "expanded_url": "http://urltv.tv",
+                                                "display_url": "urltv.tv",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 138311,
+                        "friends_count": 684,
+                        "listed_count": 567,
+                        "created_at": "Fri Oct 16 17:01:59 +0000 2009",
+                        "favourites_count": 7423,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 26980,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1192170666721710082/upmTB81h_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192170666721710082/upmTB81h_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82923436/1586355684",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 11,
+                  "favorite_count": 19,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 19:36:17 +0000 2020",
+                  "id": 1271889145280028676,
+                  "id_str": "1271889145280028676",
+                  "text": "#UltimateMadness Round 2. GOING DOWN 4PM EST!!!\n\nLock In: https://t.co/S2Lbepo7W4 https://t.co/I49ATLDNfP",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "UltimateMadness",
+                                    "indices": [
+                                          0,
+                                          16
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/S2Lbepo7W4",
+                                    "expanded_url": "http://caf.tv/URLTV",
+                                    "display_url": "caf.tv/URLTV",
+                                    "indices": [
+                                          58,
+                                          81
+                                    ]
+                              }
+                        ],
+                        "media": [
+                              {
+                                    "id": 1271889141303857152,
+                                    "id_str": "1271889141303857152",
+                                    "indices": [
+                                          82,
+                                          105
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eaaob20X0AAHPvC.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eaaob20X0AAHPvC.jpg",
+                                    "url": "https://t.co/I49ATLDNfP",
+                                    "display_url": "pic.twitter.com/I49ATLDNfP",
+                                    "expanded_url": "https://twitter.com/urltv/status/1271889145280028676/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "medium": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "large": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1271889141303857152,
+                                    "id_str": "1271889141303857152",
+                                    "indices": [
+                                          82,
+                                          105
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eaaob20X0AAHPvC.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eaaob20X0AAHPvC.jpg",
+                                    "url": "https://t.co/I49ATLDNfP",
+                                    "display_url": "pic.twitter.com/I49ATLDNfP",
+                                    "expanded_url": "https://twitter.com/urltv/status/1271889145280028676/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "medium": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "large": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              },
+                              {
+                                    "id": 1271889141303840771,
+                                    "id_str": "1271889141303840771",
+                                    "indices": [
+                                          82,
+                                          105
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eaaob20XkAM7P4q.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eaaob20XkAM7P4q.jpg",
+                                    "url": "https://t.co/I49ATLDNfP",
+                                    "display_url": "pic.twitter.com/I49ATLDNfP",
+                                    "expanded_url": "https://twitter.com/urltv/status/1271889145280028676/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "large": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              },
+                              {
+                                    "id": 1271889141307973632,
+                                    "id_str": "1271889141307973632",
+                                    "indices": [
+                                          82,
+                                          105
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eaaob21WoAAaqQ_.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eaaob21WoAAaqQ_.jpg",
+                                    "url": "https://t.co/I49ATLDNfP",
+                                    "display_url": "pic.twitter.com/I49ATLDNfP",
+                                    "expanded_url": "https://twitter.com/urltv/status/1271889145280028676/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "small": {
+                                                "w": 680,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              },
+                              {
+                                    "id": 1271889141316440066,
+                                    "id_str": "1271889141316440066",
+                                    "indices": [
+                                          82,
+                                          105
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eaaob23X0AIra4v.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eaaob23X0AIra4v.jpg",
+                                    "url": "https://t.co/I49ATLDNfP",
+                                    "display_url": "pic.twitter.com/I49ATLDNfP",
+                                    "expanded_url": "https://twitter.com/urltv/status/1271889145280028676/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 82923436,
+                        "id_str": "82923436",
+                        "name": "Ultimate Rap League",
+                        "screen_name": "urltv",
+                        "location": "EVERYWHERE",
+                        "description": "THE WORLDS MOST RESPECTED BATTLE LEAGUE | WORLD WIDE LEADERS | #youcantcopyrespect",
+                        "url": "https://t.co/Jvzum7pWyS",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/Jvzum7pWyS",
+                                                "expanded_url": "http://urltv.tv",
+                                                "display_url": "urltv.tv",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 138311,
+                        "friends_count": 684,
+                        "listed_count": 567,
+                        "created_at": "Fri Oct 16 17:01:59 +0000 2009",
+                        "favourites_count": 7423,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 26980,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1192170666721710082/upmTB81h_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192170666721710082/upmTB81h_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82923436/1586355684",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 13,
+                  "favorite_count": 34,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 22:29:19 +0000 2020",
+                  "id": 1271932691487883266,
+                  "id_str": "1271932691487883266",
+                  "text": "#UltimateMadness | @JeyTheNitewing WON! | #youcantcopyrespect https://t.co/lNVG0RYiRT",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "UltimateMadness",
+                                    "indices": [
+                                          0,
+                                          16
+                                    ]
+                              },
+                              {
+                                    "text": "youcantcopyrespect",
+                                    "indices": [
+                                          42,
+                                          61
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "JeyTheNitewing",
+                                    "name": "MadKing",
+                                    "id": 730193101545840640,
+                                    "id_str": "730193101545840640",
+                                    "indices": [
+                                          19,
+                                          34
+                                    ]
+                              }
+                        ],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1271932687767482369,
+                                    "id_str": "1271932687767482369",
+                                    "indices": [
+                                          62,
+                                          85
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EabQCmCWsAEsu5L.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EabQCmCWsAEsu5L.jpg",
+                                    "url": "https://t.co/lNVG0RYiRT",
+                                    "display_url": "pic.twitter.com/lNVG0RYiRT",
+                                    "expanded_url": "https://twitter.com/urltv/status/1271932691487883266/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1271932687767482369,
+                                    "id_str": "1271932687767482369",
+                                    "indices": [
+                                          62,
+                                          85
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EabQCmCWsAEsu5L.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EabQCmCWsAEsu5L.jpg",
+                                    "url": "https://t.co/lNVG0RYiRT",
+                                    "display_url": "pic.twitter.com/lNVG0RYiRT",
+                                    "expanded_url": "https://twitter.com/urltv/status/1271932691487883266/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "iso_language_code": "und",
+                        "result_type": "popular"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 82923436,
+                        "id_str": "82923436",
+                        "name": "Ultimate Rap League",
+                        "screen_name": "urltv",
+                        "location": "EVERYWHERE",
+                        "description": "THE WORLDS MOST RESPECTED BATTLE LEAGUE | WORLD WIDE LEADERS | #youcantcopyrespect",
+                        "url": "https://t.co/Jvzum7pWyS",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/Jvzum7pWyS",
+                                                "expanded_url": "http://urltv.tv",
+                                                "display_url": "urltv.tv",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 138311,
+                        "friends_count": 684,
+                        "listed_count": 567,
+                        "created_at": "Fri Oct 16 17:01:59 +0000 2009",
+                        "favourites_count": 7423,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 26980,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1192170666721710082/upmTB81h_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192170666721710082/upmTB81h_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82923436/1586355684",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 13,
+                  "favorite_count": 53,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "und"
+            },
+            {
+                  "created_at": "Sat Jun 13 20:58:51 +0000 2020",
+                  "id": 1271909925904580608,
+                  "id_str": "1271909925904580608",
+                  "text": "#UltimateMadness | @FonzHTC WON! | #youcantcopyrespect https://t.co/nhDBCPUMxl",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "UltimateMadness",
+                                    "indices": [
+                                          0,
+                                          16
+                                    ]
+                              },
+                              {
+                                    "text": "youcantcopyrespect",
+                                    "indices": [
+                                          35,
+                                          54
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "FonzHTC",
+                                    "name": "LORDOFDALAND",
+                                    "id": 467848230,
+                                    "id_str": "467848230",
+                                    "indices": [
+                                          19,
+                                          27
+                                    ]
+                              }
+                        ],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1271909916408758272,
+                                    "id_str": "1271909916408758272",
+                                    "indices": [
+                                          55,
+                                          78
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eaa7VIHXQAAHcpB.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eaa7VIHXQAAHcpB.jpg",
+                                    "url": "https://t.co/nhDBCPUMxl",
+                                    "display_url": "pic.twitter.com/nhDBCPUMxl",
+                                    "expanded_url": "https://twitter.com/urltv/status/1271909925904580608/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1271909916408758272,
+                                    "id_str": "1271909916408758272",
+                                    "indices": [
+                                          55,
+                                          78
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eaa7VIHXQAAHcpB.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eaa7VIHXQAAHcpB.jpg",
+                                    "url": "https://t.co/nhDBCPUMxl",
+                                    "display_url": "pic.twitter.com/nhDBCPUMxl",
+                                    "expanded_url": "https://twitter.com/urltv/status/1271909925904580608/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "iso_language_code": "und",
+                        "result_type": "popular"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 82923436,
+                        "id_str": "82923436",
+                        "name": "Ultimate Rap League",
+                        "screen_name": "urltv",
+                        "location": "EVERYWHERE",
+                        "description": "THE WORLDS MOST RESPECTED BATTLE LEAGUE | WORLD WIDE LEADERS | #youcantcopyrespect",
+                        "url": "https://t.co/Jvzum7pWyS",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/Jvzum7pWyS",
+                                                "expanded_url": "http://urltv.tv",
+                                                "display_url": "urltv.tv",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 138311,
+                        "friends_count": 684,
+                        "listed_count": 567,
+                        "created_at": "Fri Oct 16 17:01:59 +0000 2009",
+                        "favourites_count": 7423,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 26980,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1192170666721710082/upmTB81h_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192170666721710082/upmTB81h_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82923436/1586355684",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 8,
+                  "favorite_count": 15,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "und"
+            },
+            {
+                  "created_at": "Sat Jun 13 21:49:04 +0000 2020",
+                  "id": 1271922560897298432,
+                  "id_str": "1271922560897298432",
+                  "text": "#UltimateMadness | @aceamin23 WON! | #youcantcopyrespect https://t.co/nPHCcCGACl",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "UltimateMadness",
+                                    "indices": [
+                                          0,
+                                          16
+                                    ]
+                              },
+                              {
+                                    "text": "youcantcopyrespect",
+                                    "indices": [
+                                          37,
+                                          56
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "aceamin23",
+                                    "name": "ALL promo, no bars----Weapon X",
+                                    "id": 829161096175038464,
+                                    "id_str": "829161096175038464",
+                                    "indices": [
+                                          19,
+                                          29
+                                    ]
+                              }
+                        ],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1271922556958842881,
+                                    "id_str": "1271922556958842881",
+                                    "indices": [
+                                          57,
+                                          80
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EabG051WoAErKe4.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EabG051WoAErKe4.jpg",
+                                    "url": "https://t.co/nPHCcCGACl",
+                                    "display_url": "pic.twitter.com/nPHCcCGACl",
+                                    "expanded_url": "https://twitter.com/urltv/status/1271922560897298432/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1271922556958842881,
+                                    "id_str": "1271922556958842881",
+                                    "indices": [
+                                          57,
+                                          80
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EabG051WoAErKe4.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EabG051WoAErKe4.jpg",
+                                    "url": "https://t.co/nPHCcCGACl",
+                                    "display_url": "pic.twitter.com/nPHCcCGACl",
+                                    "expanded_url": "https://twitter.com/urltv/status/1271922560897298432/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1080,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "iso_language_code": "und",
+                        "result_type": "popular"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 82923436,
+                        "id_str": "82923436",
+                        "name": "Ultimate Rap League",
+                        "screen_name": "urltv",
+                        "location": "EVERYWHERE",
+                        "description": "THE WORLDS MOST RESPECTED BATTLE LEAGUE | WORLD WIDE LEADERS | #youcantcopyrespect",
+                        "url": "https://t.co/Jvzum7pWyS",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/Jvzum7pWyS",
+                                                "expanded_url": "http://urltv.tv",
+                                                "display_url": "urltv.tv",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 138311,
+                        "friends_count": 684,
+                        "listed_count": 567,
+                        "created_at": "Fri Oct 16 17:01:59 +0000 2009",
+                        "favourites_count": 7423,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 26980,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1192170666721710082/upmTB81h_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192170666721710082/upmTB81h_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82923436/1586355684",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 9,
+                  "favorite_count": 17,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "und"
+            },
+            {
+                  "created_at": "Sat Jun 13 18:11:47 +0000 2020",
+                  "id": 1271867879957331972,
+                  "id_str": "1271867879957331972",
+                  "text": "#UltimateMadness Round 2 | @FonzHTC VS @Eazyblockcapt | THE MADNESS CONTINUES TODAY!! - 4PM EST On @caffeine | Keep\u2026 https://t.co/qfZqpFfVS2",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "UltimateMadness",
+                                    "indices": [
+                                          0,
+                                          16
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "FonzHTC",
+                                    "name": "LORDOFDALAND",
+                                    "id": 467848230,
+                                    "id_str": "467848230",
+                                    "indices": [
+                                          27,
+                                          35
+                                    ]
+                              },
+                              {
+                                    "screen_name": "Eazyblockcapt",
+                                    "name": "EazytheBlockCaptain",
+                                    "id": 300853082,
+                                    "id_str": "300853082",
+                                    "indices": [
+                                          39,
+                                          53
+                                    ]
+                              },
+                              {
+                                    "screen_name": "caffeine",
+                                    "name": "Caffeine",
+                                    "id": 763109536957730816,
+                                    "id_str": "763109536957730816",
+                                    "indices": [
+                                          99,
+                                          108
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/qfZqpFfVS2",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271867879957331972",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 82923436,
+                        "id_str": "82923436",
+                        "name": "Ultimate Rap League",
+                        "screen_name": "urltv",
+                        "location": "EVERYWHERE",
+                        "description": "THE WORLDS MOST RESPECTED BATTLE LEAGUE | WORLD WIDE LEADERS | #youcantcopyrespect",
+                        "url": "https://t.co/Jvzum7pWyS",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/Jvzum7pWyS",
+                                                "expanded_url": "http://urltv.tv",
+                                                "display_url": "urltv.tv",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 138311,
+                        "friends_count": 684,
+                        "listed_count": 567,
+                        "created_at": "Fri Oct 16 17:01:59 +0000 2009",
+                        "favourites_count": 7423,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 26980,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1192170666721710082/upmTB81h_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192170666721710082/upmTB81h_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82923436/1586355684",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 7,
+                  "favorite_count": 14,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Thu Jun 11 20:33:34 +0000 2020",
+                  "id": 1271178786541797377,
+                  "id_str": "1271178786541797377",
+                  "text": "#UltimateMadness \n\n@YourHonor202 vs @Ru_Bando \n@FonzHTC vs @Eazyblockcapt \n@WhyNotCastro vs @JeyTheNitewing\u2026 https://t.co/qSfx8Q9kdm",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "UltimateMadness",
+                                    "indices": [
+                                          0,
+                                          16
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "YourHonor202",
+                                    "name": "YourHonor",
+                                    "id": 1100208084427907072,
+                                    "id_str": "1100208084427907072",
+                                    "indices": [
+                                          19,
+                                          32
+                                    ]
+                              },
+                              {
+                                    "screen_name": "Ru_Bando",
+                                    "name": "RuBando \ud83e\udd4a",
+                                    "id": 1203385756854767617,
+                                    "id_str": "1203385756854767617",
+                                    "indices": [
+                                          36,
+                                          45
+                                    ]
+                              },
+                              {
+                                    "screen_name": "FonzHTC",
+                                    "name": "LORDOFDALAND",
+                                    "id": 467848230,
+                                    "id_str": "467848230",
+                                    "indices": [
+                                          47,
+                                          55
+                                    ]
+                              },
+                              {
+                                    "screen_name": "Eazyblockcapt",
+                                    "name": "EazytheBlockCaptain",
+                                    "id": 300853082,
+                                    "id_str": "300853082",
+                                    "indices": [
+                                          59,
+                                          73
+                                    ]
+                              },
+                              {
+                                    "screen_name": "WhyNotCastro",
+                                    "name": "A Man Has No Name \ud83d\udc64",
+                                    "id": 137156548,
+                                    "id_str": "137156548",
+                                    "indices": [
+                                          75,
+                                          88
+                                    ]
+                              },
+                              {
+                                    "screen_name": "JeyTheNitewing",
+                                    "name": "MadKing",
+                                    "id": 730193101545840640,
+                                    "id_str": "730193101545840640",
+                                    "indices": [
+                                          92,
+                                          107
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/qSfx8Q9kdm",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271178786541797377",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          109,
+                                          132
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 82923436,
+                        "id_str": "82923436",
+                        "name": "Ultimate Rap League",
+                        "screen_name": "urltv",
+                        "location": "EVERYWHERE",
+                        "description": "THE WORLDS MOST RESPECTED BATTLE LEAGUE | WORLD WIDE LEADERS | #youcantcopyrespect",
+                        "url": "https://t.co/Jvzum7pWyS",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/Jvzum7pWyS",
+                                                "expanded_url": "http://urltv.tv",
+                                                "display_url": "urltv.tv",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 138311,
+                        "friends_count": 684,
+                        "listed_count": 567,
+                        "created_at": "Fri Oct 16 17:01:59 +0000 2009",
+                        "favourites_count": 7423,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 26980,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1192170666721710082/upmTB81h_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192170666721710082/upmTB81h_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82923436/1586355684",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 14,
+                  "favorite_count": 34,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 06 16:57:08 +0000 2020",
+                  "id": 1269312378866466816,
+                  "id_str": "1269312378866466816",
+                  "text": "We back at it #UltimateMadness week 3/wildcard weekend, featuring @KidChaosMIA vs @RealSikh99, @Squeako757 vs\u2026 https://t.co/EpjrqRkUc2",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "UltimateMadness",
+                                    "indices": [
+                                          14,
+                                          30
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "KidChaosMIA",
+                                    "name": "Chaos. God energy",
+                                    "id": 1228393465,
+                                    "id_str": "1228393465",
+                                    "indices": [
+                                          66,
+                                          78
+                                    ]
+                              },
+                              {
+                                    "screen_name": "RealSikh99",
+                                    "name": "Real Sikh",
+                                    "id": 119909436,
+                                    "id_str": "119909436",
+                                    "indices": [
+                                          82,
+                                          93
+                                    ]
+                              },
+                              {
+                                    "screen_name": "Squeako757",
+                                    "name": "Squeako757",
+                                    "id": 320955205,
+                                    "id_str": "320955205",
+                                    "indices": [
+                                          95,
+                                          106
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/EpjrqRkUc2",
+                                    "expanded_url": "https://twitter.com/i/web/status/1269312378866466816",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          111,
+                                          134
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 82923436,
+                        "id_str": "82923436",
+                        "name": "Ultimate Rap League",
+                        "screen_name": "urltv",
+                        "location": "EVERYWHERE",
+                        "description": "THE WORLDS MOST RESPECTED BATTLE LEAGUE | WORLD WIDE LEADERS | #youcantcopyrespect",
+                        "url": "https://t.co/Jvzum7pWyS",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/Jvzum7pWyS",
+                                                "expanded_url": "http://urltv.tv",
+                                                "display_url": "urltv.tv",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 138311,
+                        "friends_count": 684,
+                        "listed_count": 567,
+                        "created_at": "Fri Oct 16 17:01:59 +0000 2009",
+                        "favourites_count": 7423,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 26980,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1192170666721710082/upmTB81h_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192170666721710082/upmTB81h_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82923436/1586355684",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 30,
+                  "favorite_count": 55,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.034,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1269312378866466815&q=%23UltimateMadness&count=10&include_entities=1&result_type=popular",
+            "query": "%23UltimateMadness",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

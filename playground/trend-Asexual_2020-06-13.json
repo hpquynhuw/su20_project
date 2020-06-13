@@ -1,0 +1,1578 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Sat Jun 13 22:14:34 +0000 2020",
+                  "id": 1271928979054710785,
+                  "id_str": "1271928979054710785",
+                  "text": "asexual spongebob is a queer icon https://t.co/IhqkN4lt5O",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/IhqkN4lt5O",
+                                    "expanded_url": "https://twitter.com/nickelodeon/status/1271795092391682048",
+                                    "display_url": "twitter.com/nickelodeon/st\u2026",
+                                    "indices": [
+                                          34,
+                                          57
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 14222536,
+                        "id_str": "14222536",
+                        "name": "tyler oakley",
+                        "screen_name": "tyleroakley",
+                        "location": "business: lisa@select.co",
+                        "description": "chaotic internet oversharer (\ud83c\udfa4 pop-culture podcast every tuesday: @psychobabble) (\ud83c\udfcb\ud83c\udffc fitness IGTV every monday: https://t.co/ezW18KXmJJ)",
+                        "url": "https://t.co/TQ2MZkOAD6",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/TQ2MZkOAD6",
+                                                "expanded_url": "https://youtube.com/tyleroakley",
+                                                "display_url": "youtube.com/tyleroakley",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/ezW18KXmJJ",
+                                                "expanded_url": "http://Instagram.com/tyleroakley",
+                                                "display_url": "Instagram.com/tyleroakley",
+                                                "indices": [
+                                                      112,
+                                                      135
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 5834689,
+                        "friends_count": 769,
+                        "listed_count": 9123,
+                        "created_at": "Wed Mar 26 03:20:33 +0000 2008",
+                        "favourites_count": 357394,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 62792,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1245837876174008320/DPGKQRWh_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245837876174008320/DPGKQRWh_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14222536/1563995110",
+                        "profile_link_color": "ABB8C2",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1271795092391682048,
+                  "quoted_status_id_str": "1271795092391682048",
+                  "quoted_status": {
+                        "created_at": "Sat Jun 13 13:22:33 +0000 2020",
+                        "id": 1271795092391682048,
+                        "id_str": "1271795092391682048",
+                        "text": "Celebrating #Pride with the LGBTQ+ community and their allies this month and every month \ud83c\udf08 \u2063\n(\ud83c\udfa8: by @ramzymasri) https://t.co/pENmTaQB0h",
+                        "truncated": false,
+                        "entities": {
+                              "hashtags": [
+                                    {
+                                          "text": "Pride",
+                                          "indices": [
+                                                12,
+                                                18
+                                          ]
+                                    }
+                              ],
+                              "symbols": [],
+                              "user_mentions": [
+                                    {
+                                          "screen_name": "ramzymasri",
+                                          "name": "Ramzy Masri",
+                                          "id": 20928413,
+                                          "id_str": "20928413",
+                                          "indices": [
+                                                100,
+                                                111
+                                          ]
+                                    }
+                              ],
+                              "urls": [],
+                              "media": [
+                                    {
+                                          "id": 1271794901278232576,
+                                          "id_str": "1271794901278232576",
+                                          "indices": [
+                                                113,
+                                                136
+                                          ],
+                                          "media_url": "http://pbs.twimg.com/media/EaZSuXXXkAAMtJ5.jpg",
+                                          "media_url_https": "https://pbs.twimg.com/media/EaZSuXXXkAAMtJ5.jpg",
+                                          "url": "https://t.co/pENmTaQB0h",
+                                          "display_url": "pic.twitter.com/pENmTaQB0h",
+                                          "expanded_url": "https://twitter.com/Nickelodeon/status/1271795092391682048/photo/1",
+                                          "type": "photo",
+                                          "sizes": {
+                                                "thumb": {
+                                                      "w": 150,
+                                                      "h": 150,
+                                                      "resize": "crop"
+                                                },
+                                                "small": {
+                                                      "w": 544,
+                                                      "h": 680,
+                                                      "resize": "fit"
+                                                },
+                                                "large": {
+                                                      "w": 1638,
+                                                      "h": 2048,
+                                                      "resize": "fit"
+                                                },
+                                                "medium": {
+                                                      "w": 960,
+                                                      "h": 1200,
+                                                      "resize": "fit"
+                                                }
+                                          }
+                                    }
+                              ]
+                        },
+                        "extended_entities": {
+                              "media": [
+                                    {
+                                          "id": 1271794901278232576,
+                                          "id_str": "1271794901278232576",
+                                          "indices": [
+                                                113,
+                                                136
+                                          ],
+                                          "media_url": "http://pbs.twimg.com/media/EaZSuXXXkAAMtJ5.jpg",
+                                          "media_url_https": "https://pbs.twimg.com/media/EaZSuXXXkAAMtJ5.jpg",
+                                          "url": "https://t.co/pENmTaQB0h",
+                                          "display_url": "pic.twitter.com/pENmTaQB0h",
+                                          "expanded_url": "https://twitter.com/Nickelodeon/status/1271795092391682048/photo/1",
+                                          "type": "photo",
+                                          "sizes": {
+                                                "thumb": {
+                                                      "w": 150,
+                                                      "h": 150,
+                                                      "resize": "crop"
+                                                },
+                                                "small": {
+                                                      "w": 544,
+                                                      "h": 680,
+                                                      "resize": "fit"
+                                                },
+                                                "large": {
+                                                      "w": 1638,
+                                                      "h": 2048,
+                                                      "resize": "fit"
+                                                },
+                                                "medium": {
+                                                      "w": 960,
+                                                      "h": 1200,
+                                                      "resize": "fit"
+                                                }
+                                          }
+                                    },
+                                    {
+                                          "id": 1271794943619665921,
+                                          "id_str": "1271794943619665921",
+                                          "indices": [
+                                                113,
+                                                136
+                                          ],
+                                          "media_url": "http://pbs.twimg.com/media/EaZSw1GWkAEycSc.jpg",
+                                          "media_url_https": "https://pbs.twimg.com/media/EaZSw1GWkAEycSc.jpg",
+                                          "url": "https://t.co/pENmTaQB0h",
+                                          "display_url": "pic.twitter.com/pENmTaQB0h",
+                                          "expanded_url": "https://twitter.com/Nickelodeon/status/1271795092391682048/photo/1",
+                                          "type": "photo",
+                                          "sizes": {
+                                                "thumb": {
+                                                      "w": 150,
+                                                      "h": 150,
+                                                      "resize": "crop"
+                                                },
+                                                "small": {
+                                                      "w": 544,
+                                                      "h": 680,
+                                                      "resize": "fit"
+                                                },
+                                                "large": {
+                                                      "w": 1638,
+                                                      "h": 2048,
+                                                      "resize": "fit"
+                                                },
+                                                "medium": {
+                                                      "w": 960,
+                                                      "h": 1200,
+                                                      "resize": "fit"
+                                                }
+                                          }
+                                    },
+                                    {
+                                          "id": 1271794982307930117,
+                                          "id_str": "1271794982307930117",
+                                          "indices": [
+                                                113,
+                                                136
+                                          ],
+                                          "media_url": "http://pbs.twimg.com/media/EaZSzFOWoAUyD3X.jpg",
+                                          "media_url_https": "https://pbs.twimg.com/media/EaZSzFOWoAUyD3X.jpg",
+                                          "url": "https://t.co/pENmTaQB0h",
+                                          "display_url": "pic.twitter.com/pENmTaQB0h",
+                                          "expanded_url": "https://twitter.com/Nickelodeon/status/1271795092391682048/photo/1",
+                                          "type": "photo",
+                                          "sizes": {
+                                                "thumb": {
+                                                      "w": 150,
+                                                      "h": 150,
+                                                      "resize": "crop"
+                                                },
+                                                "small": {
+                                                      "w": 544,
+                                                      "h": 680,
+                                                      "resize": "fit"
+                                                },
+                                                "large": {
+                                                      "w": 1638,
+                                                      "h": 2048,
+                                                      "resize": "fit"
+                                                },
+                                                "medium": {
+                                                      "w": 960,
+                                                      "h": 1200,
+                                                      "resize": "fit"
+                                                }
+                                          }
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 58309829,
+                              "id_str": "58309829",
+                              "name": "Nickelodeon",
+                              "screen_name": "Nickelodeon",
+                              "location": "USA",
+                              "description": "The Official Twitter for Nickelodeon, USA!",
+                              "url": "https://t.co/Lz9i6LdC4f",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/Lz9i6LdC4f",
+                                                      "expanded_url": "http://www.nick.com",
+                                                      "display_url": "nick.com",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 3894917,
+                              "friends_count": 2654,
+                              "listed_count": 3415,
+                              "created_at": "Sun Jul 19 22:19:02 +0000 2009",
+                              "favourites_count": 22179,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": true,
+                              "verified": true,
+                              "statuses_count": 55858,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": true,
+                              "profile_background_color": "FA743E",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1238193190806708225/5kudmyGR_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238193190806708225/5kudmyGR_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/58309829/1589224376",
+                              "profile_link_color": "D1771E",
+                              "profile_sidebar_border_color": "FFFFFF",
+                              "profile_sidebar_fill_color": "F0F0F0",
+                              "profile_text_color": "333333",
+                              "profile_use_background_image": false,
+                              "has_extended_profile": false,
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "regular"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 40826,
+                        "favorite_count": 168678,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 298,
+                  "favorite_count": 3369,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 21:42:55 +0000 2020",
+                  "id": 1271921013836693505,
+                  "id_str": "1271921013836693505",
+                  "text": "Spongebob is asexual--per his creator--and he might be homoromantic or biromantic, too. In any case: QUEER ICON and absorbent is he! \ud83d\udc99\ud83d\udc9a\ud83d\udc9c\ud83d\udc9b\ud83e\udde1",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": []
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 15907183,
+                        "id_str": "15907183",
+                        "name": "Charlotte Clymer \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                        "screen_name": "cmclymer",
+                        "location": "Washington, DC",
+                        "description": "Writer. Lesbian. Army Vet. Texan. Hoya. She/Her. @TrumanProject '19. Rep: @lynnjohnstonlit Alum: @HRC Inquiries: cmclymer@gmail.com \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                        "url": "https://t.co/XOGgo6ZJhA",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/XOGgo6ZJhA",
+                                                "expanded_url": "https://www.chartwellspeakers.com/speaker/charlotte-clymer/",
+                                                "display_url": "chartwellspeakers.com/speaker/charlo\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 303782,
+                        "friends_count": 4835,
+                        "listed_count": 2311,
+                        "created_at": "Tue Aug 19 18:00:06 +0000 2008",
+                        "favourites_count": 178290,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 173820,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "B5D2E2",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1261857444801757190/XtdkAJX4_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1261857444801757190/XtdkAJX4_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15907183/1538346557",
+                        "profile_link_color": "1B95E0",
+                        "profile_sidebar_border_color": "FCFEF0",
+                        "profile_sidebar_fill_color": "FDDFD4",
+                        "profile_text_color": "FFC5CE",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 171,
+                  "favorite_count": 1728,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Fri Jun 12 19:52:28 +0000 2020",
+                  "id": 1271530831958298624,
+                  "id_str": "1271530831958298624",
+                  "text": "Share your bookish Asexual Pride! https://t.co/4TStV66PxE",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1271526106579886080,
+                                    "id_str": "1271526106579886080",
+                                    "indices": [
+                                          34,
+                                          57
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EaVeQdFUYAAmvaT.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EaVeQdFUYAAmvaT.jpg",
+                                    "url": "https://t.co/4TStV66PxE",
+                                    "display_url": "pic.twitter.com/4TStV66PxE",
+                                    "expanded_url": "https://twitter.com/NaNoWriMo/status/1271530831958298624/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "large": {
+                                                "w": 720,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 720,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1271526106579886080,
+                                    "id_str": "1271526106579886080",
+                                    "indices": [
+                                          34,
+                                          57
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EaVeQdFUYAAmvaT.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EaVeQdFUYAAmvaT.jpg",
+                                    "url": "https://t.co/4TStV66PxE",
+                                    "display_url": "pic.twitter.com/4TStV66PxE",
+                                    "expanded_url": "https://twitter.com/NaNoWriMo/status/1271530831958298624/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "large": {
+                                                "w": 720,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 720,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": 1271530830389604352,
+                  "in_reply_to_status_id_str": "1271530830389604352",
+                  "in_reply_to_user_id": 8984102,
+                  "in_reply_to_user_id_str": "8984102",
+                  "in_reply_to_screen_name": "NaNoWriMo",
+                  "user": {
+                        "id": 8984102,
+                        "id_str": "8984102",
+                        "name": "NaNoWriMo",
+                        "screen_name": "NaNoWriMo",
+                        "location": "Berkeley, CA",
+                        "description": "Pen a novel in a month with NaNoWriMo, Camp NaNoWriMo, the Young Writers Program, and our writing community! Here for your questions and puns M-F 8-4 PT.",
+                        "url": "https://t.co/S9CHUcMwRN",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/S9CHUcMwRN",
+                                                "expanded_url": "http://www.nanowrimo.org",
+                                                "display_url": "nanowrimo.org",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 198797,
+                        "friends_count": 453,
+                        "listed_count": 5477,
+                        "created_at": "Wed Sep 19 22:42:26 +0000 2007",
+                        "favourites_count": 15447,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 38033,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000727010746/87d18b99d093bb9f386bcd4f267642a4_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000727010746/87d18b99d093bb9f386bcd4f267642a4_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/8984102/1583967449",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 22,
+                  "favorite_count": 66,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 23:20:09 +0000 2020",
+                  "id": 1271945485415264256,
+                  "id_str": "1271945485415264256",
+                  "text": "T\u00fa podr\u00edas ser asexual como Bob Esponja y no saberlo. \ud83d\udda4\ud83e\udd0d\ud83d\udc9c Te explicamos lo que es la Asexualidad:\u2026 https://t.co/27p08vuOpR",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/27p08vuOpR",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271945485415264256",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          99,
+                                          122
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 860616643,
+                        "id_str": "860616643",
+                        "name": "Homosensual \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                        "screen_name": "SoyHomosensual",
+                        "location": "Mexico",
+                        "description": "El portal #LGBT en espa\u00f1ol m\u00e1s le\u00eddo de M\u00e9xico y Latinoam\u00e9rica. Celebramos la diversidad y damos visibilidad a todas las letras del acr\u00f3nimo LGBTTTIQA.",
+                        "url": "https://t.co/LaYKhdKITA",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/LaYKhdKITA",
+                                                "expanded_url": "https://www.homosensual.com",
+                                                "display_url": "homosensual.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 146743,
+                        "friends_count": 3477,
+                        "listed_count": 368,
+                        "created_at": "Thu Oct 04 01:02:07 +0000 2012",
+                        "favourites_count": 11017,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 50513,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FFFFFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1237250405224120321/IupCKUZE_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237250405224120321/IupCKUZE_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/860616643/1583818460",
+                        "profile_link_color": "B00060",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 10,
+                  "favorite_count": 29,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Sat Jun 13 20:32:12 +0000 2020",
+                  "id": 1271903218692325376,
+                  "id_str": "1271903218692325376",
+                  "text": "Comic Ed Bluestone used to have a joke: \"I'm quadrasexual. I'll do anything with anyone for a quarter.\" #asexual",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "asexual",
+                                    "indices": [
+                                          104,
+                                          112
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": []
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 79031518,
+                        "id_str": "79031518",
+                        "name": "Elayne Boosler",
+                        "screen_name": "ElayneBoosler",
+                        "location": "",
+                        "description": "Order new boxed set \"Elayne Boosler - Timeless\": https://t.co/vqvWhmbrZA. https://t.co/WzZxobANaF. https://t.co/VrZGzKh26U",
+                        "url": "http://t.co/R1n3jPvxpf",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "http://t.co/R1n3jPvxpf",
+                                                "expanded_url": "http://elayneboosler.com",
+                                                "display_url": "elayneboosler.com",
+                                                "indices": [
+                                                      0,
+                                                      22
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/vqvWhmbrZA",
+                                                "expanded_url": "https://goo.gl/5DGDXS",
+                                                "display_url": "goo.gl/5DGDXS",
+                                                "indices": [
+                                                      49,
+                                                      72
+                                                ]
+                                          },
+                                          {
+                                                "url": "https://t.co/WzZxobANaF",
+                                                "expanded_url": "http://www.tailsofjoy.net",
+                                                "display_url": "tailsofjoy.net",
+                                                "indices": [
+                                                      74,
+                                                      97
+                                                ]
+                                          },
+                                          {
+                                                "url": "https://t.co/VrZGzKh26U",
+                                                "expanded_url": "https://www.instagram.com/elayneboosler/",
+                                                "display_url": "instagram.com/elayneboosler/",
+                                                "indices": [
+                                                      99,
+                                                      122
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 49026,
+                        "friends_count": 9004,
+                        "listed_count": 1186,
+                        "created_at": "Thu Oct 01 23:15:38 +0000 2009",
+                        "favourites_count": 61296,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 34063,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1023010206014300160/feIr6Dq-_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1023010206014300160/feIr6Dq-_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/79031518/1532739388",
+                        "profile_link_color": "1E5063",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "FF0808",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 10,
+                  "favorite_count": 109,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 23:00:23 +0000 2020",
+                  "id": 1271940510706532352,
+                  "id_str": "1271940510706532352",
+                  "text": "FYI: Spongebob isn\u2019t gay, he\u2019s asexual, and creator Stephen Hillenburg confirmed that before he died. Asexuals are\u2026 https://t.co/fHXJ1a2GAm",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/fHXJ1a2GAm",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271940510706532352",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          116,
+                                          139
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 33150951,
+                        "id_str": "33150951",
+                        "name": "BJ Colangelo",
+                        "screen_name": "bjcolangelo",
+                        "location": "Cleveland, OH",
+                        "description": "Lovechild of Chris Sarandon in FRIGHT NIGHT & Susan Sarandon in THE HUNGER | Bylines All Over | \ud83d\udc8d of @veloci_trap_tor | #PanCan Survivor | Writer For Hire",
+                        "url": null,
+                        "entities": {
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 12219,
+                        "friends_count": 1291,
+                        "listed_count": 216,
+                        "created_at": "Sun Apr 19 06:41:54 +0000 2009",
+                        "favourites_count": 54464,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 54716,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "9AE4E8",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1249196310789607425/Y-RKvBuG_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249196310789607425/Y-RKvBuG_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33150951/1591076343",
+                        "profile_link_color": "8F8F8F",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "E8178A",
+                        "profile_text_color": "080808",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1271795092391682048,
+                  "quoted_status_id_str": "1271795092391682048",
+                  "quoted_status": {
+                        "created_at": "Sat Jun 13 13:22:33 +0000 2020",
+                        "id": 1271795092391682048,
+                        "id_str": "1271795092391682048",
+                        "text": "Celebrating #Pride with the LGBTQ+ community and their allies this month and every month \ud83c\udf08 \u2063\n(\ud83c\udfa8: by @ramzymasri) https://t.co/pENmTaQB0h",
+                        "truncated": false,
+                        "entities": {
+                              "hashtags": [
+                                    {
+                                          "text": "Pride",
+                                          "indices": [
+                                                12,
+                                                18
+                                          ]
+                                    }
+                              ],
+                              "symbols": [],
+                              "user_mentions": [
+                                    {
+                                          "screen_name": "ramzymasri",
+                                          "name": "Ramzy Masri",
+                                          "id": 20928413,
+                                          "id_str": "20928413",
+                                          "indices": [
+                                                100,
+                                                111
+                                          ]
+                                    }
+                              ],
+                              "urls": [],
+                              "media": [
+                                    {
+                                          "id": 1271794901278232576,
+                                          "id_str": "1271794901278232576",
+                                          "indices": [
+                                                113,
+                                                136
+                                          ],
+                                          "media_url": "http://pbs.twimg.com/media/EaZSuXXXkAAMtJ5.jpg",
+                                          "media_url_https": "https://pbs.twimg.com/media/EaZSuXXXkAAMtJ5.jpg",
+                                          "url": "https://t.co/pENmTaQB0h",
+                                          "display_url": "pic.twitter.com/pENmTaQB0h",
+                                          "expanded_url": "https://twitter.com/Nickelodeon/status/1271795092391682048/photo/1",
+                                          "type": "photo",
+                                          "sizes": {
+                                                "thumb": {
+                                                      "w": 150,
+                                                      "h": 150,
+                                                      "resize": "crop"
+                                                },
+                                                "small": {
+                                                      "w": 544,
+                                                      "h": 680,
+                                                      "resize": "fit"
+                                                },
+                                                "large": {
+                                                      "w": 1638,
+                                                      "h": 2048,
+                                                      "resize": "fit"
+                                                },
+                                                "medium": {
+                                                      "w": 960,
+                                                      "h": 1200,
+                                                      "resize": "fit"
+                                                }
+                                          }
+                                    }
+                              ]
+                        },
+                        "extended_entities": {
+                              "media": [
+                                    {
+                                          "id": 1271794901278232576,
+                                          "id_str": "1271794901278232576",
+                                          "indices": [
+                                                113,
+                                                136
+                                          ],
+                                          "media_url": "http://pbs.twimg.com/media/EaZSuXXXkAAMtJ5.jpg",
+                                          "media_url_https": "https://pbs.twimg.com/media/EaZSuXXXkAAMtJ5.jpg",
+                                          "url": "https://t.co/pENmTaQB0h",
+                                          "display_url": "pic.twitter.com/pENmTaQB0h",
+                                          "expanded_url": "https://twitter.com/Nickelodeon/status/1271795092391682048/photo/1",
+                                          "type": "photo",
+                                          "sizes": {
+                                                "thumb": {
+                                                      "w": 150,
+                                                      "h": 150,
+                                                      "resize": "crop"
+                                                },
+                                                "small": {
+                                                      "w": 544,
+                                                      "h": 680,
+                                                      "resize": "fit"
+                                                },
+                                                "large": {
+                                                      "w": 1638,
+                                                      "h": 2048,
+                                                      "resize": "fit"
+                                                },
+                                                "medium": {
+                                                      "w": 960,
+                                                      "h": 1200,
+                                                      "resize": "fit"
+                                                }
+                                          }
+                                    },
+                                    {
+                                          "id": 1271794943619665921,
+                                          "id_str": "1271794943619665921",
+                                          "indices": [
+                                                113,
+                                                136
+                                          ],
+                                          "media_url": "http://pbs.twimg.com/media/EaZSw1GWkAEycSc.jpg",
+                                          "media_url_https": "https://pbs.twimg.com/media/EaZSw1GWkAEycSc.jpg",
+                                          "url": "https://t.co/pENmTaQB0h",
+                                          "display_url": "pic.twitter.com/pENmTaQB0h",
+                                          "expanded_url": "https://twitter.com/Nickelodeon/status/1271795092391682048/photo/1",
+                                          "type": "photo",
+                                          "sizes": {
+                                                "thumb": {
+                                                      "w": 150,
+                                                      "h": 150,
+                                                      "resize": "crop"
+                                                },
+                                                "small": {
+                                                      "w": 544,
+                                                      "h": 680,
+                                                      "resize": "fit"
+                                                },
+                                                "large": {
+                                                      "w": 1638,
+                                                      "h": 2048,
+                                                      "resize": "fit"
+                                                },
+                                                "medium": {
+                                                      "w": 960,
+                                                      "h": 1200,
+                                                      "resize": "fit"
+                                                }
+                                          }
+                                    },
+                                    {
+                                          "id": 1271794982307930117,
+                                          "id_str": "1271794982307930117",
+                                          "indices": [
+                                                113,
+                                                136
+                                          ],
+                                          "media_url": "http://pbs.twimg.com/media/EaZSzFOWoAUyD3X.jpg",
+                                          "media_url_https": "https://pbs.twimg.com/media/EaZSzFOWoAUyD3X.jpg",
+                                          "url": "https://t.co/pENmTaQB0h",
+                                          "display_url": "pic.twitter.com/pENmTaQB0h",
+                                          "expanded_url": "https://twitter.com/Nickelodeon/status/1271795092391682048/photo/1",
+                                          "type": "photo",
+                                          "sizes": {
+                                                "thumb": {
+                                                      "w": 150,
+                                                      "h": 150,
+                                                      "resize": "crop"
+                                                },
+                                                "small": {
+                                                      "w": 544,
+                                                      "h": 680,
+                                                      "resize": "fit"
+                                                },
+                                                "large": {
+                                                      "w": 1638,
+                                                      "h": 2048,
+                                                      "resize": "fit"
+                                                },
+                                                "medium": {
+                                                      "w": 960,
+                                                      "h": 1200,
+                                                      "resize": "fit"
+                                                }
+                                          }
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 58309829,
+                              "id_str": "58309829",
+                              "name": "Nickelodeon",
+                              "screen_name": "Nickelodeon",
+                              "location": "USA",
+                              "description": "The Official Twitter for Nickelodeon, USA!",
+                              "url": "https://t.co/Lz9i6LdC4f",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/Lz9i6LdC4f",
+                                                      "expanded_url": "http://www.nick.com",
+                                                      "display_url": "nick.com",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 3894917,
+                              "friends_count": 2654,
+                              "listed_count": 3415,
+                              "created_at": "Sun Jul 19 22:19:02 +0000 2009",
+                              "favourites_count": 22179,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": true,
+                              "verified": true,
+                              "statuses_count": 55858,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": true,
+                              "profile_background_color": "FA743E",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1238193190806708225/5kudmyGR_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238193190806708225/5kudmyGR_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/58309829/1589224376",
+                              "profile_link_color": "D1771E",
+                              "profile_sidebar_border_color": "FFFFFF",
+                              "profile_sidebar_fill_color": "F0F0F0",
+                              "profile_text_color": "333333",
+                              "profile_use_background_image": false,
+                              "has_extended_profile": false,
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "regular"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 40826,
+                        "favorite_count": 168678,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 7,
+                  "favorite_count": 49,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 21:43:27 +0000 2020",
+                  "id": 1271921147198812160,
+                  "id_str": "1271921147198812160",
+                  "text": "imagine they force a love life on spongebob, that would be officially \"not canon\" by stephen hillenburg's standards\u2026 https://t.co/AGhGoU64Nk",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/AGhGoU64Nk",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271921147198812160",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 187665378,
+                        "id_str": "187665378",
+                        "name": "Victoria 'Yes I Unfollowed You Too Also ACAB' Rose",
+                        "screen_name": "riningear",
+                        "location": "crystal database",
+                        "description": "this is now a ffxiv account. behold my catgirl. \n\nriningears-gmail | she/they | plural/queer/messy",
+                        "url": "https://t.co/9mNjPrMF5a",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/9mNjPrMF5a",
+                                                "expanded_url": "http://victoriarose.contently.com",
+                                                "display_url": "victoriarose.contently.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 3437,
+                        "friends_count": 6,
+                        "listed_count": 75,
+                        "created_at": "Mon Sep 06 21:05:38 +0000 2010",
+                        "favourites_count": 131582,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 139543,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "98919C",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1175559610108796928/o2_S7BEM_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175559610108796928/o2_S7BEM_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/187665378/1590627427",
+                        "profile_link_color": "80D1C9",
+                        "profile_sidebar_border_color": "441057",
+                        "profile_sidebar_fill_color": "D6D2DB",
+                        "profile_text_color": "554859",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 5,
+                  "favorite_count": 13,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Thu Jun 11 17:59:57 +0000 2020",
+                  "id": 1271140125955653632,
+                  "id_str": "1271140125955653632",
+                  "text": "Every June marks the celebration of our lesbian, gay, bisexual, trans, queer, intersex, asexual, and broader commun\u2026 https://t.co/0BnQHWpCK6",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/0BnQHWpCK6",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271140125955653632",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 1305940272,
+                        "id_str": "1305940272",
+                        "name": "Slack",
+                        "screen_name": "SlackHQ",
+                        "location": "",
+                        "description": "On a mission to make your working life simpler, more pleasant and more productive. Need help? Send us a tweet! For updates on status, follow @SlackStatus.",
+                        "url": "https://t.co/g7wEcNCq0P",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/g7wEcNCq0P",
+                                                "expanded_url": "https://slack.com/",
+                                                "display_url": "slack.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 432546,
+                        "friends_count": 145920,
+                        "listed_count": 6227,
+                        "created_at": "Tue Mar 26 23:44:06 +0000 2013",
+                        "favourites_count": 160776,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 260872,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "4D394B",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1192935671473659905/AMUy2VsJ_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192935671473659905/AMUy2VsJ_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1305940272/1589580312",
+                        "profile_link_color": "4C9689",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 21,
+                  "favorite_count": 137,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Tue Jun 09 15:20:37 +0000 2020",
+                  "id": 1270375254028955650,
+                  "id_str": "1270375254028955650",
+                  "text": "Genuine question. In what way do 'identities' such as aromantic or asexual ( known as aro or ace by coolios) fit wi\u2026 https://t.co/0WA6Mm5Rlx",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/0WA6Mm5Rlx",
+                                    "expanded_url": "https://twitter.com/i/web/status/1270375254028955650",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 209512953,
+                        "id_str": "209512953",
+                        "name": "Julie Bindel",
+                        "screen_name": "bindelj",
+                        "location": "London, England",
+                        "description": "Journalist, author, broadcaster, feminist campaigner against sexual violence.\nAgent, Becky Thomas: https://t.co/fajYIPirQ2",
+                        "url": "https://t.co/6IvOoPucw7",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/6IvOoPucw7",
+                                                "expanded_url": "https://www.thejuliebindel.com/",
+                                                "display_url": "thejuliebindel.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/fajYIPirQ2",
+                                                "expanded_url": "http://www.johnsonandalcock.co.uk/becky-thomas/",
+                                                "display_url": "johnsonandalcock.co.uk/becky-thomas/",
+                                                "indices": [
+                                                      99,
+                                                      122
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 46509,
+                        "friends_count": 1006,
+                        "listed_count": 525,
+                        "created_at": "Fri Oct 29 10:12:42 +0000 2010",
+                        "favourites_count": 7240,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 34831,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1268187578857074695/paLaiiqx_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268187578857074695/paLaiiqx_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/209512953/1591194396",
+                        "profile_link_color": "1B95E0",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 41,
+                  "favorite_count": 392,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.042,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1270375254028955649&q=Asexual&count=10&include_entities=1&result_type=popular",
+            "query": "Asexual",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

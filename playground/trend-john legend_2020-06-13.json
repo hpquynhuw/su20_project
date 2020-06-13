@@ -1,0 +1,1625 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Sat Jun 13 19:14:02 +0000 2020",
+                  "id": 1271883545410260992,
+                  "id_str": "1271883545410260992",
+                  "text": "The next Verzuz battle: Alicia Keys vs John Legend on Juneteenth https://t.co/eNWZdLdktl",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1271883541329125378,
+                                    "id_str": "1271883541329125378",
+                                    "indices": [
+                                          65,
+                                          88
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EaajV5SWoAIqFYE.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EaajV5SWoAIqFYE.jpg",
+                                    "url": "https://t.co/eNWZdLdktl",
+                                    "display_url": "pic.twitter.com/eNWZdLdktl",
+                                    "expanded_url": "https://twitter.com/Phil_Lewis_/status/1271883545410260992/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "medium": {
+                                                "w": 827,
+                                                "h": 802,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "large": {
+                                                "w": 827,
+                                                "h": 802,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 659,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1271883541329125378,
+                                    "id_str": "1271883541329125378",
+                                    "indices": [
+                                          65,
+                                          88
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EaajV5SWoAIqFYE.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EaajV5SWoAIqFYE.jpg",
+                                    "url": "https://t.co/eNWZdLdktl",
+                                    "display_url": "pic.twitter.com/eNWZdLdktl",
+                                    "expanded_url": "https://twitter.com/Phil_Lewis_/status/1271883545410260992/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "medium": {
+                                                "w": 827,
+                                                "h": 802,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "large": {
+                                                "w": 827,
+                                                "h": 802,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 659,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 286998245,
+                        "id_str": "286998245",
+                        "name": "philip lewis",
+                        "screen_name": "Phil_Lewis_",
+                        "location": "",
+                        "description": "detroit native. front page editor @huffpost.",
+                        "url": null,
+                        "entities": {
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 111137,
+                        "friends_count": 2042,
+                        "listed_count": 989,
+                        "created_at": "Sun Apr 24 03:45:44 +0000 2011",
+                        "favourites_count": 16194,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 193516,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1223973802331246592/AEmyRpWR_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1223973802331246592/AEmyRpWR_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/286998245/1590459223",
+                        "profile_link_color": "4A913C",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 352,
+                  "favorite_count": 1002,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 20:14:07 +0000 2020",
+                  "id": 1271898666005966848,
+                  "id_str": "1271898666005966848",
+                  "text": "y\u2019all might be a lil more familiar with alicia but PLZ don\u2019t sleep on john legend https://t.co/Ektmp8KJwl",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/Ektmp8KJwl",
+                                    "expanded_url": "https://twitter.com/verzuzonline/status/1271882504245575683",
+                                    "display_url": "twitter.com/verzuzonline/s\u2026",
+                                    "indices": [
+                                          82,
+                                          105
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 2922268330,
+                        "id_str": "2922268330",
+                        "name": "jay",
+                        "screen_name": "JAYVERSACE",
+                        "location": "",
+                        "description": "water from an ancient well",
+                        "url": null,
+                        "entities": {
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1548206,
+                        "friends_count": 43699,
+                        "listed_count": 632,
+                        "created_at": "Mon Dec 15 00:48:21 +0000 2014",
+                        "favourites_count": 44841,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 16754,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1270854462463074305/1i3qGymI_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1270854462463074305/1i3qGymI_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2922268330/1591990966",
+                        "profile_link_color": "FA743E",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1271882504245575683,
+                  "quoted_status_id_str": "1271882504245575683",
+                  "quoted_status": {
+                        "created_at": "Sat Jun 13 19:09:54 +0000 2020",
+                        "id": 1271882504245575683,
+                        "id_str": "1271882504245575683",
+                        "text": "Let's celebrate Juneteenth with a special edition #Verzuz! \n@AliciaKeys vs @JohnLegend on the \ud83c\udfb9 \n\nFriday, June 19th\u2026 https://t.co/HGswGrvqtu",
+                        "truncated": true,
+                        "entities": {
+                              "hashtags": [
+                                    {
+                                          "text": "Verzuz",
+                                          "indices": [
+                                                50,
+                                                57
+                                          ]
+                                    }
+                              ],
+                              "symbols": [],
+                              "user_mentions": [
+                                    {
+                                          "screen_name": "aliciakeys",
+                                          "name": "Alicia Keys",
+                                          "id": 35094637,
+                                          "id_str": "35094637",
+                                          "indices": [
+                                                60,
+                                                71
+                                          ]
+                                    },
+                                    {
+                                          "screen_name": "johnlegend",
+                                          "name": "John Legend",
+                                          "id": 18228898,
+                                          "id_str": "18228898",
+                                          "indices": [
+                                                75,
+                                                86
+                                          ]
+                                    }
+                              ],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/HGswGrvqtu",
+                                          "expanded_url": "https://twitter.com/i/web/status/1271882504245575683",
+                                          "display_url": "twitter.com/i/web/status/1\u2026",
+                                          "indices": [
+                                                117,
+                                                140
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 1248715650794749954,
+                              "id_str": "1248715650794749954",
+                              "name": "Verzuz",
+                              "screen_name": "verzuzonline",
+                              "location": "",
+                              "description": "#VERZUZ | Alicia Keys vs John Legend | Juneteenth 8PM EST",
+                              "url": "https://t.co/IfU8qDBux0",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/IfU8qDBux0",
+                                                      "expanded_url": "http://verzuztv.com",
+                                                      "display_url": "verzuztv.com",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 40887,
+                              "friends_count": 49,
+                              "listed_count": 48,
+                              "created_at": "Fri Apr 10 20:53:21 +0000 2020",
+                              "favourites_count": 767,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": false,
+                              "verified": true,
+                              "statuses_count": 779,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "F5F8FA",
+                              "profile_background_image_url": null,
+                              "profile_background_image_url_https": null,
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1248715765773189130/rya8kDGG_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248715765773189130/rya8kDGG_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1248715650794749954/1586637851",
+                              "profile_link_color": "1DA1F2",
+                              "profile_sidebar_border_color": "C0DEED",
+                              "profile_sidebar_fill_color": "DDEEF6",
+                              "profile_text_color": "333333",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": true,
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 1669,
+                        "favorite_count": 3485,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 100,
+                  "favorite_count": 640,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 19:22:04 +0000 2020",
+                  "id": 1271885566288805890,
+                  "id_str": "1271885566288805890",
+                  "text": "Next #VERZUZ, Alicia Keys VS. John Legend \ud83c\udf3a\ud83d\udd25\n\nJune 19 | 8PM EST.\n\nWho y\u2019all got?? \n\n#JUNETEENTH\n\ud83d\udcf8: @verzuzonline https://t.co/z2PTYLiqwM",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "VERZUZ",
+                                    "indices": [
+                                          5,
+                                          12
+                                    ]
+                              },
+                              {
+                                    "text": "JUNETEENTH",
+                                    "indices": [
+                                          84,
+                                          95
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "verzuzonline",
+                                    "name": "Verzuz",
+                                    "id": 1248715650794749954,
+                                    "id_str": "1248715650794749954",
+                                    "indices": [
+                                          99,
+                                          112
+                                    ]
+                              }
+                        ],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1271885562962743299,
+                                    "id_str": "1271885562962743299",
+                                    "indices": [
+                                          113,
+                                          136
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EaalLkdXkAMHnw3.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EaalLkdXkAMHnw3.jpg",
+                                    "url": "https://t.co/z2PTYLiqwM",
+                                    "display_url": "pic.twitter.com/z2PTYLiqwM",
+                                    "expanded_url": "https://twitter.com/GlobalGrind/status/1271885566288805890/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 1195,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1242,
+                                                "h": 1237,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 677,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1271885562962743299,
+                                    "id_str": "1271885562962743299",
+                                    "indices": [
+                                          113,
+                                          136
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EaalLkdXkAMHnw3.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EaalLkdXkAMHnw3.jpg",
+                                    "url": "https://t.co/z2PTYLiqwM",
+                                    "display_url": "pic.twitter.com/z2PTYLiqwM",
+                                    "expanded_url": "https://twitter.com/GlobalGrind/status/1271885566288805890/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 1195,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1242,
+                                                "h": 1237,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 677,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 1496971,
+                        "id_str": "1496971",
+                        "name": "Global Grind",
+                        "screen_name": "GlobalGrind",
+                        "location": "New York, NY",
+                        "description": "Delivering viral content that is laced in humor & fun, while engaging and offering insight into lives and cultures around the world. Tell your friends about us!",
+                        "url": "https://t.co/ws2VF7Zko5",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/ws2VF7Zko5",
+                                                "expanded_url": "http://GlobalGrind.com",
+                                                "display_url": "GlobalGrind.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 390837,
+                        "friends_count": 2346,
+                        "listed_count": 3150,
+                        "created_at": "Mon Mar 19 12:22:54 +0000 2007",
+                        "favourites_count": 51365,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 204019,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": true,
+                        "profile_background_color": "0A0A0A",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/648843740648448001/4oFaQ2dG_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/648843740648448001/4oFaQ2dG_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1496971/1507149052",
+                        "profile_link_color": "009999",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "FFFFFF",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 69,
+                  "favorite_count": 117,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 21:22:43 +0000 2020",
+                  "id": 1271915930587664389,
+                  "id_str": "1271915930587664389",
+                  "text": "John Legend, Alicia Keys to battle it out on piano for Verzuz Juneteenth celebration https://t.co/krgloo1TDm",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/krgloo1TDm",
+                                    "expanded_url": "http://share.ew.com/vmjYykz",
+                                    "display_url": "share.ew.com/vmjYykz",
+                                    "indices": [
+                                          85,
+                                          108
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 16312576,
+                        "id_str": "16312576",
+                        "name": "Entertainment Weekly",
+                        "screen_name": "EW",
+                        "location": "Los Angeles, CA",
+                        "description": "Keeping you plugged into pop culture \ud83c\udfa5\ud83d\udcfa \ud83c\udfa4\ud83d\udcda \ud83c\udfad",
+                        "url": "https://t.co/2i2I2TulUU",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/2i2I2TulUU",
+                                                "expanded_url": "http://www.ew.com",
+                                                "display_url": "ew.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 6601874,
+                        "friends_count": 6028,
+                        "listed_count": 23624,
+                        "created_at": "Tue Sep 16 16:13:23 +0000 2008",
+                        "favourites_count": 7759,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 252671,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FFFFFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1232366410208145408/MyXOoFdf_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232366410208145408/MyXOoFdf_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16312576/1591891552",
+                        "profile_link_color": "0FAEB3",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 72,
+                  "favorite_count": 280,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 19:31:04 +0000 2020",
+                  "id": 1271887834685886466,
+                  "id_str": "1271887834685886466",
+                  "text": "What I love most about this is that it pushes past the idea that women can only go against other women or men can o\u2026 https://t.co/q3TXkFvDup",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/q3TXkFvDup",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271887834685886466",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 26918986,
+                        "id_str": "26918986",
+                        "name": "Sylvia",
+                        "screen_name": "SylviaObell",
+                        "location": "Brooklyn, NY",
+                        "description": "Writer. Co-host of @netflix + @strongblacklead\u2019s #OkayNowListen. Alum: @ncatsuaggies @columbia. Rep: @beotiscreative.",
+                        "url": "https://t.co/FBl6Q9QQL8",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/FBl6Q9QQL8",
+                                                "expanded_url": "http://sylviaobell.com",
+                                                "display_url": "sylviaobell.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 30274,
+                        "friends_count": 3026,
+                        "listed_count": 298,
+                        "created_at": "Fri Mar 27 01:52:02 +0000 2009",
+                        "favourites_count": 18788,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 75478,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "709397",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1255717491176869890/2ClbzOOL_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255717491176869890/2ClbzOOL_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26918986/1591132024",
+                        "profile_link_color": "E81C4F",
+                        "profile_sidebar_border_color": "969696",
+                        "profile_sidebar_fill_color": "FFFFFF",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1271882504245575683,
+                  "quoted_status_id_str": "1271882504245575683",
+                  "quoted_status": {
+                        "created_at": "Sat Jun 13 19:09:54 +0000 2020",
+                        "id": 1271882504245575683,
+                        "id_str": "1271882504245575683",
+                        "text": "Let's celebrate Juneteenth with a special edition #Verzuz! \n@AliciaKeys vs @JohnLegend on the \ud83c\udfb9 \n\nFriday, June 19th\u2026 https://t.co/HGswGrvqtu",
+                        "truncated": true,
+                        "entities": {
+                              "hashtags": [
+                                    {
+                                          "text": "Verzuz",
+                                          "indices": [
+                                                50,
+                                                57
+                                          ]
+                                    }
+                              ],
+                              "symbols": [],
+                              "user_mentions": [
+                                    {
+                                          "screen_name": "aliciakeys",
+                                          "name": "Alicia Keys",
+                                          "id": 35094637,
+                                          "id_str": "35094637",
+                                          "indices": [
+                                                60,
+                                                71
+                                          ]
+                                    },
+                                    {
+                                          "screen_name": "johnlegend",
+                                          "name": "John Legend",
+                                          "id": 18228898,
+                                          "id_str": "18228898",
+                                          "indices": [
+                                                75,
+                                                86
+                                          ]
+                                    }
+                              ],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/HGswGrvqtu",
+                                          "expanded_url": "https://twitter.com/i/web/status/1271882504245575683",
+                                          "display_url": "twitter.com/i/web/status/1\u2026",
+                                          "indices": [
+                                                117,
+                                                140
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 1248715650794749954,
+                              "id_str": "1248715650794749954",
+                              "name": "Verzuz",
+                              "screen_name": "verzuzonline",
+                              "location": "",
+                              "description": "#VERZUZ | Alicia Keys vs John Legend | Juneteenth 8PM EST",
+                              "url": "https://t.co/IfU8qDBux0",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/IfU8qDBux0",
+                                                      "expanded_url": "http://verzuztv.com",
+                                                      "display_url": "verzuztv.com",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 40887,
+                              "friends_count": 49,
+                              "listed_count": 48,
+                              "created_at": "Fri Apr 10 20:53:21 +0000 2020",
+                              "favourites_count": 767,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": false,
+                              "verified": true,
+                              "statuses_count": 779,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "F5F8FA",
+                              "profile_background_image_url": null,
+                              "profile_background_image_url_https": null,
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1248715765773189130/rya8kDGG_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248715765773189130/rya8kDGG_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1248715650794749954/1586637851",
+                              "profile_link_color": "1DA1F2",
+                              "profile_sidebar_border_color": "C0DEED",
+                              "profile_sidebar_fill_color": "DDEEF6",
+                              "profile_text_color": "333333",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": true,
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 1669,
+                        "favorite_count": 3485,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 139,
+                  "favorite_count": 936,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 19:37:08 +0000 2020",
+                  "id": 1271889357641637888,
+                  "id_str": "1271889357641637888",
+                  "text": "Alicia Keys and John Legend will take part in a special Juneteenth edition of #Verzuz on 6/19 at 8pm EST \ud83c\udfb9 https://t.co/Rzz5sVXjeC",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "Verzuz",
+                                    "indices": [
+                                          78,
+                                          85
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1271889354651086848,
+                                    "id_str": "1271889354651086848",
+                                    "indices": [
+                                          107,
+                                          130
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EaaooRmUMAAMIpj.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EaaooRmUMAAMIpj.jpg",
+                                    "url": "https://t.co/Rzz5sVXjeC",
+                                    "display_url": "pic.twitter.com/Rzz5sVXjeC",
+                                    "expanded_url": "https://twitter.com/RapUp/status/1271889357641637888/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "large": {
+                                                "w": 958,
+                                                "h": 479,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 340,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 958,
+                                                "h": 479,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1271889354651086848,
+                                    "id_str": "1271889354651086848",
+                                    "indices": [
+                                          107,
+                                          130
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EaaooRmUMAAMIpj.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EaaooRmUMAAMIpj.jpg",
+                                    "url": "https://t.co/Rzz5sVXjeC",
+                                    "display_url": "pic.twitter.com/Rzz5sVXjeC",
+                                    "expanded_url": "https://twitter.com/RapUp/status/1271889357641637888/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "large": {
+                                                "w": 958,
+                                                "h": 479,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 340,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 958,
+                                                "h": 479,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 14076329,
+                        "id_str": "14076329",
+                        "name": "Rap-Up",
+                        "screen_name": "RapUp",
+                        "location": "Los Angeles",
+                        "description": "Exclusive hip-hop and R&B news delivered daily.",
+                        "url": "http://t.co/MbKldYpqaz",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "http://t.co/MbKldYpqaz",
+                                                "expanded_url": "http://www.rap-up.com",
+                                                "display_url": "rap-up.com",
+                                                "indices": [
+                                                      0,
+                                                      22
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 373809,
+                        "friends_count": 392,
+                        "listed_count": 2198,
+                        "created_at": "Tue Mar 04 04:31:27 +0000 2008",
+                        "favourites_count": 797,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 70658,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "131516",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1270742698278785029/CxbBCQ-7_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1270742698278785029/CxbBCQ-7_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14076329/1459626567",
+                        "profile_link_color": "009999",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "EFEFEF",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 61,
+                  "favorite_count": 159,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 20:55:00 +0000 2020",
+                  "id": 1271908953853538305,
+                  "id_str": "1271908953853538305",
+                  "text": "I honestly don't know which way this one goes. https://t.co/EUYyooOweu",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/EUYyooOweu",
+                                    "expanded_url": "https://www.revolt.tv/news/2020/6/13/21290372/alicia-keys-john-legend-verzuz-battle",
+                                    "display_url": "revolt.tv/news/2020/6/13\u2026",
+                                    "indices": [
+                                          47,
+                                          70
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 25387735,
+                        "id_str": "25387735",
+                        "name": "Franklin Leonard",
+                        "screen_name": "franklinleonard",
+                        "location": "Los Angeles, CA; elsewhere",
+                        "description": ".@theblcklst founder; Story, politics, and football (soccer) fan. IG: @franklinjleonard Speaking: @freshspeakers",
+                        "url": "https://t.co/VLBaypAeN1",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/VLBaypAeN1",
+                                                "expanded_url": "http://www.franklinleonard.com",
+                                                "display_url": "franklinleonard.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 126138,
+                        "friends_count": 8266,
+                        "listed_count": 1301,
+                        "created_at": "Thu Mar 19 21:19:06 +0000 2009",
+                        "favourites_count": 35653,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 82515,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1098628316943138816/5FKx3xCI_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098628316943138816/5FKx3xCI_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25387735/1460234412",
+                        "profile_link_color": "ABB8C2",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 117,
+                  "favorite_count": 803,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 21:31:43 +0000 2020",
+                  "id": 1271918195729821696,
+                  "id_str": "1271918195729821696",
+                  "text": "Alicia Keys and John Legend are headlining a special Juneteenth 'Verzuz' battle \ud83c\udfb9 https://t.co/oHHpXZGNCF https://t.co/y5bIsgOW9v",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/oHHpXZGNCF",
+                                    "expanded_url": "https://bit.ly/2Yw323t",
+                                    "display_url": "bit.ly/2Yw323t",
+                                    "indices": [
+                                          82,
+                                          105
+                                    ]
+                              }
+                        ],
+                        "media": [
+                              {
+                                    "id": 1271917202648690690,
+                                    "id_str": "1271917202648690690",
+                                    "indices": [
+                                          106,
+                                          129
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EabB9PeVcAImbhd.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EabB9PeVcAImbhd.jpg",
+                                    "url": "https://t.co/y5bIsgOW9v",
+                                    "display_url": "pic.twitter.com/y5bIsgOW9v",
+                                    "expanded_url": "https://twitter.com/ComplexMusic/status/1271918195729821696/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "large": {
+                                                "w": 1764,
+                                                "h": 1172,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 797,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 452,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1271917202648690690,
+                                    "id_str": "1271917202648690690",
+                                    "indices": [
+                                          106,
+                                          129
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EabB9PeVcAImbhd.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EabB9PeVcAImbhd.jpg",
+                                    "url": "https://t.co/y5bIsgOW9v",
+                                    "display_url": "pic.twitter.com/y5bIsgOW9v",
+                                    "expanded_url": "https://twitter.com/ComplexMusic/status/1271918195729821696/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "large": {
+                                                "w": 1764,
+                                                "h": 1172,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 797,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 452,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 243163874,
+                        "id_str": "243163874",
+                        "name": "Complex Music",
+                        "screen_name": "ComplexMusic",
+                        "location": "",
+                        "description": "Never not listening.",
+                        "url": "https://t.co/pSygB6n7IM",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/pSygB6n7IM",
+                                                "expanded_url": "http://instagram.com/complexmusic",
+                                                "display_url": "instagram.com/complexmusic",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1168549,
+                        "friends_count": 968,
+                        "listed_count": 2898,
+                        "created_at": "Wed Jan 26 13:00:01 +0000 2011",
+                        "favourites_count": 5084,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 103641,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "131516",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1158407849086803968/jf1C-E5M_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158407849086803968/jf1C-E5M_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/243163874/1591192548",
+                        "profile_link_color": "FF6600",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "F2F2F2",
+                        "profile_text_color": "757575",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 38,
+                  "favorite_count": 174,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 19:56:13 +0000 2020",
+                  "id": 1271894162363813898,
+                  "id_str": "1271894162363813898",
+                  "text": "Alicia Keys vs John Legend is the perfectly balanced battle because I really can't tell who can outdo who. \n\nAlicia\u2026 https://t.co/EIFnQgmOXy",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/EIFnQgmOXy",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271894162363813898",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 32968728,
+                        "id_str": "32968728",
+                        "name": "Keith Nelson Jr",
+                        "screen_name": "JusAire",
+                        "location": "Brooklyn, NY",
+                        "description": "Writer by fate, journalist by passion. Voice on: @twitstorypod \n\nWords: @revolttv @137pm @okayplayer @reverb @levelmag Email: nelsonjr.keith @ gmail",
+                        "url": "https://t.co/loks92K2af",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/loks92K2af",
+                                                "expanded_url": "https://linktr.ee/KeithNelsonJr",
+                                                "display_url": "linktr.ee/KeithNelsonJr",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 4949,
+                        "friends_count": 1034,
+                        "listed_count": 205,
+                        "created_at": "Sat Apr 18 18:34:14 +0000 2009",
+                        "favourites_count": 8910,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 282363,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "9AE4E8",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1150377530836344832/gBZ8ywi7_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150377530836344832/gBZ8ywi7_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/32968728/1354318409",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "BDDCAD",
+                        "profile_sidebar_fill_color": "DDFFCC",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 40,
+                  "favorite_count": 229,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Thu Jun 11 21:17:45 +0000 2020",
+                  "id": 1271189903712219137,
+                  "id_str": "1271189903712219137",
+                  "text": "Tonight Joe Biden is attending a fundraiser hosted by anti-police activist John Legend.\n\nLegend supports the\u2026 https://t.co/JWVyctiumk",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/JWVyctiumk",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271189903712219137",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          110,
+                                          133
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 1108472017144201216,
+                        "id_str": "1108472017144201216",
+                        "name": "Trump War Room - Text TRUMP to 88022 & get the APP",
+                        "screen_name": "TrumpWarRoom",
+                        "location": "MAGA Country",
+                        "description": "Highlighting @realDonaldTrump's #PromisesKept, fighting #FakeNews. This account punches back 10x harder. Managed by the #TeamTrump 2020 campaign. #MAGA",
+                        "url": "https://t.co/mVHOxzYUNT",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/mVHOxzYUNT",
+                                                "expanded_url": "https://www.donaldjtrump.com/",
+                                                "display_url": "donaldjtrump.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 673148,
+                        "friends_count": 229,
+                        "listed_count": 1928,
+                        "created_at": "Wed Mar 20 20:54:58 +0000 2019",
+                        "favourites_count": 16,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 13267,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1108472017144201216/1588976113",
+                        "profile_link_color": "ABB8C2",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 628,
+                  "favorite_count": 855,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.042,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1271189903712219136&q=%22john%20legend%22&count=10&include_entities=1&result_type=popular",
+            "query": "%22john+legend%22",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

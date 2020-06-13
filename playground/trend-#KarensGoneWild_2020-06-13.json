@@ -1,0 +1,1518 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Sat Jun 13 20:47:24 +0000 2020",
+                  "id": 1271907041066582017,
+                  "id_str": "1271907041066582017",
+                  "text": "Karens be like.. #KarensGoneWild https://t.co/V4nPdGd9YT",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "KarensGoneWild",
+                                    "indices": [
+                                          17,
+                                          32
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1271906625184464896,
+                                    "id_str": "1271906625184464896",
+                                    "indices": [
+                                          33,
+                                          56
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271906625184464896/pu/img/bYllcSiJ5FcTaS1k.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271906625184464896/pu/img/bYllcSiJ5FcTaS1k.jpg",
+                                    "url": "https://t.co/V4nPdGd9YT",
+                                    "display_url": "pic.twitter.com/V4nPdGd9YT",
+                                    "expanded_url": "https://twitter.com/TreyNKennedy/status/1271907041066582017/video/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 675,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 383,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1280,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1271906625184464896,
+                                    "id_str": "1271906625184464896",
+                                    "indices": [
+                                          33,
+                                          56
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271906625184464896/pu/img/bYllcSiJ5FcTaS1k.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271906625184464896/pu/img/bYllcSiJ5FcTaS1k.jpg",
+                                    "url": "https://t.co/V4nPdGd9YT",
+                                    "display_url": "pic.twitter.com/V4nPdGd9YT",
+                                    "expanded_url": "https://twitter.com/TreyNKennedy/status/1271907041066582017/video/1",
+                                    "type": "video",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 675,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 383,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1280,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    },
+                                    "video_info": {
+                                          "aspect_ratio": [
+                                                16,
+                                                9
+                                          ],
+                                          "duration_millis": 93817,
+                                          "variants": [
+                                                {
+                                                      "bitrate": 832000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1271906625184464896/pu/vid/640x360/893Zv0jgRqMAPdGK.mp4?tag=10"
+                                                },
+                                                {
+                                                      "bitrate": 2176000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1271906625184464896/pu/vid/1280x720/-LdnvM533UD50Hjp.mp4?tag=10"
+                                                },
+                                                {
+                                                      "content_type": "application/x-mpegURL",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1271906625184464896/pu/pl/5SdgjlXUc49v9S2g.m3u8?tag=10"
+                                                },
+                                                {
+                                                      "bitrate": 256000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1271906625184464896/pu/vid/480x270/iq73tPCxyaz8KNXz.mp4?tag=10"
+                                                }
+                                          ]
+                                    },
+                                    "additional_media_info": {
+                                          "monetizable": true
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 211002550,
+                        "id_str": "211002550",
+                        "name": "Trey Kennedy",
+                        "screen_name": "TreyNKennedy",
+                        "location": "Instagram: @TreyNKennedy",
+                        "description": "John 3:30 | Contact: trey@treykennedy.com |",
+                        "url": "https://t.co/dBXoHR0Kk9",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/dBXoHR0Kk9",
+                                                "expanded_url": "http://treykennedy.com/tour",
+                                                "display_url": "treykennedy.com/tour",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 174818,
+                        "friends_count": 1136,
+                        "listed_count": 150,
+                        "created_at": "Tue Nov 02 01:06:42 +0000 2010",
+                        "favourites_count": 5109,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 2311,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "131516",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/763195927985139713/Fw5K4WSJ_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/763195927985139713/Fw5K4WSJ_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/211002550/1529282048",
+                        "profile_link_color": "009999",
+                        "profile_sidebar_border_color": "EEEEEE",
+                        "profile_sidebar_fill_color": "EFEFEF",
+                        "profile_text_color": "214CCC",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 2688,
+                  "favorite_count": 8591,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 20:29:54 +0000 2020",
+                  "id": 1271902639626715136,
+                  "id_str": "1271902639626715136",
+                  "text": "I see #KarensGoneWild  trending and its basically a compilation of a bunch of racist Karens.\n\nNotice law enforcemen\u2026 https://t.co/xTwBrZTDda",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "KarensGoneWild",
+                                    "indices": [
+                                          6,
+                                          21
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/xTwBrZTDda",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271902639626715136",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 16948493,
+                        "id_str": "16948493",
+                        "name": "Tariq Nasheed \ud83c\uddfa\ud83c\uddf8",
+                        "screen_name": "tariqnasheed",
+                        "location": "Los Angeles",
+                        "description": "Foundational Black American \ud83c\uddfa\ud83c\uddf8 #FBA info@tariqelite.com - I\u2019m the world\u2019s #1 Race Baiter. I bait racists & expose them-Get involved with our fight for justice",
+                        "url": "https://t.co/3dPcNooULJ",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/3dPcNooULJ",
+                                                "expanded_url": "https://www.paypal.me/melanoidnation",
+                                                "display_url": "paypal.me/melanoidnation",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 242524,
+                        "friends_count": 446,
+                        "listed_count": 1608,
+                        "created_at": "Fri Oct 24 12:49:50 +0000 2008",
+                        "favourites_count": 18591,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 79837,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "131516",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/740078368628965376/fNcogLRu_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/740078368628965376/fNcogLRu_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16948493/1438371718",
+                        "profile_link_color": "009999",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "666666",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 1333,
+                  "favorite_count": 5633,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 22:43:35 +0000 2020",
+                  "id": 1271936281002471424,
+                  "id_str": "1271936281002471424",
+                  "text": "This #KarensGoneWild is wild. White women stay ready to say the n word for any reason, at any time. Menace to society.",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "KarensGoneWild",
+                                    "indices": [
+                                          5,
+                                          20
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": []
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 6974622,
+                        "id_str": "6974622",
+                        "name": "roxane gay",
+                        "screen_name": "rgay",
+                        "location": "The Gaygency, Wakanda ",
+                        "description": "I want a tiny baby elephant. If you clap, I clap back. I write: Ayiti, Untamed State, Bad Feminist, Difficult Women, World of Wakanda, Hunger, Not That Bad.",
+                        "url": "https://t.co/m8MTz71xk1",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/m8MTz71xk1",
+                                                "expanded_url": "http://www.roxanegay.com",
+                                                "display_url": "roxanegay.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 734081,
+                        "friends_count": 2030,
+                        "listed_count": 4175,
+                        "created_at": "Wed Jun 20 18:44:41 +0000 2007",
+                        "favourites_count": 35587,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 7205,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1066623056896901120/rBzWchLh_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1066623056896901120/rBzWchLh_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6974622/1522732267",
+                        "profile_link_color": "D25F9C",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 75,
+                  "favorite_count": 851,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 22:57:36 +0000 2020",
+                  "id": 1271939810341486592,
+                  "id_str": "1271939810341486592",
+                  "text": "Worried you might be a Karen? These are the signs you might want to look out for. #KarensGoneWild \n\nhttps://t.co/b0dBipwYHA",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "KarensGoneWild",
+                                    "indices": [
+                                          82,
+                                          97
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/b0dBipwYHA",
+                                    "expanded_url": "https://www.youtube.com/watch?v=PUkwFZHjk9w",
+                                    "display_url": "youtube.com/watch?v=PUkwFZ\u2026",
+                                    "indices": [
+                                          100,
+                                          123
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 455288410,
+                        "id_str": "455288410",
+                        "name": "Real Time with Bill Maher",
+                        "screen_name": "RealTimers",
+                        "location": "Los Angeles, CA",
+                        "description": "Watch Real Time with @BillMaher LIVE Fridays at 10PM on @HBO. The contents of this account don't reflect the opinions of HBO.",
+                        "url": "https://t.co/wVXfPGk8wO",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/wVXfPGk8wO",
+                                                "expanded_url": "http://www.hbo.com/real-time-with-bill-maher",
+                                                "display_url": "hbo.com/real-time-with\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 180229,
+                        "friends_count": 1070,
+                        "listed_count": 1504,
+                        "created_at": "Wed Jan 04 23:19:08 +0000 2012",
+                        "favourites_count": 7511,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 11419,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1223528614282448898/UUTxrqIF_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1223528614282448898/UUTxrqIF_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/455288410/1580546929",
+                        "profile_link_color": "E81C4F",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 21,
+                  "favorite_count": 50,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 22:50:18 +0000 2020",
+                  "id": 1271937971466326021,
+                  "id_str": "1271937971466326021",
+                  "text": "Only thing #KarensGoneWild shows me right now is how much we love the idea of a singular \u201cKaren\u201d figure rather than\u2026 https://t.co/mg3v79t7eW",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "KarensGoneWild",
+                                    "indices": [
+                                          11,
+                                          26
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/mg3v79t7eW",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271937971466326021",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 18052474,
+                        "id_str": "18052474",
+                        "name": "\ud83c\uddec\ud83c\uddfe\ud83d\uddfdRap Game Gorgon \ud83d\uddfd\ud83c\uddec\ud83c\uddfe",
+                        "screen_name": "Blackamazon",
+                        "location": "Far Rock\u27a1\ufe0fLA ",
+                        "description": "Long Tall Sydette Sea Wall & Rockaway Beach. CMIF Fellow @annenberglab. frmr @coralproject always words and hands my own she/her unblock fee is like me :1G",
+                        "url": "https://t.co/SsJQQrXkQO",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/SsJQQrXkQO",
+                                                "expanded_url": "https://twitter.com/blackamazon/status/1108371820544036865?s=21",
+                                                "display_url": "twitter.com/blackamazon/st\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 51708,
+                        "friends_count": 6644,
+                        "listed_count": 738,
+                        "created_at": "Thu Dec 11 17:13:07 +0000 2008",
+                        "favourites_count": 52680,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 330293,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "BADFCD",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1266014968651976705/7iNJ7e0__normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1266014968651976705/7iNJ7e0__normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18052474/1576807292",
+                        "profile_link_color": "1B95E0",
+                        "profile_sidebar_border_color": "F2E195",
+                        "profile_sidebar_fill_color": "FFF7CC",
+                        "profile_text_color": "0C3E53",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 18,
+                  "favorite_count": 72,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 22:49:00 +0000 2020",
+                  "id": 1271937643584950272,
+                  "id_str": "1271937643584950272",
+                  "text": "#KarensGoneWild would be funnier to me if these weren\u2019t incidents of racial terror , if they weren\u2019t again centerin\u2026 https://t.co/GbjrKgqURi",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "KarensGoneWild",
+                                    "indices": [
+                                          0,
+                                          15
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/GbjrKgqURi",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271937643584950272",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 18052474,
+                        "id_str": "18052474",
+                        "name": "\ud83c\uddec\ud83c\uddfe\ud83d\uddfdRap Game Gorgon \ud83d\uddfd\ud83c\uddec\ud83c\uddfe",
+                        "screen_name": "Blackamazon",
+                        "location": "Far Rock\u27a1\ufe0fLA ",
+                        "description": "Long Tall Sydette Sea Wall & Rockaway Beach. CMIF Fellow @annenberglab. frmr @coralproject always words and hands my own she/her unblock fee is like me :1G",
+                        "url": "https://t.co/SsJQQrXkQO",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/SsJQQrXkQO",
+                                                "expanded_url": "https://twitter.com/blackamazon/status/1108371820544036865?s=21",
+                                                "display_url": "twitter.com/blackamazon/st\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 51708,
+                        "friends_count": 6644,
+                        "listed_count": 738,
+                        "created_at": "Thu Dec 11 17:13:07 +0000 2008",
+                        "favourites_count": 52680,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 330293,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "BADFCD",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1266014968651976705/7iNJ7e0__normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1266014968651976705/7iNJ7e0__normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18052474/1576807292",
+                        "profile_link_color": "1B95E0",
+                        "profile_sidebar_border_color": "F2E195",
+                        "profile_sidebar_fill_color": "FFF7CC",
+                        "profile_text_color": "0C3E53",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 25,
+                  "favorite_count": 97,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 21:54:30 +0000 2020",
+                  "id": 1271923928902955008,
+                  "id_str": "1271923928902955008",
+                  "text": "No surprise all these racist Karens are \"Jesus\" cult members.\n\n#KarensGoneWild https://t.co/EnE3bRpd48",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "KarensGoneWild",
+                                    "indices": [
+                                          63,
+                                          78
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/EnE3bRpd48",
+                                    "expanded_url": "https://twitter.com/sanosbo1/status/1271909265117192192",
+                                    "display_url": "twitter.com/sanosbo1/statu\u2026",
+                                    "indices": [
+                                          79,
+                                          102
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 117341432,
+                        "id_str": "117341432",
+                        "name": "Sankrant Sanu \u0938\u093e\u0928\u0941 \u0938\u0902\u0915\u094d\u0930\u093e\u0928\u094d\u0924 \u0a38\u0a70\u0a15\u0a4d\u0a30\u0a3e\u0a02\u0a24 \u0a38\u0a3e\u0a28\u0a41",
+                        "screen_name": "sankrant",
+                        "location": "",
+                        "description": "Founder @garudaprakashan. Author, Meditator, IITian. Learn Sufi dances, Sudarshan Kriya. Drummer. Book: The English Medium Myth \u0928\u093f\u091c \u092d\u093e\u0937\u093e \u0909\u0928\u094d\u0928\u0924\u093f \u0905\u0939\u0947 https://t.co/C0URxZthhQ",
+                        "url": "https://t.co/5NVw7BuaQ0",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/5NVw7BuaQ0",
+                                                "expanded_url": "http://sankrant.org",
+                                                "display_url": "sankrant.org",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/C0URxZthhQ",
+                                                "expanded_url": "http://grpr.in/emm",
+                                                "display_url": "grpr.in/emm",
+                                                "indices": [
+                                                      148,
+                                                      171
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 56019,
+                        "friends_count": 772,
+                        "listed_count": 261,
+                        "created_at": "Thu Feb 25 08:04:04 +0000 2010",
+                        "favourites_count": 30480,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 68521,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1127706244234354689/p_wgIUrj_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127706244234354689/p_wgIUrj_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/117341432/1565514303",
+                        "profile_link_color": "981CEB",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1271909265117192192,
+                  "quoted_status_id_str": "1271909265117192192",
+                  "quoted_status": {
+                        "created_at": "Sat Jun 13 20:56:14 +0000 2020",
+                        "id": 1271909265117192192,
+                        "id_str": "1271909265117192192",
+                        "text": "Psycho Karen\u2019s are a menace to society...we must reallocate funds from police departments in every city to lock Kar\u2026 https://t.co/Ut8AukDQtT",
+                        "truncated": true,
+                        "entities": {
+                              "hashtags": [],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/Ut8AukDQtT",
+                                          "expanded_url": "https://twitter.com/i/web/status/1271909265117192192",
+                                          "display_url": "twitter.com/i/web/status/1\u2026",
+                                          "indices": [
+                                                117,
+                                                140
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 351151761,
+                              "id_str": "351151761",
+                              "name": "san",
+                              "screen_name": "sanosbo1",
+                              "location": "San\u2019s World \ud83d\udc8bNO DM\u2019s",
+                              "description": "Adjunct Instructor, Assist Professionals to build wildly profitable businesses; develop tactics & motivational mindsets for Extraordinary Biz Opportunities-\ud83d\udeabDM",
+                              "url": null,
+                              "entities": {
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 50570,
+                              "friends_count": 53153,
+                              "listed_count": 116,
+                              "created_at": "Mon Aug 08 21:25:15 +0000 2011",
+                              "favourites_count": 166894,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": true,
+                              "verified": false,
+                              "statuses_count": 87611,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "F7F4D9",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                              "profile_background_tile": true,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1267911698704449539/93VZwR_t_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1267911698704449539/93VZwR_t_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/351151761/1415393091",
+                              "profile_link_color": "909C27",
+                              "profile_sidebar_border_color": "FFFFFF",
+                              "profile_sidebar_fill_color": "E8F7E6",
+                              "profile_text_color": "333333",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": false,
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 1024,
+                        "favorite_count": 3427,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 32,
+                  "favorite_count": 70,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 21:59:49 +0000 2020",
+                  "id": 1271925267376693250,
+                  "id_str": "1271925267376693250",
+                  "text": "Male Karen starts yelling at kids to get out of pool \n\n#KarensGoneWild https://t.co/L7KqxInWlm",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "KarensGoneWild",
+                                    "indices": [
+                                          55,
+                                          70
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1271925219511300096,
+                                    "id_str": "1271925219511300096",
+                                    "indices": [
+                                          71,
+                                          94
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271925219511300096/pu/img/LY621MlLGEAlcCeq.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271925219511300096/pu/img/LY621MlLGEAlcCeq.jpg",
+                                    "url": "https://t.co/L7KqxInWlm",
+                                    "display_url": "pic.twitter.com/L7KqxInWlm",
+                                    "expanded_url": "https://twitter.com/5050RecordLabel/status/1271925267376693250/video/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 383,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 406,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 406,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1271925219511300096,
+                                    "id_str": "1271925219511300096",
+                                    "indices": [
+                                          71,
+                                          94
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271925219511300096/pu/img/LY621MlLGEAlcCeq.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271925219511300096/pu/img/LY621MlLGEAlcCeq.jpg",
+                                    "url": "https://t.co/L7KqxInWlm",
+                                    "display_url": "pic.twitter.com/L7KqxInWlm",
+                                    "expanded_url": "https://twitter.com/5050RecordLabel/status/1271925267376693250/video/1",
+                                    "type": "video",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 383,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 406,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 406,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    },
+                                    "video_info": {
+                                          "aspect_ratio": [
+                                                203,
+                                                360
+                                          ],
+                                          "duration_millis": 59033,
+                                          "variants": [
+                                                {
+                                                      "content_type": "application/x-mpegURL",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1271925219511300096/pu/pl/dgkGI2YMI8XUa2xH.m3u8?tag=10"
+                                                },
+                                                {
+                                                      "bitrate": 832000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1271925219511300096/pu/vid/406x720/NBsTr5zqePDF6f1E.mp4?tag=10"
+                                                },
+                                                {
+                                                      "bitrate": 632000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1271925219511300096/pu/vid/320x566/xDA3eCn7JmYyPNpK.mp4?tag=10"
+                                                }
+                                          ]
+                                    },
+                                    "additional_media_info": {
+                                          "monetizable": false
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 126979461,
+                        "id_str": "126979461",
+                        "name": "50/50innertainment",
+                        "screen_name": "5050RecordLabel",
+                        "location": "tiktok.com/@5050innertainment",
+                        "description": "Hip-hop & rap Record Label Created May 2008-  #ASCAP members - #Tunecore #Music Publishers - Distributed on #Amazon & #Spotify - https://t.co/Wjv5jjzvX6",
+                        "url": "https://t.co/kwDUTpnglG",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/kwDUTpnglG",
+                                                "expanded_url": "http://youtube.com/c/5050innertainment",
+                                                "display_url": "youtube.com/c/5050innertai\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/Wjv5jjzvX6",
+                                                "expanded_url": "http://instagram.com/5050innertainment",
+                                                "display_url": "instagram.com/5050innertainm\u2026",
+                                                "indices": [
+                                                      129,
+                                                      152
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 115085,
+                        "friends_count": 64405,
+                        "listed_count": 293,
+                        "created_at": "Sat Mar 27 16:42:45 +0000 2010",
+                        "favourites_count": 11482,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 29370,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000305",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1009893874225971200/VBtkMo_5_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009893874225971200/VBtkMo_5_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/126979461/1454526207",
+                        "profile_link_color": "1B95E0",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 19,
+                  "favorite_count": 72,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 23:11:12 +0000 2020",
+                  "id": 1271943233044721665,
+                  "id_str": "1271943233044721665",
+                  "text": "Looking at white women's violence on this #KarensGoneWild and I'm... not surprised? https://t.co/l7VapPBUpN",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "KarensGoneWild",
+                                    "indices": [
+                                          42,
+                                          57
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1271943227273359361,
+                                    "id_str": "1271943227273359361",
+                                    "indices": [
+                                          84,
+                                          107
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EabZoEwXsAEWTrL.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EabZoEwXsAEWTrL.jpg",
+                                    "url": "https://t.co/l7VapPBUpN",
+                                    "display_url": "pic.twitter.com/l7VapPBUpN",
+                                    "expanded_url": "https://twitter.com/KarenAttiah/status/1271943233044721665/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 498,
+                                                "h": 280,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 498,
+                                                "h": 280,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 498,
+                                                "h": 280,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1271943227273359361,
+                                    "id_str": "1271943227273359361",
+                                    "indices": [
+                                          84,
+                                          107
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EabZoEwXsAEWTrL.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EabZoEwXsAEWTrL.jpg",
+                                    "url": "https://t.co/l7VapPBUpN",
+                                    "display_url": "pic.twitter.com/l7VapPBUpN",
+                                    "expanded_url": "https://twitter.com/KarenAttiah/status/1271943233044721665/photo/1",
+                                    "type": "animated_gif",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 498,
+                                                "h": 280,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 498,
+                                                "h": 280,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 498,
+                                                "h": 280,
+                                                "resize": "fit"
+                                          }
+                                    },
+                                    "video_info": {
+                                          "aspect_ratio": [
+                                                249,
+                                                140
+                                          ],
+                                          "variants": [
+                                                {
+                                                      "bitrate": 0,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/tweet_video/EabZoEwXsAEWTrL.mp4"
+                                                }
+                                          ]
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 16684243,
+                        "id_str": "16684243",
+                        "name": "Karen Attiah",
+                        "screen_name": "KarenAttiah",
+                        "location": "Washington D.C.",
+                        "description": "Global Opinions, @WashingtonPost |Polk Award-Winner| 2019 NABJ Journo of the Year |karen.attiah@washpost.com| IG: @KarenAttiah",
+                        "url": "https://t.co/7BsyGzezsC",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/7BsyGzezsC",
+                                                "expanded_url": "http://washingtonpost.com/people/karen-attiah",
+                                                "display_url": "washingtonpost.com/people/karen-a\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 179588,
+                        "friends_count": 7604,
+                        "listed_count": 1857,
+                        "created_at": "Fri Oct 10 15:12:54 +0000 2008",
+                        "favourites_count": 47766,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 64323,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "D186C8",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1086748831692263424/AQWwnLM1_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086748831692263424/AQWwnLM1_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16684243/1435898226",
+                        "profile_link_color": "086BFF",
+                        "profile_sidebar_border_color": "00F7FF",
+                        "profile_sidebar_fill_color": "BD99AF",
+                        "profile_text_color": "182C4A",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 10,
+                  "favorite_count": 91,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sat Jun 13 23:22:16 +0000 2020",
+                  "id": 1271946016581914625,
+                  "id_str": "1271946016581914625",
+                  "text": "Obligatory #Karen Public Service Announcement: \n\nNo, the word \u2018Karen\u2019 to describe the abusive behavior in the\u2026 https://t.co/tr7oxGdN02",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "Karen",
+                                    "indices": [
+                                          11,
+                                          17
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/tr7oxGdN02",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271946016581914625",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          111,
+                                          134
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 16684243,
+                        "id_str": "16684243",
+                        "name": "Karen Attiah",
+                        "screen_name": "KarenAttiah",
+                        "location": "Washington D.C.",
+                        "description": "Global Opinions, @WashingtonPost |Polk Award-Winner| 2019 NABJ Journo of the Year |karen.attiah@washpost.com| IG: @KarenAttiah",
+                        "url": "https://t.co/7BsyGzezsC",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/7BsyGzezsC",
+                                                "expanded_url": "http://washingtonpost.com/people/karen-attiah",
+                                                "display_url": "washingtonpost.com/people/karen-a\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 179588,
+                        "friends_count": 7604,
+                        "listed_count": 1857,
+                        "created_at": "Fri Oct 10 15:12:54 +0000 2008",
+                        "favourites_count": 47766,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 64323,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "D186C8",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1086748831692263424/AQWwnLM1_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086748831692263424/AQWwnLM1_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16684243/1435898226",
+                        "profile_link_color": "086BFF",
+                        "profile_sidebar_border_color": "00F7FF",
+                        "profile_sidebar_fill_color": "BD99AF",
+                        "profile_text_color": "182C4A",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 11,
+                  "favorite_count": 76,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.045,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1271902639626715135&q=%23KarensGoneWild&count=10&include_entities=1&result_type=popular",
+            "query": "%23KarensGoneWild",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}
