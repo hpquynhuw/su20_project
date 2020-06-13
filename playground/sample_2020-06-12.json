@@ -1,0 +1,1331 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Fri Jun 12 04:03:16 +0000 2020",
+                  "id": 1271291958296604675,
+                  "id_str": "1271291958296604675",
+                  "text": "Seattle Police Chief: \"Rapes, robberies and all sorts of violent acts have been occurring in the area and we're not\u2026 https://t.co/DzT45tDSns",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/DzT45tDSns",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271291958296604675",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 2835451658,
+                        "id_str": "2835451658",
+                        "name": "Andy Ng\u00f4",
+                        "screen_name": "MrAndyNgo",
+                        "location": "",
+                        "description": "Editor-at-large - @TPostMillennial. \"Unmasked\" now available for pre-order: https://t.co/nHDpgWNnvX",
+                        "url": "https://t.co/jPwMbP8CBz",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/jPwMbP8CBz",
+                                                "expanded_url": "https://ngo.locals.com/",
+                                                "display_url": "ngo.locals.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/nHDpgWNnvX",
+                                                "expanded_url": "https://www.amazon.com/Unmasked-Antifas-Radical-Destroy-Democracy/dp/154605958X",
+                                                "display_url": "amazon.com/Unmasked-Antif\u2026",
+                                                "indices": [
+                                                      76,
+                                                      99
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 420853,
+                        "friends_count": 655,
+                        "listed_count": 1878,
+                        "created_at": "Mon Sep 29 05:58:06 +0000 2014",
+                        "favourites_count": 40293,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 12681,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "EBEBEB",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1265070746931302401/2w71OcJP_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265070746931302401/2w71OcJP_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2835451658/1590863799",
+                        "profile_link_color": "AF7D5D",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 16488,
+                  "favorite_count": 26460,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Fri Jun 12 19:06:15 +0000 2020",
+                  "id": 1271519199236485123,
+                  "id_str": "1271519199236485123",
+                  "text": "Fresh food given out for free at \u201cmutual aid stations\u201d inside the Seattle #CapitolHillAutonomousZone. Packaged snac\u2026 https://t.co/hD15DyvwyJ",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "CapitolHillAutonomousZone",
+                                    "indices": [
+                                          74,
+                                          100
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/hD15DyvwyJ",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271519199236485123",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 2835451658,
+                        "id_str": "2835451658",
+                        "name": "Andy Ng\u00f4",
+                        "screen_name": "MrAndyNgo",
+                        "location": "",
+                        "description": "Editor-at-large - @TPostMillennial. \"Unmasked\" now available for pre-order: https://t.co/nHDpgWNnvX",
+                        "url": "https://t.co/jPwMbP8CBz",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/jPwMbP8CBz",
+                                                "expanded_url": "https://ngo.locals.com/",
+                                                "display_url": "ngo.locals.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/nHDpgWNnvX",
+                                                "expanded_url": "https://www.amazon.com/Unmasked-Antifas-Radical-Destroy-Democracy/dp/154605958X",
+                                                "display_url": "amazon.com/Unmasked-Antif\u2026",
+                                                "indices": [
+                                                      76,
+                                                      99
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 420853,
+                        "friends_count": 655,
+                        "listed_count": 1878,
+                        "created_at": "Mon Sep 29 05:58:06 +0000 2014",
+                        "favourites_count": 40293,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 12681,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "EBEBEB",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1265070746931302401/2w71OcJP_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265070746931302401/2w71OcJP_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2835451658/1590863799",
+                        "profile_link_color": "AF7D5D",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 603,
+                  "favorite_count": 1447,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Fri Jun 12 01:18:51 +0000 2020",
+                  "id": 1271250579931582464,
+                  "id_str": "1271250579931582464",
+                  "text": "The #CapitolHillAutonomousZone isn't the peaceful block party that protesters &amp; some media outlets claim. It's why\u2026 https://t.co/nZsgHlMFwM",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "CapitolHillAutonomousZone",
+                                    "indices": [
+                                          4,
+                                          30
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/nZsgHlMFwM",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271250579931582464",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          120,
+                                          143
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 16193763,
+                        "id_str": "16193763",
+                        "name": "(((Jason Rantz))) on KTTH Radio",
+                        "screen_name": "jasonrantz",
+                        "location": "Seattle WA",
+                        "description": "\ud83c\udf99Host of the Jason Rantz Show on KTTH 770AM/94.5 FM in Seattle/Tacoma from 3-6pm. \u2615\ufe0f\u26bd\ufe0f\u2708\ufe0f\ud83c\udfacnut. \ud83c\uddfa\ud83c\uddf8\u2721\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Member BFCA. Conservative. Talk Radio.",
+                        "url": "https://t.co/nHAxD3Frwa",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/nHAxD3Frwa",
+                                                "expanded_url": "http://bit.ly/RantzPodcast",
+                                                "display_url": "bit.ly/RantzPodcast",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 26243,
+                        "friends_count": 1610,
+                        "listed_count": 310,
+                        "created_at": "Mon Sep 08 23:03:01 +0000 2008",
+                        "favourites_count": 44120,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 58132,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "EBEBEB",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1086662608344702976/tHcBUnwr_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086662608344702976/tHcBUnwr_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16193763/1577554154",
+                        "profile_link_color": "990000",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "F3F3F3",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 1368,
+                  "favorite_count": 2738,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Fri Jun 12 21:57:20 +0000 2020",
+                  "id": 1271562255851646976,
+                  "id_str": "1271562255851646976",
+                  "text": "The @SeattlePD East Precinct remains closed and entirely boarded up. People are on guard to make sure it does not r\u2026 https://t.co/bv8GiTLpwA",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "SeattlePD",
+                                    "name": "Seattle Police Dept.",
+                                    "id": 25101704,
+                                    "id_str": "25101704",
+                                    "indices": [
+                                          4,
+                                          14
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/bv8GiTLpwA",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271562255851646976",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 2835451658,
+                        "id_str": "2835451658",
+                        "name": "Andy Ng\u00f4",
+                        "screen_name": "MrAndyNgo",
+                        "location": "",
+                        "description": "Editor-at-large - @TPostMillennial. \"Unmasked\" now available for pre-order: https://t.co/nHDpgWNnvX",
+                        "url": "https://t.co/jPwMbP8CBz",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/jPwMbP8CBz",
+                                                "expanded_url": "https://ngo.locals.com/",
+                                                "display_url": "ngo.locals.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/nHDpgWNnvX",
+                                                "expanded_url": "https://www.amazon.com/Unmasked-Antifas-Radical-Destroy-Democracy/dp/154605958X",
+                                                "display_url": "amazon.com/Unmasked-Antif\u2026",
+                                                "indices": [
+                                                      76,
+                                                      99
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 420853,
+                        "friends_count": 655,
+                        "listed_count": 1878,
+                        "created_at": "Mon Sep 29 05:58:06 +0000 2014",
+                        "favourites_count": 40293,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 12681,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "EBEBEB",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1265070746931302401/2w71OcJP_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265070746931302401/2w71OcJP_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2835451658/1590863799",
+                        "profile_link_color": "AF7D5D",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 449,
+                  "favorite_count": 733,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Thu Jun 11 19:43:17 +0000 2020",
+                  "id": 1271166131445788672,
+                  "id_str": "1271166131445788672",
+                  "text": "Hello from the #capitolhillautonomouszone in \u201clawless\u201d Seattle. At the east precinct, supposed epicenter of \u201canarch\u2026 https://t.co/XWVgkmdltv",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "capitolhillautonomouszone",
+                                    "indices": [
+                                          15,
+                                          41
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/XWVgkmdltv",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271166131445788672",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 70744212,
+                        "id_str": "70744212",
+                        "name": "Gregg Bell",
+                        "screen_name": "gbellseattle",
+                        "location": "Seattle",
+                        "description": "Seahawks beat writer for @thenewstribune. Former AP sports writer Seattle, UW director of writing. West Point & @ucbsoj grad. Dad of twins. Steubenville, Ohio",
+                        "url": "https://t.co/mKaFHKtZw4",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/mKaFHKtZw4",
+                                                "expanded_url": "http://www.thenewstribune.com",
+                                                "display_url": "thenewstribune.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 37279,
+                        "friends_count": 1322,
+                        "listed_count": 1375,
+                        "created_at": "Tue Sep 01 18:08:12 +0000 2009",
+                        "favourites_count": 11269,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 79306,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "0E9915",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/496708501163368448/R_QJ48XC_normal.jpeg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/496708501163368448/R_QJ48XC_normal.jpeg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/70744212/1407259700",
+                        "profile_link_color": "0015B8",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "161329",
+                        "profile_text_color": "40393F",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": {
+                        "id": "07d9db00aec83000",
+                        "url": "https://api.twitter.com/1.1/geo/id/07d9db00aec83000.json",
+                        "place_type": "poi",
+                        "name": "Cal Anderson Park",
+                        "full_name": "Cal Anderson Park",
+                        "country_code": "US",
+                        "country": "United States",
+                        "contained_within": [],
+                        "bounding_box": {
+                              "type": "Polygon",
+                              "coordinates": [
+                                    [
+                                          [
+                                                -122.31935058440688,
+                                                47.61708669011405
+                                          ],
+                                          [
+                                                -122.31935058440688,
+                                                47.61708669011405
+                                          ],
+                                          [
+                                                -122.31935058440688,
+                                                47.61708669011405
+                                          ],
+                                          [
+                                                -122.31935058440688,
+                                                47.61708669011405
+                                          ]
+                                    ]
+                              ]
+                        },
+                        "attributes": {}
+                  },
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 272,
+                  "favorite_count": 1035,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Fri Jun 12 18:56:29 +0000 2020",
+                  "id": 1271516742058012672,
+                  "id_str": "1271516742058012672",
+                  "text": "Are you going to get stabbed the second you wander into the #CapitolHillAutonomousZone? No. But there are efforts t\u2026 https://t.co/yt88w77d2i",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "CapitolHillAutonomousZone",
+                                    "indices": [
+                                          60,
+                                          86
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/yt88w77d2i",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271516742058012672",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 16193763,
+                        "id_str": "16193763",
+                        "name": "(((Jason Rantz))) on KTTH Radio",
+                        "screen_name": "jasonrantz",
+                        "location": "Seattle WA",
+                        "description": "\ud83c\udf99Host of the Jason Rantz Show on KTTH 770AM/94.5 FM in Seattle/Tacoma from 3-6pm. \u2615\ufe0f\u26bd\ufe0f\u2708\ufe0f\ud83c\udfacnut. \ud83c\uddfa\ud83c\uddf8\u2721\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Member BFCA. Conservative. Talk Radio.",
+                        "url": "https://t.co/nHAxD3Frwa",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/nHAxD3Frwa",
+                                                "expanded_url": "http://bit.ly/RantzPodcast",
+                                                "display_url": "bit.ly/RantzPodcast",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 26243,
+                        "friends_count": 1610,
+                        "listed_count": 310,
+                        "created_at": "Mon Sep 08 23:03:01 +0000 2008",
+                        "favourites_count": 44120,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 58132,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "EBEBEB",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1086662608344702976/tHcBUnwr_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086662608344702976/tHcBUnwr_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16193763/1577554154",
+                        "profile_link_color": "990000",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "F3F3F3",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 123,
+                  "favorite_count": 260,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Thu Jun 11 14:30:28 +0000 2020",
+                  "id": 1271087408864391174,
+                  "id_str": "1271087408864391174",
+                  "text": "Gov Jay Inslee baffles literally everyone with #CapitolHillAutonomousZone claim: he says he has no idea what this i\u2026 https://t.co/5priggtUiI",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "CapitolHillAutonomousZone",
+                                    "indices": [
+                                          47,
+                                          73
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/5priggtUiI",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271087408864391174",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 16193763,
+                        "id_str": "16193763",
+                        "name": "(((Jason Rantz))) on KTTH Radio",
+                        "screen_name": "jasonrantz",
+                        "location": "Seattle WA",
+                        "description": "\ud83c\udf99Host of the Jason Rantz Show on KTTH 770AM/94.5 FM in Seattle/Tacoma from 3-6pm. \u2615\ufe0f\u26bd\ufe0f\u2708\ufe0f\ud83c\udfacnut. \ud83c\uddfa\ud83c\uddf8\u2721\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Member BFCA. Conservative. Talk Radio.",
+                        "url": "https://t.co/nHAxD3Frwa",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/nHAxD3Frwa",
+                                                "expanded_url": "http://bit.ly/RantzPodcast",
+                                                "display_url": "bit.ly/RantzPodcast",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 26243,
+                        "friends_count": 1610,
+                        "listed_count": 310,
+                        "created_at": "Mon Sep 08 23:03:01 +0000 2008",
+                        "favourites_count": 44120,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 58132,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "EBEBEB",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1086662608344702976/tHcBUnwr_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086662608344702976/tHcBUnwr_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16193763/1577554154",
+                        "profile_link_color": "990000",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "F3F3F3",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 84,
+                  "favorite_count": 239,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Thu Jun 11 16:47:09 +0000 2020",
+                  "id": 1271121806548598785,
+                  "id_str": "1271121806548598785",
+                  "text": "Let's try again...\nRight-wingers have been trying to tear down the #CHAZ - Seattle's autonomous, cop-free zone - wi\u2026 https://t.co/dvEU81Us3j",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "CHAZ",
+                                    "indices": [
+                                          67,
+                                          72
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/dvEU81Us3j",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271121806548598785",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 3226765068,
+                        "id_str": "3226765068",
+                        "name": "Jennifer Scheurle",
+                        "screen_name": "Gaohmee",
+                        "location": "Seattle, WA",
+                        "description": "Lead Designer @ArenaNet. \ud83d\udcaa Senior on Unannounced title! Made games w/ NASA. \ud83c\udfc6\ud83c\udfc6\ud83c\udfc6winning. Chair @IGDA_WIGSIG. Wrestling live tweeting! She/Her",
+                        "url": "https://t.co/6rphyYJkFd",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/6rphyYJkFd",
+                                                "expanded_url": "http://www.gaohmee.com/",
+                                                "display_url": "gaohmee.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 37059,
+                        "friends_count": 2827,
+                        "listed_count": 566,
+                        "created_at": "Tue May 26 05:17:55 +0000 2015",
+                        "favourites_count": 156171,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 58227,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1266991939502477312/2qhryAFV_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1266991939502477312/2qhryAFV_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3226765068/1552288097",
+                        "profile_link_color": "000000",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 109,
+                  "favorite_count": 247,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Thu Jun 11 23:48:02 +0000 2020",
+                  "id": 1271227724133052417,
+                  "id_str": "1271227724133052417",
+                  "text": "Before I was on Pete Carroll's #Seahawks call I was in #capitolhillautonomouszone, the alleged epicenter of anarchy\u2026 https://t.co/WJU5SMLrUs",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "Seahawks",
+                                    "indices": [
+                                          31,
+                                          40
+                                    ]
+                              },
+                              {
+                                    "text": "capitolhillautonomouszone",
+                                    "indices": [
+                                          55,
+                                          81
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/WJU5SMLrUs",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271227724133052417",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 70744212,
+                        "id_str": "70744212",
+                        "name": "Gregg Bell",
+                        "screen_name": "gbellseattle",
+                        "location": "Seattle",
+                        "description": "Seahawks beat writer for @thenewstribune. Former AP sports writer Seattle, UW director of writing. West Point & @ucbsoj grad. Dad of twins. Steubenville, Ohio",
+                        "url": "https://t.co/mKaFHKtZw4",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/mKaFHKtZw4",
+                                                "expanded_url": "http://www.thenewstribune.com",
+                                                "display_url": "thenewstribune.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 37279,
+                        "friends_count": 1322,
+                        "listed_count": 1375,
+                        "created_at": "Tue Sep 01 18:08:12 +0000 2009",
+                        "favourites_count": 11269,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 79306,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "0E9915",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/496708501163368448/R_QJ48XC_normal.jpeg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/496708501163368448/R_QJ48XC_normal.jpeg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/70744212/1407259700",
+                        "profile_link_color": "0015B8",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "161329",
+                        "profile_text_color": "40393F",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 113,
+                  "favorite_count": 523,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Thu Jun 11 15:05:00 +0000 2020",
+                  "id": 1271096099378364422,
+                  "id_str": "1271096099378364422",
+                  "text": "Ironically, it's @JayInslee staying out of Washington state's business. When asked to comment about the\u2026 https://t.co/TSHAMAgE4w",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "JayInslee",
+                                    "name": "Jay Inslee",
+                                    "id": 21789463,
+                                    "id_str": "21789463",
+                                    "indices": [
+                                          17,
+                                          27
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/TSHAMAgE4w",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271096099378364422",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          105,
+                                          128
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 16193763,
+                        "id_str": "16193763",
+                        "name": "(((Jason Rantz))) on KTTH Radio",
+                        "screen_name": "jasonrantz",
+                        "location": "Seattle WA",
+                        "description": "\ud83c\udf99Host of the Jason Rantz Show on KTTH 770AM/94.5 FM in Seattle/Tacoma from 3-6pm. \u2615\ufe0f\u26bd\ufe0f\u2708\ufe0f\ud83c\udfacnut. \ud83c\uddfa\ud83c\uddf8\u2721\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Member BFCA. Conservative. Talk Radio.",
+                        "url": "https://t.co/nHAxD3Frwa",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/nHAxD3Frwa",
+                                                "expanded_url": "http://bit.ly/RantzPodcast",
+                                                "display_url": "bit.ly/RantzPodcast",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 26243,
+                        "friends_count": 1610,
+                        "listed_count": 310,
+                        "created_at": "Mon Sep 08 23:03:01 +0000 2008",
+                        "favourites_count": 44120,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 58132,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "EBEBEB",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1086662608344702976/tHcBUnwr_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086662608344702976/tHcBUnwr_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16193763/1577554154",
+                        "profile_link_color": "990000",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "F3F3F3",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1270941712320352258,
+                  "quoted_status_id_str": "1270941712320352258",
+                  "quoted_status": {
+                        "created_at": "Thu Jun 11 04:51:31 +0000 2020",
+                        "id": 1270941712320352258,
+                        "id_str": "1270941712320352258",
+                        "text": "A man who is totally incapable of governing should stay out of Washington state\u2019s business. \u201cStoop\u201d tweeting. https://t.co/O6i04qmZ9v",
+                        "truncated": false,
+                        "entities": {
+                              "hashtags": [],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/O6i04qmZ9v",
+                                          "expanded_url": "https://twitter.com/realdonaldtrump/status/1270914092295950337",
+                                          "display_url": "twitter.com/realdonaldtrum\u2026",
+                                          "indices": [
+                                                110,
+                                                133
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 21789463,
+                              "id_str": "21789463",
+                              "name": "Jay Inslee",
+                              "screen_name": "JayInslee",
+                              "location": "Bainbridge Island, WA",
+                              "description": "Governor of WA. On a mission to defeat climate change. Early to bed, early to rise, work like hell and organize. Let's go get \u2018em: https://t.co/nfpwaFxtqz",
+                              "url": "https://t.co/44s6Pyo5M6",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/44s6Pyo5M6",
+                                                      "expanded_url": "http://jayinslee.com",
+                                                      "display_url": "jayinslee.com",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/nfpwaFxtqz",
+                                                      "expanded_url": "http://JayInslee.com",
+                                                      "display_url": "JayInslee.com",
+                                                      "indices": [
+                                                            131,
+                                                            154
+                                                      ]
+                                                }
+                                          ]
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 186913,
+                              "friends_count": 1184,
+                              "listed_count": 1969,
+                              "created_at": "Tue Feb 24 19:54:10 +0000 2009",
+                              "favourites_count": 2700,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": true,
+                              "verified": true,
+                              "statuses_count": 6274,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "003A63",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+                              "profile_background_tile": true,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1157021315427028992/BJeY4jIr_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157021315427028992/BJeY4jIr_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/21789463/1566504299",
+                              "profile_link_color": "1F98C7",
+                              "profile_sidebar_border_color": "C6E2EE",
+                              "profile_sidebar_fill_color": "DAECF4",
+                              "profile_text_color": "663B12",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": false,
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": true,
+                        "quoted_status_id": 1270914092295950337,
+                        "quoted_status_id_str": "1270914092295950337",
+                        "retweet_count": 27148,
+                        "favorite_count": 137152,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 78,
+                  "favorite_count": 219,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.099,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1271087408864391173&q=%23CapitolHillAutonomousZone&count=10&include_entities=1&result_type=popular",
+            "query": "%23CapitolHillAutonomousZone",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}
