@@ -1,15 +1,11 @@
-# try transversing the json file and fetch related popular tweets of trends
-
 import json
 import requests
 from secrets import twitter_token
 from secrets import base_url
 from datetime import date
 
-# This can be used to search up particular tweets that contain query indicated by user
-# else we can use GET-SEARCH alone to iterate through popular trends from fetchtrends json
-# since they contain the search query for each trend
-
+# This can transverse through the json-trends file and fetch related popular tweets.
+# Idea: Since some searches can come back null, eliminate those before saving the json files
 class Test_Json:
     def __init__(self):
         search_url=base_url+"search/tweets.json?"
@@ -18,7 +14,7 @@ class Test_Json:
 
         with open('seattle_2020-06-13.json') as json_file:
             data = json.load(json_file)
-            for p in data[0]['trends']:
+            for p in data[]['trends']:
                 name = p['name']
                 query = p['query']
                 url=search_url+"q="+query+"&result_type=popular&count=10"

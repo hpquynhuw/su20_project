@@ -5,16 +5,14 @@ from secrets import base_url
 from datetime import date
 
 
-# This can be used to search up particular tweets that contain query indicated by user
-# else we can use GET-SEARCH alone to iterate through popular trends from fetchtrends json
-# since they contain the search query for each trend
+# This can be used to search up particular tweets that contain query indicated by user.
 
 class Test_Searchpopular:
     def __init__(self):
         search_url=base_url+"search/tweets.json?"
         headers={"Authorization": "Bearer {}".format(twitter_token)}
 
-        #params = {
+        # params = {
         #    'must': [],
         #    'phrases': ['lebron', 'bailing'],
         #    'tags': ['blm', 'usa']
@@ -35,6 +33,8 @@ class Test_Searchpopular:
         json.dump(tweet_data, out_file, indent=6)
         out_file.close()
 
+    # From user's input, we can build the query search for search
+    # Not all query builder operators are included below
     def buildQuery(self, params):
         space="%20"
         exact="%22"
