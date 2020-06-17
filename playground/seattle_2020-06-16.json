@@ -1,0 +1,364 @@
+[
+      {
+            "trends": [
+                  {
+                        "name": "AIDS",
+                        "url": "http://twitter.com/search?q=AIDS",
+                        "promoted_content": null,
+                        "query": "AIDS",
+                        "tweet_volume": 153600
+                  },
+                  {
+                        "name": "#CHOP",
+                        "url": "http://twitter.com/search?q=%23CHOP",
+                        "promoted_content": null,
+                        "query": "%23CHOP",
+                        "tweet_volume": 19731
+                  },
+                  {
+                        "name": "Supreme Court",
+                        "url": "http://twitter.com/search?q=%22Supreme+Court%22",
+                        "promoted_content": null,
+                        "query": "%22Supreme+Court%22",
+                        "tweet_volume": 348980
+                  },
+                  {
+                        "name": "Proud Boys",
+                        "url": "http://twitter.com/search?q=%22Proud+Boys%22",
+                        "promoted_content": null,
+                        "query": "%22Proud+Boys%22",
+                        "tweet_volume": 13602
+                  },
+                  {
+                        "name": "SCOTUS",
+                        "url": "http://twitter.com/search?q=SCOTUS",
+                        "promoted_content": null,
+                        "query": "SCOTUS",
+                        "tweet_volume": 100234
+                  },
+                  {
+                        "name": "#Covid_19",
+                        "url": "http://twitter.com/search?q=%23Covid_19",
+                        "promoted_content": null,
+                        "query": "%23Covid_19",
+                        "tweet_volume": 153680
+                  },
+                  {
+                        "name": "Shake Shack",
+                        "url": "http://twitter.com/search?q=%22Shake+Shack%22",
+                        "promoted_content": null,
+                        "query": "%22Shake+Shack%22",
+                        "tweet_volume": 280085
+                  },
+                  {
+                        "name": "T-Mobile",
+                        "url": "http://twitter.com/search?q=T-Mobile",
+                        "promoted_content": null,
+                        "query": "T-Mobile",
+                        "tweet_volume": 64632
+                  },
+                  {
+                        "name": "Yacht Club",
+                        "url": "http://twitter.com/search?q=%22Yacht+Club%22",
+                        "promoted_content": null,
+                        "query": "%22Yacht+Club%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#jackask",
+                        "url": "http://twitter.com/search?q=%23jackask",
+                        "promoted_content": null,
+                        "query": "%23jackask",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#StupidTrumpRallyQuestions",
+                        "url": "http://twitter.com/search?q=%23StupidTrumpRallyQuestions",
+                        "promoted_content": null,
+                        "query": "%23StupidTrumpRallyQuestions",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "The Federalist",
+                        "url": "http://twitter.com/search?q=%22The+Federalist%22",
+                        "promoted_content": null,
+                        "query": "%22The+Federalist%22",
+                        "tweet_volume": 59014
+                  },
+                  {
+                        "name": "Megan Fox",
+                        "url": "http://twitter.com/search?q=%22Megan+Fox%22",
+                        "promoted_content": null,
+                        "query": "%22Megan+Fox%22",
+                        "tweet_volume": 42106
+                  },
+                  {
+                        "name": "Tim Kaine",
+                        "url": "http://twitter.com/search?q=%22Tim+Kaine%22",
+                        "promoted_content": null,
+                        "query": "%22Tim+Kaine%22",
+                        "tweet_volume": 33651
+                  },
+                  {
+                        "name": "Boogaloo",
+                        "url": "http://twitter.com/search?q=Boogaloo",
+                        "promoted_content": null,
+                        "query": "Boogaloo",
+                        "tweet_volume": 69638
+                  },
+                  {
+                        "name": "#RacismAtTAMUFeelsLike",
+                        "url": "http://twitter.com/search?q=%23RacismAtTAMUFeelsLike",
+                        "promoted_content": null,
+                        "query": "%23RacismAtTAMUFeelsLike",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Greg Abbott",
+                        "url": "http://twitter.com/search?q=%22Greg+Abbott%22",
+                        "promoted_content": null,
+                        "query": "%22Greg+Abbott%22",
+                        "tweet_volume": 38677
+                  },
+                  {
+                        "name": "Van Jones",
+                        "url": "http://twitter.com/search?q=%22Van+Jones%22",
+                        "promoted_content": null,
+                        "query": "%22Van+Jones%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Riot Fest",
+                        "url": "http://twitter.com/search?q=%22Riot+Fest%22",
+                        "promoted_content": null,
+                        "query": "%22Riot+Fest%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "30 Rock",
+                        "url": "http://twitter.com/search?q=%2230+Rock%22",
+                        "promoted_content": null,
+                        "query": "%2230+Rock%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Big Time Rush",
+                        "url": "http://twitter.com/search?q=%22Big+Time+Rush%22",
+                        "promoted_content": null,
+                        "query": "%22Big+Time+Rush%22",
+                        "tweet_volume": 129274
+                  },
+                  {
+                        "name": "Motel 6",
+                        "url": "http://twitter.com/search?q=%22Motel+6%22",
+                        "promoted_content": null,
+                        "query": "%22Motel+6%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Red Farmer",
+                        "url": "http://twitter.com/search?q=%22Red+Farmer%22",
+                        "promoted_content": null,
+                        "query": "%22Red+Farmer%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Shams",
+                        "url": "http://twitter.com/search?q=Shams",
+                        "promoted_content": null,
+                        "query": "Shams",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Kristi",
+                        "url": "http://twitter.com/search?q=Kristi",
+                        "promoted_content": null,
+                        "query": "Kristi",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "TROLLZ HAIL MARY",
+                        "url": "http://twitter.com/search?q=%22TROLLZ+HAIL+MARY%22",
+                        "promoted_content": null,
+                        "query": "%22TROLLZ+HAIL+MARY%22",
+                        "tweet_volume": 33531
+                  },
+                  {
+                        "name": "Zarya",
+                        "url": "http://twitter.com/search?q=Zarya",
+                        "promoted_content": null,
+                        "query": "Zarya",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Avery Bradley",
+                        "url": "http://twitter.com/search?q=%22Avery+Bradley%22",
+                        "promoted_content": null,
+                        "query": "%22Avery+Bradley%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Fati",
+                        "url": "http://twitter.com/search?q=Fati",
+                        "promoted_content": null,
+                        "query": "Fati",
+                        "tweet_volume": 44720
+                  },
+                  {
+                        "name": "Franklin Graham",
+                        "url": "http://twitter.com/search?q=%22Franklin+Graham%22",
+                        "promoted_content": null,
+                        "query": "%22Franklin+Graham%22",
+                        "tweet_volume": 33359
+                  },
+                  {
+                        "name": "Sabres",
+                        "url": "http://twitter.com/search?q=Sabres",
+                        "promoted_content": null,
+                        "query": "Sabres",
+                        "tweet_volume": 10997
+                  },
+                  {
+                        "name": "Rick Wilson",
+                        "url": "http://twitter.com/search?q=%22Rick+Wilson%22",
+                        "promoted_content": null,
+                        "query": "%22Rick+Wilson%22",
+                        "tweet_volume": 38374
+                  },
+                  {
+                        "name": "Canadian Sink Seal",
+                        "url": "http://twitter.com/search?q=%22Canadian+Sink+Seal%22",
+                        "promoted_content": null,
+                        "query": "%22Canadian+Sink+Seal%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Yohan",
+                        "url": "http://twitter.com/search?q=Yohan",
+                        "promoted_content": null,
+                        "query": "Yohan",
+                        "tweet_volume": 21063
+                  },
+                  {
+                        "name": "Daryl Davis",
+                        "url": "http://twitter.com/search?q=%22Daryl+Davis%22",
+                        "promoted_content": null,
+                        "query": "%22Daryl+Davis%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Raz B",
+                        "url": "http://twitter.com/search?q=%22Raz+B%22",
+                        "promoted_content": null,
+                        "query": "%22Raz+B%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Machine Gun Kelly",
+                        "url": "http://twitter.com/search?q=%22Machine+Gun+Kelly%22",
+                        "promoted_content": null,
+                        "query": "%22Machine+Gun+Kelly%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "My Chemical Romance",
+                        "url": "http://twitter.com/search?q=%22My+Chemical+Romance%22",
+                        "promoted_content": null,
+                        "query": "%22My+Chemical+Romance%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "India and China",
+                        "url": "http://twitter.com/search?q=%22India+and+China%22",
+                        "promoted_content": null,
+                        "query": "%22India+and+China%22",
+                        "tweet_volume": 27479
+                  },
+                  {
+                        "name": "Magic Hat",
+                        "url": "http://twitter.com/search?q=%22Magic+Hat%22",
+                        "promoted_content": null,
+                        "query": "%22Magic+Hat%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#NASCARHOF",
+                        "url": "http://twitter.com/search?q=%23NASCARHOF",
+                        "promoted_content": null,
+                        "query": "%23NASCARHOF",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#FlipgridForAll",
+                        "url": "http://twitter.com/search?q=%23FlipgridForAll",
+                        "promoted_content": null,
+                        "query": "%23FlipgridForAll",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#IfDonaldTrumpIsReelected",
+                        "url": "http://twitter.com/search?q=%23IfDonaldTrumpIsReelected",
+                        "promoted_content": null,
+                        "query": "%23IfDonaldTrumpIsReelected",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#TrumpPressConference",
+                        "url": "http://twitter.com/search?q=%23TrumpPressConference",
+                        "promoted_content": null,
+                        "query": "%23TrumpPressConference",
+                        "tweet_volume": 45777
+                  },
+                  {
+                        "name": "#BarcaLeganes",
+                        "url": "http://twitter.com/search?q=%23BarcaLeganes",
+                        "promoted_content": null,
+                        "query": "%23BarcaLeganes",
+                        "tweet_volume": 30137
+                  },
+                  {
+                        "name": "#HappyBirthdayTupac",
+                        "url": "http://twitter.com/search?q=%23HappyBirthdayTupac",
+                        "promoted_content": null,
+                        "query": "%23HappyBirthdayTupac",
+                        "tweet_volume": 23661
+                  },
+                  {
+                        "name": "#tomatojay",
+                        "url": "http://twitter.com/search?q=%23tomatojay",
+                        "promoted_content": null,
+                        "query": "%23tomatojay",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#ExecutiveOrder",
+                        "url": "http://twitter.com/search?q=%23ExecutiveOrder",
+                        "promoted_content": null,
+                        "query": "%23ExecutiveOrder",
+                        "tweet_volume": 24378
+                  },
+                  {
+                        "name": "#BoltonBook",
+                        "url": "http://twitter.com/search?q=%23BoltonBook",
+                        "promoted_content": null,
+                        "query": "%23BoltonBook",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#WhatsNextForChuckECheese",
+                        "url": "http://twitter.com/search?q=%23WhatsNextForChuckECheese",
+                        "promoted_content": null,
+                        "query": "%23WhatsNextForChuckECheese",
+                        "tweet_volume": null
+                  }
+            ],
+            "as_of": "2020-06-16T23:13:20Z",
+            "created_at": "2020-06-16T23:10:24Z",
+            "locations": [
+                  {
+                        "name": "Seattle",
+                        "woeid": 2490383
+                  }
+            ]
+      }
+]
