@@ -1,0 +1,1335 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Wed Jun 17 20:31:40 +0000 2020",
+                  "id": 1273352634662092802,
+                  "id_str": "1273352634662092802",
+                  "text": "David Luiz was on the pitch for 25 minutes. Gave away two goals and got himself sent off. That\u2019s what you call maki\u2026 https://t.co/lJ72aupwM2",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/lJ72aupwM2",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273352634662092802",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 265653022,
+                        "id_str": "265653022",
+                        "name": "James Pearce",
+                        "screen_name": "JamesPearceLFC",
+                        "location": "Liverpool",
+                        "description": "Liverpool FC reporter for @TheAthleticUK \nhttps://t.co/fYRzV6mE3U \nInstagram: jamespearcelfc",
+                        "url": "https://t.co/tHj7Aap45r",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/tHj7Aap45r",
+                                                "expanded_url": "http://www.facebook.com/JamesPearceLFC/",
+                                                "display_url": "facebook.com/JamesPearceLFC/",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/fYRzV6mE3U",
+                                                "expanded_url": "http://Facebook.com/JamesPearceLFC",
+                                                "display_url": "Facebook.com/JamesPearceLFC",
+                                                "indices": [
+                                                      42,
+                                                      65
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 576501,
+                        "friends_count": 1115,
+                        "listed_count": 3387,
+                        "created_at": "Sun Mar 13 23:11:55 +0000 2011",
+                        "favourites_count": 10686,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 50722,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1210152923499499520/FEp0wDij_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1210152923499499520/FEp0wDij_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/265653022/1564984690",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 2673,
+                  "favorite_count": 15885,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 20:25:32 +0000 2020",
+                  "id": 1273351090109648896,
+                  "id_str": "1273351090109648896",
+                  "text": "Eu ia dizer que \u00e9 a pior noite da carreira do David Luiz, mas lembrei de um neg\u00f3cio",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": []
+                  },
+                  "metadata": {
+                        "iso_language_code": "pt",
+                        "result_type": "popular"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 37929603,
+                        "id_str": "37929603",
+                        "name": "Leonardo Bertozzi",
+                        "screen_name": "lbertozzi",
+                        "location": "S\u00e3o Paulo",
+                        "description": "Jornalista. - @espnbrasil - Calciopizza - YouTube - @_bolaprafrente_ - Contato profissional https://t.co/RVi4zErJsA",
+                        "url": "https://t.co/TATgWZVQBn",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/TATgWZVQBn",
+                                                "expanded_url": "https://sparkle.onelink.me/twwu/lbertozzi",
+                                                "display_url": "sparkle.onelink.me/twwu/lbertozzi",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/RVi4zErJsA",
+                                                "expanded_url": "http://www.maisac.com.br",
+                                                "display_url": "maisac.com.br",
+                                                "indices": [
+                                                      92,
+                                                      115
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 563628,
+                        "friends_count": 20879,
+                        "listed_count": 1497,
+                        "created_at": "Tue May 05 14:05:42 +0000 2009",
+                        "favourites_count": 12804,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 383789,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1200906232707633152/OWG1rSIe_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1200906232707633152/OWG1rSIe_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/37929603/1562510759",
+                        "profile_link_color": "486151",
+                        "profile_sidebar_border_color": "6E2B2D",
+                        "profile_sidebar_fill_color": "FFF6B8",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 2780,
+                  "favorite_count": 23676,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "pt"
+            },
+            {
+                  "created_at": "Wed Jun 17 20:31:47 +0000 2020",
+                  "id": 1273352664110247938,
+                  "id_str": "1273352664110247938",
+                  "text": "2015 - David Luiz is the first player to be sent off, concede a penalty and commit an error leading to an oppositio\u2026 https://t.co/nbOjERiF6Y",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/nbOjERiF6Y",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273352664110247938",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 44606764,
+                        "id_str": "44606764",
+                        "name": "OptaJoe",
+                        "screen_name": "OptaJoe",
+                        "location": "London",
+                        "description": "1 - The official Twitter page for Stats Perform\u2019s English football coverage, brought to you by OptaJoe. Illuminating.",
+                        "url": "https://t.co/TSazfa5ltQ",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/TSazfa5ltQ",
+                                                "expanded_url": "http://www.instagram.com/optajoe",
+                                                "display_url": "instagram.com/optajoe",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1178345,
+                        "friends_count": 21,
+                        "listed_count": 10037,
+                        "created_at": "Thu Jun 04 12:43:23 +0000 2009",
+                        "favourites_count": 45,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 50736,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "00AEFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1252809314328289280/89xd9tPh_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252809314328289280/89xd9tPh_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44606764/1588759631",
+                        "profile_link_color": "00AEFF",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "EBEBEB",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 2206,
+                  "favorite_count": 5457,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 20:47:02 +0000 2020",
+                  "id": 1273356502032683008,
+                  "id_str": "1273356502032683008",
+                  "text": "David Luiz in the Premier League since returning to Chelsea:\n\n2016/17: 0 penalties conceded\n2017/18: 0 penalties co\u2026 https://t.co/OFsk1kforr",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/OFsk1kforr",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273356502032683008",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 385473825,
+                        "id_str": "385473825",
+                        "name": "Squawka Football",
+                        "screen_name": "Squawka",
+                        "location": "",
+                        "description": "Football stats, stories, analysis, insight and a little bit of fun. Follow: @SquawkaNews, listen: #SquawkaTalker. Data provided by @Opta. Join our community \u2193",
+                        "url": "https://t.co/ptDd8vo5jE",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/ptDd8vo5jE",
+                                                "expanded_url": "https://bit.ly/JoinSquawka",
+                                                "display_url": "bit.ly/JoinSquawka",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1014436,
+                        "friends_count": 720,
+                        "listed_count": 6216,
+                        "created_at": "Wed Oct 05 15:25:19 +0000 2011",
+                        "favourites_count": 1687,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 189245,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1267432085351956485/yXBUr8ea_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1267432085351956485/yXBUr8ea_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/385473825/1592340676",
+                        "profile_link_color": "ED3F31",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 1937,
+                  "favorite_count": 4918,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 20:33:07 +0000 2020",
+                  "id": 1273352999641976833,
+                  "id_str": "1273352999641976833",
+                  "text": "David Luiz with a red card once every 160 PL games with Chelsea, once every 13 games with Arsenal. Gave a penalty a\u2026 https://t.co/Zcf4wc6EaU",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/Zcf4wc6EaU",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273352999641976833",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 17896113,
+                        "id_str": "17896113",
+                        "name": "Duncan Alexander",
+                        "screen_name": "oilysailor",
+                        "location": "August 15 1992, 3pm",
+                        "description": "Luxury sports content | Author of Outside The Box & The @OptaJoe Football Yearbook",
+                        "url": "https://t.co/HX22DQWad9",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/HX22DQWad9",
+                                                "expanded_url": "https://www.statsperform.com/resources/",
+                                                "display_url": "statsperform.com/resources/",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 64547,
+                        "friends_count": 998,
+                        "listed_count": 915,
+                        "created_at": "Fri Dec 05 12:29:22 +0000 2008",
+                        "favourites_count": 4641,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 37001,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1026565091817345024/n9e8ynd__normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026565091817345024/n9e8ynd__normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17896113/1578953018",
+                        "profile_link_color": "ABB8C2",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "AD0505",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 2364,
+                  "favorite_count": 8530,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 22:03:56 +0000 2020",
+                  "id": 1273375853490118661,
+                  "id_str": "1273375853490118661",
+                  "text": "\"It's not the teams fault, it was my fault.\" \n\nDavid Luiz accepted responsibility for Arsenal's defeat at Mancheste\u2026 https://t.co/ikk8kcP7Xd",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/ikk8kcP7Xd",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273375853490118661",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 713993413,
+                        "id_str": "713993413",
+                        "name": "Sky Sports Premier League",
+                        "screen_name": "SkySportsPL",
+                        "location": "London",
+                        "description": "The official account for the Sky Sports Premier League channel",
+                        "url": "https://t.co/SfELDMFixH",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/SfELDMFixH",
+                                                "expanded_url": "http://www.skysports.com/premier-league",
+                                                "display_url": "skysports.com/premier-league",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 4852404,
+                        "friends_count": 790,
+                        "listed_count": 10223,
+                        "created_at": "Tue Jul 24 09:18:08 +0000 2012",
+                        "favourites_count": 307,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 173323,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1201789104570142720/XqiwbsI5_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201789104570142720/XqiwbsI5_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/713993413/1534171180",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 1029,
+                  "favorite_count": 5226,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 20:30:50 +0000 2020",
+                  "id": 1273352424791695360,
+                  "id_str": "1273352424791695360",
+                  "text": "El de hoy puede ser el peor partido en la carrera profesional de David Luiz y eso ya es mucho decir. Saliendo desde\u2026 https://t.co/ijqrSHilzF",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/ijqrSHilzF",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273352424791695360",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 69962890,
+                        "id_str": "69962890",
+                        "name": "MisterChip (Alexis)",
+                        "screen_name": "2010MisterChip",
+                        "location": "All\u00e1 donde haya un bal\u00f3n",
+                        "description": "Los secretos y la magia del f\u00fatbol al descubierto! Estoy en Onda Cero, ESPN y AS. English @MisterChiping Instagram @2010misterchip Soy un tipo muy feliz \ud83d\ude0a",
+                        "url": "https://t.co/o5mserevCF",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/o5mserevCF",
+                                                "expanded_url": "http://youtube.com/2010MisterChip",
+                                                "display_url": "youtube.com/2010MisterChip",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 3030788,
+                        "friends_count": 629,
+                        "listed_count": 12569,
+                        "created_at": "Sat Aug 29 21:07:08 +0000 2009",
+                        "favourites_count": 1579,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 127510,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": true,
+                        "profile_background_color": "EDECE9",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1269185748726624256/dmhLT9rT_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269185748726624256/dmhLT9rT_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/69962890/1385099852",
+                        "profile_link_color": "088253",
+                        "profile_sidebar_border_color": "D3D2CF",
+                        "profile_sidebar_fill_color": "E3E2DE",
+                        "profile_text_color": "634047",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 1004,
+                  "favorite_count": 7333,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Wed Jun 17 20:55:19 +0000 2020",
+                  "id": 1273358587780308995,
+                  "id_str": "1273358587780308995",
+                  "text": "David Luiz in the Premier League this season:\n\n\ud83d\uded1 Received the most red cards.\n\ud83d\udca5 Given away the most penalties.\n\u26bd\ufe0f N\u2026 https://t.co/tDcrd54OHd",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/tDcrd54OHd",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273358587780308995",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 18091004,
+                        "id_str": "18091004",
+                        "name": "ESPN FC",
+                        "screen_name": "ESPNFC",
+                        "location": "",
+                        "description": "All things football. All the time. \n\nWatch ESPN FC exclusively on ESPN+ \u2935\ufe0f",
+                        "url": "https://t.co/gvWZrXm6mu",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/gvWZrXm6mu",
+                                                "expanded_url": "https://es.pn/2NX6LVt",
+                                                "display_url": "es.pn/2NX6LVt",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 2008739,
+                        "friends_count": 511,
+                        "listed_count": 10184,
+                        "created_at": "Sat Dec 13 01:33:04 +0000 2008",
+                        "favourites_count": 75,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 136196,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "381020",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/993576884498849792/zH7kViGI_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/993576884498849792/zH7kViGI_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18091004/1537888142",
+                        "profile_link_color": "4A913C",
+                        "profile_sidebar_border_color": "D1CA8E",
+                        "profile_sidebar_fill_color": "9DB381",
+                        "profile_text_color": "39213B",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 1460,
+                  "favorite_count": 5135,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 20:04:22 +0000 2020",
+                  "id": 1273345766216605697,
+                  "id_str": "1273345766216605697",
+                  "text": "GOAL Man City 1-0 Arsenal (45+2 mins)\n\nRaheem Sterling lashes in after a mistake from David Luiz to break the deadl\u2026 https://t.co/9jM6DKqQvO",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/9jM6DKqQvO",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273345766216605697",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 343627165,
+                        "id_str": "343627165",
+                        "name": "Premier League",
+                        "screen_name": "premierleague",
+                        "location": "",
+                        "description": "The official Twitter account of the Premier League \ud83d\udcf1 @OfficialFPL | \ud83c\uddee\ud83c\uddf3 @PLforIndia | \ud83c\uddfa\ud83c\uddf8 @PLinUSA Join us on YouTube \ud83d\udc49 https://t.co/mE5i2L4M3L",
+                        "url": "https://t.co/IMNRVHC2Kt",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/IMNRVHC2Kt",
+                                                "expanded_url": "http://premierleague.com",
+                                                "display_url": "premierleague.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/mE5i2L4M3L",
+                                                "expanded_url": "http://youtube.com/premierleague",
+                                                "display_url": "youtube.com/premierleague",
+                                                "indices": [
+                                                      118,
+                                                      141
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 22339521,
+                        "friends_count": 82,
+                        "listed_count": 24707,
+                        "created_at": "Wed Jul 27 21:09:32 +0000 2011",
+                        "favourites_count": 1795,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 116985,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": true,
+                        "profile_background_color": "050528",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1273163673880723456/0tXSGFyg_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1273163673880723456/0tXSGFyg_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/343627165/1592380850",
+                        "profile_link_color": "93A644",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "171838",
+                        "profile_text_color": "FFFFFF",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 588,
+                  "favorite_count": 4482,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 20:10:41 +0000 2020",
+                  "id": 1273347353798475779,
+                  "id_str": "1273347353798475779",
+                  "text": "No player has recorded more errors leading to goals in the Premier League in 2020 than David Luiz \ud83d\ude29 https://t.co/DSW9DtYZzq",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/DSW9DtYZzq",
+                                    "expanded_url": "https://twitter.com/goal/status/1273346664233938945",
+                                    "display_url": "twitter.com/goal/status/12\u2026",
+                                    "indices": [
+                                          100,
+                                          123
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 26809005,
+                        "id_str": "26809005",
+                        "name": "Goal",
+                        "screen_name": "goal",
+                        "location": "Everywhere",
+                        "description": "Sharing football\u2019s passion \u2764\ufe0f news \ud83d\udc47 insight \ud83e\udd13 + fun \ud83d\ude02 with the world \ud83c\udf0e\u26bd\ufe0f\ud83c\udf0d",
+                        "url": "http://t.co/HsFj791G0Z",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "http://t.co/HsFj791G0Z",
+                                                "expanded_url": "http://www.goal.com/en",
+                                                "display_url": "goal.com/en",
+                                                "indices": [
+                                                      0,
+                                                      22
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1379771,
+                        "friends_count": 374,
+                        "listed_count": 5095,
+                        "created_at": "Thu Mar 26 18:14:06 +0000 2009",
+                        "favourites_count": 2464,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 262476,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "081F2C",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1273242936675893249/7NVPinY6_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1273242936675893249/7NVPinY6_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26809005/1579280431",
+                        "profile_link_color": "00AC77",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1273346664233938945,
+                  "quoted_status_id_str": "1273346664233938945",
+                  "quoted_status": {
+                        "created_at": "Wed Jun 17 20:07:57 +0000 2020",
+                        "id": 1273346664233938945,
+                        "id_str": "1273346664233938945",
+                        "text": "David Luiz thought\n\n#MCIARS https://t.co/iLFj6xAWwr",
+                        "truncated": false,
+                        "entities": {
+                              "hashtags": [
+                                    {
+                                          "text": "MCIARS",
+                                          "indices": [
+                                                20,
+                                                27
+                                          ]
+                                    }
+                              ],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": [],
+                              "media": [
+                                    {
+                                          "id": 1273346609984782338,
+                                          "id_str": "1273346609984782338",
+                                          "indices": [
+                                                28,
+                                                51
+                                          ],
+                                          "media_url": "http://pbs.twimg.com/media/EavV_swXQAI9ZcS.png",
+                                          "media_url_https": "https://pbs.twimg.com/media/EavV_swXQAI9ZcS.png",
+                                          "url": "https://t.co/iLFj6xAWwr",
+                                          "display_url": "pic.twitter.com/iLFj6xAWwr",
+                                          "expanded_url": "https://twitter.com/goal/status/1273346664233938945/photo/1",
+                                          "type": "photo",
+                                          "sizes": {
+                                                "small": {
+                                                      "w": 680,
+                                                      "h": 680,
+                                                      "resize": "fit"
+                                                },
+                                                "large": {
+                                                      "w": 776,
+                                                      "h": 776,
+                                                      "resize": "fit"
+                                                },
+                                                "medium": {
+                                                      "w": 776,
+                                                      "h": 776,
+                                                      "resize": "fit"
+                                                },
+                                                "thumb": {
+                                                      "w": 150,
+                                                      "h": 150,
+                                                      "resize": "crop"
+                                                }
+                                          }
+                                    }
+                              ]
+                        },
+                        "extended_entities": {
+                              "media": [
+                                    {
+                                          "id": 1273346609984782338,
+                                          "id_str": "1273346609984782338",
+                                          "indices": [
+                                                28,
+                                                51
+                                          ],
+                                          "media_url": "http://pbs.twimg.com/media/EavV_swXQAI9ZcS.png",
+                                          "media_url_https": "https://pbs.twimg.com/media/EavV_swXQAI9ZcS.png",
+                                          "url": "https://t.co/iLFj6xAWwr",
+                                          "display_url": "pic.twitter.com/iLFj6xAWwr",
+                                          "expanded_url": "https://twitter.com/goal/status/1273346664233938945/photo/1",
+                                          "type": "photo",
+                                          "sizes": {
+                                                "small": {
+                                                      "w": 680,
+                                                      "h": 680,
+                                                      "resize": "fit"
+                                                },
+                                                "large": {
+                                                      "w": 776,
+                                                      "h": 776,
+                                                      "resize": "fit"
+                                                },
+                                                "medium": {
+                                                      "w": 776,
+                                                      "h": 776,
+                                                      "resize": "fit"
+                                                },
+                                                "thumb": {
+                                                      "w": 150,
+                                                      "h": 150,
+                                                      "resize": "crop"
+                                                }
+                                          }
+                                    },
+                                    {
+                                          "id": 1273346610089676800,
+                                          "id_str": "1273346610089676800",
+                                          "indices": [
+                                                28,
+                                                51
+                                          ],
+                                          "media_url": "http://pbs.twimg.com/media/EavV_tJX0AAh0CR.png",
+                                          "media_url_https": "https://pbs.twimg.com/media/EavV_tJX0AAh0CR.png",
+                                          "url": "https://t.co/iLFj6xAWwr",
+                                          "display_url": "pic.twitter.com/iLFj6xAWwr",
+                                          "expanded_url": "https://twitter.com/goal/status/1273346664233938945/photo/1",
+                                          "type": "photo",
+                                          "sizes": {
+                                                "medium": {
+                                                      "w": 782,
+                                                      "h": 782,
+                                                      "resize": "fit"
+                                                },
+                                                "small": {
+                                                      "w": 680,
+                                                      "h": 680,
+                                                      "resize": "fit"
+                                                },
+                                                "large": {
+                                                      "w": 782,
+                                                      "h": 782,
+                                                      "resize": "fit"
+                                                },
+                                                "thumb": {
+                                                      "w": 150,
+                                                      "h": 150,
+                                                      "resize": "crop"
+                                                }
+                                          }
+                                    },
+                                    {
+                                          "id": 1273346610089660417,
+                                          "id_str": "1273346610089660417",
+                                          "indices": [
+                                                28,
+                                                51
+                                          ],
+                                          "media_url": "http://pbs.twimg.com/media/EavV_tJXkAEtsdy.png",
+                                          "media_url_https": "https://pbs.twimg.com/media/EavV_tJXkAEtsdy.png",
+                                          "url": "https://t.co/iLFj6xAWwr",
+                                          "display_url": "pic.twitter.com/iLFj6xAWwr",
+                                          "expanded_url": "https://twitter.com/goal/status/1273346664233938945/photo/1",
+                                          "type": "photo",
+                                          "sizes": {
+                                                "large": {
+                                                      "w": 784,
+                                                      "h": 784,
+                                                      "resize": "fit"
+                                                },
+                                                "small": {
+                                                      "w": 680,
+                                                      "h": 680,
+                                                      "resize": "fit"
+                                                },
+                                                "medium": {
+                                                      "w": 784,
+                                                      "h": 784,
+                                                      "resize": "fit"
+                                                },
+                                                "thumb": {
+                                                      "w": 150,
+                                                      "h": 150,
+                                                      "resize": "crop"
+                                                }
+                                          }
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 26809005,
+                              "id_str": "26809005",
+                              "name": "Goal",
+                              "screen_name": "goal",
+                              "location": "Everywhere",
+                              "description": "Sharing football\u2019s passion \u2764\ufe0f news \ud83d\udc47 insight \ud83e\udd13 + fun \ud83d\ude02 with the world \ud83c\udf0e\u26bd\ufe0f\ud83c\udf0d",
+                              "url": "http://t.co/HsFj791G0Z",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "http://t.co/HsFj791G0Z",
+                                                      "expanded_url": "http://www.goal.com/en",
+                                                      "display_url": "goal.com/en",
+                                                      "indices": [
+                                                            0,
+                                                            22
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 1379771,
+                              "friends_count": 374,
+                              "listed_count": 5095,
+                              "created_at": "Thu Mar 26 18:14:06 +0000 2009",
+                              "favourites_count": 2464,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": true,
+                              "verified": true,
+                              "statuses_count": 262476,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "081F2C",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1273242936675893249/7NVPinY6_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1273242936675893249/7NVPinY6_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/26809005/1579280431",
+                              "profile_link_color": "00AC77",
+                              "profile_sidebar_border_color": "FFFFFF",
+                              "profile_sidebar_fill_color": "DDEEF6",
+                              "profile_text_color": "333333",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": false,
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 398,
+                        "favorite_count": 2315,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 766,
+                  "favorite_count": 2103,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.044,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1273345766216605696&q=%22David%20Luiz%22&count=10&include_entities=1&result_type=popular",
+            "query": "%22David+Luiz%22",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

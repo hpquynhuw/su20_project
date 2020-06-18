@@ -1,0 +1,2037 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Wed Jun 17 16:40:49 +0000 2020",
+                  "id": 1273294541198589952,
+                  "id_str": "1273294541198589952",
+                  "text": "Help us celebrate #NationalMascotDay by showing Hairy, Uga and Spike some love! https://t.co/cI9LiZvxQk",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "NationalMascotDay",
+                                    "indices": [
+                                          18,
+                                          36
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1273293060747780097,
+                                    "id_str": "1273293060747780097",
+                                    "indices": [
+                                          80,
+                                          103
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EaulSuTXYAELgey.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EaulSuTXYAELgey.jpg",
+                                    "url": "https://t.co/cI9LiZvxQk",
+                                    "display_url": "pic.twitter.com/cI9LiZvxQk",
+                                    "expanded_url": "https://twitter.com/UGAAthletics/status/1273294541198589952/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 705,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 399,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 2048,
+                                                "h": 1202,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1273293060747780097,
+                                    "id_str": "1273293060747780097",
+                                    "indices": [
+                                          80,
+                                          103
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EaulSuTXYAELgey.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EaulSuTXYAELgey.jpg",
+                                    "url": "https://t.co/cI9LiZvxQk",
+                                    "display_url": "pic.twitter.com/cI9LiZvxQk",
+                                    "expanded_url": "https://twitter.com/UGAAthletics/status/1273294541198589952/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 705,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 399,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 2048,
+                                                "h": 1202,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 31191508,
+                        "id_str": "31191508",
+                        "name": "Georgia Bulldogs",
+                        "screen_name": "UGAAthletics",
+                        "location": "Athens, GA",
+                        "description": "Go Dawgs",
+                        "url": "https://t.co/HxSbZheIyj",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/HxSbZheIyj",
+                                                "expanded_url": "http://www.georgiadogs.com",
+                                                "display_url": "georgiadogs.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 619111,
+                        "friends_count": 280,
+                        "listed_count": 1402,
+                        "created_at": "Tue Apr 14 18:42:35 +0000 2009",
+                        "favourites_count": 5015,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 29674,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1188827286289600513/4a5cw3Q4_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188827286289600513/4a5cw3Q4_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31191508/1571260190",
+                        "profile_link_color": "D40000",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "F2F2F2",
+                        "profile_text_color": "0E0C0C",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 400,
+                  "favorite_count": 591,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 16:53:56 +0000 2020",
+                  "id": 1273297838659768321,
+                  "id_str": "1273297838659768321",
+                  "text": "We heard it's National Mascot Day.... so let's use this opportunity to ground the Rockets. \n\nComment for TSUN, Retw\u2026 https://t.co/Sg7XfNvkKf",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/Sg7XfNvkKf",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273297838659768321",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 31186714,
+                        "id_str": "31186714",
+                        "name": "BGSU Athletics",
+                        "screen_name": "BGathletics",
+                        "location": "Bowling Green, Ohio",
+                        "description": "The official Twitter account of Bowling Green State University Athletics and proud member of the MAC and WCHA. #AyZiggy",
+                        "url": "https://t.co/G00ZwNER45",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/G00ZwNER45",
+                                                "expanded_url": "http://www.bgsufalcons.com",
+                                                "display_url": "bgsufalcons.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 24705,
+                        "friends_count": 495,
+                        "listed_count": 243,
+                        "created_at": "Tue Apr 14 18:22:23 +0000 2009",
+                        "favourites_count": 486,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 33959,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "4E2300",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1190302675071582210/iytE5VgJ_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190302675071582210/iytE5VgJ_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31186714/1589579659",
+                        "profile_link_color": "9F3F14",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "F3783D",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 204,
+                  "favorite_count": 105,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 19:20:06 +0000 2020",
+                  "id": 1273334625125969920,
+                  "id_str": "1273334625125969920",
+                  "text": "Happy #NationalMascotDay to our \ud83d\udc10, @GrittyNHL. #WallpaperWednesday https://t.co/OHwD9sN33m",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "NationalMascotDay",
+                                    "indices": [
+                                          6,
+                                          24
+                                    ]
+                              },
+                              {
+                                    "text": "WallpaperWednesday",
+                                    "indices": [
+                                          47,
+                                          66
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "GrittyNHL",
+                                    "name": "Gritty",
+                                    "id": 1038096516727099393,
+                                    "id_str": "1038096516727099393",
+                                    "indices": [
+                                          35,
+                                          45
+                                    ]
+                              }
+                        ],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1273334444942864389,
+                                    "id_str": "1273334444942864389",
+                                    "indices": [
+                                          67,
+                                          90
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EavK7mcWsAUJANr.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EavK7mcWsAUJANr.jpg",
+                                    "url": "https://t.co/OHwD9sN33m",
+                                    "display_url": "pic.twitter.com/OHwD9sN33m",
+                                    "expanded_url": "https://twitter.com/NHLFlyers/status/1273334625125969920/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 675,
+                                                "h": 1200,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1080,
+                                                "h": 1920,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 383,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1273334444942864389,
+                                    "id_str": "1273334444942864389",
+                                    "indices": [
+                                          67,
+                                          90
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EavK7mcWsAUJANr.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EavK7mcWsAUJANr.jpg",
+                                    "url": "https://t.co/OHwD9sN33m",
+                                    "display_url": "pic.twitter.com/OHwD9sN33m",
+                                    "expanded_url": "https://twitter.com/NHLFlyers/status/1273334625125969920/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 675,
+                                                "h": 1200,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1080,
+                                                "h": 1920,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 383,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              },
+                              {
+                                    "id": 1273334458905755650,
+                                    "id_str": "1273334458905755650",
+                                    "indices": [
+                                          67,
+                                          90
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EavK8adXgAIbHV1.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EavK8adXgAIbHV1.jpg",
+                                    "url": "https://t.co/OHwD9sN33m",
+                                    "display_url": "pic.twitter.com/OHwD9sN33m",
+                                    "expanded_url": "https://twitter.com/NHLFlyers/status/1273334625125969920/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 314,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 554,
+                                                "h": 1200,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 946,
+                                                "h": 2048,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              },
+                              {
+                                    "id": 1273334467743092740,
+                                    "id_str": "1273334467743092740",
+                                    "indices": [
+                                          67,
+                                          90
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EavK87YWkAQKLXI.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EavK87YWkAQKLXI.jpg",
+                                    "url": "https://t.co/OHwD9sN33m",
+                                    "display_url": "pic.twitter.com/OHwD9sN33m",
+                                    "expanded_url": "https://twitter.com/NHLFlyers/status/1273334625125969920/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 584,
+                                                "h": 1200,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 996,
+                                                "h": 2048,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 331,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 19618527,
+                        "id_str": "19618527",
+                        "name": "x-Philadelphia Flyers",
+                        "screen_name": "NHLFlyers",
+                        "location": "Philadelphia, PA",
+                        "description": "\"Be a _______ Flyer.\"- Alain Vigneault",
+                        "url": "http://t.co/8KAxXnZRs5",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "http://t.co/8KAxXnZRs5",
+                                                "expanded_url": "http://www.philadelphiaflyers.com",
+                                                "display_url": "philadelphiaflyers.com",
+                                                "indices": [
+                                                      0,
+                                                      22
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1572312,
+                        "friends_count": 324,
+                        "listed_count": 6047,
+                        "created_at": "Tue Jan 27 21:41:32 +0000 2009",
+                        "favourites_count": 6754,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 45851,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1268270990045347847/oXwtEzQE_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268270990045347847/oXwtEzQE_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19618527/1590585970",
+                        "profile_link_color": "F57936",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDFFCC",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 199,
+                  "favorite_count": 1225,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 16:05:36 +0000 2020",
+                  "id": 1273285677287964672,
+                  "id_str": "1273285677287964672",
+                  "text": "Cute dog content for #NationalMascotDay \ud83d\udc3e https://t.co/sysANjQvpj",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "NationalMascotDay",
+                                    "indices": [
+                                          21,
+                                          39
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1273285648062074882,
+                                    "id_str": "1273285648062074882",
+                                    "indices": [
+                                          42,
+                                          65
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eaueko2XQAUq-Ec.png",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eaueko2XQAUq-Ec.png",
+                                    "url": "https://t.co/sysANjQvpj",
+                                    "display_url": "pic.twitter.com/sysANjQvpj",
+                                    "expanded_url": "https://twitter.com/ESPNCFB/status/1273285677287964672/video/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "large": {
+                                                "w": 720,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 720,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1273285648062074882,
+                                    "id_str": "1273285648062074882",
+                                    "indices": [
+                                          42,
+                                          65
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eaueko2XQAUq-Ec.png",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eaueko2XQAUq-Ec.png",
+                                    "url": "https://t.co/sysANjQvpj",
+                                    "display_url": "pic.twitter.com/sysANjQvpj",
+                                    "expanded_url": "https://twitter.com/ESPNCFB/status/1273285677287964672/video/1",
+                                    "type": "video",
+                                    "sizes": {
+                                          "large": {
+                                                "w": 720,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 720,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          }
+                                    },
+                                    "video_info": {
+                                          "aspect_ratio": [
+                                                1,
+                                                1
+                                          ],
+                                          "duration_millis": 9577,
+                                          "variants": [
+                                                {
+                                                      "content_type": "application/x-mpegURL",
+                                                      "url": "https://video.twimg.com/amplify_video/1273285648062074882/pl/lxcbCvzdLC7oWMiY.m3u8?tag=13"
+                                                },
+                                                {
+                                                      "bitrate": 432000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/amplify_video/1273285648062074882/vid/320x320/yOmO8ChhKqkoUD27.mp4?tag=13"
+                                                },
+                                                {
+                                                      "bitrate": 1280000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/amplify_video/1273285648062074882/vid/720x720/ZWCBu_LEs3zp7cTS.mp4?tag=13"
+                                                },
+                                                {
+                                                      "bitrate": 832000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/amplify_video/1273285648062074882/vid/480x480/9-IBsZXsWW-Xi0Lt.mp4?tag=13"
+                                                }
+                                          ]
+                                    },
+                                    "additional_media_info": {
+                                          "title": "",
+                                          "description": "",
+                                          "monetizable": false
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 57100687,
+                        "id_str": "57100687",
+                        "name": "ESPN College Football",
+                        "screen_name": "ESPNCFB",
+                        "location": "",
+                        "description": "ESPN's official home for College Football. https://t.co/BUPtV5iSwc https://t.co/1K4mGOnHAl",
+                        "url": null,
+                        "entities": {
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/BUPtV5iSwc",
+                                                "expanded_url": "http://instagram.com/espncfb",
+                                                "display_url": "instagram.com/espncfb",
+                                                "indices": [
+                                                      43,
+                                                      66
+                                                ]
+                                          },
+                                          {
+                                                "url": "https://t.co/1K4mGOnHAl",
+                                                "expanded_url": "https://www.facebook.com/CFBonESPN",
+                                                "display_url": "facebook.com/CFBonESPN",
+                                                "indices": [
+                                                      67,
+                                                      90
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 2768574,
+                        "friends_count": 647,
+                        "listed_count": 7704,
+                        "created_at": "Wed Jul 15 18:50:15 +0000 2009",
+                        "favourites_count": 346,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 67532,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "333333",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/687362829884755969/mUg2i6VV_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/687362829884755969/mUg2i6VV_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57100687/1532740715",
+                        "profile_link_color": "D90718",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "333333",
+                        "profile_text_color": "F5F0F5",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 174,
+                  "favorite_count": 1177,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 19:35:50 +0000 2020",
+                  "id": 1273338584301436928,
+                  "id_str": "1273338584301436928",
+                  "text": "\"Get the F off the court.\" \nHappy #NationalMascotDay with Kevin Durant! https://t.co/g9vxWtTaqZ",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "NationalMascotDay",
+                                    "indices": [
+                                          34,
+                                          52
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 861054601507766272,
+                                    "id_str": "861054601507766272",
+                                    "indices": [
+                                          72,
+                                          95
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/861054601507766272/pu/img/-LKLfogRiy_c4u5K.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/861054601507766272/pu/img/-LKLfogRiy_c4u5K.jpg",
+                                    "url": "https://t.co/g9vxWtTaqZ",
+                                    "display_url": "pic.twitter.com/g9vxWtTaqZ",
+                                    "expanded_url": "https://twitter.com/DimeUPROXX/status/861054768860495872/video/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 675,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 383,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1280,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    },
+                                    "source_status_id": 861054768860495872,
+                                    "source_status_id_str": "861054768860495872",
+                                    "source_user_id": 17177835,
+                                    "source_user_id_str": "17177835"
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 861054601507766272,
+                                    "id_str": "861054601507766272",
+                                    "indices": [
+                                          72,
+                                          95
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/861054601507766272/pu/img/-LKLfogRiy_c4u5K.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/861054601507766272/pu/img/-LKLfogRiy_c4u5K.jpg",
+                                    "url": "https://t.co/g9vxWtTaqZ",
+                                    "display_url": "pic.twitter.com/g9vxWtTaqZ",
+                                    "expanded_url": "https://twitter.com/DimeUPROXX/status/861054768860495872/video/1",
+                                    "type": "video",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 675,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 383,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1280,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    },
+                                    "source_status_id": 861054768860495872,
+                                    "source_status_id_str": "861054768860495872",
+                                    "source_user_id": 17177835,
+                                    "source_user_id_str": "17177835",
+                                    "video_info": {
+                                          "aspect_ratio": [
+                                                16,
+                                                9
+                                          ],
+                                          "duration_millis": 6490,
+                                          "variants": [
+                                                {
+                                                      "bitrate": 2176000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/ext_tw_video/861054601507766272/pu/vid/1280x720/FItRCigSgAkOtunC.mp4"
+                                                },
+                                                {
+                                                      "bitrate": 832000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/ext_tw_video/861054601507766272/pu/vid/640x360/31TKh2u2WwU_mK8d.mp4"
+                                                },
+                                                {
+                                                      "content_type": "application/x-mpegURL",
+                                                      "url": "https://video.twimg.com/ext_tw_video/861054601507766272/pu/pl/-KDfpq_z2QzBcn1n.m3u8"
+                                                },
+                                                {
+                                                      "bitrate": 256000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/ext_tw_video/861054601507766272/pu/vid/320x180/4QN1Aj-uYYziumG1.mp4"
+                                                }
+                                          ]
+                                    },
+                                    "additional_media_info": {
+                                          "monetizable": false
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 17902401,
+                        "id_str": "17902401",
+                        "name": "Ballislife.com",
+                        "screen_name": "Ballislife",
+                        "location": "Los Angeles, Ca",
+                        "description": "BALLISLIFE - Follow the movement! Download the #ballislife app and upload your own highlights! \ud83d\udc47https://t.co/B6U6CzQgCF",
+                        "url": "https://t.co/jMBKbDcNyU",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/jMBKbDcNyU",
+                                                "expanded_url": "http://ballislife.com",
+                                                "display_url": "ballislife.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/B6U6CzQgCF",
+                                                "expanded_url": "http://bit.ly/BILAPP",
+                                                "display_url": "bit.ly/BILAPP",
+                                                "indices": [
+                                                      96,
+                                                      119
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 733122,
+                        "friends_count": 4839,
+                        "listed_count": 1707,
+                        "created_at": "Fri Dec 05 17:25:17 +0000 2008",
+                        "favourites_count": 30184,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 149466,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "1A1B1F",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1268181879103971329/ThlChora_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268181879103971329/ThlChora_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17902401/1557873329",
+                        "profile_link_color": "081A69",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "9998A1",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 194,
+                  "favorite_count": 1424,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 16:05:48 +0000 2020",
+                  "id": 1273285726163972101,
+                  "id_str": "1273285726163972101",
+                  "text": "To the guy who always lifts our spirits, cheers us on and makes us smile.\n\nHappy  #NationalMascotDay,\u2026 https://t.co/IoX6guOBoN",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "NationalMascotDay",
+                                    "indices": [
+                                          82,
+                                          100
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/IoX6guOBoN",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273285726163972101",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          103,
+                                          126
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 26759991,
+                        "id_str": "26759991",
+                        "name": "Auburn Tigers",
+                        "screen_name": "AuburnTigers",
+                        "location": "Auburn, Ala.",
+                        "description": "Official Twitter of the Auburn Tigers Athletics Department. #WarEagle",
+                        "url": "https://t.co/qNJM22JwX1",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/qNJM22JwX1",
+                                                "expanded_url": "http://AuburnTigers.com",
+                                                "display_url": "AuburnTigers.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 237677,
+                        "friends_count": 157,
+                        "listed_count": 1042,
+                        "created_at": "Thu Mar 26 14:26:59 +0000 2009",
+                        "favourites_count": 22483,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 30375,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FFFFFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1037343589238562819/LC3MJMB8_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037343589238562819/LC3MJMB8_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26759991/1585678320",
+                        "profile_link_color": "F26522",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "B6B8BA",
+                        "profile_text_color": "002B5C",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 87,
+                  "favorite_count": 500,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 20:08:32 +0000 2020",
+                  "id": 1273346810875047936,
+                  "id_str": "1273346810875047936",
+                  "text": "We struck gold with this one! \n\nHappy #NationalMascotDay, @sfsourdoughsam \ud83c\udf89 https://t.co/uvOlEwYMMA",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "NationalMascotDay",
+                                    "indices": [
+                                          38,
+                                          56
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "sfsourdoughsam",
+                                    "name": "SF Sourdough Sam",
+                                    "id": 1034190729667473410,
+                                    "id_str": "1034190729667473410",
+                                    "indices": [
+                                          58,
+                                          73
+                                    ]
+                              }
+                        ],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1273340610624159744,
+                                    "id_str": "1273340610624159744",
+                                    "indices": [
+                                          76,
+                                          99
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EavQifZVAAAtc4M.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EavQifZVAAAtc4M.jpg",
+                                    "url": "https://t.co/uvOlEwYMMA",
+                                    "display_url": "pic.twitter.com/uvOlEwYMMA",
+                                    "expanded_url": "https://twitter.com/49ers/status/1273346810875047936/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 383,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 675,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 2048,
+                                                "h": 1152,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1273340610624159744,
+                                    "id_str": "1273340610624159744",
+                                    "indices": [
+                                          76,
+                                          99
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EavQifZVAAAtc4M.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EavQifZVAAAtc4M.jpg",
+                                    "url": "https://t.co/uvOlEwYMMA",
+                                    "display_url": "pic.twitter.com/uvOlEwYMMA",
+                                    "expanded_url": "https://twitter.com/49ers/status/1273346810875047936/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 383,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 675,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 2048,
+                                                "h": 1152,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 43403778,
+                        "id_str": "43403778",
+                        "name": "San Francisco 49ers",
+                        "screen_name": "49ers",
+                        "location": "",
+                        "description": "Official Twitter account of the 5-time Super Bowl Champion San Francisco 49ers. \ud83d\udccd@LevisStadium \ud83e\udd1d@49ersCommunity",
+                        "url": "https://t.co/i5n2B6Tchl",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/i5n2B6Tchl",
+                                                "expanded_url": "https://www.49ers.com/IGYB",
+                                                "display_url": "49ers.com/IGYB",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 2182739,
+                        "friends_count": 376,
+                        "listed_count": 9948,
+                        "created_at": "Fri May 29 20:34:37 +0000 2009",
+                        "favourites_count": 11564,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 47186,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1270427019805782016/9vRMay4h_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1270427019805782016/9vRMay4h_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/43403778/1588886511",
+                        "profile_link_color": "AA0000",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "CCCCCC",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 91,
+                  "favorite_count": 846,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 18:57:48 +0000 2020",
+                  "id": 1273329010228027394,
+                  "id_str": "1273329010228027394",
+                  "text": "Nobody does it quite like the @NittanyLion!\n\n#NationalMascotDay \n#WeAre https://t.co/AhYBXrrUDk",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "NationalMascotDay",
+                                    "indices": [
+                                          45,
+                                          63
+                                    ]
+                              },
+                              {
+                                    "text": "WeAre",
+                                    "indices": [
+                                          65,
+                                          71
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "NittanyLion",
+                                    "name": "The Nittany Lion",
+                                    "id": 637130747,
+                                    "id_str": "637130747",
+                                    "indices": [
+                                          30,
+                                          42
+                                    ]
+                              }
+                        ],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1273328939918856192,
+                                    "id_str": "1273328939918856192",
+                                    "indices": [
+                                          72,
+                                          95
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273328939918856192/pu/img/H76EbreeT3n2kwyW.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273328939918856192/pu/img/H76EbreeT3n2kwyW.jpg",
+                                    "url": "https://t.co/AhYBXrrUDk",
+                                    "display_url": "pic.twitter.com/AhYBXrrUDk",
+                                    "expanded_url": "https://twitter.com/PennStateFball/status/1273329010228027394/video/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 675,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 383,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1280,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1273328939918856192,
+                                    "id_str": "1273328939918856192",
+                                    "indices": [
+                                          72,
+                                          95
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273328939918856192/pu/img/H76EbreeT3n2kwyW.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273328939918856192/pu/img/H76EbreeT3n2kwyW.jpg",
+                                    "url": "https://t.co/AhYBXrrUDk",
+                                    "display_url": "pic.twitter.com/AhYBXrrUDk",
+                                    "expanded_url": "https://twitter.com/PennStateFball/status/1273329010228027394/video/1",
+                                    "type": "video",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 675,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 383,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1280,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    },
+                                    "video_info": {
+                                          "aspect_ratio": [
+                                                16,
+                                                9
+                                          ],
+                                          "duration_millis": 9009,
+                                          "variants": [
+                                                {
+                                                      "bitrate": 2176000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1273328939918856192/pu/vid/1280x720/KtYS29Hz5wlQyQKO.mp4?tag=10"
+                                                },
+                                                {
+                                                      "bitrate": 832000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1273328939918856192/pu/vid/640x360/J1s6SkRGO3Mtv-Jh.mp4?tag=10"
+                                                },
+                                                {
+                                                      "content_type": "application/x-mpegURL",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1273328939918856192/pu/pl/JDsFM6e3p2zC5Dmp.m3u8?tag=10"
+                                                },
+                                                {
+                                                      "bitrate": 256000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1273328939918856192/pu/vid/480x270/3smbqnLWfrQS5eBS.mp4?tag=10"
+                                                }
+                                          ]
+                                    },
+                                    "additional_media_info": {
+                                          "monetizable": false
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 53103297,
+                        "id_str": "53103297",
+                        "name": "Penn State Football",
+                        "screen_name": "PennStateFball",
+                        "location": "University Park, PA",
+                        "description": "The official Twitter account of Penn State Football #WeAre #PSUnrivaled",
+                        "url": "https://t.co/tjoiWyl7DD",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/tjoiWyl7DD",
+                                                "expanded_url": "http://www.GoPSUsports.com",
+                                                "display_url": "GoPSUsports.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 397462,
+                        "friends_count": 899,
+                        "listed_count": 1443,
+                        "created_at": "Thu Jul 02 16:03:37 +0000 2009",
+                        "favourites_count": 9253,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 23751,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "090A44",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1235303212808368128/zOeR-Jx9_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1235303212808368128/zOeR-Jx9_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/53103297/1588875143",
+                        "profile_link_color": "0E35AD",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "253E64",
+                        "profile_text_color": "D1D1D1",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 71,
+                  "favorite_count": 483,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 18:10:04 +0000 2020",
+                  "id": 1273316999859326976,
+                  "id_str": "1273316999859326976",
+                  "text": "A day made for the country\u2019s best mascot \ud83d\ude08 #NationalMascotDay https://t.co/ZhJcoIKPyu",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "NationalMascotDay",
+                                    "indices": [
+                                          43,
+                                          61
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1273316986743779329,
+                                    "id_str": "1273316986743779329",
+                                    "indices": [
+                                          62,
+                                          85
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eau7DZlVcAEl1ZF.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eau7DZlVcAEl1ZF.jpg",
+                                    "url": "https://t.co/ZhJcoIKPyu",
+                                    "display_url": "pic.twitter.com/ZhJcoIKPyu",
+                                    "expanded_url": "https://twitter.com/SparkySunDevil/status/1273316999859326976/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 799,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 453,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 2048,
+                                                "h": 1364,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1273316986743779329,
+                                    "id_str": "1273316986743779329",
+                                    "indices": [
+                                          62,
+                                          85
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eau7DZlVcAEl1ZF.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eau7DZlVcAEl1ZF.jpg",
+                                    "url": "https://t.co/ZhJcoIKPyu",
+                                    "display_url": "pic.twitter.com/ZhJcoIKPyu",
+                                    "expanded_url": "https://twitter.com/SparkySunDevil/status/1273316999859326976/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 799,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 453,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 2048,
+                                                "h": 1364,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              },
+                              {
+                                    "id": 1273316986739494912,
+                                    "id_str": "1273316986739494912",
+                                    "indices": [
+                                          62,
+                                          85
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eau7DZkUEAAX62E.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eau7DZkUEAAX62E.jpg",
+                                    "url": "https://t.co/ZhJcoIKPyu",
+                                    "display_url": "pic.twitter.com/ZhJcoIKPyu",
+                                    "expanded_url": "https://twitter.com/SparkySunDevil/status/1273316999859326976/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 900,
+                                                "h": 1200,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 510,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1536,
+                                                "h": 2048,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              },
+                              {
+                                    "id": 1273316986773073920,
+                                    "id_str": "1273316986773073920",
+                                    "indices": [
+                                          62,
+                                          85
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eau7DZsUcAA88qe.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eau7DZsUcAA88qe.jpg",
+                                    "url": "https://t.co/ZhJcoIKPyu",
+                                    "display_url": "pic.twitter.com/ZhJcoIKPyu",
+                                    "expanded_url": "https://twitter.com/SparkySunDevil/status/1273316999859326976/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "small": {
+                                                "w": 510,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 900,
+                                                "h": 1200,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1536,
+                                                "h": 2048,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              },
+                              {
+                                    "id": 1273316986747932672,
+                                    "id_str": "1273316986747932672",
+                                    "indices": [
+                                          62,
+                                          85
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eau7DZmU0AAtaip.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eau7DZmU0AAtaip.jpg",
+                                    "url": "https://t.co/ZhJcoIKPyu",
+                                    "display_url": "pic.twitter.com/ZhJcoIKPyu",
+                                    "expanded_url": "https://twitter.com/SparkySunDevil/status/1273316999859326976/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 383,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1152,
+                                                "h": 2048,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 675,
+                                                "h": 1200,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 726841088,
+                        "id_str": "726841088",
+                        "name": "Sparky the Sun Devil",
+                        "screen_name": "SparkySunDevil",
+                        "location": "Sun Devil Stadium",
+                        "description": "It's Simple...Wear a Mask. Gimme a Follow on Insta \u27a1 @SparkySunDevil",
+                        "url": "https://t.co/jL3nnxmuZl",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/jL3nnxmuZl",
+                                                "expanded_url": "http://thesundevils.com/SparkyTryouts",
+                                                "display_url": "thesundevils.com/SparkyTryouts",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 16587,
+                        "friends_count": 103,
+                        "listed_count": 124,
+                        "created_at": "Mon Jul 30 20:58:37 +0000 2012",
+                        "favourites_count": 2333,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 2287,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1190320225033564169/0jSDMtCe_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190320225033564169/0jSDMtCe_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/726841088/1591835924",
+                        "profile_link_color": "800000",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 112,
+                  "favorite_count": 567,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 19:45:39 +0000 2020",
+                  "id": 1273341054587191298,
+                  "id_str": "1273341054587191298",
+                  "text": "Happy #NationalMascotDay to our guy, @TheRealSparty. \ud83d\udc9a https://t.co/nd5vpsm2tK",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "NationalMascotDay",
+                                    "indices": [
+                                          6,
+                                          24
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "TheRealSparty",
+                                    "name": "Sparty",
+                                    "id": 104493961,
+                                    "id_str": "104493961",
+                                    "indices": [
+                                          37,
+                                          51
+                                    ]
+                              }
+                        ],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1273340805848215560,
+                                    "id_str": "1273340805848215560",
+                                    "indices": [
+                                          55,
+                                          78
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EavQt2qXsAgcCjh.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EavQt2qXsAgcCjh.jpg",
+                                    "url": "https://t.co/nd5vpsm2tK",
+                                    "display_url": "pic.twitter.com/nd5vpsm2tK",
+                                    "expanded_url": "https://twitter.com/michiganstateu/status/1273341054587191298/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 533,
+                                                "h": 533,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 533,
+                                                "h": 533,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 533,
+                                                "h": 533,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1273340805848215560,
+                                    "id_str": "1273340805848215560",
+                                    "indices": [
+                                          55,
+                                          78
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EavQt2qXsAgcCjh.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EavQt2qXsAgcCjh.jpg",
+                                    "url": "https://t.co/nd5vpsm2tK",
+                                    "display_url": "pic.twitter.com/nd5vpsm2tK",
+                                    "expanded_url": "https://twitter.com/michiganstateu/status/1273341054587191298/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 533,
+                                                "h": 533,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 533,
+                                                "h": 533,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 533,
+                                                "h": 533,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 41346792,
+                        "id_str": "41346792",
+                        "name": "MSU",
+                        "screen_name": "michiganstateu",
+                        "location": "East Lansing, MI USA",
+                        "description": "The official Twitter account for Michigan State University. #SpartansWill",
+                        "url": "https://t.co/9Mec7aNq7O",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/9Mec7aNq7O",
+                                                "expanded_url": "http://www.msu.edu",
+                                                "display_url": "msu.edu",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 242848,
+                        "friends_count": 185,
+                        "listed_count": 1153,
+                        "created_at": "Wed May 20 12:20:09 +0000 2009",
+                        "favourites_count": 11940,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 14848,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "1A493E",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1214179518446895104/cS_UqhNp_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214179518446895104/cS_UqhNp_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41346792/1584624325",
+                        "profile_link_color": "18453B",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDDDDD",
+                        "profile_text_color": "18453B",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 72,
+                  "favorite_count": 426,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.045,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1273285677287964671&q=%23NationalMascotDay&count=10&include_entities=1&result_type=popular",
+            "query": "%23NationalMascotDay",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

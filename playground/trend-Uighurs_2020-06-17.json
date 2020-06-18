@@ -1,0 +1,1411 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Wed Jun 17 21:33:42 +0000 2020",
+                  "id": 1273368244208971776,
+                  "id_str": "1273368244208971776",
+                  "text": "According to Bolton, Trump privately told China\u2019s tyrant that he should keep building concentration camps for Uighu\u2026 https://t.co/pMbTTDOwiO",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/pMbTTDOwiO",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273368244208971776",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 34371118,
+                        "id_str": "34371118",
+                        "name": "Eli Lake",
+                        "screen_name": "EliLake",
+                        "location": "District of Columbia",
+                        "description": "Columnist for @Bopinion",
+                        "url": "https://t.co/lHbPQmqUL3",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/lHbPQmqUL3",
+                                                "expanded_url": "https://www.bloomberg.com/opinion/authors/ASD1bG3hdiI/eli-lake",
+                                                "display_url": "bloomberg.com/opinion/author\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 91235,
+                        "friends_count": 4955,
+                        "listed_count": 2273,
+                        "created_at": "Wed Apr 22 19:32:29 +0000 2009",
+                        "favourites_count": 4211,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 49029,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/593082000065503232/u2Yn5ftO_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/593082000065503232/u2Yn5ftO_normal.png",
+                        "profile_link_color": "3B94D9",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 3374,
+                  "favorite_count": 11582,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 21:48:57 +0000 2020",
+                  "id": 1273372083322523648,
+                  "id_str": "1273372083322523648",
+                  "text": "This is how genocide happens. Trump gave the green light. @IvankaTrump, @DonaldJTrumpJr, @VP, @KellyannePolls, Kush\u2026 https://t.co/w3uZailoQ3",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "IvankaTrump",
+                                    "name": "Ivanka Trump",
+                                    "id": 52544275,
+                                    "id_str": "52544275",
+                                    "indices": [
+                                          58,
+                                          70
+                                    ]
+                              },
+                              {
+                                    "screen_name": "DonaldJTrumpJr",
+                                    "name": "Donald Trump Jr.",
+                                    "id": 39344374,
+                                    "id_str": "39344374",
+                                    "indices": [
+                                          72,
+                                          87
+                                    ]
+                              },
+                              {
+                                    "screen_name": "VP",
+                                    "name": "Vice President Mike Pence",
+                                    "id": 818910970567344128,
+                                    "id_str": "818910970567344128",
+                                    "indices": [
+                                          89,
+                                          92
+                                    ]
+                              },
+                              {
+                                    "screen_name": "KellyannePolls",
+                                    "name": "Kellyanne Conway",
+                                    "id": 471672239,
+                                    "id_str": "471672239",
+                                    "indices": [
+                                          94,
+                                          109
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/w3uZailoQ3",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273372083322523648",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 15220768,
+                        "id_str": "15220768",
+                        "name": "David Corn",
+                        "screen_name": "DavidCornDC",
+                        "location": "Washington, DC",
+                        "description": "D.C. bureau chief of Mother Jones, MSNBC analyst, & author (with @Isikoff) of the NYT No. 1 best-selling book RUSSIAN ROULETTE.",
+                        "url": "https://t.co/F0ddSvYEjy",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/F0ddSvYEjy",
+                                                "expanded_url": "http://www.motherjones.com",
+                                                "display_url": "motherjones.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 836874,
+                        "friends_count": 1772,
+                        "listed_count": 11011,
+                        "created_at": "Tue Jun 24 15:58:28 +0000 2008",
+                        "favourites_count": 397,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 75555,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/431276795216678912/K9GgLuad_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/431276795216678912/K9GgLuad_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15220768/1520372053",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 424,
+                  "favorite_count": 767,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 21:50:02 +0000 2020",
+                  "id": 1273372357634265088,
+                  "id_str": "1273372357634265088",
+                  "text": "Why did you tell the Chinese president he could go ahead and build concentration camps for the Uighurs? https://t.co/o9w8Q6kmeg",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/o9w8Q6kmeg",
+                                    "expanded_url": "https://twitter.com/realDonaldTrump/status/1273095002563006472",
+                                    "display_url": "twitter.com/realDonaldTrum\u2026",
+                                    "indices": [
+                                          104,
+                                          127
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 15220768,
+                        "id_str": "15220768",
+                        "name": "David Corn",
+                        "screen_name": "DavidCornDC",
+                        "location": "Washington, DC",
+                        "description": "D.C. bureau chief of Mother Jones, MSNBC analyst, & author (with @Isikoff) of the NYT No. 1 best-selling book RUSSIAN ROULETTE.",
+                        "url": "https://t.co/F0ddSvYEjy",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/F0ddSvYEjy",
+                                                "expanded_url": "http://www.motherjones.com",
+                                                "display_url": "motherjones.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 836874,
+                        "friends_count": 1772,
+                        "listed_count": 11011,
+                        "created_at": "Tue Jun 24 15:58:28 +0000 2008",
+                        "favourites_count": 397,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 75555,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/431276795216678912/K9GgLuad_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/431276795216678912/K9GgLuad_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15220768/1520372053",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1273095002563006472,
+                  "quoted_status_id_str": "1273095002563006472",
+                  "quoted_status": {
+                        "created_at": "Wed Jun 17 03:27:56 +0000 2020",
+                        "id": 1273095002563006472,
+                        "id_str": "1273095002563006472",
+                        "text": "96% Approval Rating in the Republican Party. Thank you!",
+                        "truncated": false,
+                        "entities": {
+                              "hashtags": [],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": []
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 25073877,
+                              "id_str": "25073877",
+                              "name": "Donald J. Trump",
+                              "screen_name": "realDonaldTrump",
+                              "location": "Washington, DC",
+                              "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+                              "url": "https://t.co/OMxB0x7xC5",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/OMxB0x7xC5",
+                                                      "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+                                                      "display_url": "Instagram.com/realDonaldTrump",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 82220189,
+                              "friends_count": 46,
+                              "listed_count": 115392,
+                              "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+                              "favourites_count": 4,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": true,
+                              "verified": true,
+                              "statuses_count": 52944,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": true,
+                              "profile_background_color": "6D5C18",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_tile": true,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+                              "profile_link_color": "1B95E0",
+                              "profile_sidebar_border_color": "BDDCAD",
+                              "profile_sidebar_fill_color": "C5CEC0",
+                              "profile_text_color": "333333",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": false,
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "regular"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 43166,
+                        "favorite_count": 302530,
+                        "favorited": false,
+                        "retweeted": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 805,
+                  "favorite_count": 2743,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 22:06:13 +0000 2020",
+                  "id": 1273376429028388864,
+                  "id_str": "1273376429028388864",
+                  "text": "Former Trump adviser John Bolton writes that according to an interpreter who was present, when China's leader expla\u2026 https://t.co/vPRXzfw9tV",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/vPRXzfw9tV",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273376429028388864",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 51241574,
+                        "id_str": "51241574",
+                        "name": "The Associated Press",
+                        "screen_name": "AP",
+                        "location": "Global",
+                        "description": "News from The Associated Press, and a taste of the great journalism produced by AP members and customers. Managed 24/7 by these editors: https://t.co/D0hLCc7ShX",
+                        "url": "https://t.co/48pFaJVRcr",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/48pFaJVRcr",
+                                                "expanded_url": "https://apnews.com/",
+                                                "display_url": "apnews.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/D0hLCc7ShX",
+                                                "expanded_url": "http://apne.ws/APSocial",
+                                                "display_url": "apne.ws/APSocial",
+                                                "indices": [
+                                                      137,
+                                                      160
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 14292700,
+                        "friends_count": 7017,
+                        "listed_count": 93874,
+                        "created_at": "Fri Jun 26 21:48:52 +0000 2009",
+                        "favourites_count": 2948,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 267695,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": true,
+                        "profile_background_color": "333333",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/461964160838803457/8z9FImcv_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/461964160838803457/8z9FImcv_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51241574/1568759398",
+                        "profile_link_color": "CC3300",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "CCCCCC",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 366,
+                  "favorite_count": 560,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 23:14:03 +0000 2020",
+                  "id": 1273393499740782606,
+                  "id_str": "1273393499740782606",
+                  "text": "President Trump told Chinese President Xi Jinping that he thought Beijing's building of prison camps for minority U\u2026 https://t.co/98ixNaC2cw",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/98ixNaC2cw",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273393499740782606",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 5392522,
+                        "id_str": "5392522",
+                        "name": "NPR",
+                        "screen_name": "NPR",
+                        "location": "",
+                        "description": "News. Arts & Life. Music & more. This is NPR.\n\n\ud83d\udd75\ufe0f Securely send us news tips: https://t.co/LPkf6Tsozm",
+                        "url": "http://t.co/SoL86ga4RI",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "http://t.co/SoL86ga4RI",
+                                                "expanded_url": "http://www.npr.org",
+                                                "display_url": "npr.org",
+                                                "indices": [
+                                                      0,
+                                                      22
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/LPkf6Tsozm",
+                                                "expanded_url": "http://securedrop.npr.org",
+                                                "display_url": "securedrop.npr.org",
+                                                "indices": [
+                                                      78,
+                                                      101
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 8236720,
+                        "friends_count": 69929,
+                        "listed_count": 66089,
+                        "created_at": "Sun Apr 22 05:10:15 +0000 2007",
+                        "favourites_count": 2546,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 200498,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": true,
+                        "profile_background_color": "9AE4E8",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1208165423109292032/_oEEIsvx_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1208165423109292032/_oEEIsvx_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5392522/1575653448",
+                        "profile_link_color": "0000FF",
+                        "profile_sidebar_border_color": "87BC44",
+                        "profile_sidebar_fill_color": "E0FF92",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 303,
+                  "favorite_count": 522,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 23:02:07 +0000 2020",
+                  "id": 1273390497910980608,
+                  "id_str": "1273390497910980608",
+                  "text": "Green-lighting the ethnic cleansing of the Uighurs by the Chinese government.\n \nAsking Xi and the Chinese Communist\u2026 https://t.co/VBCFQnRSAB",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/VBCFQnRSAB",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273390497910980608",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 231510077,
+                        "id_str": "231510077",
+                        "name": "Joaquin Castro",
+                        "screen_name": "JoaquinCastrotx",
+                        "location": "San Antonio, Texas",
+                        "description": "TX Congressman; Chair @HispanicCaucus; Vice Chair @HouseForeign; Chair @HouseForeign Oversight & Investigations Subcommittee; Member @HouseIntel @EdLaborCmte.",
+                        "url": "https://t.co/kGmhJFxmq0",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/kGmhJFxmq0",
+                                                "expanded_url": "http://castro.house.gov",
+                                                "display_url": "castro.house.gov",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 225443,
+                        "friends_count": 2250,
+                        "listed_count": 2408,
+                        "created_at": "Tue Dec 28 18:41:02 +0000 2010",
+                        "favourites_count": 6892,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 16963,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "131516",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/231510077/1524233697",
+                        "profile_link_color": "009999",
+                        "profile_sidebar_border_color": "EEEEEE",
+                        "profile_sidebar_fill_color": "EFEFEF",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 473,
+                  "favorite_count": 1201,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 20:18:25 +0000 2020",
+                  "id": 1273349298122612737,
+                  "id_str": "1273349298122612737",
+                  "text": "#BREAKING Trump signs sanctions law over China treatment of Uighurs https://t.co/qADa5tGar3",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "BREAKING",
+                                    "indices": [
+                                          0,
+                                          9
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1273349292112125959,
+                                    "id_str": "1273349292112125959",
+                                    "indices": [
+                                          68,
+                                          91
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EavYb0dWoAcj508.png",
+                                    "media_url_https": "https://pbs.twimg.com/media/EavYb0dWoAcj508.png",
+                                    "url": "https://t.co/qADa5tGar3",
+                                    "display_url": "pic.twitter.com/qADa5tGar3",
+                                    "expanded_url": "https://twitter.com/AFP/status/1273349298122612737/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "medium": {
+                                                "w": 507,
+                                                "h": 256,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 507,
+                                                "h": 256,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 507,
+                                                "h": 256,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1273349292112125959,
+                                    "id_str": "1273349292112125959",
+                                    "indices": [
+                                          68,
+                                          91
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EavYb0dWoAcj508.png",
+                                    "media_url_https": "https://pbs.twimg.com/media/EavYb0dWoAcj508.png",
+                                    "url": "https://t.co/qADa5tGar3",
+                                    "display_url": "pic.twitter.com/qADa5tGar3",
+                                    "expanded_url": "https://twitter.com/AFP/status/1273349298122612737/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "medium": {
+                                                "w": 507,
+                                                "h": 256,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 507,
+                                                "h": 256,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 507,
+                                                "h": 256,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 380648579,
+                        "id_str": "380648579",
+                        "name": "AFP news agency",
+                        "screen_name": "AFP",
+                        "location": "France",
+                        "description": "Top news and features from AFP's reporters around the world. Elsewhere on Twitter: https://t.co/4pIm8k2HLC",
+                        "url": "https://t.co/kqhCI1T6KT",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/kqhCI1T6KT",
+                                                "expanded_url": "http://www.afp.com/en",
+                                                "display_url": "afp.com/en",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/4pIm8k2HLC",
+                                                "expanded_url": "http://u.afp.com/AFPTwitter",
+                                                "display_url": "u.afp.com/AFPTwitter",
+                                                "indices": [
+                                                      83,
+                                                      106
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1878352,
+                        "friends_count": 647,
+                        "listed_count": 21234,
+                        "created_at": "Tue Sep 27 00:35:10 +0000 2011",
+                        "favourites_count": 2579,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 238422,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": true,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1272776111722770432/4ZvQTfXv_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272776111722770432/4ZvQTfXv_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/380648579/1591929348",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "DBE9ED",
+                        "profile_sidebar_fill_color": "E6F6F9",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 357,
+                  "favorite_count": 604,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 22:37:17 +0000 2020",
+                  "id": 1273384245080330241,
+                  "id_str": "1273384245080330241",
+                  "text": "Imagine if Bolton had been asked if Trump solicited help from any other country for his election &amp; he said yes, Chi\u2026 https://t.co/PUvAcgprJp",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/PUvAcgprJp",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273384245080330241",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          121,
+                                          144
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 15220768,
+                        "id_str": "15220768",
+                        "name": "David Corn",
+                        "screen_name": "DavidCornDC",
+                        "location": "Washington, DC",
+                        "description": "D.C. bureau chief of Mother Jones, MSNBC analyst, & author (with @Isikoff) of the NYT No. 1 best-selling book RUSSIAN ROULETTE.",
+                        "url": "https://t.co/F0ddSvYEjy",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/F0ddSvYEjy",
+                                                "expanded_url": "http://www.motherjones.com",
+                                                "display_url": "motherjones.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 836874,
+                        "friends_count": 1772,
+                        "listed_count": 11011,
+                        "created_at": "Tue Jun 24 15:58:28 +0000 2008",
+                        "favourites_count": 397,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 75555,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/431276795216678912/K9GgLuad_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/431276795216678912/K9GgLuad_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15220768/1520372053",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1273383263013396482,
+                  "quoted_status_id_str": "1273383263013396482",
+                  "quoted_status": {
+                        "created_at": "Wed Jun 17 22:33:22 +0000 2020",
+                        "id": 1273383263013396482,
+                        "id_str": "1273383263013396482",
+                        "text": "Would it really have made a difference @lrozen? https://t.co/KMqVyybF38",
+                        "truncated": false,
+                        "entities": {
+                              "hashtags": [],
+                              "symbols": [],
+                              "user_mentions": [
+                                    {
+                                          "screen_name": "lrozen",
+                                          "name": "Laura Rozen",
+                                          "id": 47455112,
+                                          "id_str": "47455112",
+                                          "indices": [
+                                                39,
+                                                46
+                                          ]
+                                    }
+                              ],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/KMqVyybF38",
+                                          "expanded_url": "https://twitter.com/lrozen/status/1273344034141077504",
+                                          "display_url": "twitter.com/lrozen/status/\u2026",
+                                          "indices": [
+                                                48,
+                                                71
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 17763819,
+                              "id_str": "17763819",
+                              "name": "Suzanne Kianpour",
+                              "screen_name": "KianpourWorld",
+                              "location": "Washington, DC",
+                              "description": "\ud83d\udd75\ud83c\udffb\u200d\u2640\ufe0f@BBCWorld\ud83d\udccdPast: London, Lebanon, LA \ud83d\udc69\ud83c\udffb\u200d\ud83c\udfebPublic Diplomacy @UCLA+@Georgetown \ud83d\udcda @AtlanticCouncil Fellow \ud83d\ude4b\ud83c\udffb\u200d\u2640\ufe0fPersian Sicilian ATLien \u26a0\ufe0f RT \u2260 endorse",
+                              "url": "https://t.co/n9fTLRhGEs",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/n9fTLRhGEs",
+                                                      "expanded_url": "https://bit.ly/2UNeK9q",
+                                                      "display_url": "bit.ly/2UNeK9q",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 7926,
+                              "friends_count": 2165,
+                              "listed_count": 263,
+                              "created_at": "Sun Nov 30 21:57:04 +0000 2008",
+                              "favourites_count": 1544,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": true,
+                              "verified": true,
+                              "statuses_count": 14428,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "111312",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+                              "profile_background_tile": true,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/667757022755037184/Azk30KoM_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/667757022755037184/Azk30KoM_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/17763819/1453829888",
+                              "profile_link_color": "1B95E0",
+                              "profile_sidebar_border_color": "FFFFFF",
+                              "profile_sidebar_fill_color": "F6CD11",
+                              "profile_text_color": "D20B28",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": true,
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "regular"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": true,
+                        "quoted_status_id": 1273344034141077504,
+                        "quoted_status_id_str": "1273344034141077504",
+                        "retweet_count": 1,
+                        "favorite_count": 5,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 266,
+                  "favorite_count": 846,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 22:03:20 +0000 2020",
+                  "id": 1273375701899640832,
+                  "id_str": "1273375701899640832",
+                  "text": "President Trump tells President Xi he should go ahead with building concentration camps for Uighurs, that it\u2019s \u201cexa\u2026 https://t.co/9NBwk88FRG",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/9NBwk88FRG",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273375701899640832",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 60783724,
+                        "id_str": "60783724",
+                        "name": "ian bremmer",
+                        "screen_name": "ianbremmer",
+                        "location": "",
+                        "description": "political scientist, author, teach at columbia sipa, columnist at time, president @eurasiagroup, @gzeromedia. if you lived here, you'd be home now.",
+                        "url": null,
+                        "entities": {
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 527356,
+                        "friends_count": 1372,
+                        "listed_count": 8501,
+                        "created_at": "Tue Jul 28 02:23:28 +0000 2009",
+                        "favourites_count": 3034,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 48635,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "022330",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1103368575224594433/GGWqZt8Q_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103368575224594433/GGWqZt8Q_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/60783724/1580942168",
+                        "profile_link_color": "3489B3",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "C0DFEC",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 170,
+                  "favorite_count": 506,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 22:39:45 +0000 2020",
+                  "id": 1273384867582050311,
+                  "id_str": "1273384867582050311",
+                  "text": "Two Truths:\n\n1) Bolton is an opportunist who put himself before country\n\n2) Trump\u2014who caged Christian refugee kids\u2014\u2026 https://t.co/GHXt5T7zfB",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/GHXt5T7zfB",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273384867582050311",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 85583894,
+                        "id_str": "85583894",
+                        "name": "Qasim Rashid for Congress",
+                        "screen_name": "QasimRashid",
+                        "location": "Virginia\u2019s First District",
+                        "description": "Democrat for US Congress VA CD-1 \u2022 Dad \u2022 Husband \u2022 Virginian \u2022 Brother of USMC Vet \u2022 Women's Rights Defender \u2022 BLM \u2022 Awesome Hat Aficionado \u2022 Dad-joke Maven",
+                        "url": "https://t.co/o7LSLxC6wf",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/o7LSLxC6wf",
+                                                "expanded_url": "https://secure.actblue.com/donate/rashidforcongress",
+                                                "display_url": "secure.actblue.com/donate/rashidf\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 293920,
+                        "friends_count": 294,
+                        "listed_count": 1824,
+                        "created_at": "Tue Oct 27 14:47:28 +0000 2009",
+                        "favourites_count": 56920,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 61010,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "131516",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1110667602567876609/FT0dGaou_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110667602567876609/FT0dGaou_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85583894/1579535627",
+                        "profile_link_color": "3B94D9",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "EFEFEF",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 92,
+                  "favorite_count": 272,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.058,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1273349298122612736&q=Uighurs&count=10&include_entities=1&result_type=popular",
+            "query": "Uighurs",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

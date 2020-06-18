@@ -1,0 +1,1283 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Wed Jun 17 12:08:16 +0000 2020",
+                  "id": 1273225948595437569,
+                  "id_str": "1273225948595437569",
+                  "text": "#LaRep\u00fablicaLD  l El TSE autoriz\u00f3 citar al presidente Danilo a la acci\u00f3n de amparo de extrema urgencia, que present\u2026 https://t.co/tuNL1Byjkl",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "LaRep\u00fablicaLD",
+                                    "indices": [
+                                          0,
+                                          14
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/tuNL1Byjkl",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273225948595437569",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 19236297,
+                        "id_str": "19236297",
+                        "name": "LISTINDIARIO",
+                        "screen_name": "ListinDiario",
+                        "location": "Rep\u00fablica Dominicana",
+                        "description": "El peri\u00f3dico m\u00e1s importante de Rep\u00fablica Dominicana #List\u00ednSeTransforma #LoVivimosConElList\u00edn #List\u00ednDiario",
+                        "url": "http://t.co/10w9otoVQ1",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "http://t.co/10w9otoVQ1",
+                                                "expanded_url": "http://www.listindiario.com",
+                                                "display_url": "listindiario.com",
+                                                "indices": [
+                                                      0,
+                                                      22
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 969424,
+                        "friends_count": 3746,
+                        "listed_count": 2339,
+                        "created_at": "Tue Jan 20 13:36:42 +0000 2009",
+                        "favourites_count": 1463,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 290372,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "E5E4C6",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/792414352506703872/-1XeQCmT_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/792414352506703872/-1XeQCmT_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19236297/1588288863",
+                        "profile_link_color": "E0B004",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "FFB508",
+                        "profile_text_color": "242324",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 84,
+                  "favorite_count": 177,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Wed Jun 17 21:17:08 +0000 2020",
+                  "id": 1273364077373521924,
+                  "id_str": "1273364077373521924",
+                  "text": "TCU vai levantar n\u00famero de militares em cargos civis no governo. Por Danilo Vital https://t.co/76obtTo0j6",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/76obtTo0j6",
+                                    "expanded_url": "https://www.diariodocentrodomundo.com.br/tcu-vai-levantar-numero-de-militares-em-cargos-civis-no-governo-por-danilo-vital/",
+                                    "display_url": "diariodocentrodomundo.com.br/tcu-vai-levant\u2026",
+                                    "indices": [
+                                          82,
+                                          105
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "iso_language_code": "pt",
+                        "result_type": "popular"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 43340387,
+                        "id_str": "43340387",
+                        "name": "DCM ONLINE",
+                        "screen_name": "DCM_online",
+                        "location": "Sao Paulo, Brazil",
+                        "description": "Site apartid\u00e1rio de not\u00edcias e an\u00e1lises. Nossa miss\u00e3o \u00e9 lutar por uma sociedade menos desigual. Diretor: Kiko Nogueira",
+                        "url": "https://t.co/g04eHxTQQX",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/g04eHxTQQX",
+                                                "expanded_url": "http://www.diariodocentrodomundo.com.br/",
+                                                "display_url": "diariodocentrodomundo.com.br",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 212688,
+                        "friends_count": 1042,
+                        "listed_count": 936,
+                        "created_at": "Fri May 29 14:36:06 +0000 2009",
+                        "favourites_count": 1028,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 154351,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "00CCFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/718100254306992128/sdOjwWxp_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/718100254306992128/sdOjwWxp_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/43340387/1531483381",
+                        "profile_link_color": "00A3C7",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "90EDFC",
+                        "profile_text_color": "005C70",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 71,
+                  "favorite_count": 259,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "pt"
+            },
+            {
+                  "created_at": "Wed Jun 17 21:08:26 +0000 2020",
+                  "id": 1273361887288156161,
+                  "id_str": "1273361887288156161",
+                  "text": "I will never ever understand why we gave Cancelo away for Danilo",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": []
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 331691645,
+                        "id_str": "331691645",
+                        "name": "Arjun Pradeep",
+                        "screen_name": "IndianRegista",
+                        "location": "\ud83d\udce7 indianregista@gmail.com",
+                        "description": "Juventino since 2003 | Appeared on Guardian (via TGU) & ESPN \ud83c\udde7\ud83c\uddf7 | Contributed to Soccer Laduma among many others | My views | E-mail me for business inquiries",
+                        "url": "https://t.co/IBf35Cxz2O",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/IBf35Cxz2O",
+                                                "expanded_url": "http://instagram.com/indianregista",
+                                                "display_url": "instagram.com/indianregista",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 29443,
+                        "friends_count": 1031,
+                        "listed_count": 474,
+                        "created_at": "Fri Jul 08 15:36:49 +0000 2011",
+                        "favourites_count": 61080,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 155792,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "EDECE9",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1221524749106335744/roGtTYwq_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1221524749106335744/roGtTYwq_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/331691645/1585509302",
+                        "profile_link_color": "088253",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 175,
+                  "favorite_count": 818,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 12:30:21 +0000 2020",
+                  "id": 1273231506312437760,
+                  "id_str": "1273231506312437760",
+                  "text": "[Decreto 217-20] Presidente Danilo Medina decreta que Direcci\u00f3n General de Emergencias M\u00e9dicas, \u00f3rgano desconcentra\u2026 https://t.co/CaXiwyutuO",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/CaXiwyutuO",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273231506312437760",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 501413356,
+                        "id_str": "501413356",
+                        "name": "Rodr\u00edguez-Marchena",
+                        "screen_name": "RodrigMarchena",
+                        "location": "Rep\u00fablica Dominicana",
+                        "description": "Portavoz y director general de Comunicaci\u00f3n del gobierno de la Rep\u00fablica Dominicana.",
+                        "url": "https://t.co/dcmZa4XRYK",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/dcmZa4XRYK",
+                                                "expanded_url": "http://www.presidencia.gob.do",
+                                                "display_url": "presidencia.gob.do",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 176672,
+                        "friends_count": 1279,
+                        "listed_count": 151,
+                        "created_at": "Fri Feb 24 03:37:58 +0000 2012",
+                        "favourites_count": 15404,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 20195,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1187473186062921730/Avc6kFuE_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1187473186062921730/Avc6kFuE_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/501413356/1585870245",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 90,
+                  "favorite_count": 127,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Wed Jun 17 12:24:34 +0000 2020",
+                  "id": 1273230050431840256,
+                  "id_str": "1273230050431840256",
+                  "text": "[Decreto 216-20] Presidente Danilo Medina crea la Red Nacional de Servicios de Sangre como el conjunto de servicios\u2026 https://t.co/lfgWjfKCYw",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/lfgWjfKCYw",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273230050431840256",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 501413356,
+                        "id_str": "501413356",
+                        "name": "Rodr\u00edguez-Marchena",
+                        "screen_name": "RodrigMarchena",
+                        "location": "Rep\u00fablica Dominicana",
+                        "description": "Portavoz y director general de Comunicaci\u00f3n del gobierno de la Rep\u00fablica Dominicana.",
+                        "url": "https://t.co/dcmZa4XRYK",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/dcmZa4XRYK",
+                                                "expanded_url": "http://www.presidencia.gob.do",
+                                                "display_url": "presidencia.gob.do",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 176672,
+                        "friends_count": 1279,
+                        "listed_count": 151,
+                        "created_at": "Fri Feb 24 03:37:58 +0000 2012",
+                        "favourites_count": 15404,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 20195,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1187473186062921730/Avc6kFuE_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1187473186062921730/Avc6kFuE_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/501413356/1585870245",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 79,
+                  "favorite_count": 103,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Wed Jun 17 21:44:19 +0000 2020",
+                  "id": 1273370916744056836,
+                  "id_str": "1273370916744056836",
+                  "text": "\ud83d\udcfa La horrorosa tanda de penaltis de la Juve: fall\u00f3 Dybala, Danilo a las nubes... y no tir\u00f3 Cristiano https://t.co/tnFTZVx0Rq",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/tnFTZVx0Rq",
+                                    "expanded_url": "https://www.marca.com/futbol/liga-italiana/2020/06/17/5eea8aa022601d3e048b45bc.html",
+                                    "display_url": "marca.com/futbol/liga-it\u2026",
+                                    "indices": [
+                                          101,
+                                          124
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 15095537,
+                        "id_str": "15095537",
+                        "name": "MARCA",
+                        "screen_name": "marca",
+                        "location": "",
+                        "description": "Hablamos sobre toda la actualidad deportiva. S\u00f3lo nos hace falta conocer tu opini\u00f3n, \u00bfte animas? \nhttps://t.co/9C4Ytg7fY6\nhttps://t.co/UbWtYQGieF\nhttps://t.co/etUTbcp9qO",
+                        "url": "https://t.co/fmh4rVzAJW",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/fmh4rVzAJW",
+                                                "expanded_url": "http://www.marca.com",
+                                                "display_url": "marca.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/9C4Ytg7fY6",
+                                                "expanded_url": "http://facebook.com/MARCA",
+                                                "display_url": "facebook.com/MARCA",
+                                                "indices": [
+                                                      98,
+                                                      121
+                                                ]
+                                          },
+                                          {
+                                                "url": "https://t.co/UbWtYQGieF",
+                                                "expanded_url": "http://instagram.com/marca",
+                                                "display_url": "instagram.com/marca",
+                                                "indices": [
+                                                      122,
+                                                      145
+                                                ]
+                                          },
+                                          {
+                                                "url": "https://t.co/etUTbcp9qO",
+                                                "expanded_url": "http://youtube.com/user/Marca",
+                                                "display_url": "youtube.com/user/Marca",
+                                                "indices": [
+                                                      146,
+                                                      169
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 5261609,
+                        "friends_count": 1619,
+                        "listed_count": 20977,
+                        "created_at": "Thu Jun 12 11:05:13 +0000 2008",
+                        "favourites_count": 1731,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 401663,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "1A1B1F",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1269032345354604544/YPwa4v12_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269032345354604544/YPwa4v12_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15095537/1592216039",
+                        "profile_link_color": "1B95E0",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "252429",
+                        "profile_text_color": "666666",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 77,
+                  "favorite_count": 395,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Wed Jun 17 01:30:33 +0000 2020",
+                  "id": 1273065465007542273,
+                  "id_str": "1273065465007542273",
+                  "text": "Tenho orgulho de dizer que vi essas feras jogarem no Tim\u00e3o!\n\n#Corinthians #MeuTim\u00e3o #Ronaldo #Danilo #Ralf https://t.co/07e00RhAh0",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "Corinthians",
+                                    "indices": [
+                                          61,
+                                          73
+                                    ]
+                              },
+                              {
+                                    "text": "MeuTim\u00e3o",
+                                    "indices": [
+                                          74,
+                                          83
+                                    ]
+                              },
+                              {
+                                    "text": "Ronaldo",
+                                    "indices": [
+                                          84,
+                                          92
+                                    ]
+                              },
+                              {
+                                    "text": "Danilo",
+                                    "indices": [
+                                          93,
+                                          100
+                                    ]
+                              },
+                              {
+                                    "text": "Ralf",
+                                    "indices": [
+                                          101,
+                                          106
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1273065463489138698,
+                                    "id_str": "1273065463489138698",
+                                    "indices": [
+                                          107,
+                                          130
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EarWS0cWkAoXZtl.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EarWS0cWkAoXZtl.jpg",
+                                    "url": "https://t.co/07e00RhAh0",
+                                    "display_url": "pic.twitter.com/07e00RhAh0",
+                                    "expanded_url": "https://twitter.com/MeuTimao/status/1273065465007542273/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 800,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 453,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1620,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1273065463489138698,
+                                    "id_str": "1273065463489138698",
+                                    "indices": [
+                                          107,
+                                          130
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EarWS0cWkAoXZtl.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EarWS0cWkAoXZtl.jpg",
+                                    "url": "https://t.co/07e00RhAh0",
+                                    "display_url": "pic.twitter.com/07e00RhAh0",
+                                    "expanded_url": "https://twitter.com/MeuTimao/status/1273065465007542273/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 800,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 453,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1620,
+                                                "h": 1080,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "iso_language_code": "pt",
+                        "result_type": "popular"
+                  },
+                  "source": "<a href=\"http://etus.com.br\" rel=\"nofollow\">Etus Brasil</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 28703815,
+                        "id_str": "28703815",
+                        "name": "Meu Tim\u00e3o",
+                        "screen_name": "MeuTimao",
+                        "location": "",
+                        "description": "A maior comunidade sobre o Corinthians na internet.",
+                        "url": "http://t.co/DPlGH5JjSe",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "http://t.co/DPlGH5JjSe",
+                                                "expanded_url": "http://www.meutimao.com.br",
+                                                "display_url": "meutimao.com.br",
+                                                "indices": [
+                                                      0,
+                                                      22
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 655844,
+                        "friends_count": 263,
+                        "listed_count": 1871,
+                        "created_at": "Sat Apr 04 01:04:27 +0000 2009",
+                        "favourites_count": 2023,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 91019,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "E7E4DC",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1243272630641266702/yipWv4hY_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243272630641266702/yipWv4hY_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28703815/1401051170",
+                        "profile_link_color": "000000",
+                        "profile_sidebar_border_color": "FFDC4F",
+                        "profile_sidebar_fill_color": "080808",
+                        "profile_text_color": "888888",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 71,
+                  "favorite_count": 1088,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "pt"
+            },
+            {
+                  "created_at": "Wed Jun 17 21:11:44 +0000 2020",
+                  "id": 1273362716539920388,
+                  "id_str": "1273362716539920388",
+                  "text": "Dybala e Danilo erram, Napoli vence Juventus nos p\u00eanaltis e leva Copa da It\u00e1lia https://t.co/igH1MjT8wi https://t.co/VpMZvdB6RF",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/igH1MjT8wi",
+                                    "expanded_url": "http://glo.bo/2zG9Ym1",
+                                    "display_url": "glo.bo/2zG9Ym1",
+                                    "indices": [
+                                          80,
+                                          103
+                                    ]
+                              }
+                        ],
+                        "media": [
+                              {
+                                    "id": 1273362554803404800,
+                                    "id_str": "1273362554803404800",
+                                    "indices": [
+                                          104,
+                                          127
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eavkfz1XQAA4aV4.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eavkfz1XQAA4aV4.jpg",
+                                    "url": "https://t.co/VpMZvdB6RF",
+                                    "display_url": "pic.twitter.com/VpMZvdB6RF",
+                                    "expanded_url": "https://twitter.com/globoesportecom/status/1273362716539920388/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "small": {
+                                                "w": 680,
+                                                "h": 453,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "large": {
+                                                "w": 2048,
+                                                "h": 1365,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 800,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1273362554803404800,
+                                    "id_str": "1273362554803404800",
+                                    "indices": [
+                                          104,
+                                          127
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eavkfz1XQAA4aV4.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eavkfz1XQAA4aV4.jpg",
+                                    "url": "https://t.co/VpMZvdB6RF",
+                                    "display_url": "pic.twitter.com/VpMZvdB6RF",
+                                    "expanded_url": "https://twitter.com/globoesportecom/status/1273362716539920388/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "small": {
+                                                "w": 680,
+                                                "h": 453,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "large": {
+                                                "w": 2048,
+                                                "h": 1365,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 800,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "iso_language_code": "pt",
+                        "result_type": "popular"
+                  },
+                  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 10842792,
+                        "id_str": "10842792",
+                        "name": "globoesportecom (de \ud83c\udfe0)",
+                        "screen_name": "globoesportecom",
+                        "location": "Brasil",
+                        "description": "'Se a bola soubesse o encanto que tem, n\u00e3o passaria a vida rolando de p\u00e9 em p\u00e9' - Armando Nogueira",
+                        "url": "https://t.co/WuQudTDGQC",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/WuQudTDGQC",
+                                                "expanded_url": "http://www.globoesporte.com",
+                                                "display_url": "globoesporte.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 4761501,
+                        "friends_count": 345,
+                        "listed_count": 8668,
+                        "created_at": "Tue Dec 04 16:44:39 +0000 2007",
+                        "favourites_count": 611,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 300205,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "1F8A04",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1210189924927971329/pWVXiw8C_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1210189924927971329/pWVXiw8C_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10842792/1574305223",
+                        "profile_link_color": "0B7317",
+                        "profile_sidebar_border_color": "087302",
+                        "profile_sidebar_fill_color": "E8FAE9",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 124,
+                  "favorite_count": 2164,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "pt"
+            },
+            {
+                  "created_at": "Wed Jun 17 21:10:45 +0000 2020",
+                  "id": 1273362469998727170,
+                  "id_str": "1273362469998727170",
+                  "text": "\u00a1El NAPOLES es el CAMPE\u00d3N de la #CoppaItalia! \ud83c\udfc6 \u00a1Gana a la Juventus en los penaltis!\n\n\u00a1Fallaron Dybala y Danilo y M\u2026 https://t.co/vRNTaeeUBc",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "CoppaItalia",
+                                    "indices": [
+                                          32,
+                                          44
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/vRNTaeeUBc",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273362469998727170",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 740845357530238976,
+                        "id_str": "740845357530238976",
+                        "name": "DAZN Espa\u00f1a (\ud83c\udfe0)",
+                        "screen_name": "DAZN_ES",
+                        "location": "Espa\u00f1a",
+                        "description": "El lugar para ver tus deportes favoritos donde quieras, cuando quieras, en directo y bajo demanda #DAZN Para atenci\u00f3n al cliente y soporte: @DAZN_ES_Help",
+                        "url": "https://t.co/gv85IkUq7s",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/gv85IkUq7s",
+                                                "expanded_url": "http://bit.ly/DAZNEStw",
+                                                "display_url": "bit.ly/DAZNEStw",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 96724,
+                        "friends_count": 3286,
+                        "listed_count": 344,
+                        "created_at": "Thu Jun 09 09:57:52 +0000 2016",
+                        "favourites_count": 5169,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 18774,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1091261043593146368/1xY7-9TU_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091261043593146368/1xY7-9TU_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/740845357530238976/1591194779",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 75,
+                  "favorite_count": 176,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Tue Jun 16 19:16:41 +0000 2020",
+                  "id": 1272971377042165762,
+                  "id_str": "1272971377042165762",
+                  "text": "Suplentes: Diogo Costa, Rom\u00e1rio Bar\u00f3, Aboubakar, Marega, Danilo, Soares, F\u00e1bio Vieira, Jo\u00e3o M\u00e1rio e V\u00edtor Ferreira \n\n#FCPorto #CDAFCP",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "FCPorto",
+                                    "indices": [
+                                          117,
+                                          125
+                                    ]
+                              },
+                              {
+                                    "text": "CDAFCP",
+                                    "indices": [
+                                          126,
+                                          133
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": []
+                  },
+                  "metadata": {
+                        "iso_language_code": "pt",
+                        "result_type": "popular"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": 1272971068534329345,
+                  "in_reply_to_status_id_str": "1272971068534329345",
+                  "in_reply_to_user_id": 21390674,
+                  "in_reply_to_user_id_str": "21390674",
+                  "in_reply_to_screen_name": "FCPorto",
+                  "user": {
+                        "id": 21390674,
+                        "id_str": "21390674",
+                        "name": "FC Porto",
+                        "screen_name": "FCPorto",
+                        "location": "Drag\u00e3o, Porto, Portugal",
+                        "description": "Twitter oficial do FC Porto. / FC Porto's official account. #FCPorto",
+                        "url": "https://t.co/cEQ34wnXRw",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/cEQ34wnXRw",
+                                                "expanded_url": "http://www.fcporto.pt",
+                                                "display_url": "fcporto.pt",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1228488,
+                        "friends_count": 60,
+                        "listed_count": 2253,
+                        "created_at": "Fri Feb 20 11:43:03 +0000 2009",
+                        "favourites_count": 822,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 64414,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "002C6D",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1266399756198318081/D62k0-dK_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1266399756198318081/D62k0-dK_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21390674/1592346646",
+                        "profile_link_color": "01509B",
+                        "profile_sidebar_border_color": "01509B",
+                        "profile_sidebar_fill_color": "FFFFFF",
+                        "profile_text_color": "01509B",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 55,
+                  "favorite_count": 352,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "pt"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.054,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1272971377042165761&q=Danilo&count=10&include_entities=1&result_type=popular",
+            "query": "Danilo",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

@@ -1,0 +1,3445 @@
+{
+      "created_at": "Thu Jun 18 00:51:29 +0000 2020",
+      "id": 1273418020749271043,
+      "id_str": "1273418020749271043",
+      "text": "@Ashley20ui @LuisinJimenezc El ahora lo justifica porque Juancito Sport es compadre de Danilo, ya eso se olvido.",
+      "display_text_range": [
+            28,
+            112
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 1273415460462215174,
+      "in_reply_to_status_id_str": "1273415460462215174",
+      "in_reply_to_user_id": 1224473534694666240,
+      "in_reply_to_user_id_str": "1224473534694666240",
+      "in_reply_to_screen_name": "Ashley20ui",
+      "user": {
+            "id": 79086151,
+            "id_str": "79086151",
+            "name": "\ud83d\udc3e\u00a1En el Fuego!\ud83d\udc3e",
+            "screen_name": "samy_cho",
+            "location": "Santiago, Dominican Republic",
+            "url": null,
+            "description": "Puedes cambiar o seguir igual; la vida no tiene reglas! Padre de 2 ni\u00f1as y abuelo de Anissa y Shelsea. #MamiRaisa #YoSoyAguilucho #Sassenach",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 24372,
+            "friends_count": 5659,
+            "listed_count": 62,
+            "favourites_count": 319378,
+            "statuses_count": 429106,
+            "created_at": "Fri Oct 02 03:44:07 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255242834862620673/Ns0n_ooC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255242834862620673/Ns0n_ooC_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/79086151/1588185689",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "Ashley20ui",
+                        "name": "Ashley",
+                        "id": 1224473534694666240,
+                        "id_str": "1224473534694666240",
+                        "indices": [
+                              0,
+                              11
+                        ]
+                  },
+                  {
+                        "screen_name": "LuisinJimenezc",
+                        "name": "Luisin Jimenez",
+                        "id": 819551708,
+                        "id_str": "819551708",
+                        "indices": [
+                              12,
+                              27
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "es",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:51:25 +0000 2020",
+      "id": 1273418004496252928,
+      "id_str": "1273418004496252928",
+      "text": "@arilab_ @JuvePoland W teorii spoko. W praktyce:\na. jeden rezerwowy CB na 3 graj\u0105cych\nb. Danilo rezerwowym RWB? No\u2026 https://t.co/sH7CCxgmZD",
+      "display_text_range": [
+            21,
+            140
+      ],
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": true,
+      "in_reply_to_status_id": 1273415459203932161,
+      "in_reply_to_status_id_str": "1273415459203932161",
+      "in_reply_to_user_id": 558084542,
+      "in_reply_to_user_id_str": "558084542",
+      "in_reply_to_screen_name": "arilab_",
+      "user": {
+            "id": 2149034933,
+            "id_str": "2149034933",
+            "name": "Micha\u0142 Borkowski",
+            "screen_name": "mbork88",
+            "location": "Warszawa",
+            "url": null,
+            "description": "#calcio",
+            "translator_type": "regular",
+            "protected": false,
+            "verified": false,
+            "followers_count": 13900,
+            "friends_count": 360,
+            "listed_count": 50,
+            "favourites_count": 52757,
+            "statuses_count": 57959,
+            "created_at": "Wed Oct 23 00:20:06 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/849201824917860352/cI_IP8Cw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/849201824917860352/cI_IP8Cw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2149034933/1405552960",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+            "full_text": "@arilab_ @JuvePoland W teorii spoko. W praktyce:\na. jeden rezerwowy CB na 3 graj\u0105cych\nb. Danilo rezerwowym RWB? No nie, wi\u0119c kto?\nc. MDL, Demiral bez nauki i do\u015bwiadczenia gry w tr\u00f3jce\nd. Sarri bez praktyki gry 3\n\nPapier du\u017co przyjmie, ale b\u0105d\u017amy realistami",
+            "display_text_range": [
+                  21,
+                  257
+            ],
+            "entities": {
+                  "hashtags": [],
+                  "urls": [],
+                  "user_mentions": [
+                        {
+                              "screen_name": "arilab_",
+                              "name": "Ariel Labzik",
+                              "id": 558084542,
+                              "id_str": "558084542",
+                              "indices": [
+                                    0,
+                                    8
+                              ]
+                        },
+                        {
+                              "screen_name": "JuvePoland",
+                              "name": "JuvePoland",
+                              "id": 2788705703,
+                              "id_str": "2788705703",
+                              "indices": [
+                                    9,
+                                    20
+                              ]
+                        }
+                  ],
+                  "symbols": []
+            }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [
+                  {
+                        "url": "https://t.co/sH7CCxgmZD",
+                        "expanded_url": "https://twitter.com/i/web/status/1273418004496252928",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                              116,
+                              139
+                        ]
+                  }
+            ],
+            "user_mentions": [
+                  {
+                        "screen_name": "arilab_",
+                        "name": "Ariel Labzik",
+                        "id": 558084542,
+                        "id_str": "558084542",
+                        "indices": [
+                              0,
+                              8
+                        ]
+                  },
+                  {
+                        "screen_name": "JuvePoland",
+                        "name": "JuvePoland",
+                        "id": 2788705703,
+                        "id_str": "2788705703",
+                        "indices": [
+                              9,
+                              20
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "pl",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:51:22 +0000 2020",
+      "id": 1273417990613196803,
+      "id_str": "1273417990613196803",
+      "text": "Iettatore mondiale Enrico Ciandri fa gli auguri per la finale Champions League 2017 a Claudio Zuliani!. (facebookli\u2026 https://t.co/53krqoTaCL",
+      "display_text_range": [
+            0,
+            140
+      ],
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 1226608706625921026,
+            "id_str": "1226608706625921026",
+            "name": "Selfie Vips",
+            "screen_name": "VipsSelfie",
+            "location": null,
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 271,
+            "friends_count": 2719,
+            "listed_count": 0,
+            "favourites_count": 9,
+            "statuses_count": 2660,
+            "created_at": "Sun Feb 09 20:48:27 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1226609232142831629/Wl7OlEeb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226609232142831629/Wl7OlEeb_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1226608706625921026/1581281404",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+            "full_text": "Iettatore mondiale Enrico Ciandri fa gli auguri per la finale Champions League 2017 a Claudio Zuliani!. (facebooklive,coppaitalia,ronaldo,sarri,Davidluiz,gattuso,dybala,allegri,Danilo,kristenstewart,sky,bitcoin,bitcoinnews,enfp,entp,finoallafine,nedved,coppaitaliacocacola,napoli https://t.co/jPPKNR8lab",
+            "display_text_range": [
+                  0,
+                  279
+            ],
+            "entities": {
+                  "hashtags": [],
+                  "urls": [],
+                  "user_mentions": [],
+                  "symbols": [],
+                  "media": [
+                        {
+                              "id": 1273417905233899521,
+                              "id_str": "1273417905233899521",
+                              "indices": [
+                                    280,
+                                    303
+                              ],
+                              "additional_media_info": {
+                                    "monetizable": false
+                              },
+                              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273417905233899521/pu/img/6UBYP7EyPVrROBcK.jpg",
+                              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273417905233899521/pu/img/6UBYP7EyPVrROBcK.jpg",
+                              "url": "https://t.co/jPPKNR8lab",
+                              "display_url": "pic.twitter.com/jPPKNR8lab",
+                              "expanded_url": "https://twitter.com/VipsSelfie/status/1273417990613196803/video/1",
+                              "type": "video",
+                              "video_info": {
+                                    "aspect_ratio": [
+                                          1,
+                                          1
+                                    ],
+                                    "duration_millis": 4367,
+                                    "variants": [
+                                          {
+                                                "content_type": "application/x-mpegURL",
+                                                "url": "https://video.twimg.com/ext_tw_video/1273417905233899521/pu/pl/EdytGwlETp41o29K.m3u8?tag=10"
+                                          },
+                                          {
+                                                "bitrate": 432000,
+                                                "content_type": "video/mp4",
+                                                "url": "https://video.twimg.com/ext_tw_video/1273417905233899521/pu/vid/320x320/03y6vf3kRTOA2y9D.mp4?tag=10"
+                                          },
+                                          {
+                                                "bitrate": 832000,
+                                                "content_type": "video/mp4",
+                                                "url": "https://video.twimg.com/ext_tw_video/1273417905233899521/pu/vid/480x480/-yvycpXECUoszWsb.mp4?tag=10"
+                                          }
+                                    ]
+                              },
+                              "sizes": {
+                                    "small": {
+                                          "w": 480,
+                                          "h": 480,
+                                          "resize": "fit"
+                                    },
+                                    "thumb": {
+                                          "w": 150,
+                                          "h": 150,
+                                          "resize": "crop"
+                                    },
+                                    "medium": {
+                                          "w": 480,
+                                          "h": 480,
+                                          "resize": "fit"
+                                    },
+                                    "large": {
+                                          "w": 480,
+                                          "h": 480,
+                                          "resize": "fit"
+                                    }
+                              }
+                        }
+                  ]
+            },
+            "extended_entities": {
+                  "media": [
+                        {
+                              "id": 1273417905233899521,
+                              "id_str": "1273417905233899521",
+                              "indices": [
+                                    280,
+                                    303
+                              ],
+                              "additional_media_info": {
+                                    "monetizable": false
+                              },
+                              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273417905233899521/pu/img/6UBYP7EyPVrROBcK.jpg",
+                              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273417905233899521/pu/img/6UBYP7EyPVrROBcK.jpg",
+                              "url": "https://t.co/jPPKNR8lab",
+                              "display_url": "pic.twitter.com/jPPKNR8lab",
+                              "expanded_url": "https://twitter.com/VipsSelfie/status/1273417990613196803/video/1",
+                              "type": "video",
+                              "video_info": {
+                                    "aspect_ratio": [
+                                          1,
+                                          1
+                                    ],
+                                    "duration_millis": 4367,
+                                    "variants": [
+                                          {
+                                                "content_type": "application/x-mpegURL",
+                                                "url": "https://video.twimg.com/ext_tw_video/1273417905233899521/pu/pl/EdytGwlETp41o29K.m3u8?tag=10"
+                                          },
+                                          {
+                                                "bitrate": 432000,
+                                                "content_type": "video/mp4",
+                                                "url": "https://video.twimg.com/ext_tw_video/1273417905233899521/pu/vid/320x320/03y6vf3kRTOA2y9D.mp4?tag=10"
+                                          },
+                                          {
+                                                "bitrate": 832000,
+                                                "content_type": "video/mp4",
+                                                "url": "https://video.twimg.com/ext_tw_video/1273417905233899521/pu/vid/480x480/-yvycpXECUoszWsb.mp4?tag=10"
+                                          }
+                                    ]
+                              },
+                              "sizes": {
+                                    "small": {
+                                          "w": 480,
+                                          "h": 480,
+                                          "resize": "fit"
+                                    },
+                                    "thumb": {
+                                          "w": 150,
+                                          "h": 150,
+                                          "resize": "crop"
+                                    },
+                                    "medium": {
+                                          "w": 480,
+                                          "h": 480,
+                                          "resize": "fit"
+                                    },
+                                    "large": {
+                                          "w": 480,
+                                          "h": 480,
+                                          "resize": "fit"
+                                    }
+                              }
+                        }
+                  ]
+            }
+      },
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [
+                  {
+                        "url": "https://t.co/53krqoTaCL",
+                        "expanded_url": "https://twitter.com/i/web/status/1273417990613196803",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                              117,
+                              140
+                        ]
+                  }
+            ],
+            "user_mentions": [],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "it",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:51:19 +0000 2020",
+      "id": 1273417975962492930,
+      "id_str": "1273417975962492930",
+      "text": "RT @a50pma: Danilo, hab\u00edas jodido con todos los foristas, te metiste con JCT y ahora con Martinelli?\nBueno, te informo que esta vez te meti\u2026",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 1443051625,
+            "id_str": "1443051625",
+            "name": "Marlene",
+            "screen_name": "marleneabuzid",
+            "location": null,
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 82,
+            "friends_count": 240,
+            "listed_count": 0,
+            "favourites_count": 142,
+            "statuses_count": 3930,
+            "created_at": "Mon May 20 06:44:32 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/454710620223717376/I-39oJPg_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/454710620223717376/I-39oJPg_normal.jpeg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Wed Jun 17 12:24:24 +0000 2020",
+            "id": 1273230009805791238,
+            "id_str": "1273230009805791238",
+            "text": "Danilo, hab\u00edas jodido con todos los foristas, te metiste con JCT y ahora con Martinelli?\nBueno, te informo que esta\u2026 https://t.co/4ZB4eeq5fs",
+            "display_text_range": [
+                  0,
+                  140
+            ],
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 258972844,
+                  "id_str": "258972844",
+                  "name": "a50pma\u2122",
+                  "screen_name": "a50pma",
+                  "location": null,
+                  "url": null,
+                  "description": "Sin Afiliaci\u00f3n Pol\u00edtica o Partidaria.                                          100% Colonense.",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 6133,
+                  "friends_count": 1631,
+                  "listed_count": 3,
+                  "favourites_count": 131587,
+                  "statuses_count": 54032,
+                  "created_at": "Mon Feb 28 22:16:44 +0000 2011",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": true,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "352726",
+                  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                  "profile_background_tile": false,
+                  "profile_link_color": "D02B55",
+                  "profile_sidebar_border_color": "FFFFFF",
+                  "profile_sidebar_fill_color": "99CC33",
+                  "profile_text_color": "3E4415",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/3736361930/ae634109996127b1c2516104812a889b_normal.jpeg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3736361930/ae634109996127b1c2516104812a889b_normal.jpeg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/258972844/1444409283",
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                  "full_text": "Danilo, hab\u00edas jodido con todos los foristas, te metiste con JCT y ahora con Martinelli?\nBueno, te informo que esta vez te metiste la ultima estocada.\nTas\u00b4en li\u00f3.\nDe donde vas a sacar $$$$$ para pagar abogados y la demanda? https://t.co/9UXWAcpr5u",
+                  "display_text_range": [
+                        0,
+                        223
+                  ],
+                  "entities": {
+                        "hashtags": [],
+                        "urls": [],
+                        "user_mentions": [],
+                        "symbols": [],
+                        "media": [
+                              {
+                                    "id": 1273229895775248385,
+                                    "id_str": "1273229895775248385",
+                                    "indices": [
+                                          224,
+                                          247
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eatr2CcXYAE8o33.png",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eatr2CcXYAE8o33.png",
+                                    "url": "https://t.co/9UXWAcpr5u",
+                                    "display_url": "pic.twitter.com/9UXWAcpr5u",
+                                    "expanded_url": "https://twitter.com/a50pma/status/1273230009805791238/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "small": {
+                                                "w": 225,
+                                                "h": 225,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 225,
+                                                "h": 225,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 225,
+                                                "h": 225,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1273229895775248385,
+                                    "id_str": "1273229895775248385",
+                                    "indices": [
+                                          224,
+                                          247
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eatr2CcXYAE8o33.png",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eatr2CcXYAE8o33.png",
+                                    "url": "https://t.co/9UXWAcpr5u",
+                                    "display_url": "pic.twitter.com/9UXWAcpr5u",
+                                    "expanded_url": "https://twitter.com/a50pma/status/1273230009805791238/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "small": {
+                                                "w": 225,
+                                                "h": 225,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 225,
+                                                "h": 225,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 225,
+                                                "h": 225,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  }
+            },
+            "quote_count": 1,
+            "reply_count": 10,
+            "retweet_count": 23,
+            "favorite_count": 29,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [
+                        {
+                              "url": "https://t.co/4ZB4eeq5fs",
+                              "expanded_url": "https://twitter.com/i/web/status/1273230009805791238",
+                              "display_url": "twitter.com/i/web/status/1\u2026",
+                              "indices": [
+                                    117,
+                                    140
+                              ]
+                        }
+                  ],
+                  "user_mentions": [],
+                  "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "es"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "a50pma",
+                        "name": "a50pma\u2122",
+                        "id": 258972844,
+                        "id_str": "258972844",
+                        "indices": [
+                              3,
+                              10
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "es",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:51:18 +0000 2020",
+      "id": 1273417974012133378,
+      "id_str": "1273417974012133378",
+      "text": "@luly_villares Danilo",
+      "display_text_range": [
+            15,
+            21
+      ],
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 1273131034557759490,
+      "in_reply_to_status_id_str": "1273131034557759490",
+      "in_reply_to_user_id": 800819721197289473,
+      "in_reply_to_user_id_str": "800819721197289473",
+      "in_reply_to_screen_name": "luly_villares",
+      "user": {
+            "id": 1267238070123986946,
+            "id_str": "1267238070123986946",
+            "name": "Cathezinha\ud83d\ude1c",
+            "screen_name": "cathe__e",
+            "location": "S\u00e3o Bernardo do Campo, Brasil",
+            "url": null,
+            "description": "sei la",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 26,
+            "friends_count": 28,
+            "listed_count": 0,
+            "favourites_count": 447,
+            "statuses_count": 285,
+            "created_at": "Sun May 31 23:34:50 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1267238661940273153/PMVruqPt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1267238661940273153/PMVruqPt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267238070123986946/1591847914",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "luly_villares",
+                        "name": "luly",
+                        "id": 800819721197289473,
+                        "id_str": "800819721197289473",
+                        "indices": [
+                              0,
+                              14
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "cs",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:51:16 +0000 2020",
+      "id": 1273417964654657542,
+      "id_str": "1273417964654657542",
+      "text": "RT @PLUSSVALIA: PACIENCIA PRONTO ESTAREMOS BIEN\nDanilo Parra - Mirella Cesa - Gerardo / CON FE -\n \u00a1Pronto Estaremos Bien!... \nhttps://t.co/\u2026",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 943155530486476802,
+            "id_str": "943155530486476802",
+            "name": "cicasam",
+            "screen_name": "PLUSSVALIA",
+            "location": "Pichincha, Ecuador",
+            "url": null,
+            "description": "VARIEDADES.VARIETIES. publicidad,consejos,viajes,salud.CURIOSIDADES.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 761,
+            "friends_count": 3260,
+            "listed_count": 2,
+            "favourites_count": 3,
+            "statuses_count": 395,
+            "created_at": "Tue Dec 19 16:26:16 +0000 2017",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/943158772100485120/E2XUUTH7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/943158772100485120/E2XUUTH7_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/943155530486476802/1527703282",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Fri May 08 14:29:21 +0000 2020",
+            "id": 1258765938213748738,
+            "id_str": "1258765938213748738",
+            "text": "PACIENCIA PRONTO ESTAREMOS BIEN\nDanilo Parra - Mirella Cesa - Gerardo / CON FE -\n \u00a1Pronto Estaremos Bien!...\u2026 https://t.co/eJqzjdKW0X",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 943155530486476802,
+                  "id_str": "943155530486476802",
+                  "name": "cicasam",
+                  "screen_name": "PLUSSVALIA",
+                  "location": "Pichincha, Ecuador",
+                  "url": null,
+                  "description": "VARIEDADES.VARIETIES. publicidad,consejos,viajes,salud.CURIOSIDADES.",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 761,
+                  "friends_count": 3260,
+                  "listed_count": 2,
+                  "favourites_count": 3,
+                  "statuses_count": 395,
+                  "created_at": "Tue Dec 19 16:26:16 +0000 2017",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": false,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "F5F8FA",
+                  "profile_background_image_url": "",
+                  "profile_background_image_url_https": "",
+                  "profile_background_tile": false,
+                  "profile_link_color": "1DA1F2",
+                  "profile_sidebar_border_color": "C0DEED",
+                  "profile_sidebar_fill_color": "DDEEF6",
+                  "profile_text_color": "333333",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/943158772100485120/E2XUUTH7_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/943158772100485120/E2XUUTH7_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/943155530486476802/1527703282",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                  "full_text": "PACIENCIA PRONTO ESTAREMOS BIEN\nDanilo Parra - Mirella Cesa - Gerardo / CON FE -\n \u00a1Pronto Estaremos Bien!... \nhttps://t.co/wesZfcB43u v\u00eda @YouTube",
+                  "display_text_range": [
+                        0,
+                        146
+                  ],
+                  "entities": {
+                        "hashtags": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/wesZfcB43u",
+                                    "expanded_url": "https://youtu.be/4UH7s86Os4A",
+                                    "display_url": "youtu.be/4UH7s86Os4A",
+                                    "indices": [
+                                          110,
+                                          133
+                                    ]
+                              }
+                        ],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "YouTube",
+                                    "name": "YouTube",
+                                    "id": 10228272,
+                                    "id_str": "10228272",
+                                    "indices": [
+                                          138,
+                                          146
+                                    ]
+                              }
+                        ],
+                        "symbols": []
+                  }
+            },
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [
+                        {
+                              "url": "https://t.co/eJqzjdKW0X",
+                              "expanded_url": "https://twitter.com/i/web/status/1258765938213748738",
+                              "display_url": "twitter.com/i/web/status/1\u2026",
+                              "indices": [
+                                    110,
+                                    133
+                              ]
+                        }
+                  ],
+                  "user_mentions": [],
+                  "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "es"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "PLUSSVALIA",
+                        "name": "cicasam",
+                        "id": 943155530486476802,
+                        "id_str": "943155530486476802",
+                        "indices": [
+                              3,
+                              14
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "es",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:51:11 +0000 2020",
+      "id": 1273417946187079685,
+      "id_str": "1273417946187079685",
+      "text": "Novo ministro das comunica\u00e7\u00f5es \u00e9 identico ao Danilo Gentilli kkkkkk",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 1253929415991590912,
+            "id_str": "1253929415991590912",
+            "name": "Arthur Rodrigues",
+            "screen_name": "Thurx11",
+            "location": null,
+            "url": null,
+            "description": "Mt 5:4        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                    \nhumildemente",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 40,
+            "friends_count": 128,
+            "listed_count": 0,
+            "favourites_count": 438,
+            "statuses_count": 236,
+            "created_at": "Sat Apr 25 06:10:58 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1272379769607409675/3odrFD-C_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272379769607409675/3odrFD-C_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253929415991590912/1591242670",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "pt",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:51:03 +0000 2020",
+      "id": 1273417909801570305,
+      "id_str": "1273417909801570305",
+      "text": "RT @altagraciasa: Faride, Jonathan, Liriano, Carolin y Benny someten amparo de extrema urgencia contra Danilo Medina | Acento https://t.co/\u2026",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 136466613,
+            "id_str": "136466613",
+            "name": "Israel Carbonell",
+            "screen_name": "israel0563",
+            "location": "Rep. Dominicana",
+            "url": "http://israelcarbonellespinosa.blogspot.com",
+            "description": "Lic en Contabilidad y Administracion de negocios,Profesor Universitario y Amante de los Deportes en sentido general.( Escogidista, de Boston Red Sox )",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 868,
+            "friends_count": 1768,
+            "listed_count": 3,
+            "favourites_count": 2995,
+            "statuses_count": 11572,
+            "created_at": "Sat Apr 24 01:24:42 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/685589849001177088/zzVK1aYy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/685589849001177088/zzVK1aYy_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/136466613/1451052262",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Wed Jun 17 20:27:18 +0000 2020",
+            "id": 1273351537172066309,
+            "id_str": "1273351537172066309",
+            "text": "Faride, Jonathan, Liriano, Carolin y Benny someten amparo de extrema urgencia contra Danilo Medina | Acento https://t.co/fepGVOqL52",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 128020344,
+                  "id_str": "128020344",
+                  "name": "Altagracia Salazar",
+                  "screen_name": "altagraciasa",
+                  "location": "Santo Domingo",
+                  "url": "http://altagraciasalazar.com",
+                  "description": "Altagracia Salazar, periodista de tiempo completo. Comprometida con la defensor\u00eda de derechos  y 24-7 contra la corrupci\u00f3n. #SinMaquillaje #CuentasNoCuentos",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 178561,
+                  "friends_count": 2188,
+                  "listed_count": 210,
+                  "favourites_count": 2400,
+                  "statuses_count": 35605,
+                  "created_at": "Tue Mar 30 21:55:54 +0000 2010",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": false,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "000000",
+                  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_tile": false,
+                  "profile_link_color": "FF691F",
+                  "profile_sidebar_border_color": "000000",
+                  "profile_sidebar_fill_color": "000000",
+                  "profile_text_color": "000000",
+                  "profile_use_background_image": false,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1120331996646060032/tbtn-dFx_normal.png",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120331996646060032/tbtn-dFx_normal.png",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/128020344/1555943878",
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 1,
+            "reply_count": 32,
+            "retweet_count": 58,
+            "favorite_count": 167,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [
+                        {
+                              "url": "https://t.co/fepGVOqL52",
+                              "expanded_url": "https://acento.com.do/politica/faride-jonathan-liriano-carolin-y-benny-sotemen-amparo-de-extrema-urgencia-contra-danilo-medina-8830489.html",
+                              "display_url": "acento.com.do/politica/farid\u2026",
+                              "indices": [
+                                    108,
+                                    131
+                              ]
+                        }
+                  ],
+                  "user_mentions": [],
+                  "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "es"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "altagraciasa",
+                        "name": "Altagracia Salazar",
+                        "id": 128020344,
+                        "id_str": "128020344",
+                        "indices": [
+                              3,
+                              16
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "es",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:51:02 +0000 2020",
+      "id": 1273417906769014785,
+      "id_str": "1273417906769014785",
+      "text": "@danilo_m46 No se si abuso. Cada quien se pone su precio . Para mi es caro .. no creo que lo compre ..",
+      "display_text_range": [
+            12,
+            102
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 1273417378530033664,
+      "in_reply_to_status_id_str": "1273417378530033664",
+      "in_reply_to_user_id": 4230838347,
+      "in_reply_to_user_id_str": "4230838347",
+      "in_reply_to_screen_name": "danilo_m46",
+      "user": {
+            "id": 268635250,
+            "id_str": "268635250",
+            "name": "Maria Isabel Plaza",
+            "screen_name": "gugaplaza",
+            "location": "Guayaquil",
+            "url": null,
+            "description": "Bienes raices. #MTB, playa. Serieadicta,shoppingholica.. #presoCorreapreso",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1433,
+            "friends_count": 1452,
+            "listed_count": 10,
+            "favourites_count": 23295,
+            "statuses_count": 36754,
+            "created_at": "Sat Mar 19 04:54:15 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1224488839672147975/lL0L3Etr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224488839672147975/lL0L3Etr_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/268635250/1573870982",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "danilo_m46",
+                        "name": "Danilo Matamoros",
+                        "id": 4230838347,
+                        "id_str": "4230838347",
+                        "indices": [
+                              0,
+                              11
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "es",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:51:00 +0000 2020",
+      "id": 1273417897428299778,
+      "id_str": "1273417897428299778",
+      "text": "@PeriodicoHoy El circo de Danilo presenta el t\u00edtere del #PencoBaboso \u270a\ud83c\udffc \ud83c\udfaa",
+      "display_text_range": [
+            14,
+            73
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 1273413257144012808,
+      "in_reply_to_status_id_str": "1273413257144012808",
+      "in_reply_to_user_id": 43534995,
+      "in_reply_to_user_id_str": "43534995",
+      "in_reply_to_screen_name": "PeriodicoHoy",
+      "user": {
+            "id": 1166828362662371333,
+            "id_str": "1166828362662371333",
+            "name": "julianazuluagam",
+            "screen_name": "julianazuluagam",
+            "location": "Dominican Republic",
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 9,
+            "friends_count": 7,
+            "listed_count": 0,
+            "favourites_count": 19,
+            "statuses_count": 93,
+            "created_at": "Wed Aug 28 21:42:25 +0000 2019",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1269460209610690560/rZ8Io5Rj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269460209610690560/rZ8Io5Rj_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1166828362662371333/1591638603",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [
+                  {
+                        "text": "PencoBaboso",
+                        "indices": [
+                              56,
+                              68
+                        ]
+                  }
+            ],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "PeriodicoHoy",
+                        "name": "Peri\u00f3dico Hoy",
+                        "id": 43534995,
+                        "id_str": "43534995",
+                        "indices": [
+                              0,
+                              13
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "es",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:50:52 +0000 2020",
+      "id": 1273417864825810944,
+      "id_str": "1273417864825810944",
+      "text": "@PeriodicoHoy Estamos claros que es un t\u00edtere que hace todo lo que pap\u00e1 Danilo le dice. #PencoBaboso",
+      "display_text_range": [
+            14,
+            100
+      ],
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 1273413257144012808,
+      "in_reply_to_status_id_str": "1273413257144012808",
+      "in_reply_to_user_id": 43534995,
+      "in_reply_to_user_id_str": "43534995",
+      "in_reply_to_screen_name": "PeriodicoHoy",
+      "user": {
+            "id": 1266814207066017796,
+            "id_str": "1266814207066017796",
+            "name": "Reyna Ascaso",
+            "screen_name": "AscasoReyna",
+            "location": null,
+            "url": null,
+            "description": "Soy una persona muy simpatica, alegre y futura contadora \ud83e\udd17",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 12,
+            "friends_count": 61,
+            "listed_count": 0,
+            "favourites_count": 5,
+            "statuses_count": 120,
+            "created_at": "Sat May 30 19:30:41 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1266814592895901700/kglykcHh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1266814592895901700/kglykcHh_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+            "hashtags": [
+                  {
+                        "text": "PencoBaboso",
+                        "indices": [
+                              88,
+                              100
+                        ]
+                  }
+            ],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "PeriodicoHoy",
+                        "name": "Peri\u00f3dico Hoy",
+                        "id": 43534995,
+                        "id_str": "43534995",
+                        "indices": [
+                              0,
+                              13
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "es",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:50:51 +0000 2020",
+      "id": 1273417859927023617,
+      "id_str": "1273417859927023617",
+      "text": "N\u00e3o posso comer nada perto de Danilo, o grt quer tudoooo",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 826956532449427458,
+            "id_str": "826956532449427458",
+            "name": "Vanessa Barbosa\ud83d\udc96",
+            "screen_name": "VanessaBarbosaj",
+            "location": null,
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1062,
+            "friends_count": 453,
+            "listed_count": 0,
+            "favourites_count": 2418,
+            "statuses_count": 16363,
+            "created_at": "Thu Feb 02 00:52:56 +0000 2017",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1261863319863996416/HthuqkF1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1261863319863996416/HthuqkF1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/826956532449427458/1590961112",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "pt",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:50:47 +0000 2020",
+      "id": 1273417845397954562,
+      "id_str": "1273417845397954562",
+      "text": "@carlosmciriaco @PLDenlinea @luisabinader @juntacentral Los chinos tienen todos los n\u00fameros de tel\u00e9fonos de todos l\u2026 https://t.co/giKGdLFx1E",
+      "display_text_range": [
+            56,
+            140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": 1273380987729326080,
+      "in_reply_to_status_id_str": "1273380987729326080",
+      "in_reply_to_user_id": 2185988117,
+      "in_reply_to_user_id_str": "2185988117",
+      "in_reply_to_screen_name": "carlosmciriaco",
+      "user": {
+            "id": 1483429002,
+            "id_str": "1483429002",
+            "name": "Guillermo Torres",
+            "screen_name": "mito2645",
+            "location": null,
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 86,
+            "friends_count": 433,
+            "listed_count": 1,
+            "favourites_count": 2462,
+            "statuses_count": 7780,
+            "created_at": "Tue Jun 04 22:34:59 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/755956340887998464/thuCsl4e_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/755956340887998464/thuCsl4e_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+            "full_text": "@carlosmciriaco @PLDenlinea @luisabinader @juntacentral Los chinos tienen todos los n\u00fameros de tel\u00e9fonos de todos los dominicanos, vendido por Danilo.",
+            "display_text_range": [
+                  56,
+                  150
+            ],
+            "entities": {
+                  "hashtags": [],
+                  "urls": [],
+                  "user_mentions": [
+                        {
+                              "screen_name": "carlosmciriaco",
+                              "name": "Carlos Ciriaco",
+                              "id": 2185988117,
+                              "id_str": "2185988117",
+                              "indices": [
+                                    0,
+                                    15
+                              ]
+                        },
+                        {
+                              "screen_name": "PLDenlinea",
+                              "name": "PLD",
+                              "id": 176455570,
+                              "id_str": "176455570",
+                              "indices": [
+                                    16,
+                                    27
+                              ]
+                        },
+                        {
+                              "screen_name": "luisabinader",
+                              "name": "Luis Abinader",
+                              "id": 53387327,
+                              "id_str": "53387327",
+                              "indices": [
+                                    28,
+                                    41
+                              ]
+                        },
+                        {
+                              "screen_name": "juntacentral",
+                              "name": "JCE",
+                              "id": 109881686,
+                              "id_str": "109881686",
+                              "indices": [
+                                    42,
+                                    55
+                              ]
+                        }
+                  ],
+                  "symbols": []
+            }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [
+                  {
+                        "url": "https://t.co/giKGdLFx1E",
+                        "expanded_url": "https://twitter.com/i/web/status/1273417845397954562",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                              117,
+                              140
+                        ]
+                  }
+            ],
+            "user_mentions": [
+                  {
+                        "screen_name": "carlosmciriaco",
+                        "name": "Carlos Ciriaco",
+                        "id": 2185988117,
+                        "id_str": "2185988117",
+                        "indices": [
+                              0,
+                              15
+                        ]
+                  },
+                  {
+                        "screen_name": "PLDenlinea",
+                        "name": "PLD",
+                        "id": 176455570,
+                        "id_str": "176455570",
+                        "indices": [
+                              16,
+                              27
+                        ]
+                  },
+                  {
+                        "screen_name": "luisabinader",
+                        "name": "Luis Abinader",
+                        "id": 53387327,
+                        "id_str": "53387327",
+                        "indices": [
+                              28,
+                              41
+                        ]
+                  },
+                  {
+                        "screen_name": "juntacentral",
+                        "name": "JCE",
+                        "id": 109881686,
+                        "id_str": "109881686",
+                        "indices": [
+                              42,
+                              55
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "es",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:50:41 +0000 2020",
+      "id": 1273417817220669440,
+      "id_str": "1273417817220669440",
+      "text": "RT @Juvepodcast: \u201cDanilo, you\u2019re up next\u201d https://t.co/Ib8V32xbtZ",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 374251265,
+            "id_str": "374251265",
+            "name": "\u26aa\ufe0f\u26ab\ufe0f",
+            "screen_name": "MonicaLauriola",
+            "location": "Canada",
+            "url": null,
+            "description": "Forza Juventus // Toronto Sports // RN\ud83d\udc89 // ig:monicalauriola",
+            "translator_type": "regular",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1815,
+            "friends_count": 784,
+            "listed_count": 46,
+            "favourites_count": 48028,
+            "statuses_count": 143816,
+            "created_at": "Fri Sep 16 00:05:36 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "9266CC",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1193052972328136704/Gee7VCGH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1193052972328136704/Gee7VCGH_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/374251265/1560624971",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Thu Jun 18 00:27:19 +0000 2020",
+            "id": 1273411937825705984,
+            "id_str": "1273411937825705984",
+            "text": "\u201cDanilo, you\u2019re up next\u201d https://t.co/Ib8V32xbtZ",
+            "display_text_range": [
+                  0,
+                  24
+            ],
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 312440899,
+                  "id_str": "312440899",
+                  "name": "Turin Giants",
+                  "screen_name": "Juvepodcast",
+                  "location": null,
+                  "url": "http://soundcloud.com/juvepodcast",
+                  "description": "\u2022 Juve Podcast \u2022 Turin Giants Podcast \u2022 Listen on- Spotify, iTunes, SoundCloud. Est 2\ufe0f\u20e30\ufe0f\u20e31\ufe0f\u20e33\ufe0f\u20e3",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 12115,
+                  "friends_count": 829,
+                  "listed_count": 117,
+                  "favourites_count": 27153,
+                  "statuses_count": 40902,
+                  "created_at": "Tue Jun 07 03:56:32 +0000 2011",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": false,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "C0DEED",
+                  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_tile": false,
+                  "profile_link_color": "1DA1F2",
+                  "profile_sidebar_border_color": "C0DEED",
+                  "profile_sidebar_fill_color": "DDEEF6",
+                  "profile_text_color": "333333",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1258434571907014657/BwEFeIJv_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1258434571907014657/BwEFeIJv_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/312440899/1568334015",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 2,
+            "favorite_count": 9,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [],
+                  "user_mentions": [],
+                  "symbols": [],
+                  "media": [
+                        {
+                              "id": 1273411931873980421,
+                              "id_str": "1273411931873980421",
+                              "indices": [
+                                    25,
+                                    48
+                              ],
+                              "description": "Smile Happy GIF",
+                              "media_url": "http://pbs.twimg.com/tweet_video_thumb/EawRZ7wXsAU1gua.jpg",
+                              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EawRZ7wXsAU1gua.jpg",
+                              "url": "https://t.co/Ib8V32xbtZ",
+                              "display_url": "pic.twitter.com/Ib8V32xbtZ",
+                              "expanded_url": "https://twitter.com/Juvepodcast/status/1273411937825705984/photo/1",
+                              "type": "photo",
+                              "sizes": {
+                                    "medium": {
+                                          "w": 220,
+                                          "h": 124,
+                                          "resize": "fit"
+                                    },
+                                    "small": {
+                                          "w": 220,
+                                          "h": 124,
+                                          "resize": "fit"
+                                    },
+                                    "large": {
+                                          "w": 220,
+                                          "h": 124,
+                                          "resize": "fit"
+                                    },
+                                    "thumb": {
+                                          "w": 124,
+                                          "h": 124,
+                                          "resize": "crop"
+                                    }
+                              }
+                        }
+                  ]
+            },
+            "extended_entities": {
+                  "media": [
+                        {
+                              "id": 1273411931873980421,
+                              "id_str": "1273411931873980421",
+                              "indices": [
+                                    25,
+                                    48
+                              ],
+                              "description": "Smile Happy GIF",
+                              "media_url": "http://pbs.twimg.com/tweet_video_thumb/EawRZ7wXsAU1gua.jpg",
+                              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EawRZ7wXsAU1gua.jpg",
+                              "url": "https://t.co/Ib8V32xbtZ",
+                              "display_url": "pic.twitter.com/Ib8V32xbtZ",
+                              "expanded_url": "https://twitter.com/Juvepodcast/status/1273411937825705984/photo/1",
+                              "type": "animated_gif",
+                              "video_info": {
+                                    "aspect_ratio": [
+                                          55,
+                                          31
+                                    ],
+                                    "variants": [
+                                          {
+                                                "bitrate": 0,
+                                                "content_type": "video/mp4",
+                                                "url": "https://video.twimg.com/tweet_video/EawRZ7wXsAU1gua.mp4"
+                                          }
+                                    ]
+                              },
+                              "sizes": {
+                                    "medium": {
+                                          "w": 220,
+                                          "h": 124,
+                                          "resize": "fit"
+                                    },
+                                    "small": {
+                                          "w": 220,
+                                          "h": 124,
+                                          "resize": "fit"
+                                    },
+                                    "large": {
+                                          "w": 220,
+                                          "h": 124,
+                                          "resize": "fit"
+                                    },
+                                    "thumb": {
+                                          "w": 124,
+                                          "h": 124,
+                                          "resize": "crop"
+                                    }
+                              }
+                        }
+                  ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "Juvepodcast",
+                        "name": "Turin Giants",
+                        "id": 312440899,
+                        "id_str": "312440899",
+                        "indices": [
+                              3,
+                              15
+                        ]
+                  }
+            ],
+            "symbols": [],
+            "media": [
+                  {
+                        "id": 1273411931873980421,
+                        "id_str": "1273411931873980421",
+                        "indices": [
+                              42,
+                              65
+                        ],
+                        "description": "Smile Happy GIF",
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/EawRZ7wXsAU1gua.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EawRZ7wXsAU1gua.jpg",
+                        "url": "https://t.co/Ib8V32xbtZ",
+                        "display_url": "pic.twitter.com/Ib8V32xbtZ",
+                        "expanded_url": "https://twitter.com/Juvepodcast/status/1273411937825705984/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                              "medium": {
+                                    "w": 220,
+                                    "h": 124,
+                                    "resize": "fit"
+                              },
+                              "small": {
+                                    "w": 220,
+                                    "h": 124,
+                                    "resize": "fit"
+                              },
+                              "large": {
+                                    "w": 220,
+                                    "h": 124,
+                                    "resize": "fit"
+                              },
+                              "thumb": {
+                                    "w": 124,
+                                    "h": 124,
+                                    "resize": "crop"
+                              }
+                        },
+                        "source_status_id": 1273411937825705984,
+                        "source_status_id_str": "1273411937825705984",
+                        "source_user_id": 312440899,
+                        "source_user_id_str": "312440899"
+                  }
+            ]
+      },
+      "extended_entities": {
+            "media": [
+                  {
+                        "id": 1273411931873980421,
+                        "id_str": "1273411931873980421",
+                        "indices": [
+                              42,
+                              65
+                        ],
+                        "description": "Smile Happy GIF",
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/EawRZ7wXsAU1gua.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EawRZ7wXsAU1gua.jpg",
+                        "url": "https://t.co/Ib8V32xbtZ",
+                        "display_url": "pic.twitter.com/Ib8V32xbtZ",
+                        "expanded_url": "https://twitter.com/Juvepodcast/status/1273411937825705984/photo/1",
+                        "type": "animated_gif",
+                        "video_info": {
+                              "aspect_ratio": [
+                                    55,
+                                    31
+                              ],
+                              "variants": [
+                                    {
+                                          "bitrate": 0,
+                                          "content_type": "video/mp4",
+                                          "url": "https://video.twimg.com/tweet_video/EawRZ7wXsAU1gua.mp4"
+                                    }
+                              ]
+                        },
+                        "sizes": {
+                              "medium": {
+                                    "w": 220,
+                                    "h": 124,
+                                    "resize": "fit"
+                              },
+                              "small": {
+                                    "w": 220,
+                                    "h": 124,
+                                    "resize": "fit"
+                              },
+                              "large": {
+                                    "w": 220,
+                                    "h": 124,
+                                    "resize": "fit"
+                              },
+                              "thumb": {
+                                    "w": 124,
+                                    "h": 124,
+                                    "resize": "crop"
+                              }
+                        },
+                        "source_status_id": 1273411937825705984,
+                        "source_status_id_str": "1273411937825705984",
+                        "source_user_id": 312440899,
+                        "source_user_id_str": "312440899"
+                  }
+            ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:50:41 +0000 2020",
+      "id": 1273417816855785473,
+      "id_str": "1273417816855785473",
+      "text": "RT @gabssosa2: Hierba mala nunca muere parte cuatro \ud83d\ude1a e HILO de delitos e injusticias sin rendici\u00f3n de cuentas en Rep\u00fablica Dominicana dura\u2026",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 764669638009458688,
+            "id_str": "764669638009458688",
+            "name": "\u200dShiro triste porque no ver\u00e1 Haikyuu en julio",
+            "screen_name": "ShiroAtMoon",
+            "location": "Encerrada en m\u00ed habitaci\u00f3n",
+            "url": "https://curiouscat.me/SHIIROSAD",
+            "description": "Escritora y dibujante novata. Me gusta ver animes y compartir las capturas para nunca olvidarlos. Si me quejo de mi vida no me hagas caso.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 183,
+            "friends_count": 390,
+            "listed_count": 0,
+            "favourites_count": 18497,
+            "statuses_count": 12251,
+            "created_at": "Sun Aug 14 03:47:03 +0000 2016",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1267747256041648129/QqV3Tg78_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1267747256041648129/QqV3Tg78_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/764669638009458688/1591089476",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Tue Jun 16 22:44:48 +0000 2020",
+            "id": 1273023751735697413,
+            "id_str": "1273023751735697413",
+            "text": "Hierba mala nunca muere parte cuatro \ud83d\ude1a e HILO de delitos e injusticias sin rendici\u00f3n de cuentas en Rep\u00fablica Domini\u2026 https://t.co/U4dKWEzex9",
+            "display_text_range": [
+                  0,
+                  140
+            ],
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 1270483728964505601,
+                  "id_str": "1270483728964505601",
+                  "name": "gabrielasosa",
+                  "screen_name": "gabssosa2",
+                  "location": null,
+                  "url": null,
+                  "description": null,
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 26,
+                  "friends_count": 5,
+                  "listed_count": 0,
+                  "favourites_count": 141,
+                  "statuses_count": 108,
+                  "created_at": "Tue Jun 09 22:31:54 +0000 2020",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": false,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "F5F8FA",
+                  "profile_background_image_url": "",
+                  "profile_background_image_url_https": "",
+                  "profile_background_tile": false,
+                  "profile_link_color": "1DA1F2",
+                  "profile_sidebar_border_color": "C0DEED",
+                  "profile_sidebar_fill_color": "DDEEF6",
+                  "profile_text_color": "333333",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1270483848887967750/WYTgVwmY_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1270483848887967750/WYTgVwmY_normal.jpg",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                  "full_text": "Hierba mala nunca muere parte cuatro \ud83d\ude1a e HILO de delitos e injusticias sin rendici\u00f3n de cuentas en Rep\u00fablica Dominicana durante y por los gobiernos de Danilo Medina y su mentor Leonel Fern\u00e1ndez https://t.co/664Dff1vd9",
+                  "display_text_range": [
+                        0,
+                        193
+                  ],
+                  "entities": {
+                        "hashtags": [],
+                        "urls": [],
+                        "user_mentions": [],
+                        "symbols": [],
+                        "media": [
+                              {
+                                    "id": 1273023743493918722,
+                                    "id_str": "1273023743493918722",
+                                    "indices": [
+                                          194,
+                                          217
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EaqwWZWX0AIgBkz.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EaqwWZWX0AIgBkz.jpg",
+                                    "url": "https://t.co/664Dff1vd9",
+                                    "display_url": "pic.twitter.com/664Dff1vd9",
+                                    "expanded_url": "https://twitter.com/gabssosa2/status/1273023751735697413/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 571,
+                                                "h": 331,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 571,
+                                                "h": 331,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 571,
+                                                "h": 331,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1273023743493918722,
+                                    "id_str": "1273023743493918722",
+                                    "indices": [
+                                          194,
+                                          217
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EaqwWZWX0AIgBkz.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EaqwWZWX0AIgBkz.jpg",
+                                    "url": "https://t.co/664Dff1vd9",
+                                    "display_url": "pic.twitter.com/664Dff1vd9",
+                                    "expanded_url": "https://twitter.com/gabssosa2/status/1273023751735697413/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 571,
+                                                "h": 331,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 571,
+                                                "h": 331,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 571,
+                                                "h": 331,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  }
+            },
+            "quote_count": 3,
+            "reply_count": 1,
+            "retweet_count": 26,
+            "favorite_count": 40,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [
+                        {
+                              "url": "https://t.co/U4dKWEzex9",
+                              "expanded_url": "https://twitter.com/i/web/status/1273023751735697413",
+                              "display_url": "twitter.com/i/web/status/1\u2026",
+                              "indices": [
+                                    117,
+                                    140
+                              ]
+                        }
+                  ],
+                  "user_mentions": [],
+                  "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "es"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "gabssosa2",
+                        "name": "gabrielasosa",
+                        "id": 1270483728964505601,
+                        "id_str": "1270483728964505601",
+                        "indices": [
+                              3,
+                              13
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "es",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:50:31 +0000 2020",
+      "id": 1273417778066841602,
+      "id_str": "1273417778066841602",
+      "text": "@PeriodicoHoy Todo el mundo sabe que es un t\u00edtere de Danilo, el habla que har\u00e1 esto y esto #PencoBaboso nosotros no queremos miserias",
+      "display_text_range": [
+            14,
+            133
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 1273413257144012808,
+      "in_reply_to_status_id_str": "1273413257144012808",
+      "in_reply_to_user_id": 43534995,
+      "in_reply_to_user_id_str": "43534995",
+      "in_reply_to_screen_name": "PeriodicoHoy",
+      "user": {
+            "id": 1269663520611864576,
+            "id_str": "1269663520611864576",
+            "name": "perez",
+            "screen_name": "perezwirdiana",
+            "location": null,
+            "url": null,
+            "description": "Cuidemos nuestra imagen",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 0,
+            "friends_count": 0,
+            "listed_count": 0,
+            "favourites_count": 3,
+            "statuses_count": 114,
+            "created_at": "Sun Jun 07 16:12:37 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [
+                  {
+                        "text": "PencoBaboso",
+                        "indices": [
+                              91,
+                              103
+                        ]
+                  }
+            ],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "PeriodicoHoy",
+                        "name": "Peri\u00f3dico Hoy",
+                        "id": 43534995,
+                        "id_str": "43534995",
+                        "indices": [
+                              0,
+                              13
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "es",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:50:30 +0000 2020",
+      "id": 1273417774124224512,
+      "id_str": "1273417774124224512",
+      "text": "RT @ltorrestoranzo: Harry Potter y el misterio de c\u00f3mo Danilo jug\u00f3 en Santos, Porto, Real Madrid, City y Juventus.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 1723003056,
+            "id_str": "1723003056",
+            "name": "Marcelino Mieres",
+            "screen_name": "MarcelinoMieres",
+            "location": "Corrientes, Argentina",
+            "url": "https://www.facebook.com/marcelino.mieres.3",
+            "description": "27. Correntino/Bostero vago y atorrante desde 1993.Yo vi al Boca de Rom\u00e1n y te vi en la B. \u00a1Soldado de la Bombonera!",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1234,
+            "friends_count": 1178,
+            "listed_count": 0,
+            "favourites_count": 127096,
+            "statuses_count": 22214,
+            "created_at": "Mon Sep 02 17:55:33 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1218120859317129216/aH_4QQJS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1218120859317129216/aH_4QQJS_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1723003056/1580267091",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Wed Jun 17 21:06:33 +0000 2020",
+            "id": 1273361413990473735,
+            "id_str": "1273361413990473735",
+            "text": "Harry Potter y el misterio de c\u00f3mo Danilo jug\u00f3 en Santos, Porto, Real Madrid, City y Juventus.",
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 68276615,
+                  "id_str": "68276615",
+                  "name": "Lucho Torres Toranzo",
+                  "screen_name": "ltorrestoranzo",
+                  "location": null,
+                  "url": "http://www.diarioxeneize.com",
+                  "description": "Periodista (CPD). Cre\u00e9 Diario Xeneize y @RadioXeneize. Riquelmista desde el 96.\n\nhttp://instagram.com/ltorrestoranzo",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 23277,
+                  "friends_count": 177,
+                  "listed_count": 100,
+                  "favourites_count": 5232,
+                  "statuses_count": 52667,
+                  "created_at": "Mon Aug 24 00:24:21 +0000 2009",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": true,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "C0DEED",
+                  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_tile": false,
+                  "profile_link_color": "1DA1F2",
+                  "profile_sidebar_border_color": "C0DEED",
+                  "profile_sidebar_fill_color": "DDEEF6",
+                  "profile_text_color": "333333",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1143264149213974528/kSpGV0uM_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143264149213974528/kSpGV0uM_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/68276615/1455669439",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 4,
+            "reply_count": 11,
+            "retweet_count": 43,
+            "favorite_count": 363,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [],
+                  "user_mentions": [],
+                  "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "es"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "ltorrestoranzo",
+                        "name": "Lucho Torres Toranzo",
+                        "id": 68276615,
+                        "id_str": "68276615",
+                        "indices": [
+                              3,
+                              18
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "es",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:50:10 +0000 2020",
+      "id": 1273417686362533889,
+      "id_str": "1273417686362533889",
+      "text": "@PeriodicoHoy Y que m\u00e1s te dijo Danilo? Queremos trabajo,no miserias de nadie. #pencobaboso",
+      "display_text_range": [
+            14,
+            91
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 1273413257144012808,
+      "in_reply_to_status_id_str": "1273413257144012808",
+      "in_reply_to_user_id": 43534995,
+      "in_reply_to_user_id_str": "43534995",
+      "in_reply_to_screen_name": "PeriodicoHoy",
+      "user": {
+            "id": 1072861475348275200,
+            "id_str": "1072861475348275200",
+            "name": "BAlmonte5",
+            "screen_name": "BiancaAlmonte5",
+            "location": null,
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 17,
+            "friends_count": 13,
+            "listed_count": 0,
+            "favourites_count": 5,
+            "statuses_count": 32,
+            "created_at": "Wed Dec 12 14:31:23 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1272623301374947329/ekcdW4lN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272623301374947329/ekcdW4lN_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [
+                  {
+                        "text": "pencobaboso",
+                        "indices": [
+                              79,
+                              91
+                        ]
+                  }
+            ],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "PeriodicoHoy",
+                        "name": "Peri\u00f3dico Hoy",
+                        "id": 43534995,
+                        "id_str": "43534995",
+                        "indices": [
+                              0,
+                              13
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "es",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:50:08 +0000 2020",
+      "id": 1273417678552805378,
+      "id_str": "1273417678552805378",
+      "text": "@PeriodicoHoy El solo hace lo que dice Danilo #PencoBaboso",
+      "display_text_range": [
+            14,
+            58
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 1273413257144012808,
+      "in_reply_to_status_id_str": "1273413257144012808",
+      "in_reply_to_user_id": 43534995,
+      "in_reply_to_user_id_str": "43534995",
+      "in_reply_to_screen_name": "PeriodicoHoy",
+      "user": {
+            "id": 1249447164540907520,
+            "id_str": "1249447164540907520",
+            "name": "Angeline Isabel",
+            "screen_name": "angelineisa17",
+            "location": null,
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 95,
+            "friends_count": 55,
+            "listed_count": 0,
+            "favourites_count": 5,
+            "statuses_count": 661,
+            "created_at": "Sun Apr 12 21:19:57 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1267268850044805120/N2FsvzWv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1267268850044805120/N2FsvzWv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249447164540907520/1588264258",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+            "hashtags": [
+                  {
+                        "text": "PencoBaboso",
+                        "indices": [
+                              46,
+                              58
+                        ]
+                  }
+            ],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "PeriodicoHoy",
+                        "name": "Peri\u00f3dico Hoy",
+                        "id": 43534995,
+                        "id_str": "43534995",
+                        "indices": [
+                              0,
+                              13
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "es",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:50:02 +0000 2020",
+      "id": 1273417652694745088,
+      "id_str": "1273417652694745088",
+      "text": "RT @AlexCaleroec: \u00bf #QuienRepartioLosHospitales en el #Ecuador ? #Dalo #Bucaram #DanielSalcedo #MariaPaulaRomo #LeninMoreno #Correa #jocely\u2026",
+      "source": "<a href=\"http://ecuabot.org\" rel=\"nofollow\">EcuaBot 2.0</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 113789487,
+            "id_str": "113789487",
+            "name": "EcuaBot",
+            "screen_name": "ecuabot",
+            "location": "Ecuador",
+            "url": null,
+            "description": "BOT que informa los sucesos de #ecuador. \ud83c\uddea\ud83c\udde8 Un proyecto de @danny_ec version: 2.0 - 2016\n\nActive since: 2010 (version 1.0)",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 6176,
+            "friends_count": 6794,
+            "listed_count": 1192,
+            "favourites_count": 3,
+            "statuses_count": 333374,
+            "created_at": "Sat Feb 13 02:01:36 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/692487627/eccuador_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/692487627/eccuador_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/113789487/1462763789",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Thu Jun 18 00:49:47 +0000 2020",
+            "id": 1273417590799503361,
+            "id_str": "1273417590799503361",
+            "text": "\u00bf #QuienRepartioLosHospitales en el #Ecuador ? #Dalo #Bucaram #DanielSalcedo #MariaPaulaRomo #LeninMoreno #Correa\u2026 https://t.co/XoYVLalx2c",
+            "display_text_range": [
+                  0,
+                  140
+            ],
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 1239640938424799234,
+                  "id_str": "1239640938424799234",
+                  "name": "Alex Calero",
+                  "screen_name": "AlexCaleroec",
+                  "location": "Ecuador",
+                  "url": "https://www.instagram.com/alex_caleroec/?hl=es-la",
+                  "description": "Estudiante de: CIENCIAS DE LA COMUNICACI\u00d3N en @UleamEcuador ( #Periodista de Coraz\u00f3n , sin intereses ni alianzas )\nLocutor en  @UleamRadio",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 1114,
+                  "friends_count": 655,
+                  "listed_count": 2,
+                  "favourites_count": 992,
+                  "statuses_count": 924,
+                  "created_at": "Mon Mar 16 19:53:37 +0000 2020",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": true,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "F5F8FA",
+                  "profile_background_image_url": "",
+                  "profile_background_image_url_https": "",
+                  "profile_background_tile": false,
+                  "profile_link_color": "1DA1F2",
+                  "profile_sidebar_border_color": "C0DEED",
+                  "profile_sidebar_fill_color": "DDEEF6",
+                  "profile_text_color": "333333",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1270352360230043650/iWidl5bD_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1270352360230043650/iWidl5bD_normal.jpg",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": {
+                  "id": "01ee3b752f31d5cd",
+                  "url": "https://api.twitter.com/1.1/geo/id/01ee3b752f31d5cd.json",
+                  "place_type": "city",
+                  "name": "Manta",
+                  "full_name": "Manta, Ecuador",
+                  "country_code": "EC",
+                  "country": "Ecuador",
+                  "bounding_box": {
+                        "type": "Polygon",
+                        "coordinates": [
+                              [
+                                    [
+                                          -81.083528,
+                                          -1.291199
+                                    ],
+                                    [
+                                          -81.083528,
+                                          -0.927757
+                                    ],
+                                    [
+                                          -80.657451,
+                                          -0.927757
+                                    ],
+                                    [
+                                          -80.657451,
+                                          -1.291199
+                                    ]
+                              ]
+                        ]
+                  },
+                  "attributes": {}
+            },
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                  "full_text": "\u00bf #QuienRepartioLosHospitales en el #Ecuador ? #Dalo #Bucaram #DanielSalcedo #MariaPaulaRomo #LeninMoreno #Correa #jocelynmieles #Danilo  #Payasos https://t.co/Hr26tkKNwc",
+                  "display_text_range": [
+                        0,
+                        146
+                  ],
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "QuienRepartioLosHospitales",
+                                    "indices": [
+                                          2,
+                                          29
+                                    ]
+                              },
+                              {
+                                    "text": "Ecuador",
+                                    "indices": [
+                                          36,
+                                          44
+                                    ]
+                              },
+                              {
+                                    "text": "Dalo",
+                                    "indices": [
+                                          47,
+                                          52
+                                    ]
+                              },
+                              {
+                                    "text": "Bucaram",
+                                    "indices": [
+                                          53,
+                                          61
+                                    ]
+                              },
+                              {
+                                    "text": "DanielSalcedo",
+                                    "indices": [
+                                          62,
+                                          76
+                                    ]
+                              },
+                              {
+                                    "text": "MariaPaulaRomo",
+                                    "indices": [
+                                          77,
+                                          92
+                                    ]
+                              },
+                              {
+                                    "text": "LeninMoreno",
+                                    "indices": [
+                                          93,
+                                          105
+                                    ]
+                              },
+                              {
+                                    "text": "Correa",
+                                    "indices": [
+                                          106,
+                                          113
+                                    ]
+                              },
+                              {
+                                    "text": "jocelynmieles",
+                                    "indices": [
+                                          114,
+                                          128
+                                    ]
+                              },
+                              {
+                                    "text": "Danilo",
+                                    "indices": [
+                                          129,
+                                          136
+                                    ]
+                              },
+                              {
+                                    "text": "Payasos",
+                                    "indices": [
+                                          138,
+                                          146
+                                    ]
+                              }
+                        ],
+                        "urls": [],
+                        "user_mentions": [],
+                        "symbols": [],
+                        "media": [
+                              {
+                                    "id": 1273417584440942598,
+                                    "id_str": "1273417584440942598",
+                                    "indices": [
+                                          147,
+                                          170
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EawWi9NWoAYgswx.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EawWi9NWoAYgswx.jpg",
+                                    "url": "https://t.co/Hr26tkKNwc",
+                                    "display_url": "pic.twitter.com/Hr26tkKNwc",
+                                    "expanded_url": "https://twitter.com/AlexCaleroec/status/1273417590799503361/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "small": {
+                                                "w": 679,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 744,
+                                                "h": 745,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 744,
+                                                "h": 745,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1273417584440942598,
+                                    "id_str": "1273417584440942598",
+                                    "indices": [
+                                          147,
+                                          170
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EawWi9NWoAYgswx.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EawWi9NWoAYgswx.jpg",
+                                    "url": "https://t.co/Hr26tkKNwc",
+                                    "display_url": "pic.twitter.com/Hr26tkKNwc",
+                                    "expanded_url": "https://twitter.com/AlexCaleroec/status/1273417590799503361/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "small": {
+                                                "w": 679,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 744,
+                                                "h": 745,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 744,
+                                                "h": 745,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  }
+            },
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                  "hashtags": [
+                        {
+                              "text": "QuienRepartioLosHospitales",
+                              "indices": [
+                                    2,
+                                    29
+                              ]
+                        },
+                        {
+                              "text": "Ecuador",
+                              "indices": [
+                                    36,
+                                    44
+                              ]
+                        },
+                        {
+                              "text": "Dalo",
+                              "indices": [
+                                    47,
+                                    52
+                              ]
+                        },
+                        {
+                              "text": "Bucaram",
+                              "indices": [
+                                    53,
+                                    61
+                              ]
+                        },
+                        {
+                              "text": "DanielSalcedo",
+                              "indices": [
+                                    62,
+                                    76
+                              ]
+                        },
+                        {
+                              "text": "MariaPaulaRomo",
+                              "indices": [
+                                    77,
+                                    92
+                              ]
+                        },
+                        {
+                              "text": "LeninMoreno",
+                              "indices": [
+                                    93,
+                                    105
+                              ]
+                        },
+                        {
+                              "text": "Correa",
+                              "indices": [
+                                    106,
+                                    113
+                              ]
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "url": "https://t.co/XoYVLalx2c",
+                              "expanded_url": "https://twitter.com/i/web/status/1273417590799503361",
+                              "display_url": "twitter.com/i/web/status/1\u2026",
+                              "indices": [
+                                    115,
+                                    138
+                              ]
+                        }
+                  ],
+                  "user_mentions": [],
+                  "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "es"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [
+                  {
+                        "text": "QuienRepartioLosHospitales",
+                        "indices": [
+                              20,
+                              47
+                        ]
+                  },
+                  {
+                        "text": "Ecuador",
+                        "indices": [
+                              54,
+                              62
+                        ]
+                  },
+                  {
+                        "text": "Dalo",
+                        "indices": [
+                              65,
+                              70
+                        ]
+                  },
+                  {
+                        "text": "Bucaram",
+                        "indices": [
+                              71,
+                              79
+                        ]
+                  },
+                  {
+                        "text": "DanielSalcedo",
+                        "indices": [
+                              80,
+                              94
+                        ]
+                  },
+                  {
+                        "text": "MariaPaulaRomo",
+                        "indices": [
+                              95,
+                              110
+                        ]
+                  },
+                  {
+                        "text": "LeninMoreno",
+                        "indices": [
+                              111,
+                              123
+                        ]
+                  },
+                  {
+                        "text": "Correa",
+                        "indices": [
+                              124,
+                              131
+                        ]
+                  }
+            ],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "AlexCaleroec",
+                        "name": "Alex Calero",
+                        "id": 1239640938424799234,
+                        "id_str": "1239640938424799234",
+                        "indices": [
+                              3,
+                              16
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "es",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}

@@ -1,0 +1,1858 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Wed Jun 17 18:19:27 +0000 2020",
+                  "id": 1273319361567174660,
+                  "id_str": "1273319361567174660",
+                  "text": "Join us today for #StarTrekUnited\u00a0as we help raise money for charities supporting the Black Lives Matter movement.\u2026 https://t.co/KXKfGoUmQA",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "StarTrekUnited",
+                                    "indices": [
+                                          18,
+                                          33
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/KXKfGoUmQA",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273319361567174660",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          116,
+                                          139
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 130491582,
+                        "id_str": "130491582",
+                        "name": "Star Trek",
+                        "screen_name": "StarTrek",
+                        "location": "",
+                        "description": "Welcome to the OFFICIAL Star Trek Twitter Page!",
+                        "url": "https://t.co/bT4AwzfVAN",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/bT4AwzfVAN",
+                                                "expanded_url": "http://www.StarTrek.com",
+                                                "display_url": "StarTrek.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 457923,
+                        "friends_count": 688,
+                        "listed_count": 4022,
+                        "created_at": "Wed Apr 07 12:53:57 +0000 2010",
+                        "favourites_count": 15955,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 34631,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "131516",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1150853205527601152/VFWwpSHo_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150853205527601152/VFWwpSHo_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/130491582/1560781557",
+                        "profile_link_color": "009999",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "EFEFEF",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 2054,
+                  "favorite_count": 2690,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 17:12:11 +0000 2020",
+                  "id": 1273302432299184128,
+                  "id_str": "1273302432299184128",
+                  "text": "Please join us and tweet #StarTrekUnitedGives! \ud83d\udd96\ud83c\udffc\ud83d\udd96\ud83c\udffd\ud83d\udd96\ud83c\udffe\ud83d\udd96\ud83c\udfff https://t.co/pZ1rt0i4z4",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "StarTrekUnitedGives",
+                                    "indices": [
+                                          25,
+                                          45
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/pZ1rt0i4z4",
+                                    "expanded_url": "https://twitter.com/CBSAllAccess/status/1273079629062893568",
+                                    "display_url": "twitter.com/CBSAllAccess/s\u2026",
+                                    "indices": [
+                                          56,
+                                          79
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 144003355,
+                        "id_str": "144003355",
+                        "name": "Jeri Ryan",
+                        "screen_name": "JeriLRyan",
+                        "location": "Los Angeles",
+                        "description": "Actress, wife, mom, foodie, and gardener. Not necessarily in that order. Occasional binge-tweeter.",
+                        "url": "https://t.co/EluDqFDUP1",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/EluDqFDUP1",
+                                                "expanded_url": "https://www.facebook.com/pages/Jeri-Ryan-Official/299784370224796",
+                                                "display_url": "facebook.com/pages/Jeri-Rya\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 369284,
+                        "friends_count": 837,
+                        "listed_count": 5910,
+                        "created_at": "Sat May 15 01:29:48 +0000 2010",
+                        "favourites_count": 21219,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 56866,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "352726",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1227313957943169024/Ma-bTIV3_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227313957943169024/Ma-bTIV3_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/144003355/1355162869",
+                        "profile_link_color": "D02B55",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "99CC33",
+                        "profile_text_color": "3E4415",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1273079629062893568,
+                  "quoted_status_id_str": "1273079629062893568",
+                  "quoted_status": {
+                        "created_at": "Wed Jun 17 02:26:50 +0000 2020",
+                        "id": 1273079629062893568,
+                        "id_str": "1273079629062893568",
+                        "text": "Starfleet is a promise. Nobody gets left behind.\nFor every person who tweets #StarTrekUnitedGives today, $1 will be\u2026 https://t.co/ESHVmkh9Cw",
+                        "truncated": true,
+                        "entities": {
+                              "hashtags": [
+                                    {
+                                          "text": "StarTrekUnitedGives",
+                                          "indices": [
+                                                77,
+                                                97
+                                          ]
+                                    }
+                              ],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/ESHVmkh9Cw",
+                                          "expanded_url": "https://twitter.com/i/web/status/1273079629062893568",
+                                          "display_url": "twitter.com/i/web/status/1\u2026",
+                                          "indices": [
+                                                117,
+                                                140
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 922928836836130816,
+                              "id_str": "922928836836130816",
+                              "name": "CBS All Access",
+                              "screen_name": "CBSAllAccess",
+                              "location": "",
+                              "description": "There is only one place to stream CBS hit shows, exclusive originals, live TV & more! What will you stream next? CBS All Access has you covered!",
+                              "url": "https://t.co/wrfOobxe9Q",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/wrfOobxe9Q",
+                                                      "expanded_url": "https://www.cbs.com/all-access",
+                                                      "display_url": "cbs.com/all-access",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 54594,
+                              "friends_count": 188,
+                              "listed_count": 159,
+                              "created_at": "Tue Oct 24 20:52:36 +0000 2017",
+                              "favourites_count": 3088,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": false,
+                              "verified": true,
+                              "statuses_count": 4257,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "F5F8FA",
+                              "profile_background_image_url": null,
+                              "profile_background_image_url_https": null,
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1271897247760789505/TJbC1Ex0_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271897247760789505/TJbC1Ex0_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/922928836836130816/1587998613",
+                              "profile_link_color": "1DA1F2",
+                              "profile_sidebar_border_color": "C0DEED",
+                              "profile_sidebar_fill_color": "DDEEF6",
+                              "profile_text_color": "333333",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": false,
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 4595,
+                        "favorite_count": 7325,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "scopes": {
+                              "followers": false
+                        },
+                        "lang": "en"
+                  },
+                  "retweet_count": 441,
+                  "favorite_count": 1235,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 23:08:18 +0000 2020",
+                  "id": 1273392053351743488,
+                  "id_str": "1273392053351743488",
+                  "text": "I used the wrong #...#StarTrekUnitedGives triggers the giving \ud83d\udd96\ud83c\udffe\ud83d\ude37\ud83c\udfac https://t.co/hxhMIl8Ton",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "StarTrekUnitedGives",
+                                    "indices": [
+                                          21,
+                                          41
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/hxhMIl8Ton",
+                                    "expanded_url": "https://twitter.com/jonathansfrakes/status/1273273848343994369",
+                                    "display_url": "twitter.com/jonathansfrake\u2026",
+                                    "indices": [
+                                          67,
+                                          90
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 325832193,
+                        "id_str": "325832193",
+                        "name": "Jonathan Frakes",
+                        "screen_name": "jonathansfrakes",
+                        "location": "",
+                        "description": "father, husband, director, producer, recovering actor",
+                        "url": null,
+                        "entities": {
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 485430,
+                        "friends_count": 626,
+                        "listed_count": 5148,
+                        "created_at": "Tue Jun 28 23:12:18 +0000 2011",
+                        "favourites_count": 12709,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 1727,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1147829969558618112/kw17a9g9_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147829969558618112/kw17a9g9_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/325832193/1446057907",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1273273848343994369,
+                  "quoted_status_id_str": "1273273848343994369",
+                  "quoted_status": {
+                        "created_at": "Wed Jun 17 15:18:36 +0000 2020",
+                        "id": 1273273848343994369,
+                        "id_str": "1273273848343994369",
+                        "text": "EVERY human who tweets #StarTrekUnited will be giving $1 to the important #BlackLivesMattters movement. ENGAGE\ud83d\udd96 https://t.co/TOHizpyQ1q",
+                        "truncated": false,
+                        "entities": {
+                              "hashtags": [
+                                    {
+                                          "text": "StarTrekUnited",
+                                          "indices": [
+                                                23,
+                                                38
+                                          ]
+                                    },
+                                    {
+                                          "text": "BlackLivesMattters",
+                                          "indices": [
+                                                74,
+                                                93
+                                          ]
+                                    }
+                              ],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/TOHizpyQ1q",
+                                          "expanded_url": "https://twitter.com/startrekcbs/status/1273269171065884672",
+                                          "display_url": "twitter.com/startrekcbs/st\u2026",
+                                          "indices": [
+                                                112,
+                                                135
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 325832193,
+                              "id_str": "325832193",
+                              "name": "Jonathan Frakes",
+                              "screen_name": "jonathansfrakes",
+                              "location": "",
+                              "description": "father, husband, director, producer, recovering actor",
+                              "url": null,
+                              "entities": {
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 485430,
+                              "friends_count": 626,
+                              "listed_count": 5148,
+                              "created_at": "Tue Jun 28 23:12:18 +0000 2011",
+                              "favourites_count": 12709,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": false,
+                              "verified": true,
+                              "statuses_count": 1727,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "C0DEED",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1147829969558618112/kw17a9g9_normal.png",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147829969558618112/kw17a9g9_normal.png",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/325832193/1446057907",
+                              "profile_link_color": "1DA1F2",
+                              "profile_sidebar_border_color": "C0DEED",
+                              "profile_sidebar_fill_color": "DDEEF6",
+                              "profile_text_color": "333333",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": false,
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": true,
+                        "quoted_status_id": 1273269171065884672,
+                        "quoted_status_id_str": "1273269171065884672",
+                        "retweet_count": 2560,
+                        "favorite_count": 5012,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 337,
+                  "favorite_count": 855,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Tue Jun 16 23:50:06 +0000 2020",
+                  "id": 1273040182938415104,
+                  "id_str": "1273040182938415104",
+                  "text": "Join us tomorrow for #StarTrekUnited to help raise money for orgs that support the Black Lives Matter movement whil\u2026 https://t.co/an3oJ1buXE",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "StarTrekUnited",
+                                    "indices": [
+                                          21,
+                                          36
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/an3oJ1buXE",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273040182938415104",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 752743856941125632,
+                        "id_str": "752743856941125632",
+                        "name": "Star Trek on CBS All Access",
+                        "screen_name": "startrekcbs",
+                        "location": "",
+                        "description": "Join us 6/17 for a free marathon of Star Trek episodes and a donation drive for orgs that support the Black Lives Matter movement. #StarTrekUnited",
+                        "url": "https://t.co/8NglI3wiLM",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/8NglI3wiLM",
+                                                "expanded_url": "http://bit.ly/StarTrekUnitedInfo",
+                                                "display_url": "bit.ly/StarTrekUnited\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 165023,
+                        "friends_count": 133,
+                        "listed_count": 1170,
+                        "created_at": "Tue Jul 12 05:58:15 +0000 2016",
+                        "favourites_count": 8433,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 24557,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1272568111955275777/fsmg83IN_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272568111955275777/fsmg83IN_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/752743856941125632/1586283478",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 321,
+                  "favorite_count": 651,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 07:04:35 +0000 2020",
+                  "id": 1273149524870037505,
+                  "id_str": "1273149524870037505",
+                  "text": "Fans in the US can tweet #StarTrekUnitedGives\u00a0 and @CBSALLACCESS will make a $1 donation on your behalf. \n\nNot in t\u2026 https://t.co/HgeGxDdrcZ",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "StarTrekUnitedGives",
+                                    "indices": [
+                                          25,
+                                          45
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "CBSAllAccess",
+                                    "name": "CBS All Access",
+                                    "id": 922928836836130816,
+                                    "id_str": "922928836836130816",
+                                    "indices": [
+                                          51,
+                                          64
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/HgeGxDdrcZ",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273149524870037505",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": 1273149018688892928,
+                  "in_reply_to_status_id_str": "1273149018688892928",
+                  "in_reply_to_user_id": 130491582,
+                  "in_reply_to_user_id_str": "130491582",
+                  "in_reply_to_screen_name": "StarTrek",
+                  "user": {
+                        "id": 130491582,
+                        "id_str": "130491582",
+                        "name": "Star Trek",
+                        "screen_name": "StarTrek",
+                        "location": "",
+                        "description": "Welcome to the OFFICIAL Star Trek Twitter Page!",
+                        "url": "https://t.co/bT4AwzfVAN",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/bT4AwzfVAN",
+                                                "expanded_url": "http://www.StarTrek.com",
+                                                "display_url": "StarTrek.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 457923,
+                        "friends_count": 688,
+                        "listed_count": 4022,
+                        "created_at": "Wed Apr 07 12:53:57 +0000 2010",
+                        "favourites_count": 15955,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 34631,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "131516",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1150853205527601152/VFWwpSHo_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150853205527601152/VFWwpSHo_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/130491582/1560781557",
+                        "profile_link_color": "009999",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "EFEFEF",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 459,
+                  "favorite_count": 641,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 07:09:14 +0000 2020",
+                  "id": 1273150695621955586,
+                  "id_str": "1273150695621955586",
+                  "text": "\ud83d\udd96 #StarTrekUnitedGives https://t.co/9GJAEuU9GG",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "StarTrekUnitedGives",
+                                    "indices": [
+                                          2,
+                                          22
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/9GJAEuU9GG",
+                                    "expanded_url": "https://twitter.com/CBSAllAccess/status/1273079629062893568",
+                                    "display_url": "twitter.com/CBSAllAccess/s\u2026",
+                                    "indices": [
+                                          23,
+                                          46
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "iso_language_code": "und",
+                        "result_type": "popular"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 752743856941125632,
+                        "id_str": "752743856941125632",
+                        "name": "Star Trek on CBS All Access",
+                        "screen_name": "startrekcbs",
+                        "location": "",
+                        "description": "Join us 6/17 for a free marathon of Star Trek episodes and a donation drive for orgs that support the Black Lives Matter movement. #StarTrekUnited",
+                        "url": "https://t.co/8NglI3wiLM",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/8NglI3wiLM",
+                                                "expanded_url": "http://bit.ly/StarTrekUnitedInfo",
+                                                "display_url": "bit.ly/StarTrekUnited\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 165023,
+                        "friends_count": 133,
+                        "listed_count": 1170,
+                        "created_at": "Tue Jul 12 05:58:15 +0000 2016",
+                        "favourites_count": 8433,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 24557,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1272568111955275777/fsmg83IN_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272568111955275777/fsmg83IN_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/752743856941125632/1586283478",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1273079629062893568,
+                  "quoted_status_id_str": "1273079629062893568",
+                  "quoted_status": {
+                        "created_at": "Wed Jun 17 02:26:50 +0000 2020",
+                        "id": 1273079629062893568,
+                        "id_str": "1273079629062893568",
+                        "text": "Starfleet is a promise. Nobody gets left behind.\nFor every person who tweets #StarTrekUnitedGives today, $1 will be\u2026 https://t.co/ESHVmkh9Cw",
+                        "truncated": true,
+                        "entities": {
+                              "hashtags": [
+                                    {
+                                          "text": "StarTrekUnitedGives",
+                                          "indices": [
+                                                77,
+                                                97
+                                          ]
+                                    }
+                              ],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/ESHVmkh9Cw",
+                                          "expanded_url": "https://twitter.com/i/web/status/1273079629062893568",
+                                          "display_url": "twitter.com/i/web/status/1\u2026",
+                                          "indices": [
+                                                117,
+                                                140
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "iso_language_code": "und",
+                              "result_type": "popular"
+                        },
+                        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 922928836836130816,
+                              "id_str": "922928836836130816",
+                              "name": "CBS All Access",
+                              "screen_name": "CBSAllAccess",
+                              "location": "",
+                              "description": "There is only one place to stream CBS hit shows, exclusive originals, live TV & more! What will you stream next? CBS All Access has you covered!",
+                              "url": "https://t.co/wrfOobxe9Q",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/wrfOobxe9Q",
+                                                      "expanded_url": "https://www.cbs.com/all-access",
+                                                      "display_url": "cbs.com/all-access",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 54594,
+                              "friends_count": 188,
+                              "listed_count": 159,
+                              "created_at": "Tue Oct 24 20:52:36 +0000 2017",
+                              "favourites_count": 3088,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": false,
+                              "verified": true,
+                              "statuses_count": 4257,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "F5F8FA",
+                              "profile_background_image_url": null,
+                              "profile_background_image_url_https": null,
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1271897247760789505/TJbC1Ex0_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271897247760789505/TJbC1Ex0_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/922928836836130816/1587998613",
+                              "profile_link_color": "1DA1F2",
+                              "profile_sidebar_border_color": "C0DEED",
+                              "profile_sidebar_fill_color": "DDEEF6",
+                              "profile_text_color": "333333",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": false,
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 4595,
+                        "favorite_count": 7325,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "scopes": {
+                              "followers": false
+                        },
+                        "lang": "en"
+                  },
+                  "retweet_count": 458,
+                  "favorite_count": 1344,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "und"
+            },
+            {
+                  "created_at": "Wed Jun 17 16:33:19 +0000 2020",
+                  "id": 1273292651278696458,
+                  "id_str": "1273292651278696458",
+                  "text": "#StarTrekUnitedGives  come on  folks!! This is a perfect way to support equality for all and change!!",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "StarTrekUnitedGives",
+                                    "indices": [
+                                          0,
+                                          20
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": []
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 1137700339,
+                        "id_str": "1137700339",
+                        "name": "Gates McFadden",
+                        "screen_name": "gates_mcfadden",
+                        "location": "Los Angeles",
+                        "description": "Actress, Director who believes truth, ethics, equality matter as do the Arts. https://t.co/5tluPihoA4 #BlackLivesMatter #ActBlue #BIPOC",
+                        "url": "https://t.co/IYTVxBGQY5",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/IYTVxBGQY5",
+                                                "expanded_url": "http://gatesplays.com",
+                                                "display_url": "gatesplays.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/5tluPihoA4",
+                                                "expanded_url": "https://www.cameo.com/gatesmcfadden",
+                                                "display_url": "cameo.com/gatesmcfadden",
+                                                "indices": [
+                                                      78,
+                                                      101
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 255173,
+                        "friends_count": 580,
+                        "listed_count": 2380,
+                        "created_at": "Thu Jan 31 19:12:11 +0000 2013",
+                        "favourites_count": 3110,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 13146,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1160250835747639296/Pnt7sRZM_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1160250835747639296/Pnt7sRZM_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1137700339/1584730609",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 187,
+                  "favorite_count": 960,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 22:15:26 +0000 2020",
+                  "id": 1273378747966787586,
+                  "id_str": "1273378747966787586",
+                  "text": "So proud of the Star Trek family. Will you join us?\n#StarTrekUnitedGives https://t.co/008WHM4btF",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "StarTrekUnitedGives",
+                                    "indices": [
+                                          52,
+                                          72
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/008WHM4btF",
+                                    "expanded_url": "https://twitter.com/CBSAllAccess/status/1273079629062893568",
+                                    "display_url": "twitter.com/CBSAllAccess/s\u2026",
+                                    "indices": [
+                                          73,
+                                          96
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 237845487,
+                        "id_str": "237845487",
+                        "name": "George Takei",
+                        "screen_name": "GeorgeTakei",
+                        "location": "Broadway - New York, NY",
+                        "description": "Sulu from Star Trek. King of the Internet (according to Taco Bell). NYT Bestselling Author. Resistance Fighter. Husband. Text me at (310) 299-9390 \u2014 really!",
+                        "url": "https://t.co/FESrB1JExy",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/FESrB1JExy",
+                                                "expanded_url": "https://linktr.ee/georgetakei",
+                                                "display_url": "linktr.ee/georgetakei",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 3015078,
+                        "friends_count": 806,
+                        "listed_count": 21411,
+                        "created_at": "Thu Jan 13 19:33:56 +0000 2011",
+                        "favourites_count": 8051,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 56998,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "022330",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1150127868673966080/nwy-SGez_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150127868673966080/nwy-SGez_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237845487/1590088474",
+                        "profile_link_color": "ABB8C2",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1273079629062893568,
+                  "quoted_status_id_str": "1273079629062893568",
+                  "quoted_status": {
+                        "created_at": "Wed Jun 17 02:26:50 +0000 2020",
+                        "id": 1273079629062893568,
+                        "id_str": "1273079629062893568",
+                        "text": "Starfleet is a promise. Nobody gets left behind.\nFor every person who tweets #StarTrekUnitedGives today, $1 will be\u2026 https://t.co/ESHVmkh9Cw",
+                        "truncated": true,
+                        "entities": {
+                              "hashtags": [
+                                    {
+                                          "text": "StarTrekUnitedGives",
+                                          "indices": [
+                                                77,
+                                                97
+                                          ]
+                                    }
+                              ],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/ESHVmkh9Cw",
+                                          "expanded_url": "https://twitter.com/i/web/status/1273079629062893568",
+                                          "display_url": "twitter.com/i/web/status/1\u2026",
+                                          "indices": [
+                                                117,
+                                                140
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 922928836836130816,
+                              "id_str": "922928836836130816",
+                              "name": "CBS All Access",
+                              "screen_name": "CBSAllAccess",
+                              "location": "",
+                              "description": "There is only one place to stream CBS hit shows, exclusive originals, live TV & more! What will you stream next? CBS All Access has you covered!",
+                              "url": "https://t.co/wrfOobxe9Q",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/wrfOobxe9Q",
+                                                      "expanded_url": "https://www.cbs.com/all-access",
+                                                      "display_url": "cbs.com/all-access",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 54594,
+                              "friends_count": 188,
+                              "listed_count": 159,
+                              "created_at": "Tue Oct 24 20:52:36 +0000 2017",
+                              "favourites_count": 3088,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": false,
+                              "verified": true,
+                              "statuses_count": 4257,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "F5F8FA",
+                              "profile_background_image_url": null,
+                              "profile_background_image_url_https": null,
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1271897247760789505/TJbC1Ex0_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271897247760789505/TJbC1Ex0_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/922928836836130816/1587998613",
+                              "profile_link_color": "1DA1F2",
+                              "profile_sidebar_border_color": "C0DEED",
+                              "profile_sidebar_fill_color": "DDEEF6",
+                              "profile_text_color": "333333",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": false,
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 4595,
+                        "favorite_count": 7325,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "scopes": {
+                              "followers": false
+                        },
+                        "lang": "en"
+                  },
+                  "retweet_count": 312,
+                  "favorite_count": 890,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 17:22:30 +0000 2020",
+                  "id": 1273305029391183872,
+                  "id_str": "1273305029391183872",
+                  "text": "Captain's Log Stardate 90: These wonderfully talented colleagues are asking all of us to use this hashtag in one tw\u2026 https://t.co/aBfZJw1pW3",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/aBfZJw1pW3",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273305029391183872",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 15227791,
+                        "id_str": "15227791",
+                        "name": "William Shatner",
+                        "screen_name": "WilliamShatner",
+                        "location": "Los Angeles, CA",
+                        "description": "Philanthropist, Actor, Producer, Father, Husband, & Canadian! My Calendar: https://t.co/ovaWXLuJVZ Not political-be warned! My charity: https://t.co/oprVs6g8SI",
+                        "url": "https://t.co/Y12UG4HbQG",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/Y12UG4HbQG",
+                                                "expanded_url": "http://www.WilliamShatner.com",
+                                                "display_url": "WilliamShatner.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/ovaWXLuJVZ",
+                                                "expanded_url": "http://bit.ly/BillsCalendar",
+                                                "display_url": "bit.ly/BillsCalendar",
+                                                "indices": [
+                                                      75,
+                                                      98
+                                                ]
+                                          },
+                                          {
+                                                "url": "https://t.co/oprVs6g8SI",
+                                                "expanded_url": "http://HorseShow.org",
+                                                "display_url": "HorseShow.org",
+                                                "indices": [
+                                                      136,
+                                                      159
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 2541397,
+                        "friends_count": 591,
+                        "listed_count": 25503,
+                        "created_at": "Wed Jun 25 05:04:52 +0000 2008",
+                        "favourites_count": 9143,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 96475,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": true,
+                        "profile_background_color": "1A1B1F",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1246060270725652482/MNI-2wn9_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246060270725652482/MNI-2wn9_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15227791/1585918894",
+                        "profile_link_color": "3B94D9",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "252429",
+                        "profile_text_color": "666666",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1273079629062893568,
+                  "quoted_status_id_str": "1273079629062893568",
+                  "quoted_status": {
+                        "created_at": "Wed Jun 17 02:26:50 +0000 2020",
+                        "id": 1273079629062893568,
+                        "id_str": "1273079629062893568",
+                        "text": "Starfleet is a promise. Nobody gets left behind.\nFor every person who tweets #StarTrekUnitedGives today, $1 will be\u2026 https://t.co/ESHVmkh9Cw",
+                        "truncated": true,
+                        "entities": {
+                              "hashtags": [
+                                    {
+                                          "text": "StarTrekUnitedGives",
+                                          "indices": [
+                                                77,
+                                                97
+                                          ]
+                                    }
+                              ],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/ESHVmkh9Cw",
+                                          "expanded_url": "https://twitter.com/i/web/status/1273079629062893568",
+                                          "display_url": "twitter.com/i/web/status/1\u2026",
+                                          "indices": [
+                                                117,
+                                                140
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 922928836836130816,
+                              "id_str": "922928836836130816",
+                              "name": "CBS All Access",
+                              "screen_name": "CBSAllAccess",
+                              "location": "",
+                              "description": "There is only one place to stream CBS hit shows, exclusive originals, live TV & more! What will you stream next? CBS All Access has you covered!",
+                              "url": "https://t.co/wrfOobxe9Q",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/wrfOobxe9Q",
+                                                      "expanded_url": "https://www.cbs.com/all-access",
+                                                      "display_url": "cbs.com/all-access",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 54594,
+                              "friends_count": 188,
+                              "listed_count": 159,
+                              "created_at": "Tue Oct 24 20:52:36 +0000 2017",
+                              "favourites_count": 3088,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": false,
+                              "verified": true,
+                              "statuses_count": 4257,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "F5F8FA",
+                              "profile_background_image_url": null,
+                              "profile_background_image_url_https": null,
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1271897247760789505/TJbC1Ex0_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271897247760789505/TJbC1Ex0_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/922928836836130816/1587998613",
+                              "profile_link_color": "1DA1F2",
+                              "profile_sidebar_border_color": "C0DEED",
+                              "profile_sidebar_fill_color": "DDEEF6",
+                              "profile_text_color": "333333",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": false,
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 4595,
+                        "favorite_count": 7325,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "scopes": {
+                              "followers": false
+                        },
+                        "lang": "en"
+                  },
+                  "retweet_count": 259,
+                  "favorite_count": 620,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 17:02:19 +0000 2020",
+                  "id": 1273299948386357249,
+                  "id_str": "1273299948386357249",
+                  "text": "It's a win-win-win! @cbsallaccess is streaming a bunch of carefully curated #StarTrek eps for free and donating $1\u2026 https://t.co/I5IZqGEf6H",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "StarTrek",
+                                    "indices": [
+                                          76,
+                                          85
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "CBSAllAccess",
+                                    "name": "CBS All Access",
+                                    "id": 922928836836130816,
+                                    "id_str": "922928836836130816",
+                                    "indices": [
+                                          20,
+                                          33
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/I5IZqGEf6H",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273299948386357249",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          116,
+                                          139
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 65770439,
+                        "id_str": "65770439",
+                        "name": "Jason Isaacs",
+                        "screen_name": "jasonsfolly",
+                        "location": "Lost",
+                        "description": "Professional faker. Amateur human. Failed deatheater. Tightly-clad space pilot. Commie. Angel Hunter. Don't even. https://t.co/mWgfcgo5Cz",
+                        "url": null,
+                        "entities": {
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/mWgfcgo5Cz",
+                                                "expanded_url": "http://www.instagram.com/therealjasonisaacs",
+                                                "display_url": "instagram.com/therealjasonis\u2026",
+                                                "indices": [
+                                                      114,
+                                                      137
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 229987,
+                        "friends_count": 114,
+                        "listed_count": 1233,
+                        "created_at": "Fri Aug 14 23:48:44 +0000 2009",
+                        "favourites_count": 62,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 3194,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/991363134416826368/Mo8p3jCP_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/991363134416826368/Mo8p3jCP_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/65770439/1474683478",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1273040182938415104,
+                  "quoted_status_id_str": "1273040182938415104",
+                  "quoted_status": {
+                        "created_at": "Tue Jun 16 23:50:06 +0000 2020",
+                        "id": 1273040182938415104,
+                        "id_str": "1273040182938415104",
+                        "text": "Join us tomorrow for #StarTrekUnited to help raise money for orgs that support the Black Lives Matter movement whil\u2026 https://t.co/an3oJ1buXE",
+                        "truncated": true,
+                        "entities": {
+                              "hashtags": [
+                                    {
+                                          "text": "StarTrekUnited",
+                                          "indices": [
+                                                21,
+                                                36
+                                          ]
+                                    }
+                              ],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/an3oJ1buXE",
+                                          "expanded_url": "https://twitter.com/i/web/status/1273040182938415104",
+                                          "display_url": "twitter.com/i/web/status/1\u2026",
+                                          "indices": [
+                                                117,
+                                                140
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 752743856941125632,
+                              "id_str": "752743856941125632",
+                              "name": "Star Trek on CBS All Access",
+                              "screen_name": "startrekcbs",
+                              "location": "",
+                              "description": "Join us 6/17 for a free marathon of Star Trek episodes and a donation drive for orgs that support the Black Lives Matter movement. #StarTrekUnited",
+                              "url": "https://t.co/8NglI3wiLM",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/8NglI3wiLM",
+                                                      "expanded_url": "http://bit.ly/StarTrekUnitedInfo",
+                                                      "display_url": "bit.ly/StarTrekUnited\u2026",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 165023,
+                              "friends_count": 133,
+                              "listed_count": 1170,
+                              "created_at": "Tue Jul 12 05:58:15 +0000 2016",
+                              "favourites_count": 8433,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": false,
+                              "verified": true,
+                              "statuses_count": 24557,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "F5F8FA",
+                              "profile_background_image_url": null,
+                              "profile_background_image_url_https": null,
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1272568111955275777/fsmg83IN_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272568111955275777/fsmg83IN_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/752743856941125632/1586283478",
+                              "profile_link_color": "1DA1F2",
+                              "profile_sidebar_border_color": "C0DEED",
+                              "profile_sidebar_fill_color": "DDEEF6",
+                              "profile_text_color": "333333",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": false,
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 321,
+                        "favorite_count": 651,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 199,
+                  "favorite_count": 704,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.066,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1273040182938415103&q=%23StarTrekUnitedGives&count=10&include_entities=1&result_type=popular",
+            "query": "%23StarTrekUnitedGives",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

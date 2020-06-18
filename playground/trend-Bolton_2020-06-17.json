@@ -1,0 +1,1102 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Wed Jun 17 11:37:18 +0000 2020",
+                  "id": 1273218155972878336,
+                  "id_str": "1273218155972878336",
+                  "text": "Americans can have ll the guns they want. Just not John Bolton\u2018s book. Books are bad. Books are dangerous.",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": []
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 2233154425,
+                        "id_str": "2233154425",
+                        "name": "Stephen King",
+                        "screen_name": "StephenKing",
+                        "location": "",
+                        "description": "Author",
+                        "url": "http://t.co/iPedKNPjre",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "http://t.co/iPedKNPjre",
+                                                "expanded_url": "http://stephenking.com",
+                                                "display_url": "stephenking.com",
+                                                "indices": [
+                                                      0,
+                                                      22
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 5947692,
+                        "friends_count": 119,
+                        "listed_count": 14338,
+                        "created_at": "Fri Dec 06 15:26:35 +0000 2013",
+                        "favourites_count": 25,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 4765,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000836981162/b683f7509ec792c3e481ead332940cdc_normal.jpeg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000836981162/b683f7509ec792c3e481ead332940cdc_normal.jpeg",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 12250,
+                  "favorite_count": 72721,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 20:12:28 +0000 2020",
+                  "id": 1273347802026979328,
+                  "id_str": "1273347802026979328",
+                  "text": "Bolton\u2019s staff were asked to testify before the House to Trump\u2019s abuses, and did. They had a lot to lose and showed\u2026 https://t.co/8qddAZhz0u",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/8qddAZhz0u",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273347802026979328",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 29501253,
+                        "id_str": "29501253",
+                        "name": "Adam Schiff",
+                        "screen_name": "RepAdamSchiff",
+                        "location": "Burbank, CA",
+                        "description": "Representing California's 28th Congressional District. Chairman of the House Intelligence Committee (@HouseIntel).",
+                        "url": "https://t.co/uxaSLX8uQ7",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/uxaSLX8uQ7",
+                                                "expanded_url": "http://schiff.house.gov/",
+                                                "display_url": "schiff.house.gov",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 2315175,
+                        "friends_count": 779,
+                        "listed_count": 9310,
+                        "created_at": "Tue Apr 07 17:54:35 +0000 2009",
+                        "favourites_count": 154,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 5763,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "2578B8",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1268175179626303497/-DNpPNUm_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268175179626303497/-DNpPNUm_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29501253/1591118987",
+                        "profile_link_color": "2578B8",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 22504,
+                  "favorite_count": 86250,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Tue Jun 16 21:40:51 +0000 2020",
+                  "id": 1273007656702271489,
+                  "id_str": "1273007656702271489",
+                  "text": "The Trump administration sues to block Bolton book \u201cThis is a civil action by the United States to prevent Defendan\u2026 https://t.co/zTcOAra3rC",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/zTcOAra3rC",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273007656702271489",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 1196441152486072320,
+                        "id_str": "1196441152486072320",
+                        "name": "Catherine Herridge",
+                        "screen_name": "CBS_Herridge",
+                        "location": "Washington, D.C.",
+                        "description": "@CBSNews Senior Investigative Correspondent, military mom, organ donor. Covering national security and intel. Follow me for more news, less noise #factsmatter",
+                        "url": "https://t.co/5Gq67gTp7W",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/5Gq67gTp7W",
+                                                "expanded_url": "https://www.viacomcbspressexpress.com/cbs-news/shows/cbs-news/bios?id=catherine-herridge",
+                                                "display_url": "viacomcbspressexpress.com/cbs-news/shows\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 296411,
+                        "friends_count": 18,
+                        "listed_count": 1034,
+                        "created_at": "Mon Nov 18 14:53:25 +0000 2019",
+                        "favourites_count": 0,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 565,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1196446872371642369/J4nMFPJv_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196446872371642369/J4nMFPJv_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1196441152486072320/1574089953",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 4743,
+                  "favorite_count": 10576,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 21:21:28 +0000 2020",
+                  "id": 1273365169243148290,
+                  "id_str": "1273365169243148290",
+                  "text": "Bolton\u2019s book revealing a fumbling, bumbling, angry, corrupt, racist, vengeful, and ignorant President .. a Preside\u2026 https://t.co/futRvPyYdv",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/futRvPyYdv",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273365169243148290",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 18227519,
+                        "id_str": "18227519",
+                        "name": "Mika Brzezinski",
+                        "screen_name": "morningmika",
+                        "location": "New York, New York",
+                        "description": "\"Bipartisanship helps to avoid extremes and imbalances. It causes compromises and accommodations. So let's cooperate.\" ~Zbigniew Brzezinski",
+                        "url": "https://t.co/Pu3UlE6vKA",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/Pu3UlE6vKA",
+                                                "expanded_url": "https://www.knowyourvalue.com",
+                                                "display_url": "knowyourvalue.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1016654,
+                        "friends_count": 1283,
+                        "listed_count": 5961,
+                        "created_at": "Thu Dec 18 22:33:51 +0000 2008",
+                        "favourites_count": 397,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 13913,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "9AE4E8",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/827578467122290689/3RGm-UXe_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827578467122290689/3RGm-UXe_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18227519/1495917370",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDFFCC",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 5564,
+                  "favorite_count": 26043,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Tue Jun 16 21:58:13 +0000 2020",
+                  "id": 1273012025933869063,
+                  "id_str": "1273012025933869063",
+                  "text": "Keep in mind that whatever information is in Bolton's book that the Trump administration is so desperate to hide, i\u2026 https://t.co/hIPDfh8YSW",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/hIPDfh8YSW",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273012025933869063",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 7855062,
+                        "id_str": "7855062",
+                        "name": "Susan Hennessey",
+                        "screen_name": "Susan_Hennessey",
+                        "location": "Washington, DC",
+                        "description": "Lawfare Executive Editor, Brookings Senior Fellow, CNN National Security and Legal Analyst, Former IC attorney.",
+                        "url": "https://t.co/leFCyHYOfA",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/leFCyHYOfA",
+                                                "expanded_url": "http://www.lawfareblog.com",
+                                                "display_url": "lawfareblog.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 341945,
+                        "friends_count": 703,
+                        "listed_count": 4229,
+                        "created_at": "Tue Jul 31 18:21:38 +0000 2007",
+                        "favourites_count": 1663,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 32255,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "9AE4E8",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/666086916874510337/dAufmV8F_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666086916874510337/dAufmV8F_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7855062/1568676777",
+                        "profile_link_color": "0000FF",
+                        "profile_sidebar_border_color": "87BC44",
+                        "profile_sidebar_fill_color": "E0FF92",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 17241,
+                  "favorite_count": 65518,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 21:18:41 +0000 2020",
+                  "id": 1273364465518628864,
+                  "id_str": "1273364465518628864",
+                  "text": "Everything we are learning from Bolton...why in the world did 51 Republican Senators decide they didn\u2019t want you to\u2026 https://t.co/vG14I4GjOO",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/vG14I4GjOO",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273364465518628864",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 16160352,
+                        "id_str": "16160352",
+                        "name": "Claire McCaskill",
+                        "screen_name": "clairecmc",
+                        "location": "Missouri",
+                        "description": "Former bunch of stuff including Senator from Missouri, currently @NBCNews and @MSNBC analyst, professional grandmother.",
+                        "url": "https://t.co/95S80NB5Gx",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/95S80NB5Gx",
+                                                "expanded_url": "https://twitter.com/clairecmc",
+                                                "display_url": "twitter.com/clairecmc",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 522494,
+                        "friends_count": 145,
+                        "listed_count": 6146,
+                        "created_at": "Sat Sep 06 20:20:45 +0000 2008",
+                        "favourites_count": 2000,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 8127,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "9AE4E8",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1267816690181525504/6t9nM4tK_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1267816690181525504/6t9nM4tK_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16160352/1546970459",
+                        "profile_link_color": "1A2320",
+                        "profile_sidebar_border_color": "BDDCAD",
+                        "profile_sidebar_fill_color": "4A824C",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 11666,
+                  "favorite_count": 39124,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Tue Jun 16 21:43:06 +0000 2020",
+                  "id": 1273008221582700544,
+                  "id_str": "1273008221582700544",
+                  "text": "Trump: Bolton's book is all lies.\n\nAlso Trump: Everything in Bolton's book is classified.",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": []
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 215207998,
+                        "id_str": "215207998",
+                        "name": "Kurt Eichenwald",
+                        "screen_name": "kurteichenwald",
+                        "location": "",
+                        "description": "New York Times bestselling author.",
+                        "url": "https://t.co/U47RHolkoG",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/U47RHolkoG",
+                                                "expanded_url": "http://www.kurteichenwald.com",
+                                                "display_url": "kurteichenwald.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 482442,
+                        "friends_count": 2189,
+                        "listed_count": 4942,
+                        "created_at": "Sat Nov 13 08:33:44 +0000 2010",
+                        "favourites_count": 441,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 86485,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1075560867951828992/PdJvCxzq_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1075560867951828992/PdJvCxzq_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/215207998/1535573388",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 4134,
+                  "favorite_count": 15293,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Tue Jun 16 12:55:21 +0000 2020",
+                  "id": 1272875410879995904,
+                  "id_str": "1272875410879995904",
+                  "text": "Public Service Announcement: Don't buy Bolton's book. News reports will reveal everything in it. There is no need t\u2026 https://t.co/nkV9KVCgBd",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/nkV9KVCgBd",
+                                    "expanded_url": "https://twitter.com/i/web/status/1272875410879995904",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 830908366377611266,
+                        "id_str": "830908366377611266",
+                        "name": "Walter Shaub",
+                        "screen_name": "waltshaub",
+                        "location": "",
+                        "description": "former Director of @OfficeGovEthics\npersonal account - views my own\nTweets are *not* legal advice.\nWash your hands.",
+                        "url": null,
+                        "entities": {
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 536744,
+                        "friends_count": 1414,
+                        "listed_count": 3000,
+                        "created_at": "Sun Feb 12 22:36:06 +0000 2017",
+                        "favourites_count": 72365,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 1012,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1100220453883400192/8xavpv4U_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100220453883400192/8xavpv4U_normal.jpg",
+                        "profile_link_color": "ABB8C2",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1272848156502503424,
+                  "quoted_status_id_str": "1272848156502503424",
+                  "quoted_status": {
+                        "created_at": "Tue Jun 16 11:07:03 +0000 2020",
+                        "id": 1272848156502503424,
+                        "id_str": "1272848156502503424",
+                        "text": "Trump has threatened authors and publishers before -- but this time the stakes are higher, with John Bolton about t\u2026 https://t.co/6vuPh3CK47",
+                        "truncated": true,
+                        "entities": {
+                              "hashtags": [],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/6vuPh3CK47",
+                                          "expanded_url": "https://twitter.com/i/web/status/1272848156502503424",
+                                          "display_url": "twitter.com/i/web/status/1\u2026",
+                                          "indices": [
+                                                117,
+                                                140
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 14515799,
+                              "id_str": "14515799",
+                              "name": "Brian Stelter",
+                              "screen_name": "brianstelter",
+                              "location": "New York City",
+                              "description": "Anchor of @ReliableSources and @CNN's chief media correspondent. Formerly @nytimes, @tvnewser and Top of the Morning. Email: bstelter@gmail.com",
+                              "url": "https://t.co/oAdPr7RfVz",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/oAdPr7RfVz",
+                                                      "expanded_url": "http://www.brianstelter.com/",
+                                                      "display_url": "brianstelter.com",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 718018,
+                              "friends_count": 6885,
+                              "listed_count": 13716,
+                              "created_at": "Thu Apr 24 18:41:42 +0000 2008",
+                              "favourites_count": 264765,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": true,
+                              "verified": true,
+                              "statuses_count": 197994,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "FFF04D",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/378800000011961281/f053ce187d9fe1393f4684ca92c89d74_normal.jpeg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000011961281/f053ce187d9fe1393f4684ca92c89d74_normal.jpeg",
+                              "profile_link_color": "D44700",
+                              "profile_sidebar_border_color": "FFFFFF",
+                              "profile_sidebar_fill_color": "DDEEF6",
+                              "profile_text_color": "333333",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": false,
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 240,
+                        "favorite_count": 585,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 3203,
+                  "favorite_count": 9454,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 19:35:18 +0000 2020",
+                  "id": 1273338447865020417,
+                  "id_str": "1273338447865020417",
+                  "text": "The Bolton revelations are sickening. It is impossible to imagine how anyone of either party could support the pres\u2026 https://t.co/pTaJMtAQBG",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/pTaJMtAQBG",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273338447865020417",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 402888514,
+                        "id_str": "402888514",
+                        "name": "David Rothkopf",
+                        "screen_name": "djrothkopf",
+                        "location": "Washington, DC & New York City",
+                        "description": "Proud father of J & L, husband of C, CEO, TRG, host, Deep State Radio; next book-\"Traitor: A History of American Betrayal from Benedict Arnold to Donald Trump.\"",
+                        "url": "https://t.co/h7Tw2QSBuh",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/h7Tw2QSBuh",
+                                                "expanded_url": "http://therothkopfgroup.com",
+                                                "display_url": "therothkopfgroup.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 176957,
+                        "friends_count": 5817,
+                        "listed_count": 2262,
+                        "created_at": "Tue Nov 01 18:29:28 +0000 2011",
+                        "favourites_count": 22946,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 137607,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1617758853/DJR_TWITTER_5_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1617758853/DJR_TWITTER_5_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/402888514/1591823548",
+                        "profile_link_color": "1B95E0",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 2707,
+                  "favorite_count": 10677,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Tue Jun 16 22:43:42 +0000 2020",
+                  "id": 1273023475431727105,
+                  "id_str": "1273023475431727105",
+                  "text": "Don't buy Bolton's book, for crying out loud.",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": []
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 830908366377611266,
+                        "id_str": "830908366377611266",
+                        "name": "Walter Shaub",
+                        "screen_name": "waltshaub",
+                        "location": "",
+                        "description": "former Director of @OfficeGovEthics\npersonal account - views my own\nTweets are *not* legal advice.\nWash your hands.",
+                        "url": null,
+                        "entities": {
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 536744,
+                        "friends_count": 1414,
+                        "listed_count": 3000,
+                        "created_at": "Sun Feb 12 22:36:06 +0000 2017",
+                        "favourites_count": 72365,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 1012,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1100220453883400192/8xavpv4U_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100220453883400192/8xavpv4U_normal.jpg",
+                        "profile_link_color": "ABB8C2",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 4751,
+                  "favorite_count": 30478,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.041,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1272875410879995903&q=Bolton&count=10&include_entities=1&result_type=popular",
+            "query": "Bolton",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

@@ -1,0 +1,1130 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Tue Jun 16 20:24:42 +0000 2020",
+                  "id": 1272988493665521669,
+                  "id_str": "1272988493665521669",
+                  "text": "WER 0-1 BAY (FT) - El Bayern es campe\u00f3n de la Bundesliga por OCTAVA temporada consecutiva. Iguala el r\u00e9cord de las\u2026 https://t.co/KVdrpLBsB8",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/KVdrpLBsB8",
+                                    "expanded_url": "https://twitter.com/i/web/status/1272988493665521669",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          116,
+                                          139
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 69962890,
+                        "id_str": "69962890",
+                        "name": "MisterChip (Alexis)",
+                        "screen_name": "2010MisterChip",
+                        "location": "All\u00e1 donde haya un bal\u00f3n",
+                        "description": "Los secretos y la magia del f\u00fatbol al descubierto! Estoy en Onda Cero, ESPN y AS. English @MisterChiping Instagram @2010misterchip Soy un tipo muy feliz \ud83d\ude0a",
+                        "url": "https://t.co/o5mserevCF",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/o5mserevCF",
+                                                "expanded_url": "http://youtube.com/2010MisterChip",
+                                                "display_url": "youtube.com/2010MisterChip",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 3030788,
+                        "friends_count": 629,
+                        "listed_count": 12569,
+                        "created_at": "Sat Aug 29 21:07:08 +0000 2009",
+                        "favourites_count": 1579,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 127510,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": true,
+                        "profile_background_color": "EDECE9",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1269185748726624256/dmhLT9rT_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269185748726624256/dmhLT9rT_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/69962890/1385099852",
+                        "profile_link_color": "088253",
+                        "profile_sidebar_border_color": "D3D2CF",
+                        "profile_sidebar_fill_color": "E3E2DE",
+                        "profile_text_color": "634047",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 702,
+                  "favorite_count": 3169,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Wed Jun 17 21:06:02 +0000 2020",
+                  "id": 1273361283245584385,
+                  "id_str": "1273361283245584385",
+                  "text": "Milik scores, Napoli win the Coppa Italia.\n\nJuve: \u274c\u274c\u26bd\ufe0f\u26bd\ufe0f\nNapoli: \u26bd\ufe0f\u26bd\ufe0f\u26bd\ufe0f\u26bd\ufe0f\n\n#NapoliJuve #CoppaItaliaCocaCola #ForzaJuve",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "NapoliJuve",
+                                    "indices": [
+                                          75,
+                                          86
+                                    ]
+                              },
+                              {
+                                    "text": "CoppaItaliaCocaCola",
+                                    "indices": [
+                                          87,
+                                          107
+                                    ]
+                              },
+                              {
+                                    "text": "ForzaJuve",
+                                    "indices": [
+                                          108,
+                                          118
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": []
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "it"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 1638021792,
+                        "id_str": "1638021792",
+                        "name": "JuventusFC",
+                        "screen_name": "juventusfcen",
+                        "location": "Allianz Stadium",
+                        "description": "Official Juventus FC English Twitter feed. Follow us \ud83c\uddee\ud83c\uddf9@juventusfc \ud83c\uddea\ud83c\uddf8@juventusfces \u0627\u0644\u0639\u0631\u0628\u064a\u0629 @juventusfcar \ud83c\uddf5\ud83c\uddf9\ud83c\udde7\ud83c\uddf7 @juventusfcpt \ud83c\uddee\ud83c\udde9 @juventusfcid",
+                        "url": "https://t.co/Bsw8Hp5pQI",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/Bsw8Hp5pQI",
+                                                "expanded_url": "http://www.juventus.com/en",
+                                                "display_url": "juventus.com/en",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1929747,
+                        "friends_count": 60,
+                        "listed_count": 3317,
+                        "created_at": "Thu Aug 01 14:02:49 +0000 2013",
+                        "favourites_count": 1040,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 63694,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1210926325244055552/DLT1X-Xy_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1210926325244055552/DLT1X-Xy_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1638021792/1583934970",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 289,
+                  "favorite_count": 1397,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "it"
+            },
+            {
+                  "created_at": "Wed Jun 17 11:53:18 +0000 2020",
+                  "id": 1273222184337575936,
+                  "id_str": "1273222184337575936",
+                  "text": "Bayern, Juve, Palmeiras, Real: os maiores campe\u00f5es nacionais por pa\u00eds https://t.co/BUnyADqWa9",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/BUnyADqWa9",
+                                    "expanded_url": "http://zpr.io/HPZXG",
+                                    "display_url": "zpr.io/HPZXG",
+                                    "indices": [
+                                          70,
+                                          93
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "iso_language_code": "pt",
+                        "result_type": "popular"
+                  },
+                  "source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 14595245,
+                        "id_str": "14595245",
+                        "name": "UOL Esporte",
+                        "screen_name": "UOLEsporte",
+                        "location": "Brasil",
+                        "description": "Resultados, not\u00edcias, entrevistas, fotos, v\u00eddeos e os bastidores do esporte. Acompanhe ao vivo os principais eventos esportivos no Brasil e do mundo.",
+                        "url": "https://t.co/uCeCud2SUS",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/uCeCud2SUS",
+                                                "expanded_url": "https://instagram.com/uolesporte/",
+                                                "display_url": "instagram.com/uolesporte/",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1143940,
+                        "friends_count": 103,
+                        "listed_count": 2239,
+                        "created_at": "Wed Apr 30 03:09:18 +0000 2008",
+                        "favourites_count": 523,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 265864,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "E6E6E6",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1154825575997091840/3cNc5cns_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154825575997091840/3cNc5cns_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14595245/1566317874",
+                        "profile_link_color": "DD6F00",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "F7F8F2",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 167,
+                  "favorite_count": 847,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "pt"
+            },
+            {
+                  "created_at": "Wed Jun 17 21:25:59 +0000 2020",
+                  "id": 1273366305593274368,
+                  "id_str": "1273366305593274368",
+                  "text": "#OJOALDATO - Cristiano Ronaldo no empataba dos partidos oficiales seguidos a cero (Juve 0-0 Milan y Juve 0-0 Napoli\u2026 https://t.co/dTfuQeGXJf",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "OJOALDATO",
+                                    "indices": [
+                                          0,
+                                          10
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/dTfuQeGXJf",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273366305593274368",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 69962890,
+                        "id_str": "69962890",
+                        "name": "MisterChip (Alexis)",
+                        "screen_name": "2010MisterChip",
+                        "location": "All\u00e1 donde haya un bal\u00f3n",
+                        "description": "Los secretos y la magia del f\u00fatbol al descubierto! Estoy en Onda Cero, ESPN y AS. English @MisterChiping Instagram @2010misterchip Soy un tipo muy feliz \ud83d\ude0a",
+                        "url": "https://t.co/o5mserevCF",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/o5mserevCF",
+                                                "expanded_url": "http://youtube.com/2010MisterChip",
+                                                "display_url": "youtube.com/2010MisterChip",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 3030788,
+                        "friends_count": 629,
+                        "listed_count": 12569,
+                        "created_at": "Sat Aug 29 21:07:08 +0000 2009",
+                        "favourites_count": 1579,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 127510,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": true,
+                        "profile_background_color": "EDECE9",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1269185748726624256/dmhLT9rT_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269185748726624256/dmhLT9rT_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/69962890/1385099852",
+                        "profile_link_color": "088253",
+                        "profile_sidebar_border_color": "D3D2CF",
+                        "profile_sidebar_fill_color": "E3E2DE",
+                        "profile_text_color": "634047",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 258,
+                  "favorite_count": 1558,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Wed Jun 17 21:47:39 +0000 2020",
+                  "id": 1273371755453779969,
+                  "id_str": "1273371755453779969",
+                  "text": "\u00a1FESTEJA DIEGO! Maradona comparti\u00f3 esta foto con la camiseta del Napoli, celebrando la consagraci\u00f3n ante la Juve en\u2026 https://t.co/mSPO9tQ7Zp",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/mSPO9tQ7Zp",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273371755453779969",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 524531680,
+                        "id_str": "524531680",
+                        "name": "SportsCenter",
+                        "screen_name": "SC_ESPN",
+                        "location": "",
+                        "description": "Noticiero del deporte mundial. Repaso de toda la actualidad con compactos, entrevistas, destacados. Un estilo de vida, todos los d\u00edas, en ESPN.",
+                        "url": "https://t.co/ysbzEklsPD",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/ysbzEklsPD",
+                                                "expanded_url": "http://terminosdeuso.espn-la.com",
+                                                "display_url": "terminosdeuso.espn-la.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1455957,
+                        "friends_count": 22,
+                        "listed_count": 2446,
+                        "created_at": "Wed Mar 14 17:00:18 +0000 2012",
+                        "favourites_count": 31,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 617330,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/565146739552698370/QAdYSNcV_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/565146739552698370/QAdYSNcV_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/524531680/1587745407",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 165,
+                  "favorite_count": 1439,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Wed Jun 17 21:08:04 +0000 2020",
+                  "id": 1273361793235275779,
+                  "id_str": "1273361793235275779",
+                  "text": "DIRECTO | El Napoli, campe\u00f3n de la Coppa de Italia en los penaltis (4-2) ante la Juve de Cristiano Ronaldo https://t.co/KSDorHB00a",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/KSDorHB00a",
+                                    "expanded_url": "https://www.marca.com/futbol/liga-italiana/2020/06/17/5eea5ebbe2704e8c7c8b45a2.html",
+                                    "display_url": "marca.com/futbol/liga-it\u2026",
+                                    "indices": [
+                                          107,
+                                          130
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 15095537,
+                        "id_str": "15095537",
+                        "name": "MARCA",
+                        "screen_name": "marca",
+                        "location": "",
+                        "description": "Hablamos sobre toda la actualidad deportiva. S\u00f3lo nos hace falta conocer tu opini\u00f3n, \u00bfte animas? \nhttps://t.co/9C4Ytg7fY6\nhttps://t.co/UbWtYQGieF\nhttps://t.co/etUTbcp9qO",
+                        "url": "https://t.co/fmh4rVzAJW",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/fmh4rVzAJW",
+                                                "expanded_url": "http://www.marca.com",
+                                                "display_url": "marca.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/9C4Ytg7fY6",
+                                                "expanded_url": "http://facebook.com/MARCA",
+                                                "display_url": "facebook.com/MARCA",
+                                                "indices": [
+                                                      98,
+                                                      121
+                                                ]
+                                          },
+                                          {
+                                                "url": "https://t.co/UbWtYQGieF",
+                                                "expanded_url": "http://instagram.com/marca",
+                                                "display_url": "instagram.com/marca",
+                                                "indices": [
+                                                      122,
+                                                      145
+                                                ]
+                                          },
+                                          {
+                                                "url": "https://t.co/etUTbcp9qO",
+                                                "expanded_url": "http://youtube.com/user/Marca",
+                                                "display_url": "youtube.com/user/Marca",
+                                                "indices": [
+                                                      146,
+                                                      169
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 5261609,
+                        "friends_count": 1619,
+                        "listed_count": 20977,
+                        "created_at": "Thu Jun 12 11:05:13 +0000 2008",
+                        "favourites_count": 1731,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 401663,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "1A1B1F",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1269032345354604544/YPwa4v12_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269032345354604544/YPwa4v12_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15095537/1592216039",
+                        "profile_link_color": "1B95E0",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "252429",
+                        "profile_text_color": "666666",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 161,
+                  "favorite_count": 779,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Wed Jun 17 21:10:31 +0000 2020",
+                  "id": 1273362413056901124,
+                  "id_str": "1273362413056901124",
+                  "text": "Cristiano Ronaldo did not take a penalty in Juventus' Coppa Italia shoot-out defeat to Napoli.\n\nJuve took four pena\u2026 https://t.co/RArfhkx0C9",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/RArfhkx0C9",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273362413056901124",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 1944665077,
+                        "id_str": "1944665077",
+                        "name": "Squawka News",
+                        "screen_name": "SquawkaNews",
+                        "location": "",
+                        "description": "Latest official news, quotes, confirmed transfers and match-day coverage from the world of football. Sometimes, just incredible pictures. Powered by @Squawka.",
+                        "url": "https://t.co/yFwzaNRsKw",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/yFwzaNRsKw",
+                                                "expanded_url": "http://squawka.com/news",
+                                                "display_url": "squawka.com/news",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 245115,
+                        "friends_count": 1,
+                        "listed_count": 1683,
+                        "created_at": "Mon Oct 07 16:41:40 +0000 2013",
+                        "favourites_count": 77,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 88348,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1091317376900055042/PWpkm8WL_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091317376900055042/PWpkm8WL_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1944665077/1591023915",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 154,
+                  "favorite_count": 739,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 20:57:33 +0000 2020",
+                  "id": 1273359147182981122,
+                  "id_str": "1273359147182981122",
+                  "text": "\u00a1La TREMENDA DOBLE PARADA de BUFFON que salv\u00f3 a la JUVE en el DESCUENTO! \ud83d\udd25\n\n\u00a1Nos vamos a los PENALTIS en la FINAL d\u2026 https://t.co/kowsHevk1q",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/kowsHevk1q",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273359147182981122",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 740845357530238976,
+                        "id_str": "740845357530238976",
+                        "name": "DAZN Espa\u00f1a (\ud83c\udfe0)",
+                        "screen_name": "DAZN_ES",
+                        "location": "Espa\u00f1a",
+                        "description": "El lugar para ver tus deportes favoritos donde quieras, cuando quieras, en directo y bajo demanda #DAZN Para atenci\u00f3n al cliente y soporte: @DAZN_ES_Help",
+                        "url": "https://t.co/gv85IkUq7s",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/gv85IkUq7s",
+                                                "expanded_url": "http://bit.ly/DAZNEStw",
+                                                "display_url": "bit.ly/DAZNEStw",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 96724,
+                        "friends_count": 3286,
+                        "listed_count": 344,
+                        "created_at": "Thu Jun 09 09:57:52 +0000 2016",
+                        "favourites_count": 5169,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 18774,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1091261043593146368/1xY7-9TU_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091261043593146368/1xY7-9TU_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/740845357530238976/1591194779",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 162,
+                  "favorite_count": 437,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Wed Jun 17 16:40:52 +0000 2020",
+                  "id": 1273294553357922308,
+                  "id_str": "1273294553357922308",
+                  "text": "\ud83c\udfc6As\u00ed se jugar\u00e1 lo que resta de la Champions League 2019/2020:\n\n\u26bd\ufe0f8vos el 7 y 8/8 en sede original salvo necesidad s\u2026 https://t.co/JiUcRO55hp",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/JiUcRO55hp",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273294553357922308",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 131967942,
+                        "id_str": "131967942",
+                        "name": "VarskySports",
+                        "screen_name": "VarskySports",
+                        "location": "Desde Buenos Aires, Argentina",
+                        "description": "Bienvenidos al Canal de Deportes en Twitter. https://t.co/05l1mhRANa. https://t.co/kZNfoVk5v0 VarskySports@VarskySports.com.ar",
+                        "url": "https://t.co/xCFgeBoIv5",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/xCFgeBoIv5",
+                                                "expanded_url": "http://www.VarskySports.com.ar",
+                                                "display_url": "VarskySports.com.ar",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/05l1mhRANa",
+                                                "expanded_url": "http://Facebook.com/VarskySports",
+                                                "display_url": "Facebook.com/VarskySports",
+                                                "indices": [
+                                                      45,
+                                                      68
+                                                ]
+                                          },
+                                          {
+                                                "url": "https://t.co/kZNfoVk5v0",
+                                                "expanded_url": "http://Instagram.com/VarskySports",
+                                                "display_url": "Instagram.com/VarskySports",
+                                                "indices": [
+                                                      70,
+                                                      93
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1702793,
+                        "friends_count": 146801,
+                        "listed_count": 5717,
+                        "created_at": "Sun Apr 11 22:24:12 +0000 2010",
+                        "favourites_count": 150,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 150980,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": true,
+                        "profile_background_color": "ABB8C2",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1245350162349862912/9H7S-3Ki_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245350162349862912/9H7S-3Ki_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/131967942/1585749592",
+                        "profile_link_color": "115EA1",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "E4E4E4",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 74,
+                  "favorite_count": 289,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "es"
+            },
+            {
+                  "created_at": "Wed Jun 17 20:59:01 +0000 2020",
+                  "id": 1273359517137469441,
+                  "id_str": "1273359517137469441",
+                  "text": "La final de la Coppa Italia se va a decidir en una tanda de penaltis por S\u00c9PTIMA vez:\n\n1971 Torino 5-3 Milan (tras\u2026 https://t.co/3SnZ2B273Q",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/3SnZ2B273Q",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273359517137469441",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          116,
+                                          139
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "es"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 69962890,
+                        "id_str": "69962890",
+                        "name": "MisterChip (Alexis)",
+                        "screen_name": "2010MisterChip",
+                        "location": "All\u00e1 donde haya un bal\u00f3n",
+                        "description": "Los secretos y la magia del f\u00fatbol al descubierto! Estoy en Onda Cero, ESPN y AS. English @MisterChiping Instagram @2010misterchip Soy un tipo muy feliz \ud83d\ude0a",
+                        "url": "https://t.co/o5mserevCF",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/o5mserevCF",
+                                                "expanded_url": "http://youtube.com/2010MisterChip",
+                                                "display_url": "youtube.com/2010MisterChip",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 3030788,
+                        "friends_count": 629,
+                        "listed_count": 12569,
+                        "created_at": "Sat Aug 29 21:07:08 +0000 2009",
+                        "favourites_count": 1579,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 127510,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": true,
+                        "profile_background_color": "EDECE9",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1269185748726624256/dmhLT9rT_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269185748726624256/dmhLT9rT_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/69962890/1385099852",
+                        "profile_link_color": "088253",
+                        "profile_sidebar_border_color": "D3D2CF",
+                        "profile_sidebar_fill_color": "E3E2DE",
+                        "profile_text_color": "634047",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 118,
+                  "favorite_count": 602,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "es"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.104,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1272988493665521668&q=Juve&count=10&include_entities=1&result_type=popular",
+            "query": "Juve",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

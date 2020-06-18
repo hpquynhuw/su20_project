@@ -1,0 +1,1099 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Wed Jun 17 21:29:25 +0000 2020",
+                  "id": 1273367167996583936,
+                  "id_str": "1273367167996583936",
+                  "text": "1. BREAKING: Actor and Scientologist Danny Masterson has been charged with forcibly raping three women by the LA Di\u2026 https://t.co/2mbkoiQmPS",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/2mbkoiQmPS",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273367167996583936",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 11744152,
+                        "id_str": "11744152",
+                        "name": "Yashar Ali \ud83d\udc18",
+                        "screen_name": "yashar",
+                        "location": "\ud83d\udc18\ud83d\udc18\ud83d\udc18\ud83d\udc18",
+                        "description": "New York Magazine/HuffPost Contributor Email: currentyashar@gmail.com Direct Messages Open Text/Call/Signal/Confide/WhatsApp: 310-795-2497. Agents: UTA",
+                        "url": "https://t.co/qAD8F5TW8p",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/qAD8F5TW8p",
+                                                "expanded_url": "http://bit.ly/2U6YP5n",
+                                                "display_url": "bit.ly/2U6YP5n",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 639004,
+                        "friends_count": 25260,
+                        "listed_count": 4643,
+                        "created_at": "Wed Jan 02 06:55:39 +0000 2008",
+                        "favourites_count": 150397,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 172069,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1239039865607479296/vOY7IFfL_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239039865607479296/vOY7IFfL_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11744152/1502224549",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "080708",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 3501,
+                  "favorite_count": 9953,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 21:52:34 +0000 2020",
+                  "id": 1273372995407482881,
+                  "id_str": "1273372995407482881",
+                  "text": "BREAKING: Los Angeles prosecutors say \"That '70s Show\" actor Danny Masterson has been charged with rapes of three w\u2026 https://t.co/5lmzczmB3T",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/5lmzczmB3T",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273372995407482881",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 51241574,
+                        "id_str": "51241574",
+                        "name": "The Associated Press",
+                        "screen_name": "AP",
+                        "location": "Global",
+                        "description": "News from The Associated Press, and a taste of the great journalism produced by AP members and customers. Managed 24/7 by these editors: https://t.co/D0hLCc7ShX",
+                        "url": "https://t.co/48pFaJVRcr",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/48pFaJVRcr",
+                                                "expanded_url": "https://apnews.com/",
+                                                "display_url": "apnews.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/D0hLCc7ShX",
+                                                "expanded_url": "http://apne.ws/APSocial",
+                                                "display_url": "apne.ws/APSocial",
+                                                "indices": [
+                                                      137,
+                                                      160
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 14292700,
+                        "friends_count": 7017,
+                        "listed_count": 93874,
+                        "created_at": "Fri Jun 26 21:48:52 +0000 2009",
+                        "favourites_count": 2948,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 267695,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": true,
+                        "profile_background_color": "333333",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/461964160838803457/8z9FImcv_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/461964160838803457/8z9FImcv_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51241574/1568759398",
+                        "profile_link_color": "CC3300",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "CCCCCC",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 1837,
+                  "favorite_count": 2903,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 23:54:08 +0000 2020",
+                  "id": 1273403587448668161,
+                  "id_str": "1273403587448668161",
+                  "text": "Danny Masterson, best known for his role on \"That '70s Show,\" was charged with three counts of rape, the Los Angele\u2026 https://t.co/PuWtV62p5i",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/PuWtV62p5i",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273403587448668161",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 428333,
+                        "id_str": "428333",
+                        "name": "CNN Breaking News",
+                        "screen_name": "cnnbrk",
+                        "location": "Everywhere",
+                        "description": "Breaking news from CNN Digital. Now 57M strong. Check @cnn for all things CNN, breaking and more. Download the app for custom alerts: https://t.co/UCHG9M367J",
+                        "url": "http://t.co/HjKR4r61U5",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "http://t.co/HjKR4r61U5",
+                                                "expanded_url": "http://cnn.com/",
+                                                "display_url": "cnn.com",
+                                                "indices": [
+                                                      0,
+                                                      22
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/UCHG9M367J",
+                                                "expanded_url": "http://cnn.com/apps",
+                                                "display_url": "cnn.com/apps",
+                                                "indices": [
+                                                      134,
+                                                      157
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 58075799,
+                        "friends_count": 119,
+                        "listed_count": 181513,
+                        "created_at": "Tue Jan 02 01:48:14 +0000 2007",
+                        "favourites_count": 21,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 71148,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": true,
+                        "profile_background_color": "323232",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/428333/1531855520",
+                        "profile_link_color": "004287",
+                        "profile_sidebar_border_color": "DADADA",
+                        "profile_sidebar_fill_color": "EEEEEE",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 275,
+                  "favorite_count": 696,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 22:26:28 +0000 2020",
+                  "id": 1273381525094973440,
+                  "id_str": "1273381525094973440",
+                  "text": "\"That \u201970s Show\" actor Danny Masterson has been charged with three counts of rape by force or fear.\n\nHe\u2019s been unde\u2026 https://t.co/QeXMrt0tW9",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/QeXMrt0tW9",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273381525094973440",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 110396781,
+                        "id_str": "110396781",
+                        "name": "AJ+",
+                        "screen_name": "ajplus",
+                        "location": "",
+                        "description": "AJ+ is news for the connected generation, sharing human struggles and challenging the status quo.",
+                        "url": "https://t.co/dffekhz2Zn",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/dffekhz2Zn",
+                                                "expanded_url": "http://ajplus.co/subtexttwp",
+                                                "display_url": "ajplus.co/subtexttwp",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1139212,
+                        "friends_count": 359,
+                        "listed_count": 6748,
+                        "created_at": "Mon Feb 01 11:53:42 +0000 2010",
+                        "favourites_count": 2329,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 82247,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FFFFFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1012020793348198401/ohNwCtH9_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012020793348198401/ohNwCtH9_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/110396781/1530119565",
+                        "profile_link_color": "6CC5F5",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "8F8A89",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 790,
+                  "favorite_count": 1342,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 21:35:16 +0000 2020",
+                  "id": 1273368640851546112,
+                  "id_str": "1273368640851546112",
+                  "text": "BREAKING: Actor Danny Masterson, known for his roles in \"That '70s Show\" and \"The Ranch,\" has been charged with rap\u2026 https://t.co/JBwv7HbDrZ",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/JBwv7HbDrZ",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273368640851546112",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 10252962,
+                        "id_str": "10252962",
+                        "name": "KTLA",
+                        "screen_name": "KTLA",
+                        "location": "Los Angeles, CA",
+                        "description": "KTLA has been keeping Southern California informed since 1947. \n\nHave great video, photos or story tips? Share with us using #ktla.",
+                        "url": "http://t.co/ZgOP41jU0Y",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "http://t.co/ZgOP41jU0Y",
+                                                "expanded_url": "http://ktla.com",
+                                                "display_url": "ktla.com",
+                                                "indices": [
+                                                      0,
+                                                      22
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 820584,
+                        "friends_count": 775,
+                        "listed_count": 4152,
+                        "created_at": "Wed Nov 14 17:43:42 +0000 2007",
+                        "favourites_count": 1515,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 215878,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "040718",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/809849913240481792/YQ0aT9hv_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/809849913240481792/YQ0aT9hv_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10252962/1369959990",
+                        "profile_link_color": "24009C",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "95E8EC",
+                        "profile_text_color": "3C3940",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 1244,
+                  "favorite_count": 1611,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 22:33:43 +0000 2020",
+                  "id": 1273383351240581124,
+                  "id_str": "1273383351240581124",
+                  "text": "Actor Danny Masterson, best known for his role on That '70s Show, has been charged with three counts of sexual assa\u2026 https://t.co/6SUB9XRdvZ",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/6SUB9XRdvZ",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273383351240581124",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 13049362,
+                        "id_str": "13049362",
+                        "name": "Complex",
+                        "screen_name": "Complex",
+                        "location": "New York",
+                        "description": "Making Culture Pop.",
+                        "url": "https://t.co/jPEji9tZYr",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/jPEji9tZYr",
+                                                "expanded_url": "http://www.complex.com",
+                                                "display_url": "complex.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 2267691,
+                        "friends_count": 735,
+                        "listed_count": 7937,
+                        "created_at": "Mon Feb 04 14:34:39 +0000 2008",
+                        "favourites_count": 26961,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 340464,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": true,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/839858358920310785/JVgCbSHx_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/839858358920310785/JVgCbSHx_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13049362/1591156909",
+                        "profile_link_color": "FF0000",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "F2F2F2",
+                        "profile_text_color": "787878",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 286,
+                  "favorite_count": 942,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 21:31:10 +0000 2020",
+                  "id": 1273367606523813890,
+                  "id_str": "1273367606523813890",
+                  "text": "Danny Masterson Charged With Raping Three\u00a0Women https://t.co/IEMogdl77D",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/IEMogdl77D",
+                                    "expanded_url": "https://wp.me/p2WgDE-1lyqtr",
+                                    "display_url": "wp.me/p2WgDE-1lyqtr",
+                                    "indices": [
+                                          48,
+                                          71
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 17525171,
+                        "id_str": "17525171",
+                        "name": "Variety",
+                        "screen_name": "Variety",
+                        "location": "Los Angeles, CA",
+                        "description": "The business of entertainment.",
+                        "url": "https://t.co/8QkvN6A5Nf",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/8QkvN6A5Nf",
+                                                "expanded_url": "http://www.variety.com",
+                                                "display_url": "variety.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 2447681,
+                        "friends_count": 256668,
+                        "listed_count": 17116,
+                        "created_at": "Thu Nov 20 23:02:29 +0000 2008",
+                        "favourites_count": 1005,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 295076,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FFFFFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17525171/1592324796",
+                        "profile_link_color": "60728A",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "FFFFFF",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 1099,
+                  "favorite_count": 1836,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 22:00:51 +0000 2020",
+                  "id": 1273375076935561216,
+                  "id_str": "1273375076935561216",
+                  "text": "#BREAKING \"That '70s Show\" actor Danny Masterson charged with rape, officials say https://t.co/z9sE3owpW3",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "BREAKING",
+                                    "indices": [
+                                          0,
+                                          9
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/z9sE3owpW3",
+                                    "expanded_url": "https://abc7.la/3fw66n1",
+                                    "display_url": "abc7.la/3fw66n1",
+                                    "indices": [
+                                          82,
+                                          105
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 16374678,
+                        "id_str": "16374678",
+                        "name": "ABC7 Eyewitness News",
+                        "screen_name": "ABC7",
+                        "location": "",
+                        "description": "Your #1 breaking news source in Southern California. When you witness news, share it with #abc7eyewitness.",
+                        "url": "https://t.co/wA2krgJd0y",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/wA2krgJd0y",
+                                                "expanded_url": "http://abc7.com",
+                                                "display_url": "abc7.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1135374,
+                        "friends_count": 465,
+                        "listed_count": 6157,
+                        "created_at": "Sat Sep 20 04:22:30 +0000 2008",
+                        "favourites_count": 3919,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 219942,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "044CC1",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/869214714143809536/Fy8fI_7m_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/869214714143809536/Fy8fI_7m_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16374678/1502745997",
+                        "profile_link_color": "044CC1",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DEDEDE",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 316,
+                  "favorite_count": 565,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 21:48:57 +0000 2020",
+                  "id": 1273372082223661059,
+                  "id_str": "1273372082223661059",
+                  "text": "More than three years after three women came forward to the LAPD \u2014 and seven eventually made allegations to the pol\u2026 https://t.co/rvEFiQQrZc",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/rvEFiQQrZc",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273372082223661059",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 837570356,
+                        "id_str": "837570356",
+                        "name": "Tony Ortega",
+                        "screen_name": "TonyOrtega94",
+                        "location": "Underground",
+                        "description": "On sale: 'Battlefield Scientology' https://t.co/zqEHuAIamj; in the movie 'Going Clear';  Blog: https://t.co/8LgqzmdAKz",
+                        "url": "https://t.co/8LgqzmdAKz",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/8LgqzmdAKz",
+                                                "expanded_url": "http://tonyortega.org",
+                                                "display_url": "tonyortega.org",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/zqEHuAIamj",
+                                                "expanded_url": "https://tonyortega.org/battlefield-scientology/",
+                                                "display_url": "tonyortega.org/battlefield-sc\u2026",
+                                                "indices": [
+                                                      35,
+                                                      58
+                                                ]
+                                          },
+                                          {
+                                                "url": "https://t.co/8LgqzmdAKz",
+                                                "expanded_url": "http://tonyortega.org",
+                                                "display_url": "tonyortega.org",
+                                                "indices": [
+                                                      95,
+                                                      118
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 25279,
+                        "friends_count": 337,
+                        "listed_count": 173,
+                        "created_at": "Fri Sep 21 11:20:00 +0000 2012",
+                        "favourites_count": 4944,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 11919,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/2633422925/43811fe798bafd4f697b3321243f4797_normal.jpeg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2633422925/43811fe798bafd4f697b3321243f4797_normal.jpeg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/837570356/1541114104",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 643,
+                  "favorite_count": 1502,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 21:52:42 +0000 2020",
+                  "id": 1273373026633912320,
+                  "id_str": "1273373026633912320",
+                  "text": "Chris D'Elia AND Danny Masterson? Why is it always the people you most suspect?",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": []
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 15094180,
+                        "id_str": "15094180",
+                        "name": "Jenelle Riley",
+                        "screen_name": "jenelleriley",
+                        "location": "Los Angeles",
+                        "description": "I write things.",
+                        "url": "https://t.co/CrcL9VYLPu",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/CrcL9VYLPu",
+                                                "expanded_url": "http://variety.com/author/jenelle-riley/",
+                                                "display_url": "variety.com/author/jenelle\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 10464,
+                        "friends_count": 2277,
+                        "listed_count": 200,
+                        "created_at": "Thu Jun 12 06:41:58 +0000 2008",
+                        "favourites_count": 7966,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 33080,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1267722599431196675/HaUx7J6g_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1267722599431196675/HaUx7J6g_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15094180/1569484192",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 287,
+                  "favorite_count": 2247,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.034,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1273367167996583935&q=%22Danny%20Masterson%22&count=10&include_entities=1&result_type=popular",
+            "query": "%22Danny+Masterson%22",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

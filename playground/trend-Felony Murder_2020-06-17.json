@@ -1,0 +1,1147 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Wed Jun 17 19:49:32 +0000 2020",
+                  "id": 1273342029502853121,
+                  "id_str": "1273342029502853121",
+                  "text": "BREAKING: The police officer who shot and killed #RayshardBrooks has been charged with felony murder and aggravated\u2026 https://t.co/mFIoNh1za6",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "RayshardBrooks",
+                                    "indices": [
+                                          49,
+                                          64
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/mFIoNh1za6",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273342029502853121",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 110396781,
+                        "id_str": "110396781",
+                        "name": "AJ+",
+                        "screen_name": "ajplus",
+                        "location": "",
+                        "description": "AJ+ is news for the connected generation, sharing human struggles and challenging the status quo.",
+                        "url": "https://t.co/dffekhz2Zn",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/dffekhz2Zn",
+                                                "expanded_url": "http://ajplus.co/subtexttwp",
+                                                "display_url": "ajplus.co/subtexttwp",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1139212,
+                        "friends_count": 359,
+                        "listed_count": 6748,
+                        "created_at": "Mon Feb 01 11:53:42 +0000 2010",
+                        "favourites_count": 2329,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 82247,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FFFFFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1012020793348198401/ohNwCtH9_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012020793348198401/ohNwCtH9_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/110396781/1530119565",
+                        "profile_link_color": "6CC5F5",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "8F8A89",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 53173,
+                  "favorite_count": 121905,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 19:49:03 +0000 2020",
+                  "id": 1273341909650440192,
+                  "id_str": "1273341909650440192",
+                  "text": "BREAKING: The officer responsible for the killing of Rayshard Brooks has been charged with felony murder. The sente\u2026 https://t.co/mxBOG8rBho",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/mxBOG8rBho",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273341909650440192",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 455684839,
+                        "id_str": "455684839",
+                        "name": "Brian Tyler Cohen",
+                        "screen_name": "briantylercohen",
+                        "location": "Los Angeles",
+                        "description": "Political host. A billion views on YouTube & Facebook. Host of @NoLieWithBTC podcast. Past: managing editor @OccupyDemocrats.",
+                        "url": "https://t.co/HxhOmuqbdv",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/HxhOmuqbdv",
+                                                "expanded_url": "https://www.youtube.com/user/briantylercohen",
+                                                "display_url": "youtube.com/user/briantyle\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 193761,
+                        "friends_count": 829,
+                        "listed_count": 934,
+                        "created_at": "Thu Jan 05 11:43:39 +0000 2012",
+                        "favourites_count": 39637,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 7751,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1240727809552572416/nRk4bHp0_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240727809552572416/nRk4bHp0_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/455684839/1585426260",
+                        "profile_link_color": "1B95E0",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 11283,
+                  "favorite_count": 44021,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 19:49:02 +0000 2020",
+                  "id": 1273341906727194624,
+                  "id_str": "1273341906727194624",
+                  "text": "#BREAKING: Fulton County District Attorney announces that the officer who shot #RayshardBrooks has been charged with felony murder",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "BREAKING",
+                                    "indices": [
+                                          0,
+                                          9
+                                    ]
+                              },
+                              {
+                                    "text": "RayshardBrooks",
+                                    "indices": [
+                                          79,
+                                          94
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": []
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 286998245,
+                        "id_str": "286998245",
+                        "name": "philip lewis",
+                        "screen_name": "Phil_Lewis_",
+                        "location": "",
+                        "description": "detroit native. front page editor @huffpost. check out my newsletter! \ud83d\udc47\ud83c\udffe",
+                        "url": "https://t.co/D83NUOnBYL",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/D83NUOnBYL",
+                                                "expanded_url": "https://permylastemail.net",
+                                                "display_url": "permylastemail.net",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 112427,
+                        "friends_count": 2052,
+                        "listed_count": 1003,
+                        "created_at": "Sun Apr 24 03:45:44 +0000 2011",
+                        "favourites_count": 16242,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 193786,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1223973802331246592/AEmyRpWR_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1223973802331246592/AEmyRpWR_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/286998245/1590459223",
+                        "profile_link_color": "4A913C",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 3340,
+                  "favorite_count": 6530,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 19:53:34 +0000 2020",
+                  "id": 1273343047057715209,
+                  "id_str": "1273343047057715209",
+                  "text": "The officer in the Brooks case is charged with, among other things, felony murder?\u00a0 Potential sentence of death, li\u2026 https://t.co/a89qXpa54D",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/a89qXpa54D",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273343047057715209",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 38495835,
+                        "id_str": "38495835",
+                        "name": "Mark R. Levin",
+                        "screen_name": "marklevinshow",
+                        "location": "Underground Bunker",
+                        "description": "THIS IS THE OFFICIAL MARK LEVIN SHOW TWITTER PAGE. \nDOWNLOAD MY PODCAST FOR FREE https://t.co/HUEgXS3l2C",
+                        "url": "http://t.co/YUs6HigZju",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "http://t.co/YUs6HigZju",
+                                                "expanded_url": "http://www.marklevinshow.com",
+                                                "display_url": "marklevinshow.com",
+                                                "indices": [
+                                                      0,
+                                                      22
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/HUEgXS3l2C",
+                                                "expanded_url": "http://www.marklevinshow.com/audio-rewind",
+                                                "display_url": "marklevinshow.com/audio-rewind",
+                                                "indices": [
+                                                      81,
+                                                      104
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 2270012,
+                        "friends_count": 6,
+                        "listed_count": 9474,
+                        "created_at": "Thu May 07 19:18:36 +0000 2009",
+                        "favourites_count": 0,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 23685,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "35475B",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000116305623/80c5515ce8244c85105172fe5640f550_normal.jpeg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000116305623/80c5515ce8244c85105172fe5640f550_normal.jpeg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38495835/1559247697",
+                        "profile_link_color": "0013B4",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "FFFFFF",
+                        "profile_text_color": "F00000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 6704,
+                  "favorite_count": 20185,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 20:27:13 +0000 2020",
+                  "id": 1273351514640220160,
+                  "id_str": "1273351514640220160",
+                  "text": "1. If you watched this just-ended press conference with the Fulton County, GA district attorney, you should be stun\u2026 https://t.co/5wy6LEMRiq",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/5wy6LEMRiq",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273351514640220160",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 38495835,
+                        "id_str": "38495835",
+                        "name": "Mark R. Levin",
+                        "screen_name": "marklevinshow",
+                        "location": "Underground Bunker",
+                        "description": "THIS IS THE OFFICIAL MARK LEVIN SHOW TWITTER PAGE. \nDOWNLOAD MY PODCAST FOR FREE https://t.co/HUEgXS3l2C",
+                        "url": "http://t.co/YUs6HigZju",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "http://t.co/YUs6HigZju",
+                                                "expanded_url": "http://www.marklevinshow.com",
+                                                "display_url": "marklevinshow.com",
+                                                "indices": [
+                                                      0,
+                                                      22
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/HUEgXS3l2C",
+                                                "expanded_url": "http://www.marklevinshow.com/audio-rewind",
+                                                "display_url": "marklevinshow.com/audio-rewind",
+                                                "indices": [
+                                                      81,
+                                                      104
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 2270012,
+                        "friends_count": 6,
+                        "listed_count": 9474,
+                        "created_at": "Thu May 07 19:18:36 +0000 2009",
+                        "favourites_count": 0,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 23685,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "35475B",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000116305623/80c5515ce8244c85105172fe5640f550_normal.jpeg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000116305623/80c5515ce8244c85105172fe5640f550_normal.jpeg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38495835/1559247697",
+                        "profile_link_color": "0013B4",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "FFFFFF",
+                        "profile_text_color": "F00000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 5965,
+                  "favorite_count": 15084,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 21:56:18 +0000 2020",
+                  "id": 1273373933832679424,
+                  "id_str": "1273373933832679424",
+                  "text": "\"Felony murder\" is reserved for people who were ALREADY committing a felony prior to the murder. Like a bank robber\u2026 https://t.co/tNOaaNjDF5",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/tNOaaNjDF5",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273373933832679424",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 19091173,
+                        "id_str": "19091173",
+                        "name": "Steven Crowder",
+                        "screen_name": "scrowder",
+                        "location": "Ghostlike",
+                        "description": "https://t.co/91mcSUahXm for all you need to know. Join #MugClub. \nInstagram: louderwithcrowder",
+                        "url": "https://t.co/91mcSUahXm",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/91mcSUahXm",
+                                                "expanded_url": "http://Youtube.com/StevenCrowder",
+                                                "display_url": "Youtube.com/StevenCrowder",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/91mcSUahXm",
+                                                "expanded_url": "http://Youtube.com/StevenCrowder",
+                                                "display_url": "Youtube.com/StevenCrowder",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1077306,
+                        "friends_count": 2766,
+                        "listed_count": 5028,
+                        "created_at": "Fri Jan 16 23:00:21 +0000 2009",
+                        "favourites_count": 805,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 58137,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FFFFFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1131761677937008640/RxXm6b3r_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131761677937008640/RxXm6b3r_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19091173/1546555587",
+                        "profile_link_color": "A1A1A1",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "100B2B",
+                        "profile_text_color": "878585",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 2615,
+                  "favorite_count": 9644,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 22:12:57 +0000 2020",
+                  "id": 1273378121736171528,
+                  "id_str": "1273378121736171528",
+                  "text": "Today's \"felony murder\" charge from D.A. sends a clear message to ALL Atlanta PD: Allow a man to assault you and yo\u2026 https://t.co/Jp9vRrqwqJ",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/Jp9vRrqwqJ",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273378121736171528",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 19091173,
+                        "id_str": "19091173",
+                        "name": "Steven Crowder",
+                        "screen_name": "scrowder",
+                        "location": "Ghostlike",
+                        "description": "https://t.co/91mcSUahXm for all you need to know. Join #MugClub. \nInstagram: louderwithcrowder",
+                        "url": "https://t.co/91mcSUahXm",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/91mcSUahXm",
+                                                "expanded_url": "http://Youtube.com/StevenCrowder",
+                                                "display_url": "Youtube.com/StevenCrowder",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/91mcSUahXm",
+                                                "expanded_url": "http://Youtube.com/StevenCrowder",
+                                                "display_url": "Youtube.com/StevenCrowder",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1077306,
+                        "friends_count": 2766,
+                        "listed_count": 5028,
+                        "created_at": "Fri Jan 16 23:00:21 +0000 2009",
+                        "favourites_count": 805,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 58137,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FFFFFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1131761677937008640/RxXm6b3r_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131761677937008640/RxXm6b3r_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19091173/1546555587",
+                        "profile_link_color": "A1A1A1",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "100B2B",
+                        "profile_text_color": "878585",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 2513,
+                  "favorite_count": 8919,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 22:06:22 +0000 2020",
+                  "id": 1273376466772930562,
+                  "id_str": "1273376466772930562",
+                  "text": "I wouldn't be surprised if every single Atlanta police officer (both black AND white) walk off the force tomorrow.\u2026 https://t.co/3oNxNEiy1U",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/3oNxNEiy1U",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273376466772930562",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          116,
+                                          139
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 19091173,
+                        "id_str": "19091173",
+                        "name": "Steven Crowder",
+                        "screen_name": "scrowder",
+                        "location": "Ghostlike",
+                        "description": "https://t.co/91mcSUahXm for all you need to know. Join #MugClub. \nInstagram: louderwithcrowder",
+                        "url": "https://t.co/91mcSUahXm",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/91mcSUahXm",
+                                                "expanded_url": "http://Youtube.com/StevenCrowder",
+                                                "display_url": "Youtube.com/StevenCrowder",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/91mcSUahXm",
+                                                "expanded_url": "http://Youtube.com/StevenCrowder",
+                                                "display_url": "Youtube.com/StevenCrowder",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1077306,
+                        "friends_count": 2766,
+                        "listed_count": 5028,
+                        "created_at": "Fri Jan 16 23:00:21 +0000 2009",
+                        "favourites_count": 805,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 58137,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FFFFFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1131761677937008640/RxXm6b3r_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131761677937008640/RxXm6b3r_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19091173/1546555587",
+                        "profile_link_color": "A1A1A1",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "100B2B",
+                        "profile_text_color": "878585",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 4679,
+                  "favorite_count": 21527,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 19:50:35 +0000 2020",
+                  "id": 1273342296843583490,
+                  "id_str": "1273342296843583490",
+                  "text": "BREAKING: Garrett Rolfe, officer who shot and killed #RayshardBrooks, to be charged with 11 counts incl:\n\nFelony Mu\u2026 https://t.co/MHjhtsd6hH",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "RayshardBrooks",
+                                    "indices": [
+                                          53,
+                                          68
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/MHjhtsd6hH",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273342296843583490",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 84734907,
+                        "id_str": "84734907",
+                        "name": "Kristen Clarke",
+                        "screen_name": "KristenClarkeJD",
+                        "location": "Washington, DC",
+                        "description": "Pres & Exec Dir., Lawyers' Committee for Civil Rights Under Law (@LawyersComm). We lead 866-OUR-VOTE. #RacialJustice Donate: https://t.co/c4zrypDhJs",
+                        "url": "https://t.co/UoklEMaaIp",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/UoklEMaaIp",
+                                                "expanded_url": "http://lawyerscommittee.org",
+                                                "display_url": "lawyerscommittee.org",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/c4zrypDhJs",
+                                                "expanded_url": "http://bit.ly/866OURVOTE",
+                                                "display_url": "bit.ly/866OURVOTE",
+                                                "indices": [
+                                                      125,
+                                                      148
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 64066,
+                        "friends_count": 2492,
+                        "listed_count": 752,
+                        "created_at": "Sat Oct 24 01:16:11 +0000 2009",
+                        "favourites_count": 4730,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 19141,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "94B696",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1160707015536193537/ApcJs15o_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1160707015536193537/ApcJs15o_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/84734907/1566100838",
+                        "profile_link_color": "800020",
+                        "profile_sidebar_border_color": "542D10",
+                        "profile_sidebar_fill_color": "AB3029",
+                        "profile_text_color": "C38749",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 3880,
+                  "favorite_count": 11294,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 20:01:53 +0000 2020",
+                  "id": 1273345139772186627,
+                  "id_str": "1273345139772186627",
+                  "text": "The Atlanta Police officer who shot and killed Rayshard Brooks in a Wendy's parking lot last week has been charged\u2026 https://t.co/GmYecm1uxZ",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/GmYecm1uxZ",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273345139772186627",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          116,
+                                          139
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 428333,
+                        "id_str": "428333",
+                        "name": "CNN Breaking News",
+                        "screen_name": "cnnbrk",
+                        "location": "Everywhere",
+                        "description": "Breaking news from CNN Digital. Now 57M strong. Check @cnn for all things CNN, breaking and more. Download the app for custom alerts: https://t.co/UCHG9M367J",
+                        "url": "http://t.co/HjKR4r61U5",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "http://t.co/HjKR4r61U5",
+                                                "expanded_url": "http://cnn.com/",
+                                                "display_url": "cnn.com",
+                                                "indices": [
+                                                      0,
+                                                      22
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/UCHG9M367J",
+                                                "expanded_url": "http://cnn.com/apps",
+                                                "display_url": "cnn.com/apps",
+                                                "indices": [
+                                                      134,
+                                                      157
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 58075799,
+                        "friends_count": 119,
+                        "listed_count": 181513,
+                        "created_at": "Tue Jan 02 01:48:14 +0000 2007",
+                        "favourites_count": 21,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 71148,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": true,
+                        "profile_background_color": "323232",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/428333/1531855520",
+                        "profile_link_color": "004287",
+                        "profile_sidebar_border_color": "DADADA",
+                        "profile_sidebar_fill_color": "EEEEEE",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 2585,
+                  "favorite_count": 6673,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.035,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1273341906727194623&q=%22Felony%20Murder%22&count=10&include_entities=1&result_type=popular",
+            "query": "%22Felony+Murder%22",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

@@ -1,0 +1,2053 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Wed Jun 17 16:38:03 +0000 2020",
+                  "id": 1273293842113089536,
+                  "id_str": "1273293842113089536",
+                  "text": "CANDYMAN, at the intersection of white violence and black pain, is about unwilling martyrs. The people they were, t\u2026 https://t.co/3gQKFbTRNp",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/3gQKFbTRNp",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273293842113089536",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 2379867073,
+                        "id_str": "2379867073",
+                        "name": "Nia DaCosta",
+                        "screen_name": "NiaDaCosta",
+                        "location": "\ud83c\udf6c\ud83d\udc1d",
+                        "description": "Will meet you by Mordor with the rest of the mandem.",
+                        "url": "https://t.co/olVi69JL7d",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/olVi69JL7d",
+                                                "expanded_url": "https://www.lyricmchenry.com/donate",
+                                                "display_url": "lyricmchenry.com/donate",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 34588,
+                        "friends_count": 497,
+                        "listed_count": 124,
+                        "created_at": "Sun Mar 09 05:00:12 +0000 2014",
+                        "favourites_count": 4811,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 1786,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/995083996013957121/WjsN_8Eg_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/995083996013957121/WjsN_8Eg_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2379867073/1582848284",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 29863,
+                  "favorite_count": 68866,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 16:49:59 +0000 2020",
+                  "id": 1273296844412481536,
+                  "id_str": "1273296844412481536",
+                  "text": "Candyman director Nia DaCosta has shared a powerful artistic summary of the horrific lore behind the film.\n\nhttps://t.co/t5ohz8IQ3u",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1273292530566774784,
+                                    "id_str": "1273292530566774784",
+                                    "indices": [
+                                          108,
+                                          131
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1273292530566774784/img/NJcGcWmuYOISgPAv.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1273292530566774784/img/NJcGcWmuYOISgPAv.jpg",
+                                    "url": "https://t.co/t5ohz8IQ3u",
+                                    "display_url": "pic.twitter.com/t5ohz8IQ3u",
+                                    "expanded_url": "https://twitter.com/NiaDaCosta/status/1273293842113089536/video/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 675,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 383,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1280,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    },
+                                    "source_status_id": 1273293842113089536,
+                                    "source_status_id_str": "1273293842113089536",
+                                    "source_user_id": 2379867073,
+                                    "source_user_id_str": "2379867073"
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1273292530566774784,
+                                    "id_str": "1273292530566774784",
+                                    "indices": [
+                                          108,
+                                          131
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1273292530566774784/img/NJcGcWmuYOISgPAv.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1273292530566774784/img/NJcGcWmuYOISgPAv.jpg",
+                                    "url": "https://t.co/t5ohz8IQ3u",
+                                    "display_url": "pic.twitter.com/t5ohz8IQ3u",
+                                    "expanded_url": "https://twitter.com/NiaDaCosta/status/1273293842113089536/video/1",
+                                    "type": "video",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 675,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 383,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1280,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    },
+                                    "source_status_id": 1273293842113089536,
+                                    "source_status_id_str": "1273293842113089536",
+                                    "source_user_id": 2379867073,
+                                    "source_user_id_str": "2379867073",
+                                    "video_info": {
+                                          "aspect_ratio": [
+                                                16,
+                                                9
+                                          ],
+                                          "duration_millis": 152152,
+                                          "variants": [
+                                                {
+                                                      "bitrate": 832000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/amplify_video/1273292530566774784/vid/640x360/mXfhJ4LLzzV7_0yw.mp4?tag=13"
+                                                },
+                                                {
+                                                      "content_type": "application/x-mpegURL",
+                                                      "url": "https://video.twimg.com/amplify_video/1273292530566774784/pl/oFb7Jbz36_zN85OR.m3u8?tag=13"
+                                                },
+                                                {
+                                                      "bitrate": 2176000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/amplify_video/1273292530566774784/vid/1280x720/Dh0gnjPwlQOdDLCh.mp4?tag=13"
+                                                },
+                                                {
+                                                      "bitrate": 288000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/amplify_video/1273292530566774784/vid/480x270/4Bn3wZMKVsMHto3R.mp4?tag=13"
+                                                }
+                                          ]
+                                    },
+                                    "additional_media_info": {
+                                          "title": "",
+                                          "description": "",
+                                          "embeddable": true,
+                                          "monetizable": false,
+                                          "source_user": {
+                                                "id": 2379867073,
+                                                "id_str": "2379867073",
+                                                "name": "Nia DaCosta",
+                                                "screen_name": "NiaDaCosta",
+                                                "location": "\ud83c\udf6c\ud83d\udc1d",
+                                                "description": "Will meet you by Mordor with the rest of the mandem.",
+                                                "url": "https://t.co/olVi69JL7d",
+                                                "entities": {
+                                                      "url": {
+                                                            "urls": [
+                                                                  {
+                                                                        "url": "https://t.co/olVi69JL7d",
+                                                                        "expanded_url": "https://www.lyricmchenry.com/donate",
+                                                                        "display_url": "lyricmchenry.com/donate",
+                                                                        "indices": [
+                                                                              0,
+                                                                              23
+                                                                        ]
+                                                                  }
+                                                            ]
+                                                      },
+                                                      "description": {
+                                                            "urls": []
+                                                      }
+                                                },
+                                                "protected": false,
+                                                "followers_count": 34588,
+                                                "friends_count": 497,
+                                                "listed_count": 124,
+                                                "created_at": "Sun Mar 09 05:00:12 +0000 2014",
+                                                "favourites_count": 4811,
+                                                "utc_offset": null,
+                                                "time_zone": null,
+                                                "geo_enabled": false,
+                                                "verified": true,
+                                                "statuses_count": 1786,
+                                                "lang": null,
+                                                "contributors_enabled": false,
+                                                "is_translator": false,
+                                                "is_translation_enabled": false,
+                                                "profile_background_color": "C0DEED",
+                                                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                                                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                                                "profile_background_tile": false,
+                                                "profile_image_url": "http://pbs.twimg.com/profile_images/995083996013957121/WjsN_8Eg_normal.jpg",
+                                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/995083996013957121/WjsN_8Eg_normal.jpg",
+                                                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2379867073/1582848284",
+                                                "profile_link_color": "1DA1F2",
+                                                "profile_sidebar_border_color": "C0DEED",
+                                                "profile_sidebar_fill_color": "DDEEF6",
+                                                "profile_text_color": "333333",
+                                                "profile_use_background_image": true,
+                                                "has_extended_profile": false,
+                                                "default_profile": true,
+                                                "default_profile_image": false,
+                                                "following": null,
+                                                "follow_request_sent": null,
+                                                "notifications": null,
+                                                "translator_type": "none"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 14983499,
+                        "id_str": "14983499",
+                        "name": "Fandango",
+                        "screen_name": "Fandango",
+                        "location": "Los Angeles",
+                        "description": "your \ud83c\udf9f\ufe0f to the movies \u2022 theaters and at home https://t.co/ibU3xQnezk \u2022 tickets, trailers, posters, interviews, news, games. we love movies.",
+                        "url": "https://t.co/ibU3xQnezk",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/ibU3xQnezk",
+                                                "expanded_url": "http://www.fandango.com",
+                                                "display_url": "fandango.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/ibU3xQnezk",
+                                                "expanded_url": "http://www.fandango.com",
+                                                "display_url": "fandango.com",
+                                                "indices": [
+                                                      45,
+                                                      68
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 267807,
+                        "friends_count": 2415,
+                        "listed_count": 2398,
+                        "created_at": "Mon Jun 02 18:52:51 +0000 2008",
+                        "favourites_count": 17072,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 41610,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "150000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1262897537687728131/_VDWU6Pw_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1262897537687728131/_VDWU6Pw_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14983499/1591981623",
+                        "profile_link_color": "3478C1",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 140,
+                  "favorite_count": 442,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 19:11:03 +0000 2020",
+                  "id": 1273332347451162629,
+                  "id_str": "1273332347451162629",
+                  "text": "'Candyman' director Nia DaCosta shares eerie puppet teaser tracing hook-handed killer's lore https://t.co/mFcl6HWTxa https://t.co/onyTLskkap",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/mFcl6HWTxa",
+                                    "expanded_url": "https://rol.st/3fr2MJQ",
+                                    "display_url": "rol.st/3fr2MJQ",
+                                    "indices": [
+                                          93,
+                                          116
+                                    ]
+                              }
+                        ],
+                        "media": [
+                              {
+                                    "id": 1273332344888459266,
+                                    "id_str": "1273332344888459266",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EavJBXIXgAIUGFl.png",
+                                    "media_url_https": "https://pbs.twimg.com/media/EavJBXIXgAIUGFl.png",
+                                    "url": "https://t.co/onyTLskkap",
+                                    "display_url": "pic.twitter.com/onyTLskkap",
+                                    "expanded_url": "https://twitter.com/RollingStone/status/1273332347451162629/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "large": {
+                                                "w": 744,
+                                                "h": 494,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 452,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 744,
+                                                "h": 494,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1273332344888459266,
+                                    "id_str": "1273332344888459266",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EavJBXIXgAIUGFl.png",
+                                    "media_url_https": "https://pbs.twimg.com/media/EavJBXIXgAIUGFl.png",
+                                    "url": "https://t.co/onyTLskkap",
+                                    "display_url": "pic.twitter.com/onyTLskkap",
+                                    "expanded_url": "https://twitter.com/RollingStone/status/1273332347451162629/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "large": {
+                                                "w": 744,
+                                                "h": 494,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 452,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 744,
+                                                "h": 494,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 14780915,
+                        "id_str": "14780915",
+                        "name": "Rolling Stone",
+                        "screen_name": "RollingStone",
+                        "location": "New York, New York",
+                        "description": "The latest news and more from Rolling Stone magazine and https://t.co/nFMXaq9sbV.  Got a tip? Share it here: https://t.co/JkxAZoupLY",
+                        "url": "http://t.co/zhpWt9kvuA",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "http://t.co/zhpWt9kvuA",
+                                                "expanded_url": "http://www.rollingstone.com",
+                                                "display_url": "rollingstone.com",
+                                                "indices": [
+                                                      0,
+                                                      22
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/nFMXaq9sbV",
+                                                "expanded_url": "http://RollingStone.com",
+                                                "display_url": "RollingStone.com",
+                                                "indices": [
+                                                      57,
+                                                      80
+                                                ]
+                                          },
+                                          {
+                                                "url": "https://t.co/JkxAZoupLY",
+                                                "expanded_url": "http://rol.st/tips",
+                                                "display_url": "rol.st/tips",
+                                                "indices": [
+                                                      109,
+                                                      132
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 6292293,
+                        "friends_count": 340,
+                        "listed_count": 35797,
+                        "created_at": "Thu May 15 02:52:27 +0000 2008",
+                        "favourites_count": 150,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 130797,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": true,
+                        "profile_background_color": "0B0B0E",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1273360677068046338/Cfb0dFl6_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1273360677068046338/Cfb0dFl6_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14780915/1592308924",
+                        "profile_link_color": "2FC2EF",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "252429",
+                        "profile_text_color": "666666",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 73,
+                  "favorite_count": 415,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 17:16:12 +0000 2020",
+                  "id": 1273303444112019456,
+                  "id_str": "1273303444112019456",
+                  "text": "#Candyman director Nia DaCosta shares powerful video about the film's lore\n\n(via @NiaDaCosta)\nhttps://t.co/bnlYSdTxy0",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "Candyman",
+                                    "indices": [
+                                          0,
+                                          9
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "NiaDaCosta",
+                                    "name": "Nia DaCosta",
+                                    "id": 2379867073,
+                                    "id_str": "2379867073",
+                                    "indices": [
+                                          81,
+                                          92
+                                    ]
+                              }
+                        ],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1273292530566774784,
+                                    "id_str": "1273292530566774784",
+                                    "indices": [
+                                          94,
+                                          117
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1273292530566774784/img/NJcGcWmuYOISgPAv.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1273292530566774784/img/NJcGcWmuYOISgPAv.jpg",
+                                    "url": "https://t.co/bnlYSdTxy0",
+                                    "display_url": "pic.twitter.com/bnlYSdTxy0",
+                                    "expanded_url": "https://twitter.com/NiaDaCosta/status/1273293842113089536/video/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 675,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 383,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1280,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    },
+                                    "source_status_id": 1273293842113089536,
+                                    "source_status_id_str": "1273293842113089536",
+                                    "source_user_id": 2379867073,
+                                    "source_user_id_str": "2379867073"
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1273292530566774784,
+                                    "id_str": "1273292530566774784",
+                                    "indices": [
+                                          94,
+                                          117
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1273292530566774784/img/NJcGcWmuYOISgPAv.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1273292530566774784/img/NJcGcWmuYOISgPAv.jpg",
+                                    "url": "https://t.co/bnlYSdTxy0",
+                                    "display_url": "pic.twitter.com/bnlYSdTxy0",
+                                    "expanded_url": "https://twitter.com/NiaDaCosta/status/1273293842113089536/video/1",
+                                    "type": "video",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 675,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 383,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1280,
+                                                "h": 720,
+                                                "resize": "fit"
+                                          }
+                                    },
+                                    "source_status_id": 1273293842113089536,
+                                    "source_status_id_str": "1273293842113089536",
+                                    "source_user_id": 2379867073,
+                                    "source_user_id_str": "2379867073",
+                                    "video_info": {
+                                          "aspect_ratio": [
+                                                16,
+                                                9
+                                          ],
+                                          "duration_millis": 152152,
+                                          "variants": [
+                                                {
+                                                      "bitrate": 832000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/amplify_video/1273292530566774784/vid/640x360/mXfhJ4LLzzV7_0yw.mp4?tag=13"
+                                                },
+                                                {
+                                                      "content_type": "application/x-mpegURL",
+                                                      "url": "https://video.twimg.com/amplify_video/1273292530566774784/pl/oFb7Jbz36_zN85OR.m3u8?tag=13"
+                                                },
+                                                {
+                                                      "bitrate": 2176000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/amplify_video/1273292530566774784/vid/1280x720/Dh0gnjPwlQOdDLCh.mp4?tag=13"
+                                                },
+                                                {
+                                                      "bitrate": 288000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/amplify_video/1273292530566774784/vid/480x270/4Bn3wZMKVsMHto3R.mp4?tag=13"
+                                                }
+                                          ]
+                                    },
+                                    "additional_media_info": {
+                                          "title": "",
+                                          "description": "",
+                                          "embeddable": true,
+                                          "monetizable": false,
+                                          "source_user": {
+                                                "id": 2379867073,
+                                                "id_str": "2379867073",
+                                                "name": "Nia DaCosta",
+                                                "screen_name": "NiaDaCosta",
+                                                "location": "\ud83c\udf6c\ud83d\udc1d",
+                                                "description": "Will meet you by Mordor with the rest of the mandem.",
+                                                "url": "https://t.co/olVi69JL7d",
+                                                "entities": {
+                                                      "url": {
+                                                            "urls": [
+                                                                  {
+                                                                        "url": "https://t.co/olVi69JL7d",
+                                                                        "expanded_url": "https://www.lyricmchenry.com/donate",
+                                                                        "display_url": "lyricmchenry.com/donate",
+                                                                        "indices": [
+                                                                              0,
+                                                                              23
+                                                                        ]
+                                                                  }
+                                                            ]
+                                                      },
+                                                      "description": {
+                                                            "urls": []
+                                                      }
+                                                },
+                                                "protected": false,
+                                                "followers_count": 34588,
+                                                "friends_count": 497,
+                                                "listed_count": 124,
+                                                "created_at": "Sun Mar 09 05:00:12 +0000 2014",
+                                                "favourites_count": 4811,
+                                                "utc_offset": null,
+                                                "time_zone": null,
+                                                "geo_enabled": false,
+                                                "verified": true,
+                                                "statuses_count": 1786,
+                                                "lang": null,
+                                                "contributors_enabled": false,
+                                                "is_translator": false,
+                                                "is_translation_enabled": false,
+                                                "profile_background_color": "C0DEED",
+                                                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                                                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                                                "profile_background_tile": false,
+                                                "profile_image_url": "http://pbs.twimg.com/profile_images/995083996013957121/WjsN_8Eg_normal.jpg",
+                                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/995083996013957121/WjsN_8Eg_normal.jpg",
+                                                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2379867073/1582848284",
+                                                "profile_link_color": "1DA1F2",
+                                                "profile_sidebar_border_color": "C0DEED",
+                                                "profile_sidebar_fill_color": "DDEEF6",
+                                                "profile_text_color": "333333",
+                                                "profile_use_background_image": true,
+                                                "has_extended_profile": false,
+                                                "default_profile": true,
+                                                "default_profile_image": false,
+                                                "following": null,
+                                                "follow_request_sent": null,
+                                                "notifications": null,
+                                                "translator_type": "none"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 1332121,
+                        "id_str": "1332121",
+                        "name": "Fandom",
+                        "screen_name": "getFANDOM",
+                        "location": "San Francisco, CA",
+                        "description": "\ud83c\udfa5 \ud83c\udfae The latest news in Movies, TV, and Video Games. IG: getfandom \ud83d\udcf7",
+                        "url": "https://t.co/wVFp54Da1X",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/wVFp54Da1X",
+                                                "expanded_url": "https://www.fandom.com",
+                                                "display_url": "fandom.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 304717,
+                        "friends_count": 47321,
+                        "listed_count": 1257,
+                        "created_at": "Sat Mar 17 03:28:55 +0000 2007",
+                        "favourites_count": 11534,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 42852,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "D5DADF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1214705554544721920/LiVtsvCY_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214705554544721920/LiVtsvCY_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1332121/1591397147",
+                        "profile_link_color": "00D6D6",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "E7E7E7",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 78,
+                  "favorite_count": 236,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 21:20:00 +0000 2020",
+                  "id": 1273364796998422528,
+                  "id_str": "1273364796998422528",
+                  "text": "The Origin of #Candyman Comes to Life in This Haunting Animated Short Film \u2014 Watch https://t.co/Z6xMb6QJ8p https://t.co/s3X7MqGGR3",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "Candyman",
+                                    "indices": [
+                                          14,
+                                          23
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/Z6xMb6QJ8p",
+                                    "expanded_url": "https://bit.ly/3dazlKC",
+                                    "display_url": "bit.ly/3dazlKC",
+                                    "indices": [
+                                          83,
+                                          106
+                                    ]
+                              }
+                        ],
+                        "media": [
+                              {
+                                    "id": 1273363934012211201,
+                                    "id_str": "1273363934012211201",
+                                    "indices": [
+                                          107,
+                                          130
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EavlwFyXgAEUfD4.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EavlwFyXgAEUfD4.jpg",
+                                    "url": "https://t.co/s3X7MqGGR3",
+                                    "display_url": "pic.twitter.com/s3X7MqGGR3",
+                                    "expanded_url": "https://twitter.com/IndieWire/status/1273364796998422528/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "large": {
+                                                "w": 1610,
+                                                "h": 711,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 300,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 530,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1273363934012211201,
+                                    "id_str": "1273363934012211201",
+                                    "indices": [
+                                          107,
+                                          130
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EavlwFyXgAEUfD4.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EavlwFyXgAEUfD4.jpg",
+                                    "url": "https://t.co/s3X7MqGGR3",
+                                    "display_url": "pic.twitter.com/s3X7MqGGR3",
+                                    "expanded_url": "https://twitter.com/IndieWire/status/1273364796998422528/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "large": {
+                                                "w": 1610,
+                                                "h": 711,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 300,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 530,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              },
+                              {
+                                    "id": 1273363934054174732,
+                                    "id_str": "1273363934054174732",
+                                    "indices": [
+                                          107,
+                                          130
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EavlwF8X0AwOynj.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EavlwF8X0AwOynj.jpg",
+                                    "url": "https://t.co/s3X7MqGGR3",
+                                    "display_url": "pic.twitter.com/s3X7MqGGR3",
+                                    "expanded_url": "https://twitter.com/IndieWire/status/1273364796998422528/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "small": {
+                                                "w": 680,
+                                                "h": 361,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "large": {
+                                                "w": 1337,
+                                                "h": 709,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 636,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              },
+                              {
+                                    "id": 1273363988051525632,
+                                    "id_str": "1273363988051525632",
+                                    "indices": [
+                                          107,
+                                          130
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EavlzPGWAAALeL3.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EavlzPGWAAALeL3.jpg",
+                                    "url": "https://t.co/s3X7MqGGR3",
+                                    "display_url": "pic.twitter.com/s3X7MqGGR3",
+                                    "expanded_url": "https://twitter.com/IndieWire/status/1273364796998422528/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1200,
+                                                "h": 605,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 680,
+                                                "h": 343,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1386,
+                                                "h": 699,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              },
+                              {
+                                    "id": 1273364001712492546,
+                                    "id_str": "1273364001712492546",
+                                    "indices": [
+                                          107,
+                                          130
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/Eavl0B_X0AIpoO3.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/Eavl0B_X0AIpoO3.jpg",
+                                    "url": "https://t.co/s3X7MqGGR3",
+                                    "display_url": "pic.twitter.com/s3X7MqGGR3",
+                                    "expanded_url": "https://twitter.com/IndieWire/status/1273364796998422528/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "small": {
+                                                "w": 680,
+                                                "h": 360,
+                                                "resize": "fit"
+                                          },
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 1142,
+                                                "h": 605,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 1142,
+                                                "h": 605,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 13992132,
+                        "id_str": "13992132",
+                        "name": "IndieWire",
+                        "screen_name": "IndieWire",
+                        "location": "New York, NY",
+                        "description": "The definitive outlet for film and TV news, reviews, and industry analysis.",
+                        "url": "https://t.co/W4sS8AhVGz",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/W4sS8AhVGz",
+                                                "expanded_url": "http://indiewire.com",
+                                                "display_url": "indiewire.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 696608,
+                        "friends_count": 3272,
+                        "listed_count": 7243,
+                        "created_at": "Tue Feb 26 08:25:08 +0000 2008",
+                        "favourites_count": 2308,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 174392,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "022330",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/737665298824757248/KD6TzJmQ_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/737665298824757248/KD6TzJmQ_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13992132/1588780896",
+                        "profile_link_color": "1E70C7",
+                        "profile_sidebar_border_color": "A8C7F7",
+                        "profile_sidebar_fill_color": "C0DFEC",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 83,
+                  "favorite_count": 423,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 23:39:15 +0000 2020",
+                  "id": 1273399843545735168,
+                  "id_str": "1273399843545735168",
+                  "text": "Nia DaCosta directed the new CANDYMAN! I\u2019m desperate to watch. \u2764\ufe0f\ud83d\ude4f\ud83c\udffe https://t.co/Z4n76E6hVd",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/Z4n76E6hVd",
+                                    "expanded_url": "https://twitter.com/filmguy619/status/1273374051923353600",
+                                    "display_url": "twitter.com/filmguy619/sta\u2026",
+                                    "indices": [
+                                          68,
+                                          91
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 29860364,
+                        "id_str": "29860364",
+                        "name": "Keke Palmer",
+                        "screen_name": "KekePalmer",
+                        "location": "",
+                        "description": "\ud83d\udc51 Millennial Diva \ud83d\udc51",
+                        "url": "https://t.co/PGOiPZMJgk",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/PGOiPZMJgk",
+                                                "expanded_url": "http://www.instagram.com/keke",
+                                                "display_url": "instagram.com/keke",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1820365,
+                        "friends_count": 17151,
+                        "listed_count": 6881,
+                        "created_at": "Wed Apr 08 23:55:19 +0000 2009",
+                        "favourites_count": 27747,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 16225,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FFFFFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1268176840998285312/21oOR8Qo_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268176840998285312/21oOR8Qo_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29860364/1587100613",
+                        "profile_link_color": "1B95E0",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "E8B5FF",
+                        "profile_text_color": "363636",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1273374051923353600,
+                  "quoted_status_id_str": "1273374051923353600",
+                  "quoted_status": {
+                        "created_at": "Wed Jun 17 21:56:46 +0000 2020",
+                        "id": 1273374051923353600,
+                        "id_str": "1273374051923353600",
+                        "text": "It may not have come out yet, but just to reiterate:\n\nNia DaCosta's CANDYMAN\nNia DaCosta's CANDYMAN\nNia DaCosta's C\u2026 https://t.co/cd42w78qtM",
+                        "truncated": true,
+                        "entities": {
+                              "hashtags": [],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/cd42w78qtM",
+                                          "expanded_url": "https://twitter.com/i/web/status/1273374051923353600",
+                                          "display_url": "twitter.com/i/web/status/1\u2026",
+                                          "indices": [
+                                                117,
+                                                140
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 65916546,
+                              "id_str": "65916546",
+                              "name": "Matthew St.Clair",
+                              "screen_name": "filmguy619",
+                              "location": "",
+                              "description": "Film writer at various places | @O_Revisionist podcast host l Hufflepuff | GALECA/OFTA Member| (He/him/his) \ud83c\udff3\ufe0f\u200d\ud83c\udf08 #BlackLivesMatter",
+                              "url": "https://t.co/U6zLEwTq2U",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/U6zLEwTq2U",
+                                                      "expanded_url": "https://muckrack.com/matthew-stclair-1",
+                                                      "display_url": "muckrack.com/matthew-stclai\u2026",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 3934,
+                              "friends_count": 1937,
+                              "listed_count": 46,
+                              "created_at": "Sat Aug 15 15:19:32 +0000 2009",
+                              "favourites_count": 40796,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": true,
+                              "verified": false,
+                              "statuses_count": 37934,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "000000",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1251949877728337921/inAd2ofU_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251949877728337921/inAd2ofU_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/65916546/1591003890",
+                              "profile_link_color": "91D2FA",
+                              "profile_sidebar_border_color": "000000",
+                              "profile_sidebar_fill_color": "000000",
+                              "profile_text_color": "000000",
+                              "profile_use_background_image": false,
+                              "has_extended_profile": true,
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 221,
+                        "favorite_count": 744,
+                        "favorited": false,
+                        "retweeted": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 72,
+                  "favorite_count": 425,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 17:00:52 +0000 2020",
+                  "id": 1273299584031260674,
+                  "id_str": "1273299584031260674",
+                  "text": "Director @NiaDaCosta Puppeteers a Riveting, Must-Watch Modern #Candyman Story [Video] https://t.co/9A7UnSK50L",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "Candyman",
+                                    "indices": [
+                                          62,
+                                          71
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "NiaDaCosta",
+                                    "name": "Nia DaCosta",
+                                    "id": 2379867073,
+                                    "id_str": "2379867073",
+                                    "indices": [
+                                          9,
+                                          20
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/9A7UnSK50L",
+                                    "expanded_url": "https://bloody-disgusting.com/movie/3620518/director-nia-dacosta-puppeteers-riveting-modern-candyman-story-video/",
+                                    "display_url": "bloody-disgusting.com/movie/3620518/\u2026",
+                                    "indices": [
+                                          86,
+                                          109
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://bloody-disgusting.com\" rel=\"nofollow\">BD WP to Twitter 2</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 20745274,
+                        "id_str": "20745274",
+                        "name": "Bloody Disgusting",
+                        "screen_name": "BDisgusting",
+                        "location": "Chicago, IL",
+                        "description": "\ud83d\udc80 Your #1 source for all things #horror \ud83d\udc80",
+                        "url": "https://t.co/fGw8Q6PxXG",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/fGw8Q6PxXG",
+                                                "expanded_url": "http://www.bloodydisgusting.com",
+                                                "display_url": "bloodydisgusting.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 207270,
+                        "friends_count": 8690,
+                        "listed_count": 2151,
+                        "created_at": "Fri Feb 13 03:41:15 +0000 2009",
+                        "favourites_count": 7014,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 90503,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1198734123495559169/mSocd0eJ_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198734123495559169/mSocd0eJ_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20745274/1559930028",
+                        "profile_link_color": "B30000",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "C7C7C7",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 60,
+                  "favorite_count": 285,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 18:24:51 +0000 2020",
+                  "id": 1273320719481368577,
+                  "id_str": "1273320719481368577",
+                  "text": "Poetic and powerful. Nia DaCosta's #Candyman arrives in theaters this Fall. https://t.co/qUPDZtXUpD",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [
+                              {
+                                    "text": "Candyman",
+                                    "indices": [
+                                          35,
+                                          44
+                                    ]
+                              }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/qUPDZtXUpD",
+                                    "expanded_url": "https://twitter.com/NiaDaCosta/status/1273293842113089536",
+                                    "display_url": "twitter.com/NiaDaCosta/sta\u2026",
+                                    "indices": [
+                                          76,
+                                          99
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 20108560,
+                        "id_str": "20108560",
+                        "name": "Rotten Tomatoes",
+                        "screen_name": "RottenTomatoes",
+                        "location": "Los Angeles",
+                        "description": "Serving Up Fresh and Rotten Reviews for Movies and TV: https://t.co/Se7yZZNlSW",
+                        "url": "https://t.co/kY8mEpg2hz",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/kY8mEpg2hz",
+                                                "expanded_url": "http://www.rottentomatoes.com",
+                                                "display_url": "rottentomatoes.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/Se7yZZNlSW",
+                                                "expanded_url": "http://rottentomatoes.com",
+                                                "display_url": "rottentomatoes.com",
+                                                "indices": [
+                                                      55,
+                                                      78
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 2265822,
+                        "friends_count": 1408,
+                        "listed_count": 14200,
+                        "created_at": "Thu Feb 05 00:06:55 +0000 2009",
+                        "favourites_count": 7156,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 44444,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "E6EAE6",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1145693812464816128/9ZMAMaoT_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145693812464816128/9ZMAMaoT_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20108560/1590600780",
+                        "profile_link_color": "FA320A",
+                        "profile_sidebar_border_color": "A9A659",
+                        "profile_sidebar_fill_color": "EBE9B6",
+                        "profile_text_color": "666666",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1273293842113089536,
+                  "quoted_status_id_str": "1273293842113089536",
+                  "quoted_status": {
+                        "created_at": "Wed Jun 17 16:38:03 +0000 2020",
+                        "id": 1273293842113089536,
+                        "id_str": "1273293842113089536",
+                        "text": "CANDYMAN, at the intersection of white violence and black pain, is about unwilling martyrs. The people they were, t\u2026 https://t.co/3gQKFbTRNp",
+                        "truncated": true,
+                        "entities": {
+                              "hashtags": [],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/3gQKFbTRNp",
+                                          "expanded_url": "https://twitter.com/i/web/status/1273293842113089536",
+                                          "display_url": "twitter.com/i/web/status/1\u2026",
+                                          "indices": [
+                                                117,
+                                                140
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 2379867073,
+                              "id_str": "2379867073",
+                              "name": "Nia DaCosta",
+                              "screen_name": "NiaDaCosta",
+                              "location": "\ud83c\udf6c\ud83d\udc1d",
+                              "description": "Will meet you by Mordor with the rest of the mandem.",
+                              "url": "https://t.co/olVi69JL7d",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/olVi69JL7d",
+                                                      "expanded_url": "https://www.lyricmchenry.com/donate",
+                                                      "display_url": "lyricmchenry.com/donate",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 34588,
+                              "friends_count": 497,
+                              "listed_count": 124,
+                              "created_at": "Sun Mar 09 05:00:12 +0000 2014",
+                              "favourites_count": 4811,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": false,
+                              "verified": true,
+                              "statuses_count": 1786,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "C0DEED",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/995083996013957121/WjsN_8Eg_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/995083996013957121/WjsN_8Eg_normal.jpg",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2379867073/1582848284",
+                              "profile_link_color": "1DA1F2",
+                              "profile_sidebar_border_color": "C0DEED",
+                              "profile_sidebar_fill_color": "DDEEF6",
+                              "profile_text_color": "333333",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": false,
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 29863,
+                        "favorite_count": 68866,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 45,
+                  "favorite_count": 182,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 05:14:50 +0000 2020",
+                  "id": 1273121905965490178,
+                  "id_str": "1273121905965490178",
+                  "text": "Not to trivialize it but an amazing thing about coronavirus is how it\u2019s kinda like Candyman in that anyone who rant\u2026 https://t.co/HF64pD6W92",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/HF64pD6W92",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273121905965490178",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 25484126,
+                        "id_str": "25484126",
+                        "name": "Aaron Stewart-Ahn",
+                        "screen_name": "somebadideas",
+                        "location": "Shadow Mountains, USA",
+                        "description": "PARK in @dazed magazine S/S 2020 \u25ab\ufe0f\u25ab\ufe0f Lead writer THOR: METAL GODS \u25ab\ufe0f\u25ab\ufe0f Co-screenwriter MANDY\u25ab\ufe0f\u25ab\ufe0f Lee Chang-dong fan account",
+                        "url": "https://t.co/5BDsU9kH1L",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/5BDsU9kH1L",
+                                                "expanded_url": "http://asahn.me",
+                                                "display_url": "asahn.me",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 21666,
+                        "friends_count": 3181,
+                        "listed_count": 415,
+                        "created_at": "Fri Mar 20 09:59:35 +0000 2009",
+                        "favourites_count": 129913,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 127243,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "1A1B1F",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1161105908480532480/efzfTRsQ_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1161105908480532480/efzfTRsQ_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25484126/1565664086",
+                        "profile_link_color": "8DAEB8",
+                        "profile_sidebar_border_color": "181A1E",
+                        "profile_sidebar_fill_color": "252429",
+                        "profile_text_color": "666666",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 17,
+                  "favorite_count": 91,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 19:58:20 +0000 2020",
+                  "id": 1273344245970001920,
+                  "id_str": "1273344245970001920",
+                  "text": "Say his name: Candyman.\nAnd say her name: Nia DaCosta. https://t.co/qdszY0iIc9",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1273344079460352000,
+                                    "id_str": "1273344079460352000",
+                                    "indices": [
+                                          55,
+                                          78
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EavTsZ0UwAArrWE.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EavTsZ0UwAArrWE.jpg",
+                                    "url": "https://t.co/qdszY0iIc9",
+                                    "display_url": "pic.twitter.com/qdszY0iIc9",
+                                    "expanded_url": "https://twitter.com/Fandango/status/1273344245970001920/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "large": {
+                                                "w": 477,
+                                                "h": 755,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 430,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 477,
+                                                "h": 755,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1273344079460352000,
+                                    "id_str": "1273344079460352000",
+                                    "indices": [
+                                          55,
+                                          78
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/media/EavTsZ0UwAArrWE.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/media/EavTsZ0UwAArrWE.jpg",
+                                    "url": "https://t.co/qdszY0iIc9",
+                                    "display_url": "pic.twitter.com/qdszY0iIc9",
+                                    "expanded_url": "https://twitter.com/Fandango/status/1273344245970001920/photo/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "large": {
+                                                "w": 477,
+                                                "h": 755,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 430,
+                                                "h": 680,
+                                                "resize": "fit"
+                                          },
+                                          "medium": {
+                                                "w": 477,
+                                                "h": 755,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": 1273296844412481536,
+                  "in_reply_to_status_id_str": "1273296844412481536",
+                  "in_reply_to_user_id": 14983499,
+                  "in_reply_to_user_id_str": "14983499",
+                  "in_reply_to_screen_name": "Fandango",
+                  "user": {
+                        "id": 14983499,
+                        "id_str": "14983499",
+                        "name": "Fandango",
+                        "screen_name": "Fandango",
+                        "location": "Los Angeles",
+                        "description": "your \ud83c\udf9f\ufe0f to the movies \u2022 theaters and at home https://t.co/ibU3xQnezk \u2022 tickets, trailers, posters, interviews, news, games. we love movies.",
+                        "url": "https://t.co/ibU3xQnezk",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/ibU3xQnezk",
+                                                "expanded_url": "http://www.fandango.com",
+                                                "display_url": "fandango.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/ibU3xQnezk",
+                                                "expanded_url": "http://www.fandango.com",
+                                                "display_url": "fandango.com",
+                                                "indices": [
+                                                      45,
+                                                      68
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 267807,
+                        "friends_count": 2415,
+                        "listed_count": 2398,
+                        "created_at": "Mon Jun 02 18:52:51 +0000 2008",
+                        "favourites_count": 17072,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 41610,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "150000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1262897537687728131/_VDWU6Pw_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1262897537687728131/_VDWU6Pw_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14983499/1591981623",
+                        "profile_link_color": "3478C1",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 34,
+                  "favorite_count": 128,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.043,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1273121905965490177&q=Candyman&count=10&include_entities=1&result_type=popular",
+            "query": "Candyman",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

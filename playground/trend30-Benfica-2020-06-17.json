@@ -1,0 +1,4232 @@
+{
+      "created_at": "Thu Jun 18 00:51:38 +0000 2020",
+      "id": 1273418056778252288,
+      "id_str": "1273418056778252288",
+      "text": "RT @maisfutebol: \u00abEstou fora deste circo, j\u00e1 nada me surpreende no futebol portugu\u00eas\u00bb\nhttps://t.co/9zpBVhfX5e https://t.co/gkWk7ibPAe",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 3644434773,
+            "id_str": "3644434773",
+            "name": "O MARTINS \u00ae",
+            "screen_name": "oteukrido",
+            "location": "Guimar\u00e3es, Portugal",
+            "url": null,
+            "description": "Carlos Martins IG:carlos_de_martins",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 721,
+            "friends_count": 492,
+            "listed_count": 1,
+            "favourites_count": 10463,
+            "statuses_count": 18517,
+            "created_at": "Sun Sep 13 17:51:08 +0000 2015",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1231326678774960128/0u7Y01Hq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1231326678774960128/0u7Y01Hq_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3644434773/1582406132",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Wed Jun 17 22:37:43 +0000 2020",
+            "id": 1273384356703350785,
+            "id_str": "1273384356703350785",
+            "text": "\u00abEstou fora deste circo, j\u00e1 nada me surpreende no futebol portugu\u00eas\u00bb\nhttps://t.co/9zpBVhfX5e https://t.co/gkWk7ibPAe",
+            "display_text_range": [
+                  0,
+                  92
+            ],
+            "source": "<a href=\"http://www.maisfutebol.iol.pt\" rel=\"nofollow\">AutomaticPosts</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 16951979,
+                  "id_str": "16951979",
+                  "name": "maisfutebol",
+                  "screen_name": "maisfutebol",
+                  "location": "Portugal",
+                  "url": "http://www.maisfutebol.iol.pt",
+                  "description": "Jornal desportivo \u00fanico, nativo digital, que vive diariamente todas as emo\u00e7\u00f5es do desporto, em particular do futebol nacional e internacional.",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": true,
+                  "followers_count": 194488,
+                  "friends_count": 1445,
+                  "listed_count": 677,
+                  "favourites_count": 1271,
+                  "statuses_count": 286706,
+                  "created_at": "Fri Oct 24 16:31:43 +0000 2008",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": true,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "C0DEED",
+                  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_tile": false,
+                  "profile_link_color": "B35400",
+                  "profile_sidebar_border_color": "C0DEED",
+                  "profile_sidebar_fill_color": "DDEEF6",
+                  "profile_text_color": "333333",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1255606321937821698/dAN8rIqm_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255606321937821698/dAN8rIqm_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/16951979/1582220079",
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 22,
+            "reply_count": 16,
+            "retweet_count": 159,
+            "favorite_count": 349,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [
+                        {
+                              "url": "https://t.co/9zpBVhfX5e",
+                              "expanded_url": "https://maisfutebol.iol.pt/liga/benfica/estou-fora-deste-circo-ja-nada-me-surpreende-no-futebol-portugues?utm_campaign=auto-tw&utm_source=twitter&utm_medium=social",
+                              "display_url": "maisfutebol.iol.pt/liga/benfica/e\u2026",
+                              "indices": [
+                                    69,
+                                    92
+                              ]
+                        }
+                  ],
+                  "user_mentions": [],
+                  "symbols": [],
+                  "media": [
+                        {
+                              "id": 1273384354622976001,
+                              "id_str": "1273384354622976001",
+                              "indices": [
+                                    93,
+                                    116
+                              ],
+                              "media_url": "http://pbs.twimg.com/media/Eav4UufXsAEYtTy.jpg",
+                              "media_url_https": "https://pbs.twimg.com/media/Eav4UufXsAEYtTy.jpg",
+                              "url": "https://t.co/gkWk7ibPAe",
+                              "display_url": "pic.twitter.com/gkWk7ibPAe",
+                              "expanded_url": "https://twitter.com/maisfutebol/status/1273384356703350785/photo/1",
+                              "type": "photo",
+                              "sizes": {
+                                    "medium": {
+                                          "w": 1200,
+                                          "h": 720,
+                                          "resize": "fit"
+                                    },
+                                    "thumb": {
+                                          "w": 150,
+                                          "h": 150,
+                                          "resize": "crop"
+                                    },
+                                    "large": {
+                                          "w": 1280,
+                                          "h": 768,
+                                          "resize": "fit"
+                                    },
+                                    "small": {
+                                          "w": 680,
+                                          "h": 408,
+                                          "resize": "fit"
+                                    }
+                              }
+                        }
+                  ]
+            },
+            "extended_entities": {
+                  "media": [
+                        {
+                              "id": 1273384354622976001,
+                              "id_str": "1273384354622976001",
+                              "indices": [
+                                    93,
+                                    116
+                              ],
+                              "media_url": "http://pbs.twimg.com/media/Eav4UufXsAEYtTy.jpg",
+                              "media_url_https": "https://pbs.twimg.com/media/Eav4UufXsAEYtTy.jpg",
+                              "url": "https://t.co/gkWk7ibPAe",
+                              "display_url": "pic.twitter.com/gkWk7ibPAe",
+                              "expanded_url": "https://twitter.com/maisfutebol/status/1273384356703350785/photo/1",
+                              "type": "photo",
+                              "sizes": {
+                                    "medium": {
+                                          "w": 1200,
+                                          "h": 720,
+                                          "resize": "fit"
+                                    },
+                                    "thumb": {
+                                          "w": 150,
+                                          "h": 150,
+                                          "resize": "crop"
+                                    },
+                                    "large": {
+                                          "w": 1280,
+                                          "h": 768,
+                                          "resize": "fit"
+                                    },
+                                    "small": {
+                                          "w": 680,
+                                          "h": 408,
+                                          "resize": "fit"
+                                    }
+                              }
+                        }
+                  ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "pt"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [
+                  {
+                        "url": "https://t.co/9zpBVhfX5e",
+                        "expanded_url": "https://maisfutebol.iol.pt/liga/benfica/estou-fora-deste-circo-ja-nada-me-surpreende-no-futebol-portugues?utm_campaign=auto-tw&utm_source=twitter&utm_medium=social",
+                        "display_url": "maisfutebol.iol.pt/liga/benfica/e\u2026",
+                        "indices": [
+                              86,
+                              109
+                        ]
+                  }
+            ],
+            "user_mentions": [
+                  {
+                        "screen_name": "maisfutebol",
+                        "name": "maisfutebol",
+                        "id": 16951979,
+                        "id_str": "16951979",
+                        "indices": [
+                              3,
+                              15
+                        ]
+                  }
+            ],
+            "symbols": [],
+            "media": [
+                  {
+                        "id": 1273384354622976001,
+                        "id_str": "1273384354622976001",
+                        "indices": [
+                              110,
+                              133
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Eav4UufXsAEYtTy.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Eav4UufXsAEYtTy.jpg",
+                        "url": "https://t.co/gkWk7ibPAe",
+                        "display_url": "pic.twitter.com/gkWk7ibPAe",
+                        "expanded_url": "https://twitter.com/maisfutebol/status/1273384356703350785/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                              "medium": {
+                                    "w": 1200,
+                                    "h": 720,
+                                    "resize": "fit"
+                              },
+                              "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                              },
+                              "large": {
+                                    "w": 1280,
+                                    "h": 768,
+                                    "resize": "fit"
+                              },
+                              "small": {
+                                    "w": 680,
+                                    "h": 408,
+                                    "resize": "fit"
+                              }
+                        },
+                        "source_status_id": 1273384356703350785,
+                        "source_status_id_str": "1273384356703350785",
+                        "source_user_id": 16951979,
+                        "source_user_id_str": "16951979"
+                  }
+            ]
+      },
+      "extended_entities": {
+            "media": [
+                  {
+                        "id": 1273384354622976001,
+                        "id_str": "1273384354622976001",
+                        "indices": [
+                              110,
+                              133
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Eav4UufXsAEYtTy.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Eav4UufXsAEYtTy.jpg",
+                        "url": "https://t.co/gkWk7ibPAe",
+                        "display_url": "pic.twitter.com/gkWk7ibPAe",
+                        "expanded_url": "https://twitter.com/maisfutebol/status/1273384356703350785/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                              "medium": {
+                                    "w": 1200,
+                                    "h": 720,
+                                    "resize": "fit"
+                              },
+                              "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                              },
+                              "large": {
+                                    "w": 1280,
+                                    "h": 768,
+                                    "resize": "fit"
+                              },
+                              "small": {
+                                    "w": 680,
+                                    "h": 408,
+                                    "resize": "fit"
+                              }
+                        },
+                        "source_status_id": 1273384356703350785,
+                        "source_status_id_str": "1273384356703350785",
+                        "source_user_id": 16951979,
+                        "source_user_id_str": "16951979"
+                  }
+            ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "pt",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:51:25 +0000 2020",
+      "id": 1273418001551949824,
+      "id_str": "1273418001551949824",
+      "text": "grande benfica que orgulho, sporting \u00e9 merda vou mudar",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 783673720447635456,
+            "id_str": "783673720447635456",
+            "name": "david bicho",
+            "screen_name": "David_bicho7",
+            "location": "Portugal",
+            "url": null,
+            "description": "Aveiro \ud83c\udf93",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 266,
+            "friends_count": 268,
+            "listed_count": 0,
+            "favourites_count": 14794,
+            "statuses_count": 8478,
+            "created_at": "Wed Oct 05 14:22:29 +0000 2016",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/928743400710594560/hpuD42Os_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/928743400710594560/hpuD42Os_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783673720447635456/1510264893",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "pt",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:51:18 +0000 2020",
+      "id": 1273417974972628993,
+      "id_str": "1273417974972628993",
+      "text": "RT @1904Militancia: A UEFA anunciou que a Youth League ser\u00e1 retomada em agosto. \n\nVamos l\u00e1, Benfica! Este ano \u00e9 nossa! https://t.co/a5mrsuH\u2026",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 1059499888910708738,
+            "id_str": "1059499888910708738",
+            "name": "Tom\u00e1s Baptista",
+            "screen_name": "TomsBaptista6",
+            "location": null,
+            "url": null,
+            "description": "Futebol, nothing more\u26bd\ud83e\udd29",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 177,
+            "friends_count": 206,
+            "listed_count": 0,
+            "favourites_count": 32384,
+            "statuses_count": 9118,
+            "created_at": "Mon Nov 05 17:37:12 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1270365725023182849/t10dTMqD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1270365725023182849/t10dTMqD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1059499888910708738/1592255906",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Wed Jun 17 13:42:26 +0000 2020",
+            "id": 1273249649135177739,
+            "id_str": "1273249649135177739",
+            "text": "A UEFA anunciou que a Youth League ser\u00e1 retomada em agosto. \n\nVamos l\u00e1, Benfica! Este ano \u00e9 nossa! https://t.co/a5mrsuHJAe",
+            "display_text_range": [
+                  0,
+                  98
+            ],
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 1016744174610255872,
+                  "id_str": "1016744174610255872",
+                  "name": "Milit\u00e2ncia Benfiquista",
+                  "screen_name": "1904Militancia",
+                  "location": null,
+                  "url": null,
+                  "description": "Glorioso. \u00danico. Incompar\u00e1vel. Maior que Portugal. Sport Lisboa e Benfica.",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 5604,
+                  "friends_count": 87,
+                  "listed_count": 10,
+                  "favourites_count": 57,
+                  "statuses_count": 11480,
+                  "created_at": "Tue Jul 10 18:01:16 +0000 2018",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": false,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "F5F8FA",
+                  "profile_background_image_url": "",
+                  "profile_background_image_url_https": "",
+                  "profile_background_tile": false,
+                  "profile_link_color": "1DA1F2",
+                  "profile_sidebar_border_color": "C0DEED",
+                  "profile_sidebar_fill_color": "DDEEF6",
+                  "profile_text_color": "333333",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1030917785730379776/a6VqQpcG_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1030917785730379776/a6VqQpcG_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1016744174610255872/1531333049",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 47,
+            "reply_count": 4,
+            "retweet_count": 290,
+            "favorite_count": 1360,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [],
+                  "user_mentions": [],
+                  "symbols": [],
+                  "media": [
+                        {
+                              "id": 1273249641946120192,
+                              "id_str": "1273249641946120192",
+                              "indices": [
+                                    99,
+                                    122
+                              ],
+                              "media_url": "http://pbs.twimg.com/media/Eat9zaqXgAAlhwf.jpg",
+                              "media_url_https": "https://pbs.twimg.com/media/Eat9zaqXgAAlhwf.jpg",
+                              "url": "https://t.co/a5mrsuHJAe",
+                              "display_url": "pic.twitter.com/a5mrsuHJAe",
+                              "expanded_url": "https://twitter.com/1904Militancia/status/1273249649135177739/photo/1",
+                              "type": "photo",
+                              "sizes": {
+                                    "small": {
+                                          "w": 680,
+                                          "h": 382,
+                                          "resize": "fit"
+                                    },
+                                    "thumb": {
+                                          "w": 150,
+                                          "h": 150,
+                                          "resize": "crop"
+                                    },
+                                    "medium": {
+                                          "w": 1200,
+                                          "h": 675,
+                                          "resize": "fit"
+                                    },
+                                    "large": {
+                                          "w": 1320,
+                                          "h": 742,
+                                          "resize": "fit"
+                                    }
+                              }
+                        }
+                  ]
+            },
+            "extended_entities": {
+                  "media": [
+                        {
+                              "id": 1273249641946120192,
+                              "id_str": "1273249641946120192",
+                              "indices": [
+                                    99,
+                                    122
+                              ],
+                              "media_url": "http://pbs.twimg.com/media/Eat9zaqXgAAlhwf.jpg",
+                              "media_url_https": "https://pbs.twimg.com/media/Eat9zaqXgAAlhwf.jpg",
+                              "url": "https://t.co/a5mrsuHJAe",
+                              "display_url": "pic.twitter.com/a5mrsuHJAe",
+                              "expanded_url": "https://twitter.com/1904Militancia/status/1273249649135177739/photo/1",
+                              "type": "photo",
+                              "sizes": {
+                                    "small": {
+                                          "w": 680,
+                                          "h": 382,
+                                          "resize": "fit"
+                                    },
+                                    "thumb": {
+                                          "w": 150,
+                                          "h": 150,
+                                          "resize": "crop"
+                                    },
+                                    "medium": {
+                                          "w": 1200,
+                                          "h": 675,
+                                          "resize": "fit"
+                                    },
+                                    "large": {
+                                          "w": 1320,
+                                          "h": 742,
+                                          "resize": "fit"
+                                    }
+                              }
+                        }
+                  ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "pt"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "1904Militancia",
+                        "name": "Milit\u00e2ncia Benfiquista",
+                        "id": 1016744174610255872,
+                        "id_str": "1016744174610255872",
+                        "indices": [
+                              3,
+                              18
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "pt",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:51:18 +0000 2020",
+      "id": 1273417971696906240,
+      "id_str": "1273417971696906240",
+      "text": "RT @1904Militancia: Faz hoje 4 anos que Nico Gait\u00e1n saiu do Benfica. https://t.co/9Zfs9vynBS",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 1217833053814390785,
+            "id_str": "1217833053814390785",
+            "name": "G",
+            "screen_name": "Gmartins11_",
+            "location": "Beja, Portugal",
+            "url": null,
+            "description": "\u20221904\ud83d\udd34\u26aa //\nig: _.martins11._  // 19y",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 149,
+            "friends_count": 146,
+            "listed_count": 0,
+            "favourites_count": 3578,
+            "statuses_count": 3367,
+            "created_at": "Thu Jan 16 15:37:12 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1272860417191219200/7DTpq58l_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272860417191219200/7DTpq58l_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1217833053814390785/1590438967",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Wed Jun 17 11:50:04 +0000 2020",
+            "id": 1273221368931397632,
+            "id_str": "1273221368931397632",
+            "text": "Faz hoje 4 anos que Nico Gait\u00e1n saiu do Benfica. https://t.co/9Zfs9vynBS",
+            "display_text_range": [
+                  0,
+                  48
+            ],
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 1016744174610255872,
+                  "id_str": "1016744174610255872",
+                  "name": "Milit\u00e2ncia Benfiquista",
+                  "screen_name": "1904Militancia",
+                  "location": null,
+                  "url": null,
+                  "description": "Glorioso. \u00danico. Incompar\u00e1vel. Maior que Portugal. Sport Lisboa e Benfica.",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 5604,
+                  "friends_count": 87,
+                  "listed_count": 10,
+                  "favourites_count": 57,
+                  "statuses_count": 11480,
+                  "created_at": "Tue Jul 10 18:01:16 +0000 2018",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": false,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "F5F8FA",
+                  "profile_background_image_url": "",
+                  "profile_background_image_url_https": "",
+                  "profile_background_tile": false,
+                  "profile_link_color": "1DA1F2",
+                  "profile_sidebar_border_color": "C0DEED",
+                  "profile_sidebar_fill_color": "DDEEF6",
+                  "profile_text_color": "333333",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1030917785730379776/a6VqQpcG_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1030917785730379776/a6VqQpcG_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1016744174610255872/1531333049",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 61,
+            "reply_count": 7,
+            "retweet_count": 232,
+            "favorite_count": 1183,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [],
+                  "user_mentions": [],
+                  "symbols": [],
+                  "media": [
+                        {
+                              "id": 1273221362920960000,
+                              "id_str": "1273221362920960000",
+                              "indices": [
+                                    49,
+                                    72
+                              ],
+                              "media_url": "http://pbs.twimg.com/media/EatkFXFXsAAV2gh.jpg",
+                              "media_url_https": "https://pbs.twimg.com/media/EatkFXFXsAAV2gh.jpg",
+                              "url": "https://t.co/9Zfs9vynBS",
+                              "display_url": "pic.twitter.com/9Zfs9vynBS",
+                              "expanded_url": "https://twitter.com/1904Militancia/status/1273221368931397632/photo/1",
+                              "type": "photo",
+                              "sizes": {
+                                    "thumb": {
+                                          "w": 150,
+                                          "h": 150,
+                                          "resize": "crop"
+                                    },
+                                    "medium": {
+                                          "w": 1200,
+                                          "h": 675,
+                                          "resize": "fit"
+                                    },
+                                    "small": {
+                                          "w": 680,
+                                          "h": 382,
+                                          "resize": "fit"
+                                    },
+                                    "large": {
+                                          "w": 1320,
+                                          "h": 742,
+                                          "resize": "fit"
+                                    }
+                              }
+                        }
+                  ]
+            },
+            "extended_entities": {
+                  "media": [
+                        {
+                              "id": 1273221362920960000,
+                              "id_str": "1273221362920960000",
+                              "indices": [
+                                    49,
+                                    72
+                              ],
+                              "media_url": "http://pbs.twimg.com/media/EatkFXFXsAAV2gh.jpg",
+                              "media_url_https": "https://pbs.twimg.com/media/EatkFXFXsAAV2gh.jpg",
+                              "url": "https://t.co/9Zfs9vynBS",
+                              "display_url": "pic.twitter.com/9Zfs9vynBS",
+                              "expanded_url": "https://twitter.com/1904Militancia/status/1273221368931397632/photo/1",
+                              "type": "photo",
+                              "sizes": {
+                                    "thumb": {
+                                          "w": 150,
+                                          "h": 150,
+                                          "resize": "crop"
+                                    },
+                                    "medium": {
+                                          "w": 1200,
+                                          "h": 675,
+                                          "resize": "fit"
+                                    },
+                                    "small": {
+                                          "w": 680,
+                                          "h": 382,
+                                          "resize": "fit"
+                                    },
+                                    "large": {
+                                          "w": 1320,
+                                          "h": 742,
+                                          "resize": "fit"
+                                    }
+                              }
+                        }
+                  ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "pt"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "1904Militancia",
+                        "name": "Milit\u00e2ncia Benfiquista",
+                        "id": 1016744174610255872,
+                        "id_str": "1016744174610255872",
+                        "indices": [
+                              3,
+                              18
+                        ]
+                  }
+            ],
+            "symbols": [],
+            "media": [
+                  {
+                        "id": 1273221362920960000,
+                        "id_str": "1273221362920960000",
+                        "indices": [
+                              69,
+                              92
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EatkFXFXsAAV2gh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EatkFXFXsAAV2gh.jpg",
+                        "url": "https://t.co/9Zfs9vynBS",
+                        "display_url": "pic.twitter.com/9Zfs9vynBS",
+                        "expanded_url": "https://twitter.com/1904Militancia/status/1273221368931397632/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                              "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                              },
+                              "medium": {
+                                    "w": 1200,
+                                    "h": 675,
+                                    "resize": "fit"
+                              },
+                              "small": {
+                                    "w": 680,
+                                    "h": 382,
+                                    "resize": "fit"
+                              },
+                              "large": {
+                                    "w": 1320,
+                                    "h": 742,
+                                    "resize": "fit"
+                              }
+                        },
+                        "source_status_id": 1273221368931397632,
+                        "source_status_id_str": "1273221368931397632",
+                        "source_user_id": 1016744174610255872,
+                        "source_user_id_str": "1016744174610255872"
+                  }
+            ]
+      },
+      "extended_entities": {
+            "media": [
+                  {
+                        "id": 1273221362920960000,
+                        "id_str": "1273221362920960000",
+                        "indices": [
+                              69,
+                              92
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EatkFXFXsAAV2gh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EatkFXFXsAAV2gh.jpg",
+                        "url": "https://t.co/9Zfs9vynBS",
+                        "display_url": "pic.twitter.com/9Zfs9vynBS",
+                        "expanded_url": "https://twitter.com/1904Militancia/status/1273221368931397632/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                              "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                              },
+                              "medium": {
+                                    "w": 1200,
+                                    "h": 675,
+                                    "resize": "fit"
+                              },
+                              "small": {
+                                    "w": 680,
+                                    "h": 382,
+                                    "resize": "fit"
+                              },
+                              "large": {
+                                    "w": 1320,
+                                    "h": 742,
+                                    "resize": "fit"
+                              }
+                        },
+                        "source_status_id": 1273221368931397632,
+                        "source_status_id_str": "1273221368931397632",
+                        "source_user_id": 1016744174610255872,
+                        "source_user_id_str": "1016744174610255872"
+                  }
+            ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "pt",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:51:13 +0000 2020",
+      "id": 1273417952054972420,
+      "id_str": "1273417952054972420",
+      "text": "RT @2futboldata: Liga Nos \ud83c\uddf5\ud83c\uddf9 \nCD Aves 0\ufe0f\u20e3\ud83c\udd9a Porto0\ufe0f\u20e3\nR\u00edo Ave 1\ufe0f\u20e3\ud83c\udd9a Benfica2\ufe0f\u20e3\n\nPorto y Benfica quedan con 64 ptos. \n\nQue ten\u00edan en com\u00fan el C\u2026",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 265686170,
+            "id_str": "265686170",
+            "name": "Julio Chaparro",
+            "screen_name": "ingandres00",
+            "location": "Worldwide",
+            "url": null,
+            "description": "http://Ing.de Sistemas, Especialista en Comercio Electr\u00f3nico y Magister en MBIT. Emprendedor de la vida. Opiniones Personales",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 2798,
+            "friends_count": 2535,
+            "listed_count": 62,
+            "favourites_count": 112960,
+            "statuses_count": 214034,
+            "created_at": "Mon Mar 14 00:31:14 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": true,
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1055936949779918853/gyM9mNvg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055936949779918853/gyM9mNvg_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/265686170/1485577187",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Thu Jun 18 00:43:39 +0000 2020",
+            "id": 1273416050231648256,
+            "id_str": "1273416050231648256",
+            "text": "Liga Nos \ud83c\uddf5\ud83c\uddf9 \nCD Aves 0\ufe0f\u20e3\ud83c\udd9a Porto0\ufe0f\u20e3\nR\u00edo Ave 1\ufe0f\u20e3\ud83c\udd9a Benfica2\ufe0f\u20e3\n\nPorto y Benfica quedan con 64 ptos. \n\nQue ten\u00edan en com\u2026 https://t.co/F0KDc7LahA",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 1153467464002486274,
+                  "id_str": "1153467464002486274",
+                  "name": "FutbolData - G\u00f3mez^2",
+                  "screen_name": "2futboldata",
+                  "location": null,
+                  "url": null,
+                  "description": "Estad\u00edsticas sobre Las TOP5 \u2795\ud83c\uddf5\ud83c\uddf9\ud83c\uddf3\ud83c\uddf1\u2795Champions \u2795Eliminatoria Conmebol\u2795Libertadores.  Nos vamos a divertir \u26bd\ufe0f\u26bd\ufe0f\u26bd\ufe0f",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 760,
+                  "friends_count": 533,
+                  "listed_count": 2,
+                  "favourites_count": 352,
+                  "statuses_count": 2057,
+                  "created_at": "Tue Jul 23 00:50:48 +0000 2019",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": false,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "F5F8FA",
+                  "profile_background_image_url": "",
+                  "profile_background_image_url_https": "",
+                  "profile_background_tile": false,
+                  "profile_link_color": "1DA1F2",
+                  "profile_sidebar_border_color": "C0DEED",
+                  "profile_sidebar_fill_color": "DDEEF6",
+                  "profile_text_color": "333333",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1153468260609904640/Tv9p0-XB_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153468260609904640/Tv9p0-XB_normal.jpg",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                  "full_text": "Liga Nos \ud83c\uddf5\ud83c\uddf9 \nCD Aves 0\ufe0f\u20e3\ud83c\udd9a Porto0\ufe0f\u20e3\nR\u00edo Ave 1\ufe0f\u20e3\ud83c\udd9a Benfica2\ufe0f\u20e3\n\nPorto y Benfica quedan con 64 ptos. \n\nQue ten\u00edan en com\u00fan el CD Aves y el poderoso Liverpool? \n\nEran los \u00fanicos clubs, hasta hoy, con 1\ufe0f\u20e3 solo empate de las TOP5 + \ud83c\uddf5\ud83c\uddf9 \ud83c\uddf3\ud83c\uddf1 , Liverpool tiene 27 victorias y CD Aves 21 derrotas.",
+                  "display_text_range": [
+                        0,
+                        283
+                  ],
+                  "entities": {
+                        "hashtags": [],
+                        "urls": [],
+                        "user_mentions": [],
+                        "symbols": []
+                  }
+            },
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [
+                        {
+                              "url": "https://t.co/F0KDc7LahA",
+                              "expanded_url": "https://twitter.com/i/web/status/1273416050231648256",
+                              "display_url": "twitter.com/i/web/status/1\u2026",
+                              "indices": [
+                                    117,
+                                    140
+                              ]
+                        }
+                  ],
+                  "user_mentions": [],
+                  "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "es"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "2futboldata",
+                        "name": "FutbolData - G\u00f3mez^2",
+                        "id": 1153467464002486274,
+                        "id_str": "1153467464002486274",
+                        "indices": [
+                              3,
+                              15
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "es",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:51:11 +0000 2020",
+      "id": 1273417942672248834,
+      "id_str": "1273417942672248834",
+      "text": "RT @oconguito: Benfica est\u00e1 s\u00f3 a representar 2020. At\u00e9 come\u00e7ou fixe mas agora j\u00e1 s\u00f3 est\u00e1 a ser a toa.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 1963290236,
+            "id_str": "1963290236",
+            "name": "mia",
+            "screen_name": "miaasm5",
+            "location": "Lisboa",
+            "url": "http://monicamalatovv.tumblr.com",
+            "description": "Est\u00e1s \u00e0 dist\u00e2ncia de um click \u2022Snapchat MonicaMalato640 \u2022Insta MonicaMalato5",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 631,
+            "friends_count": 267,
+            "listed_count": 4,
+            "favourites_count": 57992,
+            "statuses_count": 43199,
+            "created_at": "Tue Oct 15 19:53:43 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1263544148474368002/pBQAbebK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263544148474368002/pBQAbebK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1963290236/1550595936",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Wed Jun 17 20:52:47 +0000 2020",
+            "id": 1273357948773961730,
+            "id_str": "1273357948773961730",
+            "text": "Benfica est\u00e1 s\u00f3 a representar 2020. At\u00e9 come\u00e7ou fixe mas agora j\u00e1 s\u00f3 est\u00e1 a ser a toa.",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 73938281,
+                  "id_str": "73938281",
+                  "name": "Conguito",
+                  "screen_name": "oconguito",
+                  "location": "Lisbon, Portugal",
+                  "url": "http://conguito.pt",
+                  "description": "random black kid doing things.",
+                  "translator_type": "regular",
+                  "protected": false,
+                  "verified": true,
+                  "followers_count": 114934,
+                  "friends_count": 13,
+                  "listed_count": 71,
+                  "favourites_count": 22997,
+                  "statuses_count": 50427,
+                  "created_at": "Sun Sep 13 18:15:16 +0000 2009",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": true,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "B2DFDA",
+                  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_tile": true,
+                  "profile_link_color": "E8BA6A",
+                  "profile_sidebar_border_color": "FFFFFF",
+                  "profile_sidebar_fill_color": "DDFFCC",
+                  "profile_text_color": "333333",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/674386117475610624/-qFOchf__normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/674386117475610624/-qFOchf__normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/73938281/1442004556",
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 6,
+            "reply_count": 2,
+            "retweet_count": 150,
+            "favorite_count": 384,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [],
+                  "user_mentions": [],
+                  "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "pt"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "oconguito",
+                        "name": "Conguito",
+                        "id": 73938281,
+                        "id_str": "73938281",
+                        "indices": [
+                              3,
+                              13
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "pt",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:51:09 +0000 2020",
+      "id": 1273417936724791296,
+      "id_str": "1273417936724791296",
+      "text": "RT @CurtaVermelha: N\u00e3o \u00e9 pelo golo, mas o Weigl tem sido o melhor jogador do Benfica desde da retoma. Tranquilidade m\u00e1xima com bola. N\u00e3o fa\u2026",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 793855907864207363,
+            "id_str": "793855907864207363",
+            "name": "Helderzz",
+            "screen_name": "Helderaraujo21",
+            "location": "Valen\u00e7a",
+            "url": null,
+            "description": "1904 \ud83d\udd34\u26aa\ufe0f",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 405,
+            "friends_count": 470,
+            "listed_count": 0,
+            "favourites_count": 14620,
+            "statuses_count": 7938,
+            "created_at": "Wed Nov 02 16:42:52 +0000 2016",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1261797663453908993/i0rYKvXF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1261797663453908993/i0rYKvXF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/793855907864207363/1588083506",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Wed Jun 17 22:05:03 +0000 2020",
+            "id": 1273376136802729984,
+            "id_str": "1273376136802729984",
+            "text": "N\u00e3o \u00e9 pelo golo, mas o Weigl tem sido o melhor jogador do Benfica desde da retoma. Tranquilidade m\u00e1xima com bola. N\u2026 https://t.co/JJ9A1wNdgu",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 901896532768825348,
+                  "id_str": "901896532768825348",
+                  "name": "Curta Vermelha",
+                  "screen_name": "CurtaVermelha",
+                  "location": null,
+                  "url": "http://facebook.com/colunavermelha",
+                  "description": "Os 280 caracteres da Coluna Vermelha. Pensamentos e interroga\u00e7\u00f5es do dia a dia de dois adeptos do Sport Lisboa e Benfica. Sigam o nosso podcast Cassete Vermelha",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 6802,
+                  "friends_count": 432,
+                  "listed_count": 20,
+                  "favourites_count": 4240,
+                  "statuses_count": 29269,
+                  "created_at": "Sun Aug 27 19:57:44 +0000 2017",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": true,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "F5F8FA",
+                  "profile_background_image_url": "",
+                  "profile_background_image_url_https": "",
+                  "profile_background_tile": false,
+                  "profile_link_color": "1DA1F2",
+                  "profile_sidebar_border_color": "C0DEED",
+                  "profile_sidebar_fill_color": "DDEEF6",
+                  "profile_text_color": "333333",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1105233759211831296/t1px0uXb_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105233759211831296/t1px0uXb_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/901896532768825348/1519259483",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                  "full_text": "N\u00e3o \u00e9 pelo golo, mas o Weigl tem sido o melhor jogador do Benfica desde da retoma. Tranquilidade m\u00e1xima com bola. N\u00e3o falha um passe. Recuperador de bolas nato.",
+                  "display_text_range": [
+                        0,
+                        160
+                  ],
+                  "entities": {
+                        "hashtags": [],
+                        "urls": [],
+                        "user_mentions": [],
+                        "symbols": []
+                  }
+            },
+            "quote_count": 19,
+            "reply_count": 13,
+            "retweet_count": 495,
+            "favorite_count": 1176,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [
+                        {
+                              "url": "https://t.co/JJ9A1wNdgu",
+                              "expanded_url": "https://twitter.com/i/web/status/1273376136802729984",
+                              "display_url": "twitter.com/i/web/status/1\u2026",
+                              "indices": [
+                                    117,
+                                    140
+                              ]
+                        }
+                  ],
+                  "user_mentions": [],
+                  "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "pt"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "CurtaVermelha",
+                        "name": "Curta Vermelha",
+                        "id": 901896532768825348,
+                        "id_str": "901896532768825348",
+                        "indices": [
+                              3,
+                              17
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "pt",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:51:09 +0000 2020",
+      "id": 1273417935210647553,
+      "id_str": "1273417935210647553",
+      "text": "RT @1904Militancia: Faz hoje 4 anos que Nico Gait\u00e1n saiu do Benfica. https://t.co/9Zfs9vynBS",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 1059499888910708738,
+            "id_str": "1059499888910708738",
+            "name": "Tom\u00e1s Baptista",
+            "screen_name": "TomsBaptista6",
+            "location": null,
+            "url": null,
+            "description": "Futebol, nothing more\u26bd\ud83e\udd29",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 177,
+            "friends_count": 206,
+            "listed_count": 0,
+            "favourites_count": 32384,
+            "statuses_count": 9118,
+            "created_at": "Mon Nov 05 17:37:12 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1270365725023182849/t10dTMqD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1270365725023182849/t10dTMqD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1059499888910708738/1592255906",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Wed Jun 17 11:50:04 +0000 2020",
+            "id": 1273221368931397632,
+            "id_str": "1273221368931397632",
+            "text": "Faz hoje 4 anos que Nico Gait\u00e1n saiu do Benfica. https://t.co/9Zfs9vynBS",
+            "display_text_range": [
+                  0,
+                  48
+            ],
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 1016744174610255872,
+                  "id_str": "1016744174610255872",
+                  "name": "Milit\u00e2ncia Benfiquista",
+                  "screen_name": "1904Militancia",
+                  "location": null,
+                  "url": null,
+                  "description": "Glorioso. \u00danico. Incompar\u00e1vel. Maior que Portugal. Sport Lisboa e Benfica.",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 5604,
+                  "friends_count": 87,
+                  "listed_count": 10,
+                  "favourites_count": 57,
+                  "statuses_count": 11480,
+                  "created_at": "Tue Jul 10 18:01:16 +0000 2018",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": false,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "F5F8FA",
+                  "profile_background_image_url": "",
+                  "profile_background_image_url_https": "",
+                  "profile_background_tile": false,
+                  "profile_link_color": "1DA1F2",
+                  "profile_sidebar_border_color": "C0DEED",
+                  "profile_sidebar_fill_color": "DDEEF6",
+                  "profile_text_color": "333333",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1030917785730379776/a6VqQpcG_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1030917785730379776/a6VqQpcG_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1016744174610255872/1531333049",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 61,
+            "reply_count": 7,
+            "retweet_count": 232,
+            "favorite_count": 1183,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [],
+                  "user_mentions": [],
+                  "symbols": [],
+                  "media": [
+                        {
+                              "id": 1273221362920960000,
+                              "id_str": "1273221362920960000",
+                              "indices": [
+                                    49,
+                                    72
+                              ],
+                              "media_url": "http://pbs.twimg.com/media/EatkFXFXsAAV2gh.jpg",
+                              "media_url_https": "https://pbs.twimg.com/media/EatkFXFXsAAV2gh.jpg",
+                              "url": "https://t.co/9Zfs9vynBS",
+                              "display_url": "pic.twitter.com/9Zfs9vynBS",
+                              "expanded_url": "https://twitter.com/1904Militancia/status/1273221368931397632/photo/1",
+                              "type": "photo",
+                              "sizes": {
+                                    "thumb": {
+                                          "w": 150,
+                                          "h": 150,
+                                          "resize": "crop"
+                                    },
+                                    "medium": {
+                                          "w": 1200,
+                                          "h": 675,
+                                          "resize": "fit"
+                                    },
+                                    "small": {
+                                          "w": 680,
+                                          "h": 382,
+                                          "resize": "fit"
+                                    },
+                                    "large": {
+                                          "w": 1320,
+                                          "h": 742,
+                                          "resize": "fit"
+                                    }
+                              }
+                        }
+                  ]
+            },
+            "extended_entities": {
+                  "media": [
+                        {
+                              "id": 1273221362920960000,
+                              "id_str": "1273221362920960000",
+                              "indices": [
+                                    49,
+                                    72
+                              ],
+                              "media_url": "http://pbs.twimg.com/media/EatkFXFXsAAV2gh.jpg",
+                              "media_url_https": "https://pbs.twimg.com/media/EatkFXFXsAAV2gh.jpg",
+                              "url": "https://t.co/9Zfs9vynBS",
+                              "display_url": "pic.twitter.com/9Zfs9vynBS",
+                              "expanded_url": "https://twitter.com/1904Militancia/status/1273221368931397632/photo/1",
+                              "type": "photo",
+                              "sizes": {
+                                    "thumb": {
+                                          "w": 150,
+                                          "h": 150,
+                                          "resize": "crop"
+                                    },
+                                    "medium": {
+                                          "w": 1200,
+                                          "h": 675,
+                                          "resize": "fit"
+                                    },
+                                    "small": {
+                                          "w": 680,
+                                          "h": 382,
+                                          "resize": "fit"
+                                    },
+                                    "large": {
+                                          "w": 1320,
+                                          "h": 742,
+                                          "resize": "fit"
+                                    }
+                              }
+                        }
+                  ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "pt"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "1904Militancia",
+                        "name": "Milit\u00e2ncia Benfiquista",
+                        "id": 1016744174610255872,
+                        "id_str": "1016744174610255872",
+                        "indices": [
+                              3,
+                              18
+                        ]
+                  }
+            ],
+            "symbols": [],
+            "media": [
+                  {
+                        "id": 1273221362920960000,
+                        "id_str": "1273221362920960000",
+                        "indices": [
+                              69,
+                              92
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EatkFXFXsAAV2gh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EatkFXFXsAAV2gh.jpg",
+                        "url": "https://t.co/9Zfs9vynBS",
+                        "display_url": "pic.twitter.com/9Zfs9vynBS",
+                        "expanded_url": "https://twitter.com/1904Militancia/status/1273221368931397632/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                              "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                              },
+                              "medium": {
+                                    "w": 1200,
+                                    "h": 675,
+                                    "resize": "fit"
+                              },
+                              "small": {
+                                    "w": 680,
+                                    "h": 382,
+                                    "resize": "fit"
+                              },
+                              "large": {
+                                    "w": 1320,
+                                    "h": 742,
+                                    "resize": "fit"
+                              }
+                        },
+                        "source_status_id": 1273221368931397632,
+                        "source_status_id_str": "1273221368931397632",
+                        "source_user_id": 1016744174610255872,
+                        "source_user_id_str": "1016744174610255872"
+                  }
+            ]
+      },
+      "extended_entities": {
+            "media": [
+                  {
+                        "id": 1273221362920960000,
+                        "id_str": "1273221362920960000",
+                        "indices": [
+                              69,
+                              92
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EatkFXFXsAAV2gh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EatkFXFXsAAV2gh.jpg",
+                        "url": "https://t.co/9Zfs9vynBS",
+                        "display_url": "pic.twitter.com/9Zfs9vynBS",
+                        "expanded_url": "https://twitter.com/1904Militancia/status/1273221368931397632/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                              "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                              },
+                              "medium": {
+                                    "w": 1200,
+                                    "h": 675,
+                                    "resize": "fit"
+                              },
+                              "small": {
+                                    "w": 680,
+                                    "h": 382,
+                                    "resize": "fit"
+                              },
+                              "large": {
+                                    "w": 1320,
+                                    "h": 742,
+                                    "resize": "fit"
+                              }
+                        },
+                        "source_status_id": 1273221368931397632,
+                        "source_status_id_str": "1273221368931397632",
+                        "source_user_id": 1016744174610255872,
+                        "source_user_id_str": "1016744174610255872"
+                  }
+            ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "pt",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:51:05 +0000 2020",
+      "id": 1273417920601829384,
+      "id_str": "1273417920601829384",
+      "text": "RT @CurtaVermelha: N\u00e3o \u00e9 pelo golo, mas o Weigl tem sido o melhor jogador do Benfica desde da retoma. Tranquilidade m\u00e1xima com bola. N\u00e3o fa\u2026",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 924703217916751874,
+            "id_str": "924703217916751874",
+            "name": "Carlitos \ud83c\udde6\ud83c\uddf9",
+            "screen_name": "_Carlitos_11",
+            "location": "Barreiro, Portugal",
+            "url": null,
+            "description": "Insta: _carlitos__11 ||\n\ud83d\udd34\u26aa  ||\nS\u2764\ud83d\udc8d",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 390,
+            "friends_count": 281,
+            "listed_count": 0,
+            "favourites_count": 65269,
+            "statuses_count": 56832,
+            "created_at": "Sun Oct 29 18:23:22 +0000 2017",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1261665244146995200/un_Ry59D_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1261665244146995200/un_Ry59D_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/924703217916751874/1566123840",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Wed Jun 17 22:05:03 +0000 2020",
+            "id": 1273376136802729984,
+            "id_str": "1273376136802729984",
+            "text": "N\u00e3o \u00e9 pelo golo, mas o Weigl tem sido o melhor jogador do Benfica desde da retoma. Tranquilidade m\u00e1xima com bola. N\u2026 https://t.co/JJ9A1wNdgu",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 901896532768825348,
+                  "id_str": "901896532768825348",
+                  "name": "Curta Vermelha",
+                  "screen_name": "CurtaVermelha",
+                  "location": null,
+                  "url": "http://facebook.com/colunavermelha",
+                  "description": "Os 280 caracteres da Coluna Vermelha. Pensamentos e interroga\u00e7\u00f5es do dia a dia de dois adeptos do Sport Lisboa e Benfica. Sigam o nosso podcast Cassete Vermelha",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 6802,
+                  "friends_count": 432,
+                  "listed_count": 20,
+                  "favourites_count": 4240,
+                  "statuses_count": 29269,
+                  "created_at": "Sun Aug 27 19:57:44 +0000 2017",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": true,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "F5F8FA",
+                  "profile_background_image_url": "",
+                  "profile_background_image_url_https": "",
+                  "profile_background_tile": false,
+                  "profile_link_color": "1DA1F2",
+                  "profile_sidebar_border_color": "C0DEED",
+                  "profile_sidebar_fill_color": "DDEEF6",
+                  "profile_text_color": "333333",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1105233759211831296/t1px0uXb_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105233759211831296/t1px0uXb_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/901896532768825348/1519259483",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                  "full_text": "N\u00e3o \u00e9 pelo golo, mas o Weigl tem sido o melhor jogador do Benfica desde da retoma. Tranquilidade m\u00e1xima com bola. N\u00e3o falha um passe. Recuperador de bolas nato.",
+                  "display_text_range": [
+                        0,
+                        160
+                  ],
+                  "entities": {
+                        "hashtags": [],
+                        "urls": [],
+                        "user_mentions": [],
+                        "symbols": []
+                  }
+            },
+            "quote_count": 19,
+            "reply_count": 13,
+            "retweet_count": 495,
+            "favorite_count": 1176,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [
+                        {
+                              "url": "https://t.co/JJ9A1wNdgu",
+                              "expanded_url": "https://twitter.com/i/web/status/1273376136802729984",
+                              "display_url": "twitter.com/i/web/status/1\u2026",
+                              "indices": [
+                                    117,
+                                    140
+                              ]
+                        }
+                  ],
+                  "user_mentions": [],
+                  "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "pt"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "CurtaVermelha",
+                        "name": "Curta Vermelha",
+                        "id": 901896532768825348,
+                        "id_str": "901896532768825348",
+                        "indices": [
+                              3,
+                              17
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "pt",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:50:44 +0000 2020",
+      "id": 1273417830927683589,
+      "id_str": "1273417830927683589",
+      "text": "RT @rafaelduarteeee: Feliz pelos pontos, triste pela presta\u00e7\u00e3o e m\u00e1s decis\u00f5es. Amo-te Benfica \u2764\ufe0f",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 1439603611,
+            "id_str": "1439603611",
+            "name": "Vieira \ud83d\udd34\u26aa",
+            "screen_name": "marcia_vieira28",
+            "location": null,
+            "url": "http://instagram.com/_goodpics1_/",
+            "description": "Sou do Benfica e isso me envaidece!! 1904 \u2764\u26bd",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 584,
+            "friends_count": 754,
+            "listed_count": 7,
+            "favourites_count": 12656,
+            "statuses_count": 106545,
+            "created_at": "Sat May 18 22:20:20 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "0A0101",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0A0101",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1110682114448592897/ayqGb4K3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110682114448592897/ayqGb4K3_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1439603611/1581872490",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Wed Jun 17 22:11:48 +0000 2020",
+            "id": 1273377834686459904,
+            "id_str": "1273377834686459904",
+            "text": "Feliz pelos pontos, triste pela presta\u00e7\u00e3o e m\u00e1s decis\u00f5es. Amo-te Benfica \u2764\ufe0f",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 4855383401,
+                  "id_str": "4855383401",
+                  "name": "Rafa \ud83e\udd85",
+                  "screen_name": "rafaelduarteeee",
+                  "location": "Lisboa, Portugal",
+                  "url": "http://instagram.com/rafaelduarte181",
+                  "description": "@slbenfica supporter e ahora aupaaaaa @atleti jajajajaja | Instagram: rafaelduarte181",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 8203,
+                  "friends_count": 8186,
+                  "listed_count": 10,
+                  "favourites_count": 44301,
+                  "statuses_count": 46152,
+                  "created_at": "Wed Jan 27 23:42:26 +0000 2016",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": true,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "F5F8FA",
+                  "profile_background_image_url": "",
+                  "profile_background_image_url_https": "",
+                  "profile_background_tile": false,
+                  "profile_link_color": "1DA1F2",
+                  "profile_sidebar_border_color": "C0DEED",
+                  "profile_sidebar_fill_color": "DDEEF6",
+                  "profile_text_color": "333333",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1184089167598444545/YrjNuY9t_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1184089167598444545/YrjNuY9t_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/4855383401/1562519559",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 7,
+            "reply_count": 0,
+            "retweet_count": 714,
+            "favorite_count": 833,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [],
+                  "user_mentions": [],
+                  "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "pt"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "rafaelduarteeee",
+                        "name": "Rafa \ud83e\udd85",
+                        "id": 4855383401,
+                        "id_str": "4855383401",
+                        "indices": [
+                              3,
+                              19
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "pt",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:50:39 +0000 2020",
+      "id": 1273417810610356227,
+      "id_str": "1273417810610356227",
+      "text": "RT @ligaptdadepre: Visto que o Rio Ave \u00e9 claramente superior ao Benfica, parece-me justa a a\u00e7\u00e3o do \u00e1rbitro de tirar 2 jogadores dos vila-co\u2026",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 2768820783,
+            "id_str": "2768820783",
+            "name": "Dinis Ferreira",
+            "screen_name": "dinisferreira7",
+            "location": null,
+            "url": null,
+            "description": "snap: dinis_85 l insta: dinis_ferreira5 @fcporto",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 147,
+            "friends_count": 649,
+            "listed_count": 0,
+            "favourites_count": 14010,
+            "statuses_count": 7904,
+            "created_at": "Sat Sep 13 12:23:35 +0000 2014",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1262156970347331589/puYQeLUj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1262156970347331589/puYQeLUj_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2768820783/1588686544",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Wed Jun 17 21:51:57 +0000 2020",
+            "id": 1273372837177327618,
+            "id_str": "1273372837177327618",
+            "text": "Visto que o Rio Ave \u00e9 claramente superior ao Benfica, parece-me justa a a\u00e7\u00e3o do \u00e1rbitro de tirar 2 jogadores dos vi\u2026 https://t.co/eDYxbvBJf5",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 790302673073532928,
+                  "id_str": "790302673073532928",
+                  "name": "LPDD (de \ud83c\udfe1)",
+                  "screen_name": "ligaptdadepre",
+                  "location": "Portugal",
+                  "url": "https://bit.ly/2M7hk5b",
+                  "description": "Bem-vindos \u00e0 LPDD! A praticar anti-jogo desde 1934. \u26bd\ufe0f\ud83c\uddf5\ud83c\uddf9",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 32226,
+                  "friends_count": 165,
+                  "listed_count": 17,
+                  "favourites_count": 6473,
+                  "statuses_count": 10145,
+                  "created_at": "Sun Oct 23 21:23:35 +0000 2016",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": true,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "000000",
+                  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_tile": false,
+                  "profile_link_color": "FAB81E",
+                  "profile_sidebar_border_color": "000000",
+                  "profile_sidebar_fill_color": "000000",
+                  "profile_text_color": "000000",
+                  "profile_use_background_image": false,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1109607947141828608/roRG68gv_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109607947141828608/roRG68gv_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/790302673073532928/1584710167",
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                  "full_text": "Visto que o Rio Ave \u00e9 claramente superior ao Benfica, parece-me justa a a\u00e7\u00e3o do \u00e1rbitro de tirar 2 jogadores dos vila-condenses para equilibrar o jogo",
+                  "display_text_range": [
+                        0,
+                        150
+                  ],
+                  "entities": {
+                        "hashtags": [],
+                        "urls": [],
+                        "user_mentions": [],
+                        "symbols": []
+                  }
+            },
+            "quote_count": 22,
+            "reply_count": 7,
+            "retweet_count": 580,
+            "favorite_count": 1437,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [
+                        {
+                              "url": "https://t.co/eDYxbvBJf5",
+                              "expanded_url": "https://twitter.com/i/web/status/1273372837177327618",
+                              "display_url": "twitter.com/i/web/status/1\u2026",
+                              "indices": [
+                                    117,
+                                    140
+                              ]
+                        }
+                  ],
+                  "user_mentions": [],
+                  "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "pt"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "ligaptdadepre",
+                        "name": "LPDD (de \ud83c\udfe1)",
+                        "id": 790302673073532928,
+                        "id_str": "790302673073532928",
+                        "indices": [
+                              3,
+                              17
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "pt",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:50:38 +0000 2020",
+      "id": 1273417804818104320,
+      "id_str": "1273417804818104320",
+      "text": "RT @coristaloco: J\u00e1 n\u00e3o me lembrava como era acabar um jogo do Benfica feliz",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 1051111679281557504,
+            "id_str": "1051111679281557504",
+            "name": "\ud835\udc7a\ud835\udc96",
+            "screen_name": "soffia_27",
+            "location": "Matosinhos, Portugal",
+            "url": null,
+            "description": "Never be number 2",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 423,
+            "friends_count": 356,
+            "listed_count": 0,
+            "favourites_count": 1684,
+            "statuses_count": 6238,
+            "created_at": "Sat Oct 13 14:05:27 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1271948974593847296/Pwadpkos_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271948974593847296/Pwadpkos_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1051111679281557504/1590026271",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Wed Jun 17 22:12:56 +0000 2020",
+            "id": 1273378117764120576,
+            "id_str": "1273378117764120576",
+            "text": "J\u00e1 n\u00e3o me lembrava como era acabar um jogo do Benfica feliz",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 2289501176,
+                  "id_str": "2289501176",
+                  "name": "Corista \ud83c\uddff\ud83c\udde6",
+                  "screen_name": "coristaloco",
+                  "location": "Mem Martins, Portugal",
+                  "url": "https://instagram.com/rodrigofcorista?igshid=169bffvvbmazx",
+                  "description": "@slbenfica ULHT \ud83c\udf93",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 17411,
+                  "friends_count": 453,
+                  "listed_count": 1,
+                  "favourites_count": 10727,
+                  "statuses_count": 4930,
+                  "created_at": "Mon Jan 13 11:02:45 +0000 2014",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": true,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "000000",
+                  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_tile": false,
+                  "profile_link_color": "E81C4F",
+                  "profile_sidebar_border_color": "000000",
+                  "profile_sidebar_fill_color": "000000",
+                  "profile_text_color": "000000",
+                  "profile_use_background_image": false,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1205248364801150977/y6OOoGp0_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205248364801150977/y6OOoGp0_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2289501176/1591563132",
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 17,
+            "reply_count": 4,
+            "retweet_count": 565,
+            "favorite_count": 633,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [],
+                  "user_mentions": [],
+                  "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "pt"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "coristaloco",
+                        "name": "Corista \ud83c\uddff\ud83c\udde6",
+                        "id": 2289501176,
+                        "id_str": "2289501176",
+                        "indices": [
+                              3,
+                              15
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "pt",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:50:30 +0000 2020",
+      "id": 1273417773667028998,
+      "id_str": "1273417773667028998",
+      "text": "RT @CurtaVermelha: N\u00e3o \u00e9 pelo golo, mas o Weigl tem sido o melhor jogador do Benfica desde da retoma. Tranquilidade m\u00e1xima com bola. N\u00e3o fa\u2026",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 1087847362310094848,
+            "id_str": "1087847362310094848",
+            "name": "Topa \ud83c\uddff\ud83c\udde6",
+            "screen_name": "AntonioTopa35",
+            "location": "Oporto, Portugal",
+            "url": null,
+            "description": "MNC4Life                                  5/3/2003",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 64,
+            "friends_count": 123,
+            "listed_count": 0,
+            "favourites_count": 276,
+            "statuses_count": 441,
+            "created_at": "Tue Jan 22 22:59:57 +0000 2019",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1241700577006039040/LUH065nY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241700577006039040/LUH065nY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1087847362310094848/1584879463",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Wed Jun 17 22:05:03 +0000 2020",
+            "id": 1273376136802729984,
+            "id_str": "1273376136802729984",
+            "text": "N\u00e3o \u00e9 pelo golo, mas o Weigl tem sido o melhor jogador do Benfica desde da retoma. Tranquilidade m\u00e1xima com bola. N\u2026 https://t.co/JJ9A1wNdgu",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 901896532768825348,
+                  "id_str": "901896532768825348",
+                  "name": "Curta Vermelha",
+                  "screen_name": "CurtaVermelha",
+                  "location": null,
+                  "url": "http://facebook.com/colunavermelha",
+                  "description": "Os 280 caracteres da Coluna Vermelha. Pensamentos e interroga\u00e7\u00f5es do dia a dia de dois adeptos do Sport Lisboa e Benfica. Sigam o nosso podcast Cassete Vermelha",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 6802,
+                  "friends_count": 432,
+                  "listed_count": 20,
+                  "favourites_count": 4240,
+                  "statuses_count": 29269,
+                  "created_at": "Sun Aug 27 19:57:44 +0000 2017",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": true,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "F5F8FA",
+                  "profile_background_image_url": "",
+                  "profile_background_image_url_https": "",
+                  "profile_background_tile": false,
+                  "profile_link_color": "1DA1F2",
+                  "profile_sidebar_border_color": "C0DEED",
+                  "profile_sidebar_fill_color": "DDEEF6",
+                  "profile_text_color": "333333",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1105233759211831296/t1px0uXb_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105233759211831296/t1px0uXb_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/901896532768825348/1519259483",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                  "full_text": "N\u00e3o \u00e9 pelo golo, mas o Weigl tem sido o melhor jogador do Benfica desde da retoma. Tranquilidade m\u00e1xima com bola. N\u00e3o falha um passe. Recuperador de bolas nato.",
+                  "display_text_range": [
+                        0,
+                        160
+                  ],
+                  "entities": {
+                        "hashtags": [],
+                        "urls": [],
+                        "user_mentions": [],
+                        "symbols": []
+                  }
+            },
+            "quote_count": 19,
+            "reply_count": 13,
+            "retweet_count": 495,
+            "favorite_count": 1176,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [
+                        {
+                              "url": "https://t.co/JJ9A1wNdgu",
+                              "expanded_url": "https://twitter.com/i/web/status/1273376136802729984",
+                              "display_url": "twitter.com/i/web/status/1\u2026",
+                              "indices": [
+                                    117,
+                                    140
+                              ]
+                        }
+                  ],
+                  "user_mentions": [],
+                  "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "pt"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "CurtaVermelha",
+                        "name": "Curta Vermelha",
+                        "id": 901896532768825348,
+                        "id_str": "901896532768825348",
+                        "indices": [
+                              3,
+                              17
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "pt",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:50:24 +0000 2020",
+      "id": 1273417749071564801,
+      "id_str": "1273417749071564801",
+      "text": "RT @CurtaVermelha: N\u00e3o \u00e9 pelo golo, mas o Weigl tem sido o melhor jogador do Benfica desde da retoma. Tranquilidade m\u00e1xima com bola. N\u00e3o fa\u2026",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 839597231548301312,
+            "id_str": "839597231548301312",
+            "name": "Tomitz",
+            "screen_name": "_pereira1904",
+            "location": "Fafe, Portugal",
+            "url": null,
+            "description": "@slbenfica",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 437,
+            "friends_count": 360,
+            "listed_count": 0,
+            "favourites_count": 9134,
+            "statuses_count": 24689,
+            "created_at": "Wed Mar 08 22:02:33 +0000 2017",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1210031708122308608/iCkpFW8P_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1210031708122308608/iCkpFW8P_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/839597231548301312/1574288125",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Wed Jun 17 22:05:03 +0000 2020",
+            "id": 1273376136802729984,
+            "id_str": "1273376136802729984",
+            "text": "N\u00e3o \u00e9 pelo golo, mas o Weigl tem sido o melhor jogador do Benfica desde da retoma. Tranquilidade m\u00e1xima com bola. N\u2026 https://t.co/JJ9A1wNdgu",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 901896532768825348,
+                  "id_str": "901896532768825348",
+                  "name": "Curta Vermelha",
+                  "screen_name": "CurtaVermelha",
+                  "location": null,
+                  "url": "http://facebook.com/colunavermelha",
+                  "description": "Os 280 caracteres da Coluna Vermelha. Pensamentos e interroga\u00e7\u00f5es do dia a dia de dois adeptos do Sport Lisboa e Benfica. Sigam o nosso podcast Cassete Vermelha",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 6802,
+                  "friends_count": 432,
+                  "listed_count": 20,
+                  "favourites_count": 4240,
+                  "statuses_count": 29269,
+                  "created_at": "Sun Aug 27 19:57:44 +0000 2017",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": true,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "F5F8FA",
+                  "profile_background_image_url": "",
+                  "profile_background_image_url_https": "",
+                  "profile_background_tile": false,
+                  "profile_link_color": "1DA1F2",
+                  "profile_sidebar_border_color": "C0DEED",
+                  "profile_sidebar_fill_color": "DDEEF6",
+                  "profile_text_color": "333333",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1105233759211831296/t1px0uXb_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105233759211831296/t1px0uXb_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/901896532768825348/1519259483",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                  "full_text": "N\u00e3o \u00e9 pelo golo, mas o Weigl tem sido o melhor jogador do Benfica desde da retoma. Tranquilidade m\u00e1xima com bola. N\u00e3o falha um passe. Recuperador de bolas nato.",
+                  "display_text_range": [
+                        0,
+                        160
+                  ],
+                  "entities": {
+                        "hashtags": [],
+                        "urls": [],
+                        "user_mentions": [],
+                        "symbols": []
+                  }
+            },
+            "quote_count": 19,
+            "reply_count": 13,
+            "retweet_count": 495,
+            "favorite_count": 1176,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [
+                        {
+                              "url": "https://t.co/JJ9A1wNdgu",
+                              "expanded_url": "https://twitter.com/i/web/status/1273376136802729984",
+                              "display_url": "twitter.com/i/web/status/1\u2026",
+                              "indices": [
+                                    117,
+                                    140
+                              ]
+                        }
+                  ],
+                  "user_mentions": [],
+                  "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "pt"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "CurtaVermelha",
+                        "name": "Curta Vermelha",
+                        "id": 901896532768825348,
+                        "id_str": "901896532768825348",
+                        "indices": [
+                              3,
+                              17
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "pt",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:50:24 +0000 2020",
+      "id": 1273417748467658752,
+      "id_str": "1273417748467658752",
+      "text": "RT @coristaloco: J\u00e1 n\u00e3o me lembrava como era acabar um jogo do Benfica feliz",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 1108493845128454147,
+            "id_str": "1108493845128454147",
+            "name": "p\u00a1ps\ud83e\udd20",
+            "screen_name": "ojosepheperfect",
+            "location": null,
+            "url": null,
+            "description": "ig: _filipaasaturniino_",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 97,
+            "friends_count": 110,
+            "listed_count": 0,
+            "favourites_count": 1258,
+            "statuses_count": 2891,
+            "created_at": "Wed Mar 20 22:21:42 +0000 2019",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1266832646119792641/ZoMTYyOS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1266832646119792641/ZoMTYyOS_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1108493845128454147/1582220111",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Wed Jun 17 22:12:56 +0000 2020",
+            "id": 1273378117764120576,
+            "id_str": "1273378117764120576",
+            "text": "J\u00e1 n\u00e3o me lembrava como era acabar um jogo do Benfica feliz",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 2289501176,
+                  "id_str": "2289501176",
+                  "name": "Corista \ud83c\uddff\ud83c\udde6",
+                  "screen_name": "coristaloco",
+                  "location": "Mem Martins, Portugal",
+                  "url": "https://instagram.com/rodrigofcorista?igshid=169bffvvbmazx",
+                  "description": "@slbenfica ULHT \ud83c\udf93",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 17411,
+                  "friends_count": 453,
+                  "listed_count": 1,
+                  "favourites_count": 10727,
+                  "statuses_count": 4930,
+                  "created_at": "Mon Jan 13 11:02:45 +0000 2014",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": true,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "000000",
+                  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_tile": false,
+                  "profile_link_color": "E81C4F",
+                  "profile_sidebar_border_color": "000000",
+                  "profile_sidebar_fill_color": "000000",
+                  "profile_text_color": "000000",
+                  "profile_use_background_image": false,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1205248364801150977/y6OOoGp0_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205248364801150977/y6OOoGp0_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2289501176/1591563132",
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 17,
+            "reply_count": 4,
+            "retweet_count": 565,
+            "favorite_count": 633,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [],
+                  "user_mentions": [],
+                  "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "pt"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "coristaloco",
+                        "name": "Corista \ud83c\uddff\ud83c\udde6",
+                        "id": 2289501176,
+                        "id_str": "2289501176",
+                        "indices": [
+                              3,
+                              15
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "pt",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:50:24 +0000 2020",
+      "id": 1273417747788173313,
+      "id_str": "1273417747788173313",
+      "text": "RT @pfbraganca: Dois vermelhos, dois golos e NOVE substitui\u00e7\u00f5es: 4 minutos de compensa\u00e7\u00e3o. O que mudou hoje? O resultado aos 90. No apito,\u2026",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 1086388036919808007,
+            "id_str": "1086388036919808007",
+            "name": "Ana Silva",
+            "screen_name": "anasandrasoares",
+            "location": null,
+            "url": null,
+            "description": "Ser Portista \u00e9 a minha ess\u00eancia!",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 51,
+            "friends_count": 243,
+            "listed_count": 0,
+            "favourites_count": 13407,
+            "statuses_count": 2529,
+            "created_at": "Fri Jan 18 22:21:06 +0000 2019",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1134864958653632512/bchWbwWk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1134864958653632512/bchWbwWk_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Wed Jun 17 22:35:25 +0000 2020",
+            "id": 1273383777096663040,
+            "id_str": "1273383777096663040",
+            "text": "Dois vermelhos, dois golos e NOVE substitui\u00e7\u00f5es: 4 minutos de compensa\u00e7\u00e3o. O que mudou hoje? O resultado aos 90. No\u2026 https://t.co/Zo2eATvVNQ",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 2211724706,
+                  "id_str": "2211724706",
+                  "name": "Pedro Bragan\u00e7a",
+                  "screen_name": "pfbraganca",
+                  "location": "Porto, Portugal",
+                  "url": "http://instagram.com/pfbraganca",
+                  "description": "Architecture: Theory, Project, History. @ CEAU-FAUP / @fcporto",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 15347,
+                  "friends_count": 399,
+                  "listed_count": 24,
+                  "favourites_count": 13629,
+                  "statuses_count": 2670,
+                  "created_at": "Sun Nov 24 02:41:23 +0000 2013",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": true,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "C0DEED",
+                  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_tile": false,
+                  "profile_link_color": "1DA1F2",
+                  "profile_sidebar_border_color": "C0DEED",
+                  "profile_sidebar_fill_color": "DDEEF6",
+                  "profile_text_color": "333333",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/906694312938876936/QlFZ0Pdd_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/906694312938876936/QlFZ0Pdd_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2211724706/1500172607",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                  "full_text": "Dois vermelhos, dois golos e NOVE substitui\u00e7\u00f5es: 4 minutos de compensa\u00e7\u00e3o. O que mudou hoje? O resultado aos 90. No apito, o MVP Lu\u00eds Godinho, sem o qual o Benfica n\u00e3o ganha para o campeonato desde 31 de janeiro.",
+                  "display_text_range": [
+                        0,
+                        212
+                  ],
+                  "entities": {
+                        "hashtags": [],
+                        "urls": [],
+                        "user_mentions": [],
+                        "symbols": []
+                  }
+            },
+            "quote_count": 15,
+            "reply_count": 33,
+            "retweet_count": 105,
+            "favorite_count": 439,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [
+                        {
+                              "url": "https://t.co/Zo2eATvVNQ",
+                              "expanded_url": "https://twitter.com/i/web/status/1273383777096663040",
+                              "display_url": "twitter.com/i/web/status/1\u2026",
+                              "indices": [
+                                    117,
+                                    140
+                              ]
+                        }
+                  ],
+                  "user_mentions": [],
+                  "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "pt"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "pfbraganca",
+                        "name": "Pedro Bragan\u00e7a",
+                        "id": 2211724706,
+                        "id_str": "2211724706",
+                        "indices": [
+                              3,
+                              14
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "pt",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:50:21 +0000 2020",
+      "id": 1273417735981150210,
+      "id_str": "1273417735981150210",
+      "text": "RT @EternoBenfica: Julian Weigl merece muito. E merecia que os colegas tivessem ido festejar com ele na molhada. Nao foram. Mas esteve l\u00e1 o\u2026",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 1927421214,
+            "id_str": "1927421214",
+            "name": "A\u0438dr\u00e9",
+            "screen_name": "olasouoandre10",
+            "location": null,
+            "url": null,
+            "description": "Sport Lisboa e Benfica \u2022\u2022 U-19 \u26bd\ufe0f",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1303,
+            "friends_count": 388,
+            "listed_count": 13,
+            "favourites_count": 66206,
+            "statuses_count": 128212,
+            "created_at": "Wed Oct 02 16:38:49 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1232984718553030656/XHfIQ16M_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232984718553030656/XHfIQ16M_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1927421214/1585576762",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Wed Jun 17 22:07:59 +0000 2020",
+            "id": 1273376872714379265,
+            "id_str": "1273376872714379265",
+            "text": "Julian Weigl merece muito. E merecia que os colegas tivessem ido festejar com ele na molhada. Nao foram. Mas esteve\u2026 https://t.co/fXkQfgKstb",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 352969903,
+                  "id_str": "352969903",
+                  "name": "Eterno Benfica",
+                  "screen_name": "EternoBenfica",
+                  "location": null,
+                  "url": "http://eternobenfica.blogspot.com",
+                  "description": null,
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 5455,
+                  "friends_count": 515,
+                  "listed_count": 35,
+                  "favourites_count": 6573,
+                  "statuses_count": 44642,
+                  "created_at": "Thu Aug 11 10:36:45 +0000 2011",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": true,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "C0DEED",
+                  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_tile": false,
+                  "profile_link_color": "1DA1F2",
+                  "profile_sidebar_border_color": "C0DEED",
+                  "profile_sidebar_fill_color": "DDEEF6",
+                  "profile_text_color": "333333",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/998333949519659008/wfzy2fko_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/998333949519659008/wfzy2fko_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/352969903/1398533379",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                  "full_text": "Julian Weigl merece muito. E merecia que os colegas tivessem ido festejar com ele na molhada. Nao foram. Mas esteve l\u00e1 o verdadeiro capit\u00e3o do Benfica.",
+                  "display_text_range": [
+                        0,
+                        151
+                  ],
+                  "entities": {
+                        "hashtags": [],
+                        "urls": [],
+                        "user_mentions": [],
+                        "symbols": []
+                  }
+            },
+            "quote_count": 5,
+            "reply_count": 9,
+            "retweet_count": 89,
+            "favorite_count": 487,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [
+                        {
+                              "url": "https://t.co/fXkQfgKstb",
+                              "expanded_url": "https://twitter.com/i/web/status/1273376872714379265",
+                              "display_url": "twitter.com/i/web/status/1\u2026",
+                              "indices": [
+                                    117,
+                                    140
+                              ]
+                        }
+                  ],
+                  "user_mentions": [],
+                  "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "pt"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "EternoBenfica",
+                        "name": "Eterno Benfica",
+                        "id": 352969903,
+                        "id_str": "352969903",
+                        "indices": [
+                              3,
+                              17
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "pt",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:50:16 +0000 2020",
+      "id": 1273417712912551937,
+      "id_str": "1273417712912551937",
+      "text": "RT @CarinaBrito1904: Agora j\u00e1 est\u00e1 tudo confiante de novo e o caralho, Benfica ganha j\u00e1 t\u00eam todos Internet \ud83e\udd23 adeptos de ocasi\u00e3o n\u00e3o, obriga\u2026",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 920066042860318721,
+            "id_str": "920066042860318721",
+            "name": "Daniel",
+            "screen_name": "_Fly_As_Fuck_",
+            "location": "Sintra, Portugal",
+            "url": null,
+            "description": "--\ud83d\udd25Leinad\ud83d\udd25\n  --\ud83d\udca2Fly\ud83d\udca2\n    -- \ud83d\udd25\ud83d\udca22715\ud83d\udd25\ud83d\udca2",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 29,
+            "friends_count": 109,
+            "listed_count": 0,
+            "favourites_count": 70,
+            "statuses_count": 354,
+            "created_at": "Mon Oct 16 23:16:53 +0000 2017",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1272190617691598848/ycUz0RBS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272190617691598848/ycUz0RBS_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/920066042860318721/1592148900",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Thu Jun 18 00:45:01 +0000 2020",
+            "id": 1273416390872043520,
+            "id_str": "1273416390872043520",
+            "text": "Agora j\u00e1 est\u00e1 tudo confiante de novo e o caralho, Benfica ganha j\u00e1 t\u00eam todos Internet \ud83e\udd23 adeptos de ocasi\u00e3o n\u00e3o, obrigada.",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 1077664830818013189,
+                  "id_str": "1077664830818013189",
+                  "name": "Ka \ud83d\udc86\ud83c\udffb\u200d\u2640\ufe0f",
+                  "screen_name": "CarinaBrito1904",
+                  "location": "minha m\u00e3e tem de saber, tu n\u00e3o",
+                  "url": null,
+                  "description": "\u2022Sport Lisboa e Benfica\t \ud83d\udd34\u26aa\n\tIg: carinabrito1904",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 254,
+                  "friends_count": 288,
+                  "listed_count": 0,
+                  "favourites_count": 3812,
+                  "statuses_count": 5810,
+                  "created_at": "Tue Dec 25 20:38:12 +0000 2018",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": false,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "F5F8FA",
+                  "profile_background_image_url": "",
+                  "profile_background_image_url_https": "",
+                  "profile_background_tile": false,
+                  "profile_link_color": "1DA1F2",
+                  "profile_sidebar_border_color": "C0DEED",
+                  "profile_sidebar_fill_color": "DDEEF6",
+                  "profile_text_color": "333333",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1265110015645548547/nKu5Tzbs_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265110015645548547/nKu5Tzbs_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1077664830818013189/1591488481",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [],
+                  "user_mentions": [],
+                  "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "pt"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "CarinaBrito1904",
+                        "name": "Ka \ud83d\udc86\ud83c\udffb\u200d\u2640\ufe0f",
+                        "id": 1077664830818013189,
+                        "id_str": "1077664830818013189",
+                        "indices": [
+                              3,
+                              19
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "pt",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:50:13 +0000 2020",
+      "id": 1273417701894107136,
+      "id_str": "1273417701894107136",
+      "text": "RT @diogomlbernardo: O qu\u00ea? Mas eu li esta semana no Twitter e na Tasca que o Porto ia ganhar outra vez, que o Benfica ia cair, que eles ia\u2026",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 60986070,
+            "id_str": "60986070",
+            "name": "Tiago Pinto",
+            "screen_name": "TheGreatMrPinto",
+            "location": "Figueira da Foz",
+            "url": "https://twitter.com/TheGreatMr.Pinto",
+            "description": "I am the Co-Founder and the creative guy good with words. Lucky for them because I won't do all those calculations. \nAnd we? @WeArePhyen",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 632,
+            "friends_count": 970,
+            "listed_count": 4,
+            "favourites_count": 10473,
+            "statuses_count": 18392,
+            "created_at": "Tue Jul 28 18:48:48 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1227730697672183808/GvvuMh4Z_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227730697672183808/GvvuMh4Z_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/60986070/1504139608",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Wed Jun 17 23:45:45 +0000 2020",
+            "id": 1273401478288412672,
+            "id_str": "1273401478288412672",
+            "text": "O qu\u00ea? Mas eu li esta semana no Twitter e na Tasca que o Porto ia ganhar outra vez, que o Benfica ia cair, que eles\u2026 https://t.co/gKZI85Gpq5",
+            "display_text_range": [
+                  0,
+                  140
+            ],
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 518069104,
+                  "id_str": "518069104",
+                  "name": "Diogo Bernardo",
+                  "screen_name": "diogomlbernardo",
+                  "location": "Dubai",
+                  "url": "http://www.facebook.com/diogomlbernardo",
+                  "description": "Muito de Sporting e um bocadinho de tudo o resto.",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 4289,
+                  "friends_count": 581,
+                  "listed_count": 35,
+                  "favourites_count": 38518,
+                  "statuses_count": 38823,
+                  "created_at": "Thu Mar 08 00:45:13 +0000 2012",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": true,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "000000",
+                  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_tile": true,
+                  "profile_link_color": "2C7820",
+                  "profile_sidebar_border_color": "FFFFFF",
+                  "profile_sidebar_fill_color": "DDEEF6",
+                  "profile_text_color": "333333",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1255623369057320962/Q3LHHXN6_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255623369057320962/Q3LHHXN6_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/518069104/1547418759",
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "quoted_status_id": 1273382218854019074,
+            "quoted_status_id_str": "1273382218854019074",
+            "quoted_status": {
+                  "created_at": "Wed Jun 17 22:29:13 +0000 2020",
+                  "id": 1273382218854019074,
+                  "id_str": "1273382218854019074",
+                  "text": "O campeonato 2017/2018, ganho pelo FC Porto, \u00e9 um dos feitos mais incr\u00edveis da hist\u00f3ria do futebol em Portugal.",
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "truncated": false,
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 2211724706,
+                        "id_str": "2211724706",
+                        "name": "Pedro Bragan\u00e7a",
+                        "screen_name": "pfbraganca",
+                        "location": "Porto, Portugal",
+                        "url": "http://instagram.com/pfbraganca",
+                        "description": "Architecture: Theory, Project, History. @ CEAU-FAUP / @fcporto",
+                        "translator_type": "none",
+                        "protected": false,
+                        "verified": false,
+                        "followers_count": 15347,
+                        "friends_count": 399,
+                        "listed_count": 24,
+                        "favourites_count": 13629,
+                        "statuses_count": 2670,
+                        "created_at": "Sun Nov 24 02:41:23 +0000 2013",
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/906694312938876936/QlFZ0Pdd_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/906694312938876936/QlFZ0Pdd_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2211724706/1500172607",
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "quote_count": 18,
+                  "reply_count": 41,
+                  "retweet_count": 180,
+                  "favorite_count": 788,
+                  "entities": {
+                        "hashtags": [],
+                        "urls": [],
+                        "user_mentions": [],
+                        "symbols": []
+                  },
+                  "favorited": false,
+                  "retweeted": false,
+                  "filter_level": "low",
+                  "lang": "pt"
+            },
+            "quoted_status_permalink": {
+                  "url": "https://t.co/c6PTynLS8d",
+                  "expanded": "https://twitter.com/pfbraganca/status/1273382218854019074",
+                  "display": "twitter.com/pfbraganca/sta\u2026"
+            },
+            "is_quote_status": true,
+            "extended_tweet": {
+                  "full_text": "O qu\u00ea? Mas eu li esta semana no Twitter e na Tasca que o Porto ia ganhar outra vez, que o Benfica ia cair, que eles iam ser todos presos e come\u00e7ar uma guerra civil. J\u00e1 n\u00e3o v\u00e3o? https://t.co/c6PTynLS8d",
+                  "display_text_range": [
+                        0,
+                        176
+                  ],
+                  "entities": {
+                        "hashtags": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/c6PTynLS8d",
+                                    "expanded_url": "https://twitter.com/pfbraganca/status/1273382218854019074",
+                                    "display_url": "twitter.com/pfbraganca/sta\u2026",
+                                    "indices": [
+                                          177,
+                                          200
+                                    ]
+                              }
+                        ],
+                        "user_mentions": [],
+                        "symbols": []
+                  }
+            },
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1,
+            "favorite_count": 4,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [
+                        {
+                              "url": "https://t.co/gKZI85Gpq5",
+                              "expanded_url": "https://twitter.com/i/web/status/1273401478288412672",
+                              "display_url": "twitter.com/i/web/status/1\u2026",
+                              "indices": [
+                                    117,
+                                    140
+                              ]
+                        }
+                  ],
+                  "user_mentions": [],
+                  "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "pt"
+      },
+      "quoted_status_id": 1273382218854019074,
+      "quoted_status_id_str": "1273382218854019074",
+      "quoted_status": {
+            "created_at": "Wed Jun 17 22:29:13 +0000 2020",
+            "id": 1273382218854019074,
+            "id_str": "1273382218854019074",
+            "text": "O campeonato 2017/2018, ganho pelo FC Porto, \u00e9 um dos feitos mais incr\u00edveis da hist\u00f3ria do futebol em Portugal.",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 2211724706,
+                  "id_str": "2211724706",
+                  "name": "Pedro Bragan\u00e7a",
+                  "screen_name": "pfbraganca",
+                  "location": "Porto, Portugal",
+                  "url": "http://instagram.com/pfbraganca",
+                  "description": "Architecture: Theory, Project, History. @ CEAU-FAUP / @fcporto",
+                  "translator_type": "none",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 15347,
+                  "friends_count": 399,
+                  "listed_count": 24,
+                  "favourites_count": 13629,
+                  "statuses_count": 2670,
+                  "created_at": "Sun Nov 24 02:41:23 +0000 2013",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": true,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "C0DEED",
+                  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_tile": false,
+                  "profile_link_color": "1DA1F2",
+                  "profile_sidebar_border_color": "C0DEED",
+                  "profile_sidebar_fill_color": "DDEEF6",
+                  "profile_text_color": "333333",
+                  "profile_use_background_image": true,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/906694312938876936/QlFZ0Pdd_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/906694312938876936/QlFZ0Pdd_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2211724706/1500172607",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 18,
+            "reply_count": 41,
+            "retweet_count": 180,
+            "favorite_count": 788,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [],
+                  "user_mentions": [],
+                  "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "pt"
+      },
+      "quoted_status_permalink": {
+            "url": "https://t.co/c6PTynLS8d",
+            "expanded": "https://twitter.com/pfbraganca/status/1273382218854019074",
+            "display": "twitter.com/pfbraganca/sta\u2026"
+      },
+      "is_quote_status": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "diogomlbernardo",
+                        "name": "Diogo Bernardo",
+                        "id": 518069104,
+                        "id_str": "518069104",
+                        "indices": [
+                              3,
+                              19
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "pt",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}
+{
+      "created_at": "Thu Jun 18 00:50:11 +0000 2020",
+      "id": 1273417693140525058,
+      "id_str": "1273417693140525058",
+      "text": "RT @B24PT: De volta \u00e0s vit\u00f3rias.\n\nBenfica derrota um Rio Ave reduzido a nove jogadores e iguala o Porto no topo da Liga NOS. https://t.co/u\u2026",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+            "id": 449755465,
+            "id_str": "449755465",
+            "name": "Filipa",
+            "screen_name": "pipa_30",
+            "location": "Famalic\u00e3o, Portugal",
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 864,
+            "friends_count": 984,
+            "listed_count": 4,
+            "favourites_count": 33811,
+            "statuses_count": 51600,
+            "created_at": "Thu Dec 29 13:17:34 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": true,
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1273364759719657474/xzZATQAO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1273364759719657474/xzZATQAO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/449755465/1592330930",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+            "created_at": "Wed Jun 17 22:15:08 +0000 2020",
+            "id": 1273378671533985793,
+            "id_str": "1273378671533985793",
+            "text": "De volta \u00e0s vit\u00f3rias.\n\nBenfica derrota um Rio Ave reduzido a nove jogadores e iguala o Porto no topo da Liga NOS. https://t.co/u0Nx5ZOIas",
+            "display_text_range": [
+                  0,
+                  113
+            ],
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                  "id": 752488263747833856,
+                  "id_str": "752488263747833856",
+                  "name": "B24",
+                  "screen_name": "B24PT",
+                  "location": "Portugal",
+                  "url": "https://www.instagram.com/b24pt",
+                  "description": "Futebol internacional, NBA, t\u00e9nis. O desporto em forma de entretenimento, de adeptos para adeptos. | P\u00e1gina de esports: @B24Esports | b24@b24.pt",
+                  "translator_type": "regular",
+                  "protected": false,
+                  "verified": false,
+                  "followers_count": 221896,
+                  "friends_count": 808,
+                  "listed_count": 156,
+                  "favourites_count": 1229,
+                  "statuses_count": 26066,
+                  "created_at": "Mon Jul 11 13:02:37 +0000 2016",
+                  "utc_offset": null,
+                  "time_zone": null,
+                  "geo_enabled": false,
+                  "lang": null,
+                  "contributors_enabled": false,
+                  "is_translator": false,
+                  "profile_background_color": "000000",
+                  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                  "profile_background_tile": false,
+                  "profile_link_color": "FF691F",
+                  "profile_sidebar_border_color": "000000",
+                  "profile_sidebar_fill_color": "000000",
+                  "profile_text_color": "000000",
+                  "profile_use_background_image": false,
+                  "profile_image_url": "http://pbs.twimg.com/profile_images/1269392271788687360/1zQidys9_normal.jpg",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269392271788687360/1zQidys9_normal.jpg",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/752488263747833856/1590937367",
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "following": null,
+                  "follow_request_sent": null,
+                  "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 107,
+            "reply_count": 19,
+            "retweet_count": 463,
+            "favorite_count": 2173,
+            "entities": {
+                  "hashtags": [],
+                  "urls": [],
+                  "user_mentions": [],
+                  "symbols": [],
+                  "media": [
+                        {
+                              "id": 1273378537962196993,
+                              "id_str": "1273378537962196993",
+                              "indices": [
+                                    114,
+                                    137
+                              ],
+                              "media_url": "http://pbs.twimg.com/media/EavzCJvX0AEiJwW.jpg",
+                              "media_url_https": "https://pbs.twimg.com/media/EavzCJvX0AEiJwW.jpg",
+                              "url": "https://t.co/u0Nx5ZOIas",
+                              "display_url": "pic.twitter.com/u0Nx5ZOIas",
+                              "expanded_url": "https://twitter.com/B24PT/status/1273378671533985793/photo/1",
+                              "type": "photo",
+                              "sizes": {
+                                    "thumb": {
+                                          "w": 150,
+                                          "h": 150,
+                                          "resize": "crop"
+                                    },
+                                    "large": {
+                                          "w": 1200,
+                                          "h": 675,
+                                          "resize": "fit"
+                                    },
+                                    "small": {
+                                          "w": 680,
+                                          "h": 383,
+                                          "resize": "fit"
+                                    },
+                                    "medium": {
+                                          "w": 1200,
+                                          "h": 675,
+                                          "resize": "fit"
+                                    }
+                              }
+                        }
+                  ]
+            },
+            "extended_entities": {
+                  "media": [
+                        {
+                              "id": 1273378537962196993,
+                              "id_str": "1273378537962196993",
+                              "indices": [
+                                    114,
+                                    137
+                              ],
+                              "media_url": "http://pbs.twimg.com/media/EavzCJvX0AEiJwW.jpg",
+                              "media_url_https": "https://pbs.twimg.com/media/EavzCJvX0AEiJwW.jpg",
+                              "url": "https://t.co/u0Nx5ZOIas",
+                              "display_url": "pic.twitter.com/u0Nx5ZOIas",
+                              "expanded_url": "https://twitter.com/B24PT/status/1273378671533985793/photo/1",
+                              "type": "photo",
+                              "sizes": {
+                                    "thumb": {
+                                          "w": 150,
+                                          "h": 150,
+                                          "resize": "crop"
+                                    },
+                                    "large": {
+                                          "w": 1200,
+                                          "h": 675,
+                                          "resize": "fit"
+                                    },
+                                    "small": {
+                                          "w": 680,
+                                          "h": 383,
+                                          "resize": "fit"
+                                    },
+                                    "medium": {
+                                          "w": 1200,
+                                          "h": 675,
+                                          "resize": "fit"
+                                    }
+                              }
+                        }
+                  ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "pt"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                  {
+                        "screen_name": "B24PT",
+                        "name": "B24",
+                        "id": 752488263747833856,
+                        "id_str": "752488263747833856",
+                        "indices": [
+                              3,
+                              9
+                        ]
+                  }
+            ],
+            "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "pt",
+      "matching_rules": [
+            {
+                  "tag": null
+            }
+      ]
+}

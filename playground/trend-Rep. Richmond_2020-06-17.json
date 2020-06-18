@@ -1,0 +1,699 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Wed Jun 17 19:43:14 +0000 2020",
+                  "id": 1273340446656409602,
+                  "id_str": "1273340446656409602",
+                  "text": "A fiery exchange in the House police reform hearing just now.\n\nRep. Gaetz berates Rep. Richmond: \u201cWho in the hell d\u2026 https://t.co/xfXmcvVCnE",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/xfXmcvVCnE",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273340446656409602",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 1087380412089987077,
+                        "id_str": "1087380412089987077",
+                        "name": "The Recount",
+                        "screen_name": "therecount",
+                        "location": "New York, NY",
+                        "description": "We watch the news all day so you don\u2019t have to.\n\nFollow The Recount, download our app & subscribe to our newsletter.\n\n\ud83d\udce9 info@therecount.com",
+                        "url": "https://t.co/bJMHwOnW8M",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/bJMHwOnW8M",
+                                                "expanded_url": "https://therecount.com/",
+                                                "display_url": "therecount.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 195362,
+                        "friends_count": 473,
+                        "listed_count": 713,
+                        "created_at": "Mon Jan 21 16:04:27 +0000 2019",
+                        "favourites_count": 4674,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 4449,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1155905677094731777/19WoFsvO_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1155905677094731777/19WoFsvO_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1087380412089987077/1584580670",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 800,
+                  "favorite_count": 2221,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 20:40:03 +0000 2020",
+                  "id": 1273354745122611201,
+                  "id_str": "1273354745122611201",
+                  "text": "Taking issue with GOP members introducing extraneous issues, such as the leftist movement antifa, Rep. Richmond dec\u2026 https://t.co/rU5oVjsTZH",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/rU5oVjsTZH",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273354745122611201",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 16012783,
+                        "id_str": "16012783",
+                        "name": "The Daily Beast",
+                        "screen_name": "thedailybeast",
+                        "location": "New York, NY",
+                        "description": "Independent. Intelligent. Influential. Send tips to tips@thedailybeast.com.",
+                        "url": "https://t.co/68iIwjpBjB",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/68iIwjpBjB",
+                                                "expanded_url": "http://thedailybeast.com",
+                                                "display_url": "thedailybeast.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 1279715,
+                        "friends_count": 984,
+                        "listed_count": 23107,
+                        "created_at": "Wed Aug 27 15:24:02 +0000 2008",
+                        "favourites_count": 3162,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 321018,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "363636",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1234868520040771584/28a_ytJJ_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234868520040771584/28a_ytJJ_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16012783/1591027664",
+                        "profile_link_color": "FF0000",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "F6F5EF",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 135,
+                  "favorite_count": 305,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 22:35:35 +0000 2020",
+                  "id": 1273383819605835779,
+                  "id_str": "1273383819605835779",
+                  "text": "If you are unclear on what centering is - this is an example of Rep. Richmond centering the issue of the safety of\u2026 https://t.co/GTXKaUwEdT",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/GTXKaUwEdT",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273383819605835779",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          116,
+                                          139
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 7858302,
+                        "id_str": "7858302",
+                        "name": "Tanya WEAR A MASK Tarr",
+                        "screen_name": "nerdette",
+                        "location": "Austin, TX",
+                        "description": "I write about negotiation & equal pay for @forbeswomen. Rogue behavioral scientist. (she/her/ma\u2019am)I'm Korzilian thx for asking \ud83c\uddf0\ud83c\uddf7\ud83c\udde7\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 BLACK LIVES MATTER",
+                        "url": "https://t.co/RHAbndXs2n",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/RHAbndXs2n",
+                                                "expanded_url": "http://bit.ly/NegotiateWithPower101",
+                                                "display_url": "bit.ly/NegotiateWithP\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 13752,
+                        "friends_count": 7089,
+                        "listed_count": 565,
+                        "created_at": "Tue Jul 31 20:47:39 +0000 2007",
+                        "favourites_count": 245922,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 109352,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1267811831629975558/N5NMwvpq_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1267811831629975558/N5NMwvpq_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7858302/1580933731",
+                        "profile_link_color": "E81C4F",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1273338941593305089,
+                  "quoted_status_id_str": "1273338941593305089",
+                  "quoted_status": {
+                        "created_at": "Wed Jun 17 19:37:15 +0000 2020",
+                        "id": 1273338941593305089,
+                        "id_str": "1273338941593305089",
+                        "text": "Things got HEATED between Cedric Richmond and Matt Gaetz just now.\n\nRichmond: \"It's not about the color of your kid\u2026 https://t.co/h26BTh6kcm",
+                        "truncated": true,
+                        "entities": {
+                              "hashtags": [],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": [
+                                    {
+                                          "url": "https://t.co/h26BTh6kcm",
+                                          "expanded_url": "https://twitter.com/i/web/status/1273338941593305089",
+                                          "display_url": "twitter.com/i/web/status/1\u2026",
+                                          "indices": [
+                                                117,
+                                                140
+                                          ]
+                                    }
+                              ]
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 143500773,
+                              "id_str": "143500773",
+                              "name": "Justin Baragona",
+                              "screen_name": "justinbaragona",
+                              "location": "St. Louis, MO USA",
+                              "description": "Contributing Editor @thedailybeast Founder @thecontemptor Formerly @mediaite @TheIJR @politicususa @411mania Send tips/hate mail to justin.baragona@gmail.com",
+                              "url": "https://t.co/aZQ2yqPKug",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/aZQ2yqPKug",
+                                                      "expanded_url": "http://contemptor.com",
+                                                      "display_url": "contemptor.com",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 14519,
+                              "friends_count": 2139,
+                              "listed_count": 251,
+                              "created_at": "Thu May 13 16:54:48 +0000 2010",
+                              "favourites_count": 66220,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": false,
+                              "verified": true,
+                              "statuses_count": 44652,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "04161F",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/1166166630298259459/1fnQlvol_normal.png",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1166166630298259459/1fnQlvol_normal.png",
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/143500773/1475675271",
+                              "profile_link_color": "071E26",
+                              "profile_sidebar_border_color": "000000",
+                              "profile_sidebar_fill_color": "DDEEF6",
+                              "profile_text_color": "333333",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": true,
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 4011,
+                        "favorite_count": 10685,
+                        "favorited": false,
+                        "retweeted": false,
+                        "possibly_sensitive": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 24,
+                  "favorite_count": 82,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 20:17:29 +0000 2020",
+                  "id": 1273349065338732549,
+                  "id_str": "1273349065338732549",
+                  "text": "Dem LA Rep Richmond to GOPers at police bill markup: I am absolutely sitting here offended and angry as hell..we al\u2026 https://t.co/fvvZcs93P5",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/fvvZcs93P5",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273349065338732549",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 16187637,
+                        "id_str": "16187637",
+                        "name": "Chad Pergram",
+                        "screen_name": "ChadPergram",
+                        "location": "Capitol Hill",
+                        "description": "Chad Pergram covers Congress for FOX News. He's won an Edward R. Murrow Award and the Joan Barone Award for his reporting on Capitol Hill.",
+                        "url": null,
+                        "entities": {
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 119712,
+                        "friends_count": 18410,
+                        "listed_count": 2465,
+                        "created_at": "Mon Sep 08 17:25:20 +0000 2008",
+                        "favourites_count": 0,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 102666,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1166535687354671104/sLTw4iqu_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1166535687354671104/sLTw4iqu_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16187637/1565850534",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 13,
+                  "favorite_count": 27,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 20:30:54 +0000 2020",
+                  "id": 1273352440063164418,
+                  "id_str": "1273352440063164418",
+                  "text": "Very personal exchanges, rare on CapHill, between Dem LA Rep Richmond &amp; GOP FL Gaetz at police bill markup",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": []
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 16187637,
+                        "id_str": "16187637",
+                        "name": "Chad Pergram",
+                        "screen_name": "ChadPergram",
+                        "location": "Capitol Hill",
+                        "description": "Chad Pergram covers Congress for FOX News. He's won an Edward R. Murrow Award and the Joan Barone Award for his reporting on Capitol Hill.",
+                        "url": null,
+                        "entities": {
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 119712,
+                        "friends_count": 18410,
+                        "listed_count": 2465,
+                        "created_at": "Mon Sep 08 17:25:20 +0000 2008",
+                        "favourites_count": 0,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 102666,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1166535687354671104/sLTw4iqu_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1166535687354671104/sLTw4iqu_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16187637/1565850534",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 15,
+                  "favorite_count": 18,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 20:28:51 +0000 2020",
+                  "id": 1273351926013403140,
+                  "id_str": "1273351926013403140",
+                  "text": "Dem LA Rep Richmond to GOPers at police bill markup: You never lived in my shoes. And you do not know what it's lik\u2026 https://t.co/lhg6Dq7PeP",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/lhg6Dq7PeP",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273351926013403140",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 16187637,
+                        "id_str": "16187637",
+                        "name": "Chad Pergram",
+                        "screen_name": "ChadPergram",
+                        "location": "Capitol Hill",
+                        "description": "Chad Pergram covers Congress for FOX News. He's won an Edward R. Murrow Award and the Joan Barone Award for his reporting on Capitol Hill.",
+                        "url": null,
+                        "entities": {
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 119712,
+                        "friends_count": 18410,
+                        "listed_count": 2465,
+                        "created_at": "Mon Sep 08 17:25:20 +0000 2008",
+                        "favourites_count": 0,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 102666,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1166535687354671104/sLTw4iqu_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1166535687354671104/sLTw4iqu_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16187637/1565850534",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 6,
+                  "favorite_count": 15,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.043,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1273340446656409601&q=%22Rep.%20Richmond%22&count=10&include_entities=1&result_type=popular",
+            "query": "%22Rep.+Richmond%22",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}

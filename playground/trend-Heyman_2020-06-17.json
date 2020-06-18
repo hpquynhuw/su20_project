@@ -1,0 +1,1256 @@
+{
+      "statuses": [
+            {
+                  "created_at": "Wed Jun 17 18:37:30 +0000 2020",
+                  "id": 1273323903209951232,
+                  "id_str": "1273323903209951232",
+                  "text": "What Heyman is doing right now has the potential to stop my heart. Please don\u2019t be wrong.",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": []
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 204788318,
+                        "id_str": "204788318",
+                        "name": "Eric Hubbs",
+                        "screen_name": "BarstoolHubbs",
+                        "location": "Manalapan/Syracuse University",
+                        "description": "Yankees/MLB writer for @barstoolsports | Host of The @Short_Porch Podcast | IG: Eric_Hubbs| Tunnels Are Frauds",
+                        "url": "https://t.co/0b1GOJq9Ey",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/0b1GOJq9Ey",
+                                                "expanded_url": "http://Barstoolsports.com",
+                                                "display_url": "Barstoolsports.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 72207,
+                        "friends_count": 839,
+                        "listed_count": 541,
+                        "created_at": "Tue Oct 19 13:33:09 +0000 2010",
+                        "favourites_count": 18517,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 15314,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "666666",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1180000741412478976/1nmUOLgn_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180000741412478976/1nmUOLgn_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/204788318/1572371380",
+                        "profile_link_color": "0C68E8",
+                        "profile_sidebar_border_color": "060D3F",
+                        "profile_sidebar_fill_color": "333333",
+                        "profile_text_color": "F9F3F3",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 41,
+                  "favorite_count": 590,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 18:54:37 +0000 2020",
+                  "id": 1273328212936966145,
+                  "id_str": "1273328212936966145",
+                  "text": "My guess would be if MLBPA is dropping the grevience (what Heyman tweeted) then we\u2019re looking at 72+ games which is\u2026 https://t.co/uS68eNAYRC",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/uS68eNAYRC",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273328212936966145",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 204788318,
+                        "id_str": "204788318",
+                        "name": "Eric Hubbs",
+                        "screen_name": "BarstoolHubbs",
+                        "location": "Manalapan/Syracuse University",
+                        "description": "Yankees/MLB writer for @barstoolsports | Host of The @Short_Porch Podcast | IG: Eric_Hubbs| Tunnels Are Frauds",
+                        "url": "https://t.co/0b1GOJq9Ey",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/0b1GOJq9Ey",
+                                                "expanded_url": "http://Barstoolsports.com",
+                                                "display_url": "Barstoolsports.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 72207,
+                        "friends_count": 839,
+                        "listed_count": 541,
+                        "created_at": "Tue Oct 19 13:33:09 +0000 2010",
+                        "favourites_count": 18517,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 15314,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "666666",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1180000741412478976/1nmUOLgn_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180000741412478976/1nmUOLgn_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/204788318/1572371380",
+                        "profile_link_color": "0C68E8",
+                        "profile_sidebar_border_color": "060D3F",
+                        "profile_sidebar_fill_color": "333333",
+                        "profile_text_color": "F9F3F3",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 16,
+                  "favorite_count": 298,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Thu Jun 11 22:56:10 +0000 2020",
+                  "id": 1271214672365191169,
+                  "id_str": "1271214672365191169",
+                  "text": "In an effort to streamline our creative writing process for television, we have consolidated both teams from Raw an\u2026 https://t.co/EfUf83IFX1",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/EfUf83IFX1",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271214672365191169",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 7517222,
+                        "id_str": "7517222",
+                        "name": "WWE",
+                        "screen_name": "WWE",
+                        "location": "Stamford, CT",
+                        "description": "The official Twitter account of @WWE and its fans worldwide!",
+                        "url": "https://t.co/h8X1cqzm9R",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/h8X1cqzm9R",
+                                                "expanded_url": "http://Apple.co/afterthebell",
+                                                "display_url": "Apple.co/afterthebell",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 10961674,
+                        "friends_count": 440,
+                        "listed_count": 18045,
+                        "created_at": "Mon Jul 16 21:38:03 +0000 2007",
+                        "favourites_count": 1405,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 254337,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": true,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1268332182608764934/iVVisuIw_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268332182608764934/iVVisuIw_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7517222/1592188821",
+                        "profile_link_color": "B00000",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "F9E6EA",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "regular"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 1541,
+                  "favorite_count": 7681,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 18:54:14 +0000 2020",
+                  "id": 1273328114970624000,
+                  "id_str": "1273328114970624000",
+                  "text": "Jon Heyman: Baseball\u2019s back!\n\nEvan Drellich: https://t.co/nbAHcoyPUL",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [],
+                        "media": [
+                              {
+                                    "id": 1273328095118925828,
+                                    "id_str": "1273328095118925828",
+                                    "indices": [
+                                          45,
+                                          68
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273328095118925828/pu/img/dyE4mR75XI6CAPKX.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273328095118925828/pu/img/dyE4mR75XI6CAPKX.jpg",
+                                    "url": "https://t.co/nbAHcoyPUL",
+                                    "display_url": "pic.twitter.com/nbAHcoyPUL",
+                                    "expanded_url": "https://twitter.com/KFCradio/status/1273328114970624000/video/1",
+                                    "type": "photo",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 636,
+                                                "h": 360,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 636,
+                                                "h": 360,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 636,
+                                                "h": 360,
+                                                "resize": "fit"
+                                          }
+                                    }
+                              }
+                        ]
+                  },
+                  "extended_entities": {
+                        "media": [
+                              {
+                                    "id": 1273328095118925828,
+                                    "id_str": "1273328095118925828",
+                                    "indices": [
+                                          45,
+                                          68
+                                    ],
+                                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273328095118925828/pu/img/dyE4mR75XI6CAPKX.jpg",
+                                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273328095118925828/pu/img/dyE4mR75XI6CAPKX.jpg",
+                                    "url": "https://t.co/nbAHcoyPUL",
+                                    "display_url": "pic.twitter.com/nbAHcoyPUL",
+                                    "expanded_url": "https://twitter.com/KFCradio/status/1273328114970624000/video/1",
+                                    "type": "video",
+                                    "sizes": {
+                                          "thumb": {
+                                                "w": 150,
+                                                "h": 150,
+                                                "resize": "crop"
+                                          },
+                                          "medium": {
+                                                "w": 636,
+                                                "h": 360,
+                                                "resize": "fit"
+                                          },
+                                          "large": {
+                                                "w": 636,
+                                                "h": 360,
+                                                "resize": "fit"
+                                          },
+                                          "small": {
+                                                "w": 636,
+                                                "h": 360,
+                                                "resize": "fit"
+                                          }
+                                    },
+                                    "video_info": {
+                                          "aspect_ratio": [
+                                                53,
+                                                30
+                                          ],
+                                          "duration_millis": 13260,
+                                          "variants": [
+                                                {
+                                                      "bitrate": 256000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1273328095118925828/pu/vid/476x270/e3Al2CPT-wy3W-5v.mp4?tag=10"
+                                                },
+                                                {
+                                                      "bitrate": 832000,
+                                                      "content_type": "video/mp4",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1273328095118925828/pu/vid/636x360/9vACIWULdTVPU4vK.mp4?tag=10"
+                                                },
+                                                {
+                                                      "content_type": "application/x-mpegURL",
+                                                      "url": "https://video.twimg.com/ext_tw_video/1273328095118925828/pu/pl/ZdccLa4W3vTL6jS6.m3u8?tag=10"
+                                                }
+                                          ]
+                                    },
+                                    "additional_media_info": {
+                                          "monetizable": false
+                                    }
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 714645186,
+                        "id_str": "714645186",
+                        "name": "KFC Radio",
+                        "screen_name": "KFCradio",
+                        "location": "Voicemail: (646) 807-8665",
+                        "description": "Dumb questions, dumber answers. The original @barstoolsports podcast",
+                        "url": "https://t.co/z1JNLnrHu8",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/z1JNLnrHu8",
+                                                "expanded_url": "http://Instagram.com/kfcradio",
+                                                "display_url": "Instagram.com/kfcradio",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 102626,
+                        "friends_count": 235,
+                        "listed_count": 427,
+                        "created_at": "Tue Jul 24 17:32:01 +0000 2012",
+                        "favourites_count": 3606,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 14910,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/918536859747315717/h3CJn2XO_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/918536859747315717/h3CJn2XO_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/714645186/1490227078",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 13,
+                  "favorite_count": 83,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Thu Jun 11 22:52:54 +0000 2020",
+                  "id": 1271213850403069955,
+                  "id_str": "1271213850403069955",
+                  "text": "BREAKING: In an effort to streamline the creative writing process for TV, WWE has consolidated both teams from Raw\u2026 https://t.co/UyeKilPm3E",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/UyeKilPm3E",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271213850403069955",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          116,
+                                          139
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 98501332,
+                        "id_str": "98501332",
+                        "name": "Ryan Satin",
+                        "screen_name": "ryansatin",
+                        "location": "Los Angeles",
+                        "description": "@WrestlingSheet Editor-in-Chief | \"WWE Backstage\" News Correspondent on @FS1",
+                        "url": "https://t.co/ixKi6wa4gs",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/ixKi6wa4gs",
+                                                "expanded_url": "http://ProWrestlingSheet.com",
+                                                "display_url": "ProWrestlingSheet.com",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 82828,
+                        "friends_count": 3083,
+                        "listed_count": 745,
+                        "created_at": "Mon Dec 21 23:59:48 +0000 2009",
+                        "favourites_count": 226801,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 25119,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1194670381157605381/V39-OWky_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194670381157605381/V39-OWky_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/98501332/1573030706",
+                        "profile_link_color": "008000",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "434245",
+                        "profile_text_color": "F7F7F7",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 296,
+                  "favorite_count": 2099,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 11:40:00 +0000 2020",
+                  "id": 1273218835324252162,
+                  "id_str": "1273218835324252162",
+                  "text": "Fans of Asuka, don't worry. \n\nWe can exclusively report that Asuka's push will not be negatively impacted or stoppe\u2026 https://t.co/B0MgAWkTY9",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/B0MgAWkTY9",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273218835324252162",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 448441609,
+                        "id_str": "448441609",
+                        "name": "WrestleTalk",
+                        "screen_name": "WrestleTalk_TV",
+                        "location": "WrestleTalk.com",
+                        "description": "One of the largest wrestling YouTube channels with 700k subs! @OliDavis @ThisisLukeOwen @ElFakidor @AndyDatsonWT @PeteQuinnell @AdamTheBlampied @TheLouisDangoor",
+                        "url": "https://t.co/h74EyCsaGv",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/h74EyCsaGv",
+                                                "expanded_url": "https://linktr.ee/WrestleTalk",
+                                                "display_url": "linktr.ee/WrestleTalk",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 61024,
+                        "friends_count": 1086,
+                        "listed_count": 273,
+                        "created_at": "Wed Dec 28 00:52:31 +0000 2011",
+                        "favourites_count": 3409,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 35140,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "315679",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1108407408311840769/IYL4E1WY_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108407408311840769/IYL4E1WY_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/448441609/1553096975",
+                        "profile_link_color": "1B95E0",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "4A1EFA",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 8,
+                  "favorite_count": 49,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Sun Jun 14 04:04:37 +0000 2020",
+                  "id": 1272017072889851904,
+                  "id_str": "1272017072889851904",
+                  "text": "AJ Styles reportedly left Raw for SmackDown due to issues with Paul Heyman, per @davemeltzerWON\n\nStyles \"was furiou\u2026 https://t.co/UStHKruLb7",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [
+                              {
+                                    "screen_name": "davemeltzerWON",
+                                    "name": "Dave Meltzer",
+                                    "id": 799815672,
+                                    "id_str": "799815672",
+                                    "indices": [
+                                          80,
+                                          95
+                                    ]
+                              }
+                        ],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/UStHKruLb7",
+                                    "expanded_url": "https://twitter.com/i/web/status/1272017072889851904",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 216108231,
+                        "id_str": "216108231",
+                        "name": "B/R Wrestling",
+                        "screen_name": "BRWrestling",
+                        "location": "San Francisco, Calif.",
+                        "description": "Wrestling News and Notes from the web\u2019s leading publisher of original and entertaining sports content. Get the free B/R app at https://t.co/xi9YRaxX2y",
+                        "url": "https://t.co/FrCyjB78bQ",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/FrCyjB78bQ",
+                                                "expanded_url": "http://instagram.com/brwrestling",
+                                                "display_url": "instagram.com/brwrestling",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/xi9YRaxX2y",
+                                                "expanded_url": "http://br.app.link/get-the-BR-app",
+                                                "display_url": "br.app.link/get-the-BR-app",
+                                                "indices": [
+                                                      127,
+                                                      150
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 117028,
+                        "friends_count": 375,
+                        "listed_count": 709,
+                        "created_at": "Mon Nov 15 20:34:57 +0000 2010",
+                        "favourites_count": 159,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 31462,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1266056588458065920/CKC9p1GF_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1266056588458065920/CKC9p1GF_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/216108231/1579117882",
+                        "profile_link_color": "CF7413",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 439,
+                  "favorite_count": 3168,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Thu Jun 11 23:24:38 +0000 2020",
+                  "id": 1271221836760547330,
+                  "id_str": "1271221836760547330",
+                  "text": "WWE announces Raw and SmackDown creative teams will be combined into one group led by Bruce Prichard. Paul Heyman w\u2026 https://t.co/TPQhn202h9",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/TPQhn202h9",
+                                    "expanded_url": "https://twitter.com/i/web/status/1271221836760547330",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 216108231,
+                        "id_str": "216108231",
+                        "name": "B/R Wrestling",
+                        "screen_name": "BRWrestling",
+                        "location": "San Francisco, Calif.",
+                        "description": "Wrestling News and Notes from the web\u2019s leading publisher of original and entertaining sports content. Get the free B/R app at https://t.co/xi9YRaxX2y",
+                        "url": "https://t.co/FrCyjB78bQ",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/FrCyjB78bQ",
+                                                "expanded_url": "http://instagram.com/brwrestling",
+                                                "display_url": "instagram.com/brwrestling",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/xi9YRaxX2y",
+                                                "expanded_url": "http://br.app.link/get-the-BR-app",
+                                                "display_url": "br.app.link/get-the-BR-app",
+                                                "indices": [
+                                                      127,
+                                                      150
+                                                ]
+                                          }
+                                    ]
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 117028,
+                        "friends_count": 375,
+                        "listed_count": 709,
+                        "created_at": "Mon Nov 15 20:34:57 +0000 2010",
+                        "favourites_count": 159,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 31462,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1266056588458065920/CKC9p1GF_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1266056588458065920/CKC9p1GF_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/216108231/1579117882",
+                        "profile_link_color": "CF7413",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 221,
+                  "favorite_count": 1528,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 18:41:15 +0000 2020",
+                  "id": 1273324846655684611,
+                  "id_str": "1273324846655684611",
+                  "text": "I think Heyman's report is interesting because, if you look at its exact wording, he wrote \"via players.\" All other\u2026 https://t.co/Vx24AXeh3e",
+                  "truncated": true,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/Vx24AXeh3e",
+                                    "expanded_url": "https://twitter.com/i/web/status/1273324846655684611",
+                                    "display_url": "twitter.com/i/web/status/1\u2026",
+                                    "indices": [
+                                          117,
+                                          140
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 1007914687,
+                        "id_str": "1007914687",
+                        "name": "Devan Fink",
+                        "screen_name": "DevanFink",
+                        "location": "Virginia | New Hampshire",
+                        "description": "Write @CoverThoseBases. Intern @MiLBAdvocates. Sports @TheDartmouth. @FramingTheConvo. Contributed @FanGraphs and @BtBScore. Dartmouth '23.",
+                        "url": null,
+                        "entities": {
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 18347,
+                        "friends_count": 745,
+                        "listed_count": 465,
+                        "created_at": "Thu Dec 13 03:27:37 +0000 2012",
+                        "favourites_count": 2217,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 42812,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "05F78A",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1156318880815558658/XvAIkGp__normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156318880815558658/XvAIkGp__normal.jpg",
+                        "profile_link_color": "003087",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": false,
+                  "retweet_count": 6,
+                  "favorite_count": 107,
+                  "favorited": false,
+                  "retweeted": false,
+                  "lang": "en"
+            },
+            {
+                  "created_at": "Wed Jun 17 18:41:15 +0000 2020",
+                  "id": 1273324846022381568,
+                  "id_str": "1273324846022381568",
+                  "text": "The Heyman Haymaker https://t.co/msmhoCn0a3",
+                  "truncated": false,
+                  "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                              {
+                                    "url": "https://t.co/msmhoCn0a3",
+                                    "expanded_url": "https://twitter.com/jonheyman/status/1273323308214296576",
+                                    "display_url": "twitter.com/jonheyman/stat\u2026",
+                                    "indices": [
+                                          20,
+                                          43
+                                    ]
+                              }
+                        ]
+                  },
+                  "metadata": {
+                        "result_type": "popular",
+                        "iso_language_code": "en"
+                  },
+                  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                  "in_reply_to_status_id": null,
+                  "in_reply_to_status_id_str": null,
+                  "in_reply_to_user_id": null,
+                  "in_reply_to_user_id_str": null,
+                  "in_reply_to_screen_name": null,
+                  "user": {
+                        "id": 4895729679,
+                        "id_str": "4895729679",
+                        "name": "Starting 9",
+                        "screen_name": "Starting9",
+                        "location": "",
+                        "description": "Barstool Sports presents the No. 1 baseball podcast in the world featuring @DallasBraden209, @Jared_Carrabis and @jayhaykid. New episodes every week.",
+                        "url": "https://t.co/PEOHfWxWpy",
+                        "entities": {
+                              "url": {
+                                    "urls": [
+                                          {
+                                                "url": "https://t.co/PEOHfWxWpy",
+                                                "expanded_url": "https://itunes.apple.com/us/podcast/starting-9/id1265632650?mt=2",
+                                                "display_url": "itunes.apple.com/us/podcast/sta\u2026",
+                                                "indices": [
+                                                      0,
+                                                      23
+                                                ]
+                                          }
+                                    ]
+                              },
+                              "description": {
+                                    "urls": []
+                              }
+                        },
+                        "protected": false,
+                        "followers_count": 148010,
+                        "friends_count": 584,
+                        "listed_count": 550,
+                        "created_at": "Wed Feb 10 19:21:23 +0000 2016",
+                        "favourites_count": 1166,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 9431,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/885914075888275458/I_BENHAq_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/885914075888275458/I_BENHAq_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4895729679/1582059991",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none"
+                  },
+                  "geo": null,
+                  "coordinates": null,
+                  "place": null,
+                  "contributors": null,
+                  "is_quote_status": true,
+                  "quoted_status_id": 1273323308214296576,
+                  "quoted_status_id_str": "1273323308214296576",
+                  "quoted_status": {
+                        "created_at": "Wed Jun 17 18:35:08 +0000 2020",
+                        "id": 1273323308214296576,
+                        "id_str": "1273323308214296576",
+                        "text": "As part of the pending agreement to play the 2020 season between MLB and the players union, the union has agreed to waive any grievance.",
+                        "truncated": false,
+                        "entities": {
+                              "hashtags": [],
+                              "symbols": [],
+                              "user_mentions": [],
+                              "urls": []
+                        },
+                        "metadata": {
+                              "result_type": "popular",
+                              "iso_language_code": "en"
+                        },
+                        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                        "in_reply_to_status_id": null,
+                        "in_reply_to_status_id_str": null,
+                        "in_reply_to_user_id": null,
+                        "in_reply_to_user_id_str": null,
+                        "in_reply_to_screen_name": null,
+                        "user": {
+                              "id": 36139166,
+                              "id_str": "36139166",
+                              "name": "Jon Heyman",
+                              "screen_name": "JonHeyman",
+                              "location": "Miami",
+                              "description": "Insider at MLB Network, WFAN 660 in NYC, The Score in Chicago and Entercom radio; Co-host of Big Time Baseball podcast; fan of Northwestern Wildcats and Curb.",
+                              "url": "https://t.co/lwC0AzKYy5",
+                              "entities": {
+                                    "url": {
+                                          "urls": [
+                                                {
+                                                      "url": "https://t.co/lwC0AzKYy5",
+                                                      "expanded_url": "http://Facebook.com/JonHeymanSports",
+                                                      "display_url": "Facebook.com/JonHeymanSports",
+                                                      "indices": [
+                                                            0,
+                                                            23
+                                                      ]
+                                                }
+                                          ]
+                                    },
+                                    "description": {
+                                          "urls": []
+                                    }
+                              },
+                              "protected": false,
+                              "followers_count": 620508,
+                              "friends_count": 1914,
+                              "listed_count": 13075,
+                              "created_at": "Tue Apr 28 18:23:29 +0000 2009",
+                              "favourites_count": 8519,
+                              "utc_offset": null,
+                              "time_zone": null,
+                              "geo_enabled": true,
+                              "verified": true,
+                              "statuses_count": 88576,
+                              "lang": null,
+                              "contributors_enabled": false,
+                              "is_translator": false,
+                              "is_translation_enabled": false,
+                              "profile_background_color": "131516",
+                              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                              "profile_background_tile": false,
+                              "profile_image_url": "http://pbs.twimg.com/profile_images/983034153611485184/OIbez0YB_normal.jpg",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/983034153611485184/OIbez0YB_normal.jpg",
+                              "profile_link_color": "000000",
+                              "profile_sidebar_border_color": "EEEEEE",
+                              "profile_sidebar_fill_color": "EFEFEF",
+                              "profile_text_color": "333333",
+                              "profile_use_background_image": true,
+                              "has_extended_profile": false,
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "following": null,
+                              "follow_request_sent": null,
+                              "notifications": null,
+                              "translator_type": "none"
+                        },
+                        "geo": null,
+                        "coordinates": null,
+                        "place": null,
+                        "contributors": null,
+                        "is_quote_status": false,
+                        "retweet_count": 804,
+                        "favorite_count": 3371,
+                        "favorited": false,
+                        "retweeted": false,
+                        "lang": "en"
+                  },
+                  "retweet_count": 6,
+                  "favorite_count": 135,
+                  "favorited": false,
+                  "retweeted": false,
+                  "possibly_sensitive": false,
+                  "lang": "en"
+            }
+      ],
+      "search_metadata": {
+            "completed_in": 0.044,
+            "max_id": 0,
+            "max_id_str": "0",
+            "next_results": "?max_id=1271213850403069954&q=Heyman&count=10&include_entities=1&result_type=popular",
+            "query": "Heyman",
+            "count": 10,
+            "since_id": 0,
+            "since_id_str": "0"
+      }
+}
