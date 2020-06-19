@@ -1,0 +1,234 @@
+{
+    "statuses": [
+        {
+            "created_at": "Fri Jun 19 14:01:16 +0000 2020",
+            "id": 1273979163012194304,
+            "text": "Our kids need to go back to school. But the Sick Kids report on this crucial topic is not terribly well thought out\u2026 https://t.co/sCeoSOucmi",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/sCeoSOucmi"
+                ]
+            },
+            "user": {
+                "screen_name": "picardonhealth",
+                "id": 252794509
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 20,
+            "favorite_count": 42,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 00:01:03 +0000 2020",
+            "id": 1273405326159745037,
+            "text": "Ontario students should return to class this fall with safety precautions such as \u201chand hygiene breaks\u201d at least fi\u2026 https://t.co/18zliqNzQ3",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/18zliqNzQ3"
+                ]
+            },
+            "user": {
+                "screen_name": "TorontoStar",
+                "id": 12848262
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 18,
+            "favorite_count": 43,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Jun 17 15:40:41 +0000 2020",
+            "id": 1273279407180918785,
+            "text": "Ontario sees few cases of inflammatory syndrome in kids linked to COVID-19: Sick Kids Hospital\u2026 https://t.co/eA1sMCFLsw",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/eA1sMCFLsw"
+                ]
+            },
+            "user": {
+                "screen_name": "CP24",
+                "id": 19636948
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 42,
+            "favorite_count": 81,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 00:06:43 +0000 2020",
+            "id": 1273769140310982657,
+            "text": "Our kids need to be back in school \u2014 for the short term, and the long. SickKids gave its recommendations, but they\u2026 https://t.co/3vKJJj3dLb",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/3vKJJj3dLb"
+                ]
+            },
+            "user": {
+                "screen_name": "bruce_arthur",
+                "id": 86002394
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 13,
+            "favorite_count": 68,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Jun 17 15:24:04 +0000 2020",
+            "id": 1273275226428751873,
+            "text": "\"it's essential\" to get kids back into school say sick kids experts or they could suffer real mental health issues\u2026 https://t.co/YeTBBDvyug",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/YeTBBDvyug"
+                ]
+            },
+            "user": {
+                "screen_name": "AlexpiersonAMP",
+                "id": 2370654211
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 32,
+            "favorite_count": 105,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Jun 17 14:10:20 +0000 2020",
+            "id": 1273256667363360776,
+            "text": "Experts at Sick Kids are releasing recommendations for the re-opening of schools during the COVID-19 pandemic. \n\nTh\u2026 https://t.co/Ql9dwGnFVQ",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/Ql9dwGnFVQ"
+                ]
+            },
+            "user": {
+                "screen_name": "NEWSTALK1010",
+                "id": 15994109
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 38,
+            "favorite_count": 99,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Jun 17 15:17:30 +0000 2020",
+            "id": 1273273570932797441,
+            "text": "Sick Kids Hospital has provided recommendations on the reopening of schools in Ontario. You can read the details he\u2026 https://t.co/TaBHjeH4m7",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/TaBHjeH4m7"
+                ]
+            },
+            "user": {
+                "screen_name": "cristina_CP24",
+                "id": 22630846
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 14,
+            "favorite_count": 29,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 14:04:41 +0000 2020",
+            "id": 1273980023809196032,
+            "text": "The Ford government needs to consult more than one hospital \u2014 and support the students who need it \u2014 if this is goi\u2026 https://t.co/CBp0dAbFMr",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/CBp0dAbFMr"
+                ]
+            },
+            "user": {
+                "screen_name": "TorontoStar",
+                "id": 12848262
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 6,
+            "favorite_count": 29,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Jun 17 14:08:35 +0000 2020",
+            "id": 1273256228840407040,
+            "text": "Experts at Sick Kids @SickKidsNews say imperative that Ontario schools reopen in the fall with safety precautions i\u2026 https://t.co/3MYn1dT5En",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "SickKidsNews",
+                        "id": 48824637
+                    }
+                ],
+                "urls": [
+                    "https://t.co/3MYn1dT5En"
+                ]
+            },
+            "user": {
+                "screen_name": "krushowy",
+                "id": 37935496
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 27,
+            "favorite_count": 66,
+            "lang": "en"
+        }
+    ]
+}

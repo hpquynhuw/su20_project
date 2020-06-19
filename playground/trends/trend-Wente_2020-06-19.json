@@ -1,0 +1,182 @@
+{
+    "statuses": [
+        {
+            "created_at": "Thu Jun 18 20:07:23 +0000 2020",
+            "id": 1273708909493202956,
+            "text": "university of toronto professor Alissa Trotz has resigned from her positions at @MasseyCollege over the school's ap\u2026 https://t.co/616w7A5GbF",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "MasseyCollege",
+                        "id": 1175821711
+                    }
+                ],
+                "urls": [
+                    "https://t.co/616w7A5GbF"
+                ]
+            },
+            "user": {
+                "screen_name": "DesmondCole",
+                "id": 133623952
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 1589,
+            "favorite_count": 3756,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 13:08:55 +0000 2020",
+            "id": 1273965987994402816,
+            "text": "@UofT @MasseyCollege I'm signing this \"We \u2014 the undersigned students, faculty, staff, alumni, and donors of the Uni\u2026 https://t.co/mUn3Dca5bs",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "UofT",
+                        "id": 821814254
+                    },
+                    {
+                        "screen_name": "MasseyCollege",
+                        "id": 1175821711
+                    }
+                ],
+                "urls": [
+                    "https://t.co/mUn3Dca5bs"
+                ]
+            },
+            "user": {
+                "screen_name": "TabathaSouthey",
+                "id": 42665626
+            },
+            "in_reply_to_status_id": 1273965682665885696,
+            "in_reply_to_screen_name": "TabathaSouthey",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 36,
+            "favorite_count": 90,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 23:36:28 +0000 2020",
+            "id": 1273761528785899521,
+            "text": "As a  former @MasseyCollege journalism fellow (2013/14) I find this honour for Margaret Wente befuddling. The Masse\u2026 https://t.co/ok7y2lF1Mw",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "MasseyCollege",
+                        "id": 1175821711
+                    }
+                ],
+                "urls": [
+                    "https://t.co/ok7y2lF1Mw"
+                ]
+            },
+            "user": {
+                "screen_name": "dmrider",
+                "id": 23398730
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 12,
+            "favorite_count": 41,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 14:20:11 +0000 2020",
+            "id": 1273983923731783687,
+            "text": "I wouldn\u2019t even allow Wente into my car never mind invite her into one of the most prestigious fellowships in Canad\u2026 https://t.co/SDQd7VmvGf",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/SDQd7VmvGf"
+                ]
+            },
+            "user": {
+                "screen_name": "RMComedy",
+                "id": 273256194
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": true,
+            "retweet_count": 14,
+            "favorite_count": 136,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 13:13:01 +0000 2020",
+            "id": 1273967018925076480,
+            "text": "@UofT @MasseyCollege The Globe would not allow me to name Wente in the column, although I had pitched the column as\u2026 https://t.co/1qXQ4NO5j5",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "UofT",
+                        "id": 821814254
+                    },
+                    {
+                        "screen_name": "MasseyCollege",
+                        "id": 1175821711
+                    }
+                ],
+                "urls": [
+                    "https://t.co/1qXQ4NO5j5"
+                ]
+            },
+            "user": {
+                "screen_name": "TabathaSouthey",
+                "id": 42665626
+            },
+            "in_reply_to_status_id": 1273965634045575170,
+            "in_reply_to_screen_name": "TabathaSouthey",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 9,
+            "favorite_count": 44,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Jun 17 05:05:57 +0000 2020",
+            "id": 1273119672435703809,
+            "text": "Jesse Wente: media's lack of diversity has caused it to 'fail at a most crucial time' https://t.co/hl1R03iseF",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/hl1R03iseF"
+                ]
+            },
+            "user": {
+                "screen_name": "connie_walker",
+                "id": 21626814
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 73,
+            "favorite_count": 157,
+            "lang": "en"
+        }
+    ]
+}

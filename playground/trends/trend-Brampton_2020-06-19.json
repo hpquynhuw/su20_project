@@ -1,0 +1,293 @@
+{
+    "statuses": [
+        {
+            "created_at": "Thu Jun 18 19:04:24 +0000 2020",
+            "id": 1273693060476665858,
+            "text": "#BREAKING: Three children under the age of 18 and an adult female have died following a four-vehicle crash in Bramp\u2026 https://t.co/cvITvfMAaP",
+            "entities": {
+                "hashtags": [
+                    "BREAKING"
+                ],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/cvITvfMAaP"
+                ]
+            },
+            "user": {
+                "screen_name": "CP24",
+                "id": 19636948
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 649,
+            "favorite_count": 1280,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 22:53:59 +0000 2020",
+            "id": 1273750838117306370,
+            "text": "UPDATE: The SIU says a 37-year-old woman and her three daughters, a one-year-old, a four-year-old, and a six-year-o\u2026 https://t.co/NCm4SkdabJ",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/NCm4SkdabJ"
+                ]
+            },
+            "user": {
+                "screen_name": "CP24",
+                "id": 19636948
+            },
+            "in_reply_to_status_id": 1273726954311688192,
+            "in_reply_to_screen_name": "CP24",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 320,
+            "favorite_count": 425,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 00:01:56 +0000 2020",
+            "id": 1273767938751938564,
+            "text": "This is beyond heart breaking.  There are no words that describe the pain and sorrow that Brampton is enduring with\u2026 https://t.co/T1QB8W1EMP",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/T1QB8W1EMP"
+                ]
+            },
+            "user": {
+                "screen_name": "patrickbrownont",
+                "id": 35826823
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": {
+                "id": "1f4df2b4746ddea7",
+                "url": "https://api.twitter.com/1.1/geo/id/1f4df2b4746ddea7.json",
+                "place_type": "city",
+                "name": "Brampton",
+                "full_name": "Brampton, Ontario",
+                "country_code": "CA",
+                "country": "Canada",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -79.888911,
+                                43.60222
+                            ],
+                            [
+                                -79.630272,
+                                43.60222
+                            ],
+                            [
+                                -79.630272,
+                                43.847722
+                            ],
+                            [
+                                -79.888911,
+                                43.847722
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "is_quote_status": true,
+            "retweet_count": 179,
+            "favorite_count": 674,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 13:19:10 +0000 2020",
+            "id": 1273968566329643015,
+            "text": "More details emerge about Brampton crash that claimed the lives of mother and three young daughters\u2026 https://t.co/NqVWmiXDoa",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/NqVWmiXDoa"
+                ]
+            },
+            "user": {
+                "screen_name": "CP24",
+                "id": 19636948
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 101,
+            "favorite_count": 237,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 15:52:52 +0000 2020",
+            "id": 1274007247807483905,
+            "text": "Woman who was killed in Brampton crash along with her three young daughters identified as Grade 4 teacher\u2026 https://t.co/cm0iU96mvZ",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/cm0iU96mvZ"
+                ]
+            },
+            "user": {
+                "screen_name": "CP24",
+                "id": 19636948
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 92,
+            "favorite_count": 201,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 03:39:49 +0000 2020",
+            "id": 1273822769159995392,
+            "text": "#tosunfront WE HAVE NO WORDS Mother Karolina Ciasullo &amp; her daughters Clara 6, Liliana 4 &amp; Mila 1, dead in multi-ve\u2026 https://t.co/JFk1nkOPSY",
+            "entities": {
+                "hashtags": [
+                    "tosunfront"
+                ],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/JFk1nkOPSY"
+                ]
+            },
+            "user": {
+                "screen_name": "TheTorontoSun",
+                "id": 24700876
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 76,
+            "favorite_count": 134,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 14:55:59 +0000 2020",
+            "id": 1273630544564273152,
+            "text": "Please help us find my Dad. Missing since \u201881. Please retweet. https://t.co/U5J6vshNDP",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/U5J6vshNDP"
+                ]
+            },
+            "user": {
+                "screen_name": "michifman",
+                "id": 1073408239713148929
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 368,
+            "favorite_count": 204,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 19:55:57 +0000 2020",
+            "id": 1273706033140117506,
+            "text": "UPDATE: Police now say three people are dead, including two children, following a four-vehicle crash in Brampton. O\u2026 https://t.co/BGASiJC6Vw",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/BGASiJC6Vw"
+                ]
+            },
+            "user": {
+                "screen_name": "CP24",
+                "id": 19636948
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 93,
+            "favorite_count": 177,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 03:17:54 +0000 2020",
+            "id": 1273817256070430720,
+            "text": "On behalf of the women &amp; men of #PRP, I extend my deepest condolences &amp; prayers to all that have been affected by t\u2026 https://t.co/yYVkP9wyyH",
+            "entities": {
+                "hashtags": [
+                    "PRP"
+                ],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/yYVkP9wyyH"
+                ]
+            },
+            "user": {
+                "screen_name": "ChiefNish",
+                "id": 1380832861
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 108,
+            "favorite_count": 769,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 21:19:05 +0000 2020",
+            "id": 1273726954311688192,
+            "text": "UPDATE: Peel police say a third child critically injured in a four-vehicle collision in Brampton has died in hospit\u2026 https://t.co/Ps63zbX1SM",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/Ps63zbX1SM"
+                ]
+            },
+            "user": {
+                "screen_name": "CP24",
+                "id": 19636948
+            },
+            "in_reply_to_status_id": 1273706033140117506,
+            "in_reply_to_screen_name": "CP24",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 80,
+            "favorite_count": 156,
+            "lang": "en"
+        }
+    ]
+}

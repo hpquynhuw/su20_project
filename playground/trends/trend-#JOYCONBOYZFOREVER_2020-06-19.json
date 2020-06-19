@@ -1,0 +1,29 @@
+{
+    "statuses": [
+        {
+            "created_at": "Fri Jun 19 14:35:31 +0000 2020",
+            "id": 1273987783179321345,
+            "text": "Hoy hace un a\u00f1o que se fue Etika, youtuber y streamer, y es un recordatorio de que si lo est\u00e1is pasando mal, deb\u00e9is\u2026 https://t.co/WxwX7xUA20",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/WxwX7xUA20"
+                ]
+            },
+            "user": {
+                "screen_name": "Srcheeto",
+                "id": 233180001
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 71,
+            "favorite_count": 868,
+            "lang": "es"
+        }
+    ]
+}

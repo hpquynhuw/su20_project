@@ -1,0 +1,264 @@
+{
+    "statuses": [
+        {
+            "created_at": "Fri Jun 19 00:10:00 +0000 2020",
+            "id": 1273769967817830401,
+            "text": "Content warning:\n\nHere\u2019s the link to Daniel Carcillo and Garrett Taylor\u2019s class action suit against the CHL, as wel\u2026 https://t.co/PHWpvKnEZD",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/PHWpvKnEZD"
+                ]
+            },
+            "user": {
+                "screen_name": "scottcwheeler",
+                "id": 57672761
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 90,
+            "favorite_count": 246,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 20:51:32 +0000 2020",
+            "id": 1273720020049309697,
+            "text": "New: Former CHL players Dan Carcillo and Garrett Taylor today filed a proposed class-action lawsuit in an Ontario c\u2026 https://t.co/Mv8NnDdWMW",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/Mv8NnDdWMW"
+                ]
+            },
+            "user": {
+                "screen_name": "rwesthead",
+                "id": 15466615
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 77,
+            "favorite_count": 201,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 22:06:14 +0000 2020",
+            "id": 1273738820824051719,
+            "text": "These allegations are extremely disturbing. I have not included the worst of the claims in our story.\nFor those who\u2026 https://t.co/FmOsaDi7TS",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/FmOsaDi7TS"
+                ]
+            },
+            "user": {
+                "screen_name": "rwesthead",
+                "id": 15466615
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": true,
+            "retweet_count": 48,
+            "favorite_count": 102,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 22:33:24 +0000 2020",
+            "id": 1273745658768494593,
+            "text": "More horrific abuse claims in junior hockey.\n\n@CarBombBoom13 is a lead plaintiff in class-action lawsuit alleging t\u2026 https://t.co/Il9IdDsyFy",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "CarBombBoom13",
+                        "id": 364664580
+                    }
+                ],
+                "urls": [
+                    "https://t.co/Il9IdDsyFy"
+                ]
+            },
+            "user": {
+                "screen_name": "emilymkaplan",
+                "id": 183711447
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 45,
+            "favorite_count": 92,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 23:42:29 +0000 2020",
+            "id": 1273763041000259585,
+            "text": "Former NHL player Daniel Carcillo is spearheading a class-action lawsuit against the Canadian Hockey League and its\u2026 https://t.co/KVGl1fQCsV",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/KVGl1fQCsV"
+                ]
+            },
+            "user": {
+                "screen_name": "CBCAlerts",
+                "id": 19038934
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 27,
+            "favorite_count": 83,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 21:22:59 +0000 2020",
+            "id": 1273727936747667457,
+            "text": "Daniel Carcillo is leading a class action lawsuit against the CHL and its teams on behalf of players who allegedly\u2026 https://t.co/IGhxv0PfQm",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/IGhxv0PfQm"
+                ]
+            },
+            "user": {
+                "screen_name": "Sportsnet",
+                "id": 21660529
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 20,
+            "favorite_count": 95,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 21:38:32 +0000 2020",
+            "id": 1273731848104030208,
+            "text": "From @rwesthead: Carcillo files proposed class-action lawsuit against CHL over hazing. MORE: https://t.co/vXnd9nYrNl https://t.co/eQVgzkkPVm",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "rwesthead",
+                        "id": 15466615
+                    }
+                ],
+                "urls": [
+                    "https://t.co/vXnd9nYrNl"
+                ]
+            },
+            "user": {
+                "screen_name": "TSN_Sports",
+                "id": 25375962
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 29,
+            "favorite_count": 82,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 13:29:07 +0000 2020",
+            "id": 1273971072753438721,
+            "text": "The behavior from 15-17-old boys, alleged in Dan Carcillo's and others' class-action lawsuit, is appaling, violent,\u2026 https://t.co/XBOHiMBCPt",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/XBOHiMBCPt"
+                ]
+            },
+            "user": {
+                "screen_name": "EricEngels",
+                "id": 20568854
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 106,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 21:55:33 +0000 2020",
+            "id": 1273736132392607744,
+            "text": "The lawsuit against the Canadian Hockey League and its member teams is on behalf of players who allegedly suffered\u2026 https://t.co/sGP9aU4Jb7",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/sGP9aU4Jb7"
+                ]
+            },
+            "user": {
+                "screen_name": "hockeynight",
+                "id": 27947088
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 14,
+            "favorite_count": 18,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 02:55:31 +0000 2020",
+            "id": 1273811622222606337,
+            "text": "The CHL and its 3 member organizations \u2014 the WHL, OHL, and QMJHL \u2014 are listed as defendants in the lawsuit, as are\u2026 https://t.co/Hg9lwclJK2",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/Hg9lwclJK2"
+                ]
+            },
+            "user": {
+                "screen_name": "hockeynight",
+                "id": 27947088
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 25,
+            "favorite_count": 54,
+            "lang": "en"
+        }
+    ]
+}

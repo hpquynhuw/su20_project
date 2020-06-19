@@ -1,0 +1,57 @@
+{
+    "statuses": [
+        {
+            "created_at": "Fri Jun 19 13:43:54 +0000 2020",
+            "id": 1273974792421617671,
+            "text": "Aujourd\u2019hui, le 19 juin, unissons-nous pour c\u00e9l\u00e9brer la Journ\u00e9e des finissants! \ud83c\udf93\u2728\nF\u00e9licitez un finissant, en utili\u2026 https://t.co/SRpVCi49HC",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/SRpVCi49HC"
+                ]
+            },
+            "user": {
+                "screen_name": "telequebec",
+                "id": 257163551
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 11,
+            "lang": "fr"
+        },
+        {
+            "created_at": "Fri Jun 19 13:49:05 +0000 2020",
+            "id": 1273976095554011136,
+            "text": "C'est ce soir, \u00e0 ne pas manquer... #fiersdenosfinissants #\u00c9duQc https://t.co/ELZk7MZHvR",
+            "entities": {
+                "hashtags": [
+                    "fiersdenosfinissants",
+                    "\u00c9duQc"
+                ],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/ELZk7MZHvR"
+                ]
+            },
+            "user": {
+                "screen_name": "MarioAsselin",
+                "id": 7173992
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": true,
+            "retweet_count": 4,
+            "favorite_count": 7,
+            "lang": "fr"
+        }
+    ]
+}

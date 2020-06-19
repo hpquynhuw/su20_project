@@ -1,0 +1,294 @@
+{
+    "statuses": [
+        {
+            "created_at": "Thu Jun 18 16:47:33 +0000 2020",
+            "id": 1273658621591785472,
+            "text": "ENDANGERED MISSING ADVISORY: Please RT\n\n@Lincoln_Police is attempting to locate Cynthia Ann Sholar, 60 y/o, w/f, 5'\u2026 https://t.co/5v1X2Q5XR0",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Lincoln_Police",
+                        "id": 1482494430
+                    }
+                ],
+                "urls": [
+                    "https://t.co/5v1X2Q5XR0"
+                ]
+            },
+            "user": {
+                "screen_name": "NEStatePatrol",
+                "id": 205757271
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 113,
+            "favorite_count": 60,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Jun 17 19:23:51 +0000 2020",
+            "id": 1273335566159900672,
+            "text": "\u0412\u043d\u0443\u043a \u044d\u043a\u0441-\u0433\u043b\u0430\u0432\u044b \u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u043a\u0440\u0430\u044f, \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u044f Porsche, \u043f\u043e\u043f\u0430\u043b\u00a0\u0414\u0422\u041f \u0432\u00a0\u041c\u043e\u0441\u043a\u0432\u0435. \u041f\u043e\u00a0\u0434\u0430\u043d\u043d\u044b\u043c \u0420\u0415\u041d \u0422\u0412, \u043c\u043e\u043b\u043e\u0434\u043e\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0431\u044b\u043b \u043f\u044c\u044f\u043d.\u2026 https://t.co/QFrem8pjh7",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/QFrem8pjh7"
+                ]
+            },
+            "user": {
+                "screen_name": "znak_com",
+                "id": 984340225
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 208,
+            "favorite_count": 331,
+            "lang": "ru"
+        },
+        {
+            "created_at": "Fri Jun 19 00:53:41 +0000 2020",
+            "id": 1273780960622981123,
+            "text": "There were several reports of a Porsche on the highway....pulling a hot tub along with it.\n\nhttps://t.co/Z9QKQ2XXXT",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/Z9QKQ2XXXT"
+                ]
+            },
+            "user": {
+                "screen_name": "globalnews",
+                "id": 116502194
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 63,
+            "favorite_count": 132,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 19:20:04 +0000 2020",
+            "id": 1273697004909211654,
+            "text": "Don\u2019t be impressed when you see people flaunting their cars on social media. Your car is not the issue. Your destin\u2026 https://t.co/S9Bk2gtIPA",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/S9Bk2gtIPA"
+                ]
+            },
+            "user": {
+                "screen_name": "renoomokri",
+                "id": 264248576
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 63,
+            "favorite_count": 302,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 14:43:09 +0000 2020",
+            "id": 1273989702757036032,
+            "text": "Porsche driver pulled over by Ontario police for dangerously hauling a hot tub https://t.co/poqLa3vda5 #Ontario\u2026 https://t.co/NVU9CILeR3",
+            "entities": {
+                "hashtags": [
+                    "Ontario"
+                ],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/poqLa3vda5",
+                    "https://t.co/NVU9CILeR3"
+                ]
+            },
+            "user": {
+                "screen_name": "blogTO",
+                "id": 1223101
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 41,
+            "favorite_count": 195,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 13:04:00 +0000 2020",
+            "id": 1273964750657826816,
+            "text": "#IMSA - Exactly two weeks to go until the @PorscheNAracing #Porsche #911RSR is back on @DISupdates track for the fi\u2026 https://t.co/pL9rxZGqRd",
+            "entities": {
+                "hashtags": [
+                    "IMSA",
+                    "Porsche",
+                    "911RSR"
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "PorscheNAracing",
+                        "id": 2303598895
+                    },
+                    {
+                        "screen_name": "DISupdates",
+                        "id": 39814938
+                    }
+                ],
+                "urls": [
+                    "https://t.co/pL9rxZGqRd"
+                ]
+            },
+            "user": {
+                "screen_name": "PorscheRaces",
+                "id": 2337130332
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 43,
+            "favorite_count": 372,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 09:55:00 +0000 2020",
+            "id": 1273554798965596162,
+            "text": "#24hNBR - Exactly 100 days to go until the #Porsche #911GT3R ist back in real racing at the 48th edition of @24hNBR\u2026 https://t.co/uVy0qTM0IJ",
+            "entities": {
+                "hashtags": [
+                    "24hNBR",
+                    "Porsche",
+                    "911GT3R"
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "24hNBR",
+                        "id": 1374140768
+                    }
+                ],
+                "urls": [
+                    "https://t.co/uVy0qTM0IJ"
+                ]
+            },
+            "user": {
+                "screen_name": "PorscheRaces",
+                "id": 2337130332
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 52,
+            "favorite_count": 578,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 06:58:00 +0000 2020",
+            "id": 1273872643280625664,
+            "text": "#WEC - Enjoy some #Porsche #911RSR impressions from this year's first @FIAWEC race at @COTA #Austin https://t.co/5kLrc92ff6",
+            "entities": {
+                "hashtags": [
+                    "WEC",
+                    "Porsche",
+                    "911RSR",
+                    "Austin"
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "FIAWEC",
+                        "id": 426488154
+                    },
+                    {
+                        "screen_name": "COTA",
+                        "id": 170863272
+                    }
+                ],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "PorscheRaces",
+                "id": 2337130332
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 74,
+            "favorite_count": 592,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Jun 17 19:56:51 +0000 2020",
+            "id": 1273343873755099136,
+            "text": "\u0421\u0442\u0430\u043b\u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0414\u0422\u041f \u0441 \u0443\u0447\u0430\u0441\u0442\u0438\u0435\u043c \u0432\u043d\u0443\u043a\u0430 \u044d\u043a\u0441-\u0433\u0443\u0431\u0435\u0440\u043d\u0430\u0442\u043e\u0440\u0430 \u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u043a\u0440\u0430\u044f \u0412\u0438\u043a\u0442\u043e\u0440\u0430 \u0418\u0448\u0430\u0435\u0432\u0430 \u0418\u0433\u043e\u0440\u044f. \u041e\u043a\u043e\u043b\u043e \u043f\u044f\u0442\u0438\u2026 https://t.co/qfTPGUd7k5",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/qfTPGUd7k5"
+                ]
+            },
+            "user": {
+                "screen_name": "izvestia_ru",
+                "id": 213297787
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 94,
+            "favorite_count": 68,
+            "lang": "ru"
+        },
+        {
+            "created_at": "Thu Jun 18 11:37:00 +0000 2020",
+            "id": 1273580468017827840,
+            "text": "The recipe for creating a legend: Porsche, Hans Mezger and an air-cooled 930 Turbo flat-six. https://t.co/ktZALPVYhH",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "PorscheGB",
+                "id": 633211897
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 25,
+            "favorite_count": 206,
+            "lang": "en"
+        }
+    ]
+}

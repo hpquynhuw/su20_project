@@ -1,0 +1,193 @@
+{
+    "statuses": [
+        {
+            "created_at": "Thu Jun 18 16:32:38 +0000 2020",
+            "id": 1273654866448125961,
+            "text": "Due to the heat, #OttawaLRT is running at a max speed of 50 km/hr, with the exception of the downtown tunnel.\n\n#ottawa #otttraffic",
+            "entities": {
+                "hashtags": [
+                    "OttawaLRT",
+                    "ottawa",
+                    "otttraffic"
+                ],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "maddyeisenberg",
+                "id": 87674057
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 32,
+            "favorite_count": 124,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 12:10:05 +0000 2020",
+            "id": 1273951183133184000,
+            "text": "One person has succumbed to their injuries.\n\n@OPScollisions is investigating.\nRoad closures will remain in effect u\u2026 https://t.co/BBmYkNTzTA",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "OPScollisions",
+                        "id": 921440084464996354
+                    }
+                ],
+                "urls": [
+                    "https://t.co/BBmYkNTzTA"
+                ]
+            },
+            "user": {
+                "screen_name": "OttawaPolice",
+                "id": 23937894
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": true,
+            "retweet_count": 8,
+            "favorite_count": 2,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 11:41:07 +0000 2020",
+            "id": 1273943894779203586,
+            "text": "Traffic  alert: Carling Avenue is closed bewteen Davidson Side Road and Grandview due to a collision with life-thre\u2026 https://t.co/snEf7Wkwho",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/snEf7Wkwho"
+                ]
+            },
+            "user": {
+                "screen_name": "OttawaPolice",
+                "id": 23937894
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 8,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 22:08:22 +0000 2020",
+            "id": 1273739356822556677,
+            "text": "A reminder that #OttawaLRT will be FULLY closed on Sunday for repairs, and PARTIALLY closed from Monday-Wednesday f\u2026 https://t.co/ovypVQb5mL",
+            "entities": {
+                "hashtags": [
+                    "OttawaLRT"
+                ],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/ovypVQb5mL"
+                ]
+            },
+            "user": {
+                "screen_name": "maddyeisenberg",
+                "id": 87674057
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 9,
+            "favorite_count": 18,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 11:58:03 +0000 2020",
+            "id": 1273948153474101249,
+            "text": "BREAKING - @OttawaPolice is asking the public to avoid the area of Carling Ave. west of Moodie Dr. following a fata\u2026 https://t.co/2gllHU48wO",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "OttawaPolice",
+                        "id": 23937894
+                    }
+                ],
+                "urls": [
+                    "https://t.co/2gllHU48wO"
+                ]
+            },
+            "user": {
+                "screen_name": "1310NEWS",
+                "id": 190738551
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 11:50:23 +0000 2020",
+            "id": 1273946224417267713,
+            "text": "FATAL COLLISION: Ottawa Police is requesting the public avoid the area of Carling Ave. west of Moodie Dr. for a fat\u2026 https://t.co/DTQWLxgQf6",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/DTQWLxgQf6"
+                ]
+            },
+            "user": {
+                "screen_name": "cbcotttraffic",
+                "id": 365558123
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 9,
+            "favorite_count": 5,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Jun 15 12:51:00 +0000 2020",
+            "id": 1272511928355692545,
+            "text": "Traffic alert: Road closures due to a collision with serious injuries.\n\nTrim Road is closed between Brian Coburn Bl\u2026 https://t.co/MVQGB4etC5",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/MVQGB4etC5"
+                ]
+            },
+            "user": {
+                "screen_name": "OttawaPolice",
+                "id": 23937894
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 15,
+            "favorite_count": 11,
+            "lang": "en"
+        }
+    ]
+}

@@ -1,0 +1,286 @@
+{
+    "statuses": [
+        {
+            "created_at": "Wed Jun 17 17:50:28 +0000 2020",
+            "id": 1273312065504063488,
+            "text": "I feel sorry for mcmuffin cop because she is a human being who is stressed, exhausted, paranoid and overwhelmed. I\u2026 https://t.co/ZltpPJG43o",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/ZltpPJG43o"
+                ]
+            },
+            "user": {
+                "screen_name": "soledadobrien",
+                "id": 26548315
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 14590,
+            "favorite_count": 83928,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 21:55:22 +0000 2020",
+            "id": 1273736086012014598,
+            "text": "This seems like a great time to remind people that telling someone they should\u2019ve come out with their story when it\u2026 https://t.co/FYh8SwJTYE",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/FYh8SwJTYE"
+                ]
+            },
+            "user": {
+                "screen_name": "Sienna",
+                "id": 261048616
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 879,
+            "favorite_count": 4172,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 05:54:43 +0000 2020",
+            "id": 1273856716996673536,
+            "text": "\u0930\u093e\u091c\u094d\u092f\u094b\u0902 \u092e\u0947\u0902 \u091a\u0941\u0928\u093e\u0935\u094b\u0902 \u0915\u0940 \u0924\u0948\u092f\u093e\u0930\u0940 \u0939\u094b \u092f\u093e \u0930\u093e\u091c\u094d\u092f\u0938\u092d\u093e \u0915\u0940 \u0938\u0940\u091f\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u0935\u094b\u091f\u094b\u0902 \u0915\u093e \u091c\u0941\u0917\u093e\u0921\u093c...the EFFICIENCY of our system &amp; RESOL\u2026 https://t.co/VXG80oRFtU",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/VXG80oRFtU"
+                ]
+            },
+            "user": {
+                "screen_name": "PrashantKishor",
+                "id": 964875685872525313
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 1174,
+            "favorite_count": 4469,
+            "lang": "und"
+        },
+        {
+            "created_at": "Thu Jun 18 20:13:31 +0000 2020",
+            "id": 1273710454527995908,
+            "text": "You want to beat Mitch?\n\nWE have a plan for that!\n\nSo deeply inspired by this incredible endorsement! This fight is\u2026 https://t.co/0uiMlCOs6A",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/0uiMlCOs6A"
+                ]
+            },
+            "user": {
+                "screen_name": "Booker4KY",
+                "id": 3298708805
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": true,
+            "retweet_count": 1059,
+            "favorite_count": 6067,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 23:11:45 +0000 2020",
+            "id": 1273755308238745601,
+            "text": "Everybody's on the same page that Joe Biden is largely going to be a figurehead for the people running his admin be\u2026 https://t.co/jigpZFlJOT",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/jigpZFlJOT"
+                ]
+            },
+            "user": {
+                "screen_name": "peterjhasson",
+                "id": 2935489123
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 499,
+            "favorite_count": 2798,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 13:16:31 +0000 2020",
+            "id": 1273605514761351169,
+            "text": "LASTLY, for the people telling me \u201cstay out of it\u201d blah blah blah. I pray nothing like this happens to you, or some\u2026 https://t.co/qZ1avvsyKu",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/qZ1avvsyKu"
+                ]
+            },
+            "user": {
+                "screen_name": "Ms_DSF",
+                "id": 234835860
+            },
+            "in_reply_to_status_id": 1273599701997228033,
+            "in_reply_to_screen_name": "Ms_DSF",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 579,
+            "favorite_count": 1243,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 11:40:40 +0000 2020",
+            "id": 1273943780358578178,
+            "text": "Imagine being from Sheffield or Barnsley and voting for the people who did this \n\nMad innit https://t.co/RsKuCOAYkj",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "Reverend_Makers",
+                "id": 29454198
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 275,
+            "favorite_count": 1038,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 10:38:53 +0000 2020",
+            "id": 1273565842878476290,
+            "text": "Bernie Sanders\u2019 California forces want \u2066RoKhanna\u2069 \u2014 not Newsom \u2014 to lead state delegation - https://t.co/rfC4vjDv3g\u2026 https://t.co/eJ5h0PSKnX",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/rfC4vjDv3g",
+                    "https://t.co/eJ5h0PSKnX"
+                ]
+            },
+            "user": {
+                "screen_name": "ninaturner",
+                "id": 188793260
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 225,
+            "favorite_count": 869,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 15:48:10 +0000 2020",
+            "id": 1273643677773160449,
+            "text": "I'm enormously happy for the people protected by today's DACA decision, but it's ridiculous that the Supreme Court\u2026 https://t.co/ynqsauLUTV",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/ynqsauLUTV"
+                ]
+            },
+            "user": {
+                "screen_name": "segalmr",
+                "id": 3217010722
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 343,
+            "favorite_count": 1827,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 14:37:58 +0000 2020",
+            "id": 1273988399460999172,
+            "text": "I welcome my brother, Governor Godwin Obaseki, to our great party, the People\u2019s Democratic Party! As you join us on\u2026 https://t.co/9EspERTjEB",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/9EspERTjEB"
+                ]
+            },
+            "user": {
+                "screen_name": "IAOkowa",
+                "id": 1026733681912758273
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": {
+                "id": "00019dd72ef314fe",
+                "url": "https://api.twitter.com/1.1/geo/id/00019dd72ef314fe.json",
+                "place_type": "city",
+                "name": "Asaba",
+                "full_name": "Asaba, Nigeria",
+                "country_code": "NG",
+                "country": "Nigeria",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                6.6648612,
+                                6.1594247
+                            ],
+                            [
+                                6.7556521,
+                                6.1594247
+                            ],
+                            [
+                                6.7556521,
+                                6.2430139
+                            ],
+                            [
+                                6.6648612,
+                                6.2430139
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "is_quote_status": true,
+            "retweet_count": 185,
+            "favorite_count": 777,
+            "lang": "en"
+        }
+    ]
+}

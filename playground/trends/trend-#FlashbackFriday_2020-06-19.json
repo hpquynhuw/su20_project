@@ -1,0 +1,304 @@
+{
+    "statuses": [
+        {
+            "created_at": "Fri Jun 19 11:51:43 +0000 2020",
+            "id": 1273946559982505984,
+            "text": "\ud83c\uddea\ud83c\uddf8 Iker Casillas con la @SeFutbol en 2012 \ud83d\udcaa\n\n#EURO | #FlashbackFriday | @IkerCasillas https://t.co/uDuLQS3eVN",
+            "entities": {
+                "hashtags": [
+                    "EURO",
+                    "FlashbackFriday"
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "SeFutbol",
+                        "id": 1139001474
+                    },
+                    {
+                        "screen_name": "IkerCasillas",
+                        "id": 1640169925
+                    }
+                ],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "UEFAcom_es",
+                "id": 74426491
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 301,
+            "favorite_count": 2250,
+            "lang": "es"
+        },
+        {
+            "created_at": "Fri Jun 19 11:44:14 +0000 2020",
+            "id": 1273944678337896449,
+            "text": "#FlashbackFriday: He's got a smile to die for!! \ud83e\udd29\ud83e\udd29 \nCan't wait to see him slaying in #Prabhas20\ud83e\udd17\ud83e\udd17\n\n#Prabhas\u2026 https://t.co/tEJOkT9qUt",
+            "entities": {
+                "hashtags": [
+                    "FlashbackFriday",
+                    "Prabhas20",
+                    "Prabhas"
+                ],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/tEJOkT9qUt"
+                ]
+            },
+            "user": {
+                "screen_name": "telugufilmnagar",
+                "id": 268758073
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 280,
+            "favorite_count": 1252,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 14:23:48 +0000 2020",
+            "id": 1273984835556536320,
+            "text": "Do you believe the latest FOX News poll?\n#FlashbackFriday #BenGarrisonCartoon \n@realDonaldTrump Nope!\n\nyour cartoon\u2026 https://t.co/DcdAjbt4UC",
+            "entities": {
+                "hashtags": [
+                    "FlashbackFriday",
+                    "BenGarrisonCartoon"
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "realDonaldTrump",
+                        "id": 25073877
+                    }
+                ],
+                "urls": [
+                    "https://t.co/DcdAjbt4UC"
+                ]
+            },
+            "user": {
+                "screen_name": "GrrrGraphics",
+                "id": 127941629
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 139,
+            "favorite_count": 335,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 15:19:55 +0000 2020",
+            "id": 1273998955706060805,
+            "text": "\ud83d\udd35\ud83d\udd34 Clase de magia de Iniesta en el Camp Nou \ud83c\udfa9 \n\n#UCL | #FlashbackFriday | @andresiniesta8 | @FCBarcelona_es https://t.co/Q4vriecm3y",
+            "entities": {
+                "hashtags": [
+                    "UCL",
+                    "FlashbackFriday"
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "andresiniesta8",
+                        "id": 90836187
+                    },
+                    {
+                        "screen_name": "FCBarcelona_es",
+                        "id": 112764971
+                    }
+                ],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "LigadeCampeones",
+                "id": 3003338945
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 110,
+            "favorite_count": 613,
+            "lang": "es"
+        },
+        {
+            "created_at": "Fri Jun 19 10:37:20 +0000 2020",
+            "id": 1273927843425259521,
+            "text": "First love edition #FlashbackFriday #ameyawtv https://t.co/kwutASC7Wy",
+            "entities": {
+                "hashtags": [
+                    "FlashbackFriday",
+                    "ameyawtv"
+                ],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "ameyaw112",
+                "id": 27955127
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 70,
+            "favorite_count": 411,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 03:30:01 +0000 2020",
+            "id": 1273820302036869130,
+            "text": "\ud83d\udcf8 #FlashbackFriday https://t.co/pA3G2mNyCX",
+            "entities": {
+                "hashtags": [
+                    "FlashbackFriday"
+                ],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "ICC",
+                "id": 177547780
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 133,
+            "favorite_count": 8414,
+            "lang": "und"
+        },
+        {
+            "created_at": "Fri Jun 19 09:51:35 +0000 2020",
+            "id": 1273916328370454530,
+            "text": "All the feels with this #FlashbackFriday! \ud83e\udd7a\n\nDescribe each \ud83c\udf1f\u2019s journey with an emoji. https://t.co/4cGw0zkMyJ",
+            "entities": {
+                "hashtags": [
+                    "FlashbackFriday"
+                ],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "StarSportsIndia",
+                "id": 1026332905
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 41,
+            "favorite_count": 927,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 14:30:00 +0000 2020",
+            "id": 1273986395602923523,
+            "text": "June marks 38 years since the release of Culture Club's second single, \"I'm Afraid Of Me\", with B-Side - Murder Rap\u2026 https://t.co/kr9WYLGPfS",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/kr9WYLGPfS"
+                ]
+            },
+            "user": {
+                "screen_name": "RealCultureClub",
+                "id": 2802004583
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 41,
+            "favorite_count": 190,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 08:00:53 +0000 2020",
+            "id": 1273888469085913090,
+            "text": "The commentators laughing in this gets me every time. \n\nThoughts @VVSLaxman281, @SPFleming7? \n\n#FlashbackFriday\u2026 https://t.co/pvwS79pZYG",
+            "entities": {
+                "hashtags": [
+                    "FlashbackFriday"
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "VVSLaxman281",
+                        "id": 2500955780
+                    },
+                    {
+                        "screen_name": "SPFleming7",
+                        "id": 479017004
+                    }
+                ],
+                "urls": [
+                    "https://t.co/pvwS79pZYG"
+                ]
+            },
+            "user": {
+                "screen_name": "DavidHussey29",
+                "id": 412781038
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 41,
+            "favorite_count": 396,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 11:46:13 +0000 2020",
+            "id": 1273945177820934144,
+            "text": "\ud83c\udde7\ud83c\uddf7 Ederson for Rio Ave in 2014 \ud83d\udcaa\n\n#UEL | #FlashbackFriday | @edersonmoraes93 https://t.co/HG6OtTPLLq",
+            "entities": {
+                "hashtags": [
+                    "UEL",
+                    "FlashbackFriday"
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "edersonmoraes93",
+                        "id": 722708795340767232
+                    }
+                ],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "EuropaLeague",
+                "id": 789605024
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 50,
+            "favorite_count": 363,
+            "lang": "it"
+        }
+    ]
+}

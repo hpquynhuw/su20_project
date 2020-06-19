@@ -1,0 +1,275 @@
+{
+    "statuses": [
+        {
+            "created_at": "Fri Jun 19 13:20:50 +0000 2020",
+            "id": 1273968989371281409,
+            "text": "Just a reminder that @flotus is a birther. https://t.co/o4inZQawXZ",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "FLOTUS",
+                        "id": 818876014390603776
+                    }
+                ],
+                "urls": [
+                    "https://t.co/o4inZQawXZ"
+                ]
+            },
+            "user": {
+                "screen_name": "soledadobrien",
+                "id": 26548315
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": true,
+            "retweet_count": 5519,
+            "favorite_count": 27401,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 13:37:10 +0000 2020",
+            "id": 1273973099646423040,
+            "text": "Melania Trump was a birther. https://t.co/Hy8giDJpFS",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/Hy8giDJpFS"
+                ]
+            },
+            "user": {
+                "screen_name": "brhodes",
+                "id": 820354372827758592
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": true,
+            "retweet_count": 2712,
+            "favorite_count": 13872,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 01:05:02 +0000 2020",
+            "id": 1273783818457985024,
+            "text": "She\u2019s a birther. There\u2019s videotape. I know you need access, etc., etc., but try a little harder. https://t.co/dTqGXwpcBw",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/dTqGXwpcBw"
+                ]
+            },
+            "user": {
+                "screen_name": "soledadobrien",
+                "id": 26548315
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": true,
+            "retweet_count": 2480,
+            "favorite_count": 13246,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 15:35:59 +0000 2020",
+            "id": 1274002997660520450,
+            "text": "Lady, please. You and your husband promoted a birther conspiracy questioning the legitimacy of the first Black Pres\u2026 https://t.co/DiYoChfklk",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/DiYoChfklk"
+                ]
+            },
+            "user": {
+                "screen_name": "ananavarro",
+                "id": 19568591
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": true,
+            "retweet_count": 2265,
+            "favorite_count": 11995,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 02:11:05 +0000 2020",
+            "id": 1273438049968500737,
+            "text": "Watching trump lie so casually about Kaepernick\u2019s career reminds me so much of his despicable birther attacks.",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "AdamParkhomenko",
+                "id": 18382184
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 678,
+            "favorite_count": 4210,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 01:50:31 +0000 2020",
+            "id": 1273795262666989569,
+            "text": "Reminder: @FLOTUS is a birther. Even if that lady from cnn doesn\u2019t want to remind you. \n\n@brianstelter \u2014as the medi\u2026 https://t.co/UHBL8g34Wi",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "FLOTUS",
+                        "id": 818876014390603776
+                    },
+                    {
+                        "screen_name": "brianstelter",
+                        "id": 14515799
+                    }
+                ],
+                "urls": [
+                    "https://t.co/UHBL8g34Wi"
+                ]
+            },
+            "user": {
+                "screen_name": "soledadobrien",
+                "id": 26548315
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": true,
+            "retweet_count": 977,
+            "favorite_count": 2887,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 14:16:59 +0000 2020",
+            "id": 1273983119285194752,
+            "text": "O birther why art thou https://t.co/fw0JULvy8S",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/fw0JULvy8S"
+                ]
+            },
+            "user": {
+                "screen_name": "JohnFugelsang",
+                "id": 33276161
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": true,
+            "retweet_count": 370,
+            "favorite_count": 2449,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 13:22:27 +0000 2020",
+            "id": 1273969396101394432,
+            "text": "Birther said what? https://t.co/u0jweJPGGX",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/u0jweJPGGX"
+                ]
+            },
+            "user": {
+                "screen_name": "goldietaylor",
+                "id": 15862440
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": true,
+            "retweet_count": 450,
+            "favorite_count": 3163,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 13:14:45 +0000 2020",
+            "id": 1273967455958962177,
+            "text": "@FLOTUS @ryanstruyk You\u2019re married to the Racist-in-Chief. And you\u2019re a birther. \u201cI really don\u2019t care, do you?\u201d\u2026 https://t.co/slYtIINf5i",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "FLOTUS",
+                        "id": 818876014390603776
+                    },
+                    {
+                        "screen_name": "ryanstruyk",
+                        "id": 309822757
+                    }
+                ],
+                "urls": [
+                    "https://t.co/slYtIINf5i"
+                ]
+            },
+            "user": {
+                "screen_name": "AndyOstroy",
+                "id": 123281100
+            },
+            "in_reply_to_status_id": 1273948647860785153,
+            "in_reply_to_screen_name": "FLOTUS",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 426,
+            "favorite_count": 3679,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 01:53:47 +0000 2020",
+            "id": 1273796086876893184,
+            "text": "Australia says it is target of cyberattack by 'state actor.' How hard is it to guess who the 'state actor' is huh?\u2026 https://t.co/uxCYGZC1FJ",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/uxCYGZC1FJ"
+                ]
+            },
+            "user": {
+                "screen_name": "smitaprakash",
+                "id": 50944856
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 179,
+            "favorite_count": 954,
+            "lang": "en"
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "statuses": [
+        {
+            "created_at": "Thu Jun 18 12:30:15 +0000 2020",
+            "id": 1273593869498810369,
+            "text": "Dr. Fauci says \"anti-science bias\" is \"one of the problems we face in the United States\".... \n\n\"and that's unfortun\u2026 https://t.co/c3BX7K5ftD",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/c3BX7K5ftD"
+                ]
+            },
+            "user": {
+                "screen_name": "AnaCabrera",
+                "id": 31565351
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 19086,
+            "favorite_count": 91633,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 22:48:43 +0000 2020",
+            "id": 1273749511148634113,
+            "text": "Trump says Coronavirus is \u201cdying out.\u201d\nNew cases in Tulsa are up 111% this week at all time high. \n\nHe has not met\u2026 https://t.co/t6jSrZY3gH",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/t6jSrZY3gH"
+                ]
+            },
+            "user": {
+                "screen_name": "ASlavitt",
+                "id": 1383272101
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 8477,
+            "favorite_count": 31132,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 21:20:28 +0000 2020",
+            "id": 1273727303802146816,
+            "text": "Dr. Fauci diagnosing an American problem: \"There is a combination of an anti-science bias that people are \u2013 for rea\u2026 https://t.co/Vjdo4UHux0",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/Vjdo4UHux0"
+                ]
+            },
+            "user": {
+                "screen_name": "brianstelter",
+                "id": 14515799
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 2959,
+            "favorite_count": 8421,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 15:12:49 +0000 2020",
+            "id": 1273634781926961153,
+            "text": "Dr. Fauci says he personally wouldn\u2019t go to the rally. #CancelTrumpsTulsaRally",
+            "entities": {
+                "hashtags": [
+                    "CancelTrumpsTulsaRally"
+                ],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "funder",
+                "id": 14247236
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 856,
+            "favorite_count": 3479,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 13:41:47 +0000 2020",
+            "id": 1273611872152031236,
+            "text": "Dr. Fauci discussing the United States' \"anti-science bias\" yesterday, ending with \"...that's unfortunate, because\u2026 https://t.co/fR7Sqh4JAU",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/fR7Sqh4JAU"
+                ]
+            },
+            "user": {
+                "screen_name": "therecount",
+                "id": 1087380412089987077
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 769,
+            "favorite_count": 1969,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 15:02:52 +0000 2020",
+            "id": 1273632278443417601,
+            "text": "I appreciate the work Dr. Fauci has done in his life, but at this point he has argued every angle of every issue su\u2026 https://t.co/W1sRzlJZpj",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/W1sRzlJZpj"
+                ]
+            },
+            "user": {
+                "screen_name": "ClayTravis",
+                "id": 50772918
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 1101,
+            "favorite_count": 7978,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 12:46:01 +0000 2020",
+            "id": 1273597835972431872,
+            "text": "Dr. Fauci: \u201cOne of the problems we face in the United States is that unfortunately, there is a combination of an an\u2026 https://t.co/9ObP7hmgx5",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/9ObP7hmgx5"
+                ]
+            },
+            "user": {
+                "screen_name": "gelles",
+                "id": 14075981
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 810,
+            "favorite_count": 2226,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 00:02:09 +0000 2020",
+            "id": 1273767990799056896,
+            "text": "I believe science. I believe in authority. That's why I don't believe in Dr. Fauci.\nhttps://t.co/YxN8MS1EBC",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/YxN8MS1EBC"
+                ]
+            },
+            "user": {
+                "screen_name": "DeAnna4Congress",
+                "id": 16740433
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 601,
+            "favorite_count": 1812,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 13:14:48 +0000 2020",
+            "id": 1273605082911735811,
+            "text": "He ignored the intel community\nHe ignored the doctors\nHe ignored the medical experts\nHe ignored Dr. Fauci\nHe ignore\u2026 https://t.co/IBG3kmpKGn",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/IBG3kmpKGn"
+                ]
+            },
+            "user": {
+                "screen_name": "JesseFFerguson",
+                "id": 83668232
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": true,
+            "retweet_count": 285,
+            "favorite_count": 750,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 19:42:32 +0000 2020",
+            "id": 1273702656364761088,
+            "text": "\ud83d\udccdNOBODY gets to yell \u201cvaccine success\u201d before Dr. Fauci and the NIH clears it as scientifically sound. This is crit\u2026 https://t.co/mDr0Nw2MxV",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/mDr0Nw2MxV"
+                ]
+            },
+            "user": {
+                "screen_name": "DrEricDing",
+                "id": 18831926
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 219,
+            "favorite_count": 539,
+            "lang": "en"
+        }
+    ]
+}

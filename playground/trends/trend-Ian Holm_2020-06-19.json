@@ -1,0 +1,259 @@
+{
+    "statuses": [
+        {
+            "created_at": "Fri Jun 19 12:04:37 +0000 2020",
+            "id": 1273949807212670976,
+            "text": "Actor Sir Ian Holm, the award-winning star of Lord of the Rings, Alien and Chariots of Fire, has died aged 88 https://t.co/g0R3AL22ps",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/g0R3AL22ps"
+                ]
+            },
+            "user": {
+                "screen_name": "BBCBreaking",
+                "id": 5402612
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 4085,
+            "favorite_count": 11328,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 12:09:28 +0000 2020",
+            "id": 1273951028589797376,
+            "text": "RIP Ian Holm, a genius actor who brought considerable presence to parts funny, heartbreaking &amp; terrifying. Thanks f\u2026 https://t.co/hWDsmh0uHz",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/hWDsmh0uHz"
+                ]
+            },
+            "user": {
+                "screen_name": "edgarwright",
+                "id": 18671559
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 9010,
+            "favorite_count": 36349,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 11:38:01 +0000 2020",
+            "id": 1273943114617507840,
+            "text": "Ian Holm, star of Lord of the Rings, Alien and Chariots of Fire, dies aged 88 https://t.co/DZmeEWsKmO",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/DZmeEWsKmO"
+                ]
+            },
+            "user": {
+                "screen_name": "guardian",
+                "id": 87818409
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 7799,
+            "favorite_count": 15030,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 16:08:04 +0000 2020",
+            "id": 1274011073046122496,
+            "text": "\"I thought up an ending for my book: 'And he lived happily ever after, unto the end of his days.'\"\n\nRIP Sir Ian Hol\u2026 https://t.co/u5E0Mlr2Iw",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/u5E0Mlr2Iw"
+                ]
+            },
+            "user": {
+                "screen_name": "LOTRonPrime",
+                "id": 1065324363233222656
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 2364,
+            "favorite_count": 7915,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 11:56:45 +0000 2020",
+            "id": 1273947827874349056,
+            "text": "Ian Holm, Shakespearean Actor Who Played Bilbo Baggins, Dies at\u00a088 https://t.co/2Y5sSV5cuB",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/2Y5sSV5cuB"
+                ]
+            },
+            "user": {
+                "screen_name": "Variety",
+                "id": 17525171
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 759,
+            "favorite_count": 1641,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 12:12:55 +0000 2020",
+            "id": 1273951897607602178,
+            "text": "Daughter just asked why I was so sad.\n\nIan Holm died. \n- Who\u2019s Ian Holm? \nAn actor. \n- A great actor?\nYes. A great\u2026 https://t.co/ifWx9DGYBm",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/ifWx9DGYBm"
+                ]
+            },
+            "user": {
+                "screen_name": "exitthelemming",
+                "id": 19533512
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 666,
+            "favorite_count": 4627,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 12:03:13 +0000 2020",
+            "id": 1273949452684996610,
+            "text": "Ian Holm, known for many roles including Bilbo Baggins in the LOTR trilogy, has died aged 88\n\n(via @guardian |\u2026 https://t.co/iPeLQDRL1O",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "guardian",
+                        "id": 87818409
+                    }
+                ],
+                "urls": [
+                    "https://t.co/iPeLQDRL1O"
+                ]
+            },
+            "user": {
+                "screen_name": "getFANDOM",
+                "id": 1332121
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 896,
+            "favorite_count": 3194,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 12:07:08 +0000 2020",
+            "id": 1273950440762290176,
+            "text": "\u203c\ufe0f El actor brit\u00e1nico Ian Holm, el eterno Bilbo Bols\u00f3n, fallece a los 88 a\u00f1os https://t.co/p4MxyXmVjI https://t.co/pE6rS2S3QC",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/p4MxyXmVjI"
+                ]
+            },
+            "user": {
+                "screen_name": "eldiarioes",
+                "id": 535707261
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 1459,
+            "favorite_count": 2969,
+            "lang": "es"
+        },
+        {
+            "created_at": "Fri Jun 19 12:07:35 +0000 2020",
+            "id": 1273950552335015937,
+            "text": "Ian Holm, o Bilbo Bolseiro de O Senhor dos An\u00e9is, morre aos 88 anos https://t.co/diw3FVnvfF https://t.co/0rmYPTQvxv",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/diw3FVnvfF"
+                ]
+            },
+            "user": {
+                "screen_name": "omelete",
+                "id": 9612112
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 1105,
+            "favorite_count": 10612,
+            "lang": "pt"
+        },
+        {
+            "created_at": "Fri Jun 19 13:03:31 +0000 2020",
+            "id": 1273964630105362433,
+            "text": "Sir Ian Holm, star of Lord of the Rings, Alien and many more, has died at the age of 88. https://t.co/dg6VOUXwv9 https://t.co/uUM0zbdgMf",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/dg6VOUXwv9"
+                ]
+            },
+            "user": {
+                "screen_name": "IGN",
+                "id": 18927441
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 2782,
+            "favorite_count": 11652,
+            "lang": "en"
+        }
+    ]
+}

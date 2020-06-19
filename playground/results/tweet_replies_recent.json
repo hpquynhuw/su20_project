@@ -1,0 +1,1748 @@
+[
+  {
+    "created_at": "Tue Jun 16 18:48:19 +0000 2020",
+    "id": 1272964238697529345,
+    "id_str": "1272964238697529345",
+    "text": "@LAL2020_Champs I'd say the Kobe Bryant death was far more tragic than the Rayshard Brooks one, considering he aske\u2026 https://t.co/jC9vL4c1DH",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "LAL2020_Champs",
+          "name": "Lakers Fan",
+          "id": 900587899795550209,
+          "id_str": "900587899795550209",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jC9vL4c1DH",
+          "expanded_url": "https://twitter.com/i/web/status/1272964238697529345",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1272833566171230208,
+    "in_reply_to_status_id_str": "1272833566171230208",
+    "in_reply_to_user_id": 900587899795550209,
+    "in_reply_to_user_id_str": "900587899795550209",
+    "in_reply_to_screen_name": "LAL2020_Champs",
+    "user": {
+      "id": 1195028699151818754,
+      "id_str": "1195028699151818754",
+      "name": "Jags 4 Life",
+      "screen_name": "4_jags",
+      "location": "",
+      "description": "I know the Jaguars suck. You don't need to tell me and it doesn't mean I can't comment on other teams.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4,
+      "friends_count": 0,
+      "listed_count": 1,
+      "created_at": "Thu Nov 14 17:20:26 +0000 2019",
+      "favourites_count": 192,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 93,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1195202202215833601/44PO97L2_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195202202215833601/44PO97L2_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 16 18:47:33 +0000 2020",
+    "id": 1272964043481985027,
+    "id_str": "1272964043481985027",
+    "text": "@LAL2020_Champs Your meme, it is coming with me.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "LAL2020_Champs",
+          "name": "Lakers Fan",
+          "id": 900587899795550209,
+          "id_str": "900587899795550209",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1272833566171230208,
+    "in_reply_to_status_id_str": "1272833566171230208",
+    "in_reply_to_user_id": 900587899795550209,
+    "in_reply_to_user_id_str": "900587899795550209",
+    "in_reply_to_screen_name": "LAL2020_Champs",
+    "user": {
+      "id": 1197671000139325441,
+      "id_str": "1197671000139325441",
+      "name": "Maxwell Fisk (Political Account)",
+      "screen_name": "FiskAccount",
+      "location": "",
+      "description": "This is the Political Account Associated with my main account: @MaxwellFisk1.\nOpinions are my own.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 16,
+      "friends_count": 9,
+      "listed_count": 0,
+      "created_at": "Fri Nov 22 00:22:16 +0000 2019",
+      "favourites_count": 1888,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1057,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1197673473428131840/E7OaLVK9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197673473428131840/E7OaLVK9_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 16 18:46:10 +0000 2020",
+    "id": 1272963697347002368,
+    "id_str": "1272963697347002368",
+    "text": "@LAL2020_Champs I got it! Whoo! I'm doing great on this.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "LAL2020_Champs",
+          "name": "Lakers Fan",
+          "id": 900587899795550209,
+          "id_str": "900587899795550209",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1272833566171230208,
+    "in_reply_to_status_id_str": "1272833566171230208",
+    "in_reply_to_user_id": 900587899795550209,
+    "in_reply_to_user_id_str": "900587899795550209",
+    "in_reply_to_screen_name": "LAL2020_Champs",
+    "user": {
+      "id": 1243705398953156618,
+      "id_str": "1243705398953156618",
+      "name": "Bluelightning",
+      "screen_name": "00Bluelightning",
+      "location": "",
+      "description": "#protestforHarambe\n#BlackLivesMatter\nI believe Satanists have the freedom of religion.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 31,
+      "friends_count": 107,
+      "listed_count": 0,
+      "created_at": "Sat Mar 28 01:06:31 +0000 2020",
+      "favourites_count": 1783,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2839,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1256451965636218880/L3sHiKoo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256451965636218880/L3sHiKoo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243705398953156618/1590525978",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 16 18:30:21 +0000 2020",
+    "id": 1272959714867974146,
+    "id_str": "1272959714867974146",
+    "text": "@LAL2020_Champs Now do 2012",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "LAL2020_Champs",
+          "name": "Lakers Fan",
+          "id": 900587899795550209,
+          "id_str": "900587899795550209",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1272833566171230208,
+    "in_reply_to_status_id_str": "1272833566171230208",
+    "in_reply_to_user_id": 900587899795550209,
+    "in_reply_to_user_id_str": "900587899795550209",
+    "in_reply_to_screen_name": "LAL2020_Champs",
+    "user": {
+      "id": 943865225203408896,
+      "id_str": "943865225203408896",
+      "name": "John Galt?",
+      "screen_name": "me3notBe",
+      "location": "Chicago, IL",
+      "description": "Independent, thoughtful, focused on important issues.\nRetired quant/algo/HFT trader\nDad\nOpinionated",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 33,
+      "friends_count": 206,
+      "listed_count": 2,
+      "created_at": "Thu Dec 21 15:26:20 +0000 2017",
+      "favourites_count": 933,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2243,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1086354558245253121/0zWib1Og_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086354558245253121/0zWib1Og_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/943865225203408896/1513870733",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 16 18:21:23 +0000 2020",
+    "id": 1272957457812381696,
+    "id_str": "1272957457812381696",
+    "text": "@LAL2020_Champs That's JOE ROGAN'S dog Marshal &amp; his Wolf 4m his podcast studio \nI'm actually surprised that no cou\u2026 https://t.co/8AvOSZTGrr",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "LAL2020_Champs",
+          "name": "Lakers Fan",
+          "id": 900587899795550209,
+          "id_str": "900587899795550209",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8AvOSZTGrr",
+          "expanded_url": "https://twitter.com/i/web/status/1272957457812381696",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1272833566171230208,
+    "in_reply_to_status_id_str": "1272833566171230208",
+    "in_reply_to_user_id": 900587899795550209,
+    "in_reply_to_user_id_str": "900587899795550209",
+    "in_reply_to_screen_name": "LAL2020_Champs",
+    "user": {
+      "id": 1114610299112280064,
+      "id_str": "1114610299112280064",
+      "name": "serge2491",
+      "screen_name": "serge2491",
+      "location": "",
+      "description": "\ud83c\udde8\ud83c\udde6&Proud Of It",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 19,
+      "friends_count": 45,
+      "listed_count": 0,
+      "created_at": "Sat Apr 06 19:26:18 +0000 2019",
+      "favourites_count": 52,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 515,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1117528279404048384/SJH8XKCf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117528279404048384/SJH8XKCf_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1114610299112280064/1555274479",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 16 17:53:58 +0000 2020",
+    "id": 1272950558714933250,
+    "id_str": "1272950558714933250",
+    "text": "@LAL2020_Champs Bro how you a lakers fan page and ain\u2019t put Kobe dying on the list that shit like top 4 still",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "LAL2020_Champs",
+          "name": "Lakers Fan",
+          "id": 900587899795550209,
+          "id_str": "900587899795550209",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1272833566171230208,
+    "in_reply_to_status_id_str": "1272833566171230208",
+    "in_reply_to_user_id": 900587899795550209,
+    "in_reply_to_user_id_str": "900587899795550209",
+    "in_reply_to_screen_name": "LAL2020_Champs",
+    "user": {
+      "id": 941314815431204864,
+      "id_str": "941314815431204864",
+      "name": "MarctheMann",
+      "screen_name": "bigmarcthemann",
+      "location": "Orlando, FL",
+      "description": "I be tryna make things for people to listen to... IG:https://t.co/hLAJ7GtwdN FL\ud83c\udf4a",
+      "url": "https://t.co/3xTFcxAjOh",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3xTFcxAjOh",
+              "expanded_url": "http://MarcTheMann.com",
+              "display_url": "MarcTheMann.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/hLAJ7GtwdN",
+              "expanded_url": "https://www.instagram.com/marcthemann/",
+              "display_url": "instagram.com/marcthemann/",
+              "indices": [
+                53,
+                76
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 88,
+      "friends_count": 87,
+      "listed_count": 0,
+      "created_at": "Thu Dec 14 14:31:55 +0000 2017",
+      "favourites_count": 3792,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1219,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1251732252846895105/WhwY8wbW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251732252846895105/WhwY8wbW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/941314815431204864/1531870963",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 16 15:13:22 +0000 2020",
+    "id": 1272910143991148544,
+    "id_str": "1272910143991148544",
+    "text": "@LAL2020_Champs Don't forget the dollar is two years give or take from a collapse they say. That changes the balanc\u2026 https://t.co/tUEfDHc8RD",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "LAL2020_Champs",
+          "name": "Lakers Fan",
+          "id": 900587899795550209,
+          "id_str": "900587899795550209",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tUEfDHc8RD",
+          "expanded_url": "https://twitter.com/i/web/status/1272910143991148544",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1272833566171230208,
+    "in_reply_to_status_id_str": "1272833566171230208",
+    "in_reply_to_user_id": 900587899795550209,
+    "in_reply_to_user_id_str": "900587899795550209",
+    "in_reply_to_screen_name": "LAL2020_Champs",
+    "user": {
+      "id": 81601123,
+      "id_str": "81601123",
+      "name": "G. Baca",
+      "screen_name": "cdvaca",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4,
+      "friends_count": 6,
+      "listed_count": 0,
+      "created_at": "Sun Oct 11 14:08:14 +0000 2009",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 16 14:57:08 +0000 2020",
+    "id": 1272906056809799680,
+    "id_str": "1272906056809799680",
+    "text": "@LAL2020_Champs Don\u2019t forget the lynchings!",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "LAL2020_Champs",
+          "name": "Lakers Fan",
+          "id": 900587899795550209,
+          "id_str": "900587899795550209",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1272833566171230208,
+    "in_reply_to_status_id_str": "1272833566171230208",
+    "in_reply_to_user_id": 900587899795550209,
+    "in_reply_to_user_id_str": "900587899795550209",
+    "in_reply_to_screen_name": "LAL2020_Champs",
+    "user": {
+      "id": 766747133772963840,
+      "id_str": "766747133772963840",
+      "name": "Hi how are \u26a7\ufe0fou??",
+      "screen_name": "_mikailalalala_",
+      "location": "",
+      "description": "eat the rich n be a thicc bih // assigned stupid at birth",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 17,
+      "friends_count": 92,
+      "listed_count": 0,
+      "created_at": "Fri Aug 19 21:22:16 +0000 2016",
+      "favourites_count": 502,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 561,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1246639507878875139/5hlfIJKs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246639507878875139/5hlfIJKs_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/766747133772963840/1591025507",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 16 14:55:56 +0000 2020",
+    "id": 1272905756103319553,
+    "id_str": "1272905756103319553",
+    "text": "@LAL2020_Champs India is hit by floods also",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "LAL2020_Champs",
+          "name": "Lakers Fan",
+          "id": 900587899795550209,
+          "id_str": "900587899795550209",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1272833566171230208,
+    "in_reply_to_status_id_str": "1272833566171230208",
+    "in_reply_to_user_id": 900587899795550209,
+    "in_reply_to_user_id_str": "900587899795550209",
+    "in_reply_to_screen_name": "LAL2020_Champs",
+    "user": {
+      "id": 2841144205,
+      "id_str": "2841144205",
+      "name": "P@@rijat",
+      "screen_name": "paarijatsuman",
+      "location": "",
+      "description": "A bad influence but damn fun and stand on my values and decisions.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2,
+      "friends_count": 8,
+      "listed_count": 0,
+      "created_at": "Sun Oct 05 09:49:59 +0000 2014",
+      "favourites_count": 66,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 51,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1239935296671604742/uD26sR5R_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239935296671604742/uD26sR5R_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 16 14:46:52 +0000 2020",
+    "id": 1272903475291176963,
+    "id_str": "1272903475291176963",
+    "text": "@LAL2020_Champs https://t.co/NXWAY5fd6Y",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "LAL2020_Champs",
+          "name": "Lakers Fan",
+          "id": 900587899795550209,
+          "id_str": "900587899795550209",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1272903468278218762,
+          "id_str": "1272903468278218762",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EapC9dQWAAoZ07p.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EapC9dQWAAoZ07p.jpg",
+          "url": "https://t.co/NXWAY5fd6Y",
+          "display_url": "pic.twitter.com/NXWAY5fd6Y",
+          "expanded_url": "https://twitter.com/DogNamedSasha/status/1272903475291176963/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 418,
+              "h": 278,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 418,
+              "h": 278,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 418,
+              "h": 278,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1272903468278218762,
+          "id_str": "1272903468278218762",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EapC9dQWAAoZ07p.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EapC9dQWAAoZ07p.jpg",
+          "url": "https://t.co/NXWAY5fd6Y",
+          "display_url": "pic.twitter.com/NXWAY5fd6Y",
+          "expanded_url": "https://twitter.com/DogNamedSasha/status/1272903475291176963/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 418,
+              "h": 278,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 418,
+              "h": 278,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 418,
+              "h": 278,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              209,
+              139
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/EapC9dQWAAoZ07p.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1272833566171230208,
+    "in_reply_to_status_id_str": "1272833566171230208",
+    "in_reply_to_user_id": 900587899795550209,
+    "in_reply_to_user_id_str": "900587899795550209",
+    "in_reply_to_screen_name": "LAL2020_Champs",
+    "user": {
+      "id": 1191800641208741889,
+      "id_str": "1191800641208741889",
+      "name": "Sasha",
+      "screen_name": "DogNamedSasha",
+      "location": "",
+      "description": "I\u2019m a dog and my name is Sasha. I use this platform to share changes and updates in our new world. Agree or disagree it\u2019s still happening.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 416,
+      "friends_count": 406,
+      "listed_count": 1,
+      "created_at": "Tue Nov 05 19:33:21 +0000 2019",
+      "favourites_count": 799,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1703,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1271080843599941632/jrL8tAcn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271080843599941632/jrL8tAcn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1191800641208741889/1592019145",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Tue Jun 16 14:38:48 +0000 2020",
+    "id": 1272901446179213312,
+    "id_str": "1272901446179213312",
+    "text": "@LAL2020_Champs And it's only the sixteenth! \u263a\ufe0f https://t.co/f4yTQH3Nof",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "LAL2020_Champs",
+          "name": "Lakers Fan",
+          "id": 900587899795550209,
+          "id_str": "900587899795550209",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1272901440449712129,
+          "id_str": "1272901440449712129",
+          "indices": [
+            48,
+            71
+          ],
+          "media_url": "http://pbs.twimg.com/media/EapBHbAWkAEg_4O.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EapBHbAWkAEg_4O.jpg",
+          "url": "https://t.co/f4yTQH3Nof",
+          "display_url": "pic.twitter.com/f4yTQH3Nof",
+          "expanded_url": "https://twitter.com/chaechaeslide_/status/1272901446179213312/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 363,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 641,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1400,
+              "h": 748,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1272901440449712129,
+          "id_str": "1272901440449712129",
+          "indices": [
+            48,
+            71
+          ],
+          "media_url": "http://pbs.twimg.com/media/EapBHbAWkAEg_4O.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EapBHbAWkAEg_4O.jpg",
+          "url": "https://t.co/f4yTQH3Nof",
+          "display_url": "pic.twitter.com/f4yTQH3Nof",
+          "expanded_url": "https://twitter.com/chaechaeslide_/status/1272901446179213312/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 363,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 641,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1400,
+              "h": 748,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1272833566171230208,
+    "in_reply_to_status_id_str": "1272833566171230208",
+    "in_reply_to_user_id": 900587899795550209,
+    "in_reply_to_user_id_str": "900587899795550209",
+    "in_reply_to_screen_name": "LAL2020_Champs",
+    "user": {
+      "id": 1261399411193765888,
+      "id_str": "1261399411193765888",
+      "name": "minnie \ud83d\udcab",
+      "screen_name": "chaechaeslide_",
+      "location": "twice \u00d7 harper's bazaar \u2661",
+      "description": "#TWICE: One in a million, cheer up, you're something special. One in a million, the only one in the world. You're a masterpiece, you're perfect. \ud83d\udcab",
+      "url": "https://t.co/Qs3jxeLGmv",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Qs3jxeLGmv",
+              "expanded_url": "https://youtu.be/mH0_XpSHkZo",
+              "display_url": "youtu.be/mH0_XpSHkZo",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 78,
+      "friends_count": 214,
+      "listed_count": 0,
+      "created_at": "Fri May 15 20:55:22 +0000 2020",
+      "favourites_count": 3007,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 751,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1272899195540844544/wjvtiiWu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272899195540844544/wjvtiiWu_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1261399411193765888/1592317832",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 16 14:33:56 +0000 2020",
+    "id": 1272900220716830732,
+    "id_str": "1272900220716830732",
+    "text": "@LAL2020_Champs Fackin ebola is around every year so nothing New for ur burger",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "LAL2020_Champs",
+          "name": "Lakers Fan",
+          "id": 900587899795550209,
+          "id_str": "900587899795550209",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1272833566171230208,
+    "in_reply_to_status_id_str": "1272833566171230208",
+    "in_reply_to_user_id": 900587899795550209,
+    "in_reply_to_user_id_str": "900587899795550209",
+    "in_reply_to_screen_name": "LAL2020_Champs",
+    "user": {
+      "id": 323148863,
+      "id_str": "323148863",
+      "name": "robbo",
+      "screen_name": "robontherocks",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 0,
+      "friends_count": 1,
+      "listed_count": 0,
+      "created_at": "Fri Jun 24 10:18:31 +0000 2011",
+      "favourites_count": 4,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 70,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1145480731336089601/o81JqoMQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145480731336089601/o81JqoMQ_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 16 14:33:25 +0000 2020",
+    "id": 1272900090387206144,
+    "id_str": "1272900090387206144",
+    "text": "@LAL2020_Champs Except it\u2019s worldwide protests, not US riots... but yeah...basically",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "LAL2020_Champs",
+          "name": "Lakers Fan",
+          "id": 900587899795550209,
+          "id_str": "900587899795550209",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1272833566171230208,
+    "in_reply_to_status_id_str": "1272833566171230208",
+    "in_reply_to_user_id": 900587899795550209,
+    "in_reply_to_user_id_str": "900587899795550209",
+    "in_reply_to_screen_name": "LAL2020_Champs",
+    "user": {
+      "id": 1237039817956958212,
+      "id_str": "1237039817956958212",
+      "name": "ArleneWho\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\uddfa\ud83c\uddf8\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\uddfa\ud83c\uddf8\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\uddfa\ud83c\uddf8",
+      "screen_name": "WhoArlene",
+      "location": "",
+      "description": "I scorn TERFs, racists, Anti-Semites, homophobes... really ANY bigots at all. Flat Earthers & antiVaxxers are flat-out stupid. She/her",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 204,
+      "listed_count": 1,
+      "created_at": "Mon Mar 09 15:37:37 +0000 2020",
+      "favourites_count": 3299,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 8021,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1272647491629002752/oUteiaMI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272647491629002752/oUteiaMI_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1237039817956958212/1592157280",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 16 14:28:39 +0000 2020",
+    "id": 1272898891764183045,
+    "id_str": "1272898891764183045",
+    "text": "@LAL2020_Champs Who is rachard brooks?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "LAL2020_Champs",
+          "name": "Lakers Fan",
+          "id": 900587899795550209,
+          "id_str": "900587899795550209",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1272833566171230208,
+    "in_reply_to_status_id_str": "1272833566171230208",
+    "in_reply_to_user_id": 900587899795550209,
+    "in_reply_to_user_id_str": "900587899795550209",
+    "in_reply_to_screen_name": "LAL2020_Champs",
+    "user": {
+      "id": 2379182562,
+      "id_str": "2379182562",
+      "name": "Joseph Stanley",
+      "screen_name": "JosephStanley82",
+      "location": "Washington DC",
+      "description": "Conservative, Christian, Pro Growth Limited Government, Proud Deplorable",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1845,
+      "friends_count": 2433,
+      "listed_count": 90,
+      "created_at": "Sat Mar 08 19:15:11 +0000 2014",
+      "favourites_count": 1145,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 78915,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/442380227725914114/ggFybkzc_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/442380227725914114/ggFybkzc_normal.jpeg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "33ff2516301663e7",
+      "url": "https://api.twitter.com/1.1/geo/id/33ff2516301663e7.json",
+      "place_type": "city",
+      "name": "West Springfield",
+      "full_name": "West Springfield, VA",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.266126,
+              38.755163
+            ],
+            [
+              -77.202928,
+              38.755163
+            ],
+            [
+              -77.202928,
+              38.821463
+            ],
+            [
+              -77.266126,
+              38.821463
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 16 14:28:30 +0000 2020",
+    "id": 1272898852664852488,
+    "id_str": "1272898852664852488",
+    "text": "@LAL2020_Champs @nekomajinheika https://t.co/TQS84iAnUQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "LAL2020_Champs",
+          "name": "Lakers Fan",
+          "id": 900587899795550209,
+          "id_str": "900587899795550209",
+          "indices": [
+            0,
+            15
+          ]
+        },
+        {
+          "screen_name": "nekomajinheika",
+          "name": "nekomajinheik",
+          "id": 757714037677428736,
+          "id_str": "757714037677428736",
+          "indices": [
+            16,
+            31
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1272898845354139648,
+          "id_str": "1272898845354139648",
+          "indices": [
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eao-wXhWoAA_B9U.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eao-wXhWoAA_B9U.jpg",
+          "url": "https://t.co/TQS84iAnUQ",
+          "display_url": "pic.twitter.com/TQS84iAnUQ",
+          "expanded_url": "https://twitter.com/danthesith/status/1272898852664852488/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 479,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 676,
+              "h": 960,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 676,
+              "h": 960,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1272898845354139648,
+          "id_str": "1272898845354139648",
+          "indices": [
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eao-wXhWoAA_B9U.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eao-wXhWoAA_B9U.jpg",
+          "url": "https://t.co/TQS84iAnUQ",
+          "display_url": "pic.twitter.com/TQS84iAnUQ",
+          "expanded_url": "https://twitter.com/danthesith/status/1272898852664852488/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 479,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 676,
+              "h": 960,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 676,
+              "h": 960,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1272833566171230208,
+    "in_reply_to_status_id_str": "1272833566171230208",
+    "in_reply_to_user_id": 900587899795550209,
+    "in_reply_to_user_id_str": "900587899795550209",
+    "in_reply_to_screen_name": "LAL2020_Champs",
+    "user": {
+      "id": 153125999,
+      "id_str": "153125999",
+      "name": "DanHawk Artwork",
+      "screen_name": "danthesith",
+      "location": "Sol III, Terran System",
+      "description": "Cubicle dweller by profession, self taught artist by passion. Creator of Dee Dragon, other characters. Maker of art, haver of opinions, drinker of wine. \ud83c\udde8\ud83c\udde6",
+      "url": "https://t.co/Mi91xBD2Cu",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Mi91xBD2Cu",
+              "expanded_url": "https://www.danhawksworthart.com/",
+              "display_url": "danhawksworthart.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3512,
+      "friends_count": 4291,
+      "listed_count": 80,
+      "created_at": "Mon Jun 07 19:10:14 +0000 2010",
+      "favourites_count": 206528,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 30994,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1181207804352311296/ZCPuobQG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181207804352311296/ZCPuobQG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/153125999/1583261618",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  }
+]

@@ -1,0 +1,179 @@
+{
+    "statuses": [
+        {
+            "created_at": "Fri Jun 19 14:31:21 +0000 2020",
+            "id": 1273986733068165120,
+            "text": "#FactFriday - Non-medical masks or cloth face coverings can make breathing difficult in high heat &amp; humidity. When\u2026 https://t.co/UHBdIqScIv",
+            "entities": {
+                "hashtags": [
+                    "FactFriday"
+                ],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/UHBdIqScIv"
+                ]
+            },
+            "user": {
+                "screen_name": "CPHO_Canada",
+                "id": 2314087860
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 192,
+            "favorite_count": 422,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 07:59:10 +0000 2020",
+            "id": 1273525651081957376,
+            "text": "#ImageOfTheDay #ClimateAction #EUGreenDeal \n#Sentinel2 \ud83c\uddea\ud83c\uddfa\ud83d\udef0 imagery of Namsos in #Norway\ud83c\uddf3\ud83c\uddf4 acquired yesterday 17 Jun\u2026 https://t.co/UgX6DEWcWH",
+            "entities": {
+                "hashtags": [
+                    "ImageOfTheDay",
+                    "ClimateAction",
+                    "EUGreenDeal",
+                    "Sentinel2",
+                    "Norway"
+                ],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/UgX6DEWcWH"
+                ]
+            },
+            "user": {
+                "screen_name": "defis_eu",
+                "id": 1219222929743007744
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 16,
+            "favorite_count": 35,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 03:44:00 +0000 2020",
+            "id": 1273823821611569152,
+            "text": "Are You Prepared For A #Heatwave?\n\nHere are some Do's &amp; Don'ts! https://t.co/XZO3IcFgGx",
+            "entities": {
+                "hashtags": [
+                    "Heatwave"
+                ],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "ndmaindia",
+                "id": 2611134289
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 10,
+            "favorite_count": 29,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 14:01:09 +0000 2020",
+            "id": 1273979134700552192,
+            "text": "\ud83e\uddefIs there a heatwave or is it just me!?\ud83e\uddef ryanloco \ud83d\udcf8 bfabulous1 \ud83d\udc84 - #heat #heatwave #florida #miami #photoshoot\u2026 https://t.co/ZKXwWl59qG",
+            "entities": {
+                "hashtags": [
+                    "heat",
+                    "heatwave",
+                    "florida",
+                    "miami",
+                    "photoshoot"
+                ],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/ZKXwWl59qG"
+                ]
+            },
+            "user": {
+                "screen_name": "DanaBrookeWWE",
+                "id": 771913682
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 15,
+            "favorite_count": 145,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 01:43:19 +0000 2020",
+            "id": 1273793452858204167,
+            "text": "Here's the price you pay for not needing a snow shovel in your garage:\n\n@News3LV #nvwx #vegasweather #heatwave\u2026 https://t.co/QbJmBaC7vN",
+            "entities": {
+                "hashtags": [
+                    "nvwx",
+                    "vegasweather",
+                    "heatwave"
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "News3LV",
+                        "id": 17394793
+                    }
+                ],
+                "urls": [
+                    "https://t.co/QbJmBaC7vN"
+                ]
+            },
+            "user": {
+                "screen_name": "KevinNews3LV",
+                "id": 3171407808
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 11,
+            "favorite_count": 32,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Jun 15 07:38:00 +0000 2020",
+            "id": 1272433158156431362,
+            "text": "How To Stay Prepared For #Heatwave (#Hindi/ #SignLanguage) https://t.co/9M7IivDd3v",
+            "entities": {
+                "hashtags": [
+                    "Heatwave",
+                    "Hindi",
+                    "SignLanguage"
+                ],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "ndmaindia",
+                "id": 2611134289
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 40,
+            "favorite_count": 96,
+            "lang": "en"
+        }
+    ]
+}

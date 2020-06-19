@@ -1,0 +1,256 @@
+{
+    "statuses": [
+        {
+            "created_at": "Fri Jun 19 04:28:47 +0000 2020",
+            "id": 1273835094717935616,
+            "text": "\"We're just changing the body. We will be 216 pounds when we shoot, and then we'll balloon to 225, 230\u2026\"\n\nJamie Fox\u2026 https://t.co/FdhW3SsOcT",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/FdhW3SsOcT"
+                ]
+            },
+            "user": {
+                "screen_name": "BleacherReport",
+                "id": 890891
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 2199,
+            "favorite_count": 15036,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 04:49:43 +0000 2020",
+            "id": 1273840362310602752,
+            "text": "Jamie Foxx confirms his Mike Tyson biopic is finally moving forward \ud83e\udd4a\n\n\u2022 Film has been in development since 2014 wi\u2026 https://t.co/InXS3FV9jo",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/InXS3FV9jo"
+                ]
+            },
+            "user": {
+                "screen_name": "yardbarker",
+                "id": 15282458
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 662,
+            "favorite_count": 3506,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 00:31:05 +0000 2020",
+            "id": 1273775272182112257,
+            "text": "Jamie Foxx Bulks Up to Play Mike Tyson, Reveals 'Iron Mike' Physique!! https://t.co/mjWsfY5qI4",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/mjWsfY5qI4"
+                ]
+            },
+            "user": {
+                "screen_name": "TMZ",
+                "id": 16331010
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 690,
+            "favorite_count": 2929,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 11:56:38 +0000 2020",
+            "id": 1273947799894228992,
+            "text": "Jamie Foxx is going to star in the Mike Tyson biopic. Here's Foxx describing the opening scene of the movie. \ud83e\udd4a\nhttps://t.co/A69mR99cML",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "SandhuMMA",
+                "id": 44607937
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 1454,
+            "favorite_count": 5986,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 01:55:00 +0000 2020",
+            "id": 1273796390716608512,
+            "text": "Jamie Foxx is bulking up big time to portray Mike Tyson on the big screen. \ud83d\udcaa \ud83e\udd4a \ud83c\udfa5 https://t.co/76q3MFA19d",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "theScore",
+                "id": 15256225
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 596,
+            "favorite_count": 2344,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 13:36:29 +0000 2020",
+            "id": 1273972927160090625,
+            "text": "\"The transformation begins.\" - Jamie Foxx on getting in shape to play Mike Tyson \ud83d\udcaa (via @iamjamiefoxx) https://t.co/AMX8K6wJdd",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "iamjamiefoxx",
+                        "id": 138600717
+                    }
+                ],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "SandhuMMA",
+                "id": 44607937
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 269,
+            "favorite_count": 1498,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 15:31:42 +0000 2020",
+            "id": 1274001919921577984,
+            "text": "Jamie Foxx as Mike Tyson. This may as well be the damn movie poster. (via @Bosslogic) https://t.co/ARw3cRYohD",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Bosslogic",
+                        "id": 65537597
+                    }
+                ],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "SandhuMMA",
+                "id": 44607937
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 163,
+            "favorite_count": 969,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 22:00:35 +0000 2020",
+            "id": 1273737399680610305,
+            "text": "Jamie Foxx Says Long-Awaited Mike Tyson Biopic Is Moving Forward: 'It's a Definitive Yes'\u200b https://t.co/SHddgu1c5x",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/SHddgu1c5x"
+                ]
+            },
+            "user": {
+                "screen_name": "people",
+                "id": 25589776
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 42,
+            "favorite_count": 161,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 19:15:06 +0000 2020",
+            "id": 1273695754889068544,
+            "text": "The long-in-the-works Mike Tyson biopic is officially moving ahead.\u200b https://t.co/3YE0zG57xE",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/3YE0zG57xE"
+                ]
+            },
+            "user": {
+                "screen_name": "EW",
+                "id": 16312576
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 50,
+            "favorite_count": 182,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 14:54:21 +0000 2020",
+            "id": 1273992522134519812,
+            "text": "Jamie Foxx on the gram giving us some insight on his transformation of his body for the upcoming Mike Tyson biopic.\u2026 https://t.co/NshHuyJDXT",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/NshHuyJDXT"
+                ]
+            },
+            "user": {
+                "screen_name": "Howsito",
+                "id": 22910237
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 45,
+            "favorite_count": 136,
+            "lang": "en"
+        }
+    ]
+}

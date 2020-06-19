@@ -1,0 +1,264 @@
+{
+    "statuses": [
+        {
+            "created_at": "Fri Jun 19 15:05:10 +0000 2020",
+            "id": 1273995242354737160,
+            "text": "#HappyJuneteenth",
+            "entities": {
+                "hashtags": [
+                    "HappyJuneteenth"
+                ],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "dearra",
+                "id": 237833328
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 1868,
+            "favorite_count": 3679,
+            "lang": "und"
+        },
+        {
+            "created_at": "Fri Jun 19 14:47:27 +0000 2020",
+            "id": 1273990786426769411,
+            "text": "#HappyJuneteenth. Today we recognize the hard-fought road that led to the emancipation of enslaved people and recom\u2026 https://t.co/m8UlL09wtC",
+            "entities": {
+                "hashtags": [
+                    "HappyJuneteenth"
+                ],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/m8UlL09wtC"
+                ]
+            },
+            "user": {
+                "screen_name": "KamalaHarris",
+                "id": 30354991
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 1622,
+            "favorite_count": 5967,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 13:17:42 +0000 2020",
+            "id": 1273968200741511169,
+            "text": "#Juneteenth\n\nEducation and compassion are always great starts \u2665\ufe0f\ud83d\udda4\u2665\ufe0f\ud83d\udda4\u2665\ufe0f Today\u2019s a very important day, I hope Everyon\u2026 https://t.co/zuFioFjuQQ",
+            "entities": {
+                "hashtags": [
+                    "Juneteenth"
+                ],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/zuFioFjuQQ"
+                ]
+            },
+            "user": {
+                "screen_name": "garyvee",
+                "id": 5768872
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 486,
+            "favorite_count": 1247,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 15:09:09 +0000 2020",
+            "id": 1273996245405782018,
+            "text": "In honor of #Juneteenth, \n\nI\u2019m pleased to introduce these 2 Republicans running for office in Baltimore.\u2026 https://t.co/lvfm1udZQ8",
+            "entities": {
+                "hashtags": [
+                    "Juneteenth"
+                ],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/lvfm1udZQ8"
+                ]
+            },
+            "user": {
+                "screen_name": "ScottPresler",
+                "id": 931286316
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 597,
+            "favorite_count": 1698,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 13:07:02 +0000 2020",
+            "id": 1273965516101758976,
+            "text": "Wishing everyone a #HappyJuneteenth. What are you doing to celebrate? \ud83d\ude4f https://t.co/EkYk6Zxasg",
+            "entities": {
+                "hashtags": [
+                    "HappyJuneteenth"
+                ],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "WORLDSTAR",
+                "id": 11912362
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 194,
+            "favorite_count": 683,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 14:12:02 +0000 2020",
+            "id": 1273981874390609920,
+            "text": "#HappyJuneteenth  Here's everything you need to know about the oldest celebration honoring the end of slavery in th\u2026 https://t.co/zaIwTLqzds",
+            "entities": {
+                "hashtags": [
+                    "HappyJuneteenth"
+                ],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/zaIwTLqzds"
+                ]
+            },
+            "user": {
+                "screen_name": "Complex",
+                "id": 13049362
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 182,
+            "favorite_count": 466,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 12:51:58 +0000 2020",
+            "id": 1273961721921540096,
+            "text": "Today is #Juneteenth \n\nAfter Lincoln signed the Emancipation Proclamation\nabolishing slavery, it still took\nover 2\u2026 https://t.co/qw26XmEkTU",
+            "entities": {
+                "hashtags": [
+                    "Juneteenth"
+                ],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/qw26XmEkTU"
+                ]
+            },
+            "user": {
+                "screen_name": "kirkacevedo",
+                "id": 164060400
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 185,
+            "favorite_count": 461,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 12:44:41 +0000 2020",
+            "id": 1273959888734076928,
+            "text": "This week a black Congressman told his white colleagues:\n\n\u201cYou all are white men who have never lived in my shoes,\u2026 https://t.co/YRw4qYR74q",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/YRw4qYR74q"
+                ]
+            },
+            "user": {
+                "screen_name": "Eugene_Scott",
+                "id": 315331161
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 190,
+            "favorite_count": 1129,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 12:50:04 +0000 2020",
+            "id": 1273961245608214530,
+            "text": "My journey to me has been more than just ending my support for Trump. It completely changed my world view on life.\u2026 https://t.co/saMw6yy4zw",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/saMw6yy4zw"
+                ]
+            },
+            "user": {
+                "screen_name": "davidmweissman",
+                "id": 880018682
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 211,
+            "favorite_count": 1283,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 12:10:46 +0000 2020",
+            "id": 1273951355003179009,
+            "text": "Mood. #HappyJuneteenth https://t.co/9przyTYsrn",
+            "entities": {
+                "hashtags": [
+                    "HappyJuneteenth"
+                ],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "AstasiaWill",
+                "id": 308281620
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 83,
+            "favorite_count": 134,
+            "lang": "en"
+        }
+    ]
+}

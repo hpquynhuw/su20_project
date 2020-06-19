@@ -1,0 +1,255 @@
+{
+    "statuses": [
+        {
+            "created_at": "Fri Jun 19 04:02:49 +0000 2020",
+            "id": 1273828558801010688,
+            "text": "It's official! #TheLastofUsPartII is live worldwide! https://t.co/YH4Bn5a2Cg",
+            "entities": {
+                "hashtags": [
+                    "TheLastofUsPartII"
+                ],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "evan_wells",
+                "id": 20356401
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 4403,
+            "favorite_count": 27446,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 19:22:05 +0000 2020",
+            "id": 1273697509769007104,
+            "text": "Happy \"Early\" Final Space Friday! Doing this early since tomorrow is an important day. -Olan / Art Director\u2026 https://t.co/HwahTS23p5",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/HwahTS23p5"
+                ]
+            },
+            "user": {
+                "screen_name": "Finalspace",
+                "id": 799014935225389057
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 216,
+            "favorite_count": 1082,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 15:14:51 +0000 2020",
+            "id": 1273635291224514561,
+            "text": "Evan Mobley is just DIFFERENT \ud83d\ude33 Happy bday bro \ud83d\udcaf @evan_mobley7 https://t.co/l4GrMn5XCr",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "evan_mobley7",
+                        "id": 3285850261
+                    }
+                ],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "overtime",
+                "id": 2379056251
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 219,
+            "favorite_count": 1914,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 20:00:00 +0000 2020",
+            "id": 1273707053102403584,
+            "text": "\u201cLet\u2019s have a look at the first ever series\u2026 They were so progressive and so diverse in an era where that wasn\u2019t th\u2026 https://t.co/bpHgGDT4lm",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/bpHgGDT4lm"
+                ]
+            },
+            "user": {
+                "screen_name": "startrekcbs",
+                "id": 752743856941125632
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 126,
+            "favorite_count": 595,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 16:51:11 +0000 2020",
+            "id": 1273659537204150274,
+            "text": "Fmr Obama admin official Evan Medeiros: \u201cChina may have just delivered India to the US for the next several decades\u2026 https://t.co/4si0LB0f7B",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/4si0LB0f7B"
+                ]
+            },
+            "user": {
+                "screen_name": "tanvi_madan",
+                "id": 741520723
+            },
+            "in_reply_to_status_id": 1273658953411563522,
+            "in_reply_to_screen_name": "tanvi_madan",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 50,
+            "favorite_count": 140,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 21:39:20 +0000 2020",
+            "id": 1273732053260001281,
+            "text": "Fans spend thousands of $ &amp; hours for nothing more than emotional investment in the industry. Stop crapping on them\u2026 https://t.co/4cYczrFNcb",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/4cYczrFNcb"
+                ]
+            },
+            "user": {
+                "screen_name": "Evan_P_Grant",
+                "id": 23108081
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 68,
+            "favorite_count": 590,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 03:42:38 +0000 2020",
+            "id": 1273461089259466759,
+            "text": "The 75 year old man who police shoved to the ground, on camera, has a fractured skull and is unable to walk. Keep i\u2026 https://t.co/TDQLzKqPUj",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/TDQLzKqPUj"
+                ]
+            },
+            "user": {
+                "screen_name": "evan_greer",
+                "id": 395674143
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 150,
+            "favorite_count": 255,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 02:23:40 +0000 2020",
+            "id": 1273803607079448583,
+            "text": "tomorrow is juneteenth, a day celebrating the end of slavery in america\n\nso tomorrow, our own evan washington will\u2026 https://t.co/3djRuYjoZJ",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/3djRuYjoZJ"
+                ]
+            },
+            "user": {
+                "screen_name": "TeamBandL",
+                "id": 348768375
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": true,
+            "retweet_count": 49,
+            "favorite_count": 241,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 06:29:41 +0000 2020",
+            "id": 1273503130735517697,
+            "text": "\ud83e\udd29\ud83d\udef9\ud83d\udd25 \n\nv\u00eda evan_lala/IG https://t.co/y1pGKLegnd",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "ESPNDeportes",
+                "id": 114570540
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 59,
+            "favorite_count": 315,
+            "lang": "es"
+        },
+        {
+            "created_at": "Thu Jun 18 02:25:28 +0000 2020",
+            "id": 1273441671192199174,
+            "text": "This week in Baseball:\n\nWed: 100% going to play\nMon: Not confident\nMon: Players disgusted\nTue: Manfred to PHX\nWed:\u2026 https://t.co/BG5046Oar2",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/BG5046Oar2"
+                ]
+            },
+            "user": {
+                "screen_name": "Evan_P_Grant",
+                "id": 23108081
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 49,
+            "favorite_count": 241,
+            "lang": "en"
+        }
+    ]
+}

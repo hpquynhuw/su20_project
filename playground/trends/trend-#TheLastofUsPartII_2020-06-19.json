@@ -1,0 +1,258 @@
+{
+    "statuses": [
+        {
+            "created_at": "Fri Jun 19 04:00:38 +0000 2020",
+            "id": 1273828007036063744,
+            "text": "These words have been 7 years in the making: #TheLastofUsPartII is out now. \n\nRead a special message from\u2026 https://t.co/fddZmgsWzn",
+            "entities": {
+                "hashtags": [
+                    "TheLastofUsPartII"
+                ],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/fddZmgsWzn"
+                ]
+            },
+            "user": {
+                "screen_name": "Naughty_Dog",
+                "id": 15222083
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 5423,
+            "favorite_count": 22443,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 12:33:42 +0000 2020",
+            "id": 1273957127707648005,
+            "text": "No pod\u00eda ser de otra manera. Sorteo Express!\n\n\ud83d\udd01 Haz retweet\n\ud83c\udfc3 Sigue a Chollometro\n\nY ll\u00e9vate #TheLastofUsPartII  po\u2026 https://t.co/UNmBITHqFE",
+            "entities": {
+                "hashtags": [
+                    "TheLastofUsPartII"
+                ],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/UNmBITHqFE"
+                ]
+            },
+            "user": {
+                "screen_name": "chollometro",
+                "id": 4663496243
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 4668,
+            "favorite_count": 721,
+            "lang": "es"
+        },
+        {
+            "created_at": "Fri Jun 19 03:00:10 +0000 2020",
+            "id": 1273812791925727233,
+            "text": "Just one hour to go until #TheLastofUsPartII is out worldwide! https://t.co/JTqFxWbfgf",
+            "entities": {
+                "hashtags": [
+                    "TheLastofUsPartII"
+                ],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "Naughty_Dog",
+                "id": 15222083
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 3760,
+            "favorite_count": 23234,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 04:17:56 +0000 2020",
+            "id": 1273832364246884352,
+            "text": "Everyone at the studio right now. #TheLastofUsPartII https://t.co/TR7LspfPEX",
+            "entities": {
+                "hashtags": [
+                    "TheLastofUsPartII"
+                ],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "Naughty_Dog",
+                "id": 15222083
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 2917,
+            "favorite_count": 21224,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 04:02:49 +0000 2020",
+            "id": 1273828558801010688,
+            "text": "It's official! #TheLastofUsPartII is live worldwide! https://t.co/YH4Bn5a2Cg",
+            "entities": {
+                "hashtags": [
+                    "TheLastofUsPartII"
+                ],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "evan_wells",
+                "id": 20356401
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 4404,
+            "favorite_count": 27447,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 07:01:44 +0000 2020",
+            "id": 1273511197648678912,
+            "text": "It's all been leading to this. #TheLastofUsPartII is out tomorrow. https://t.co/iDJpNlYTjO",
+            "entities": {
+                "hashtags": [
+                    "TheLastofUsPartII"
+                ],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "Naughty_Dog",
+                "id": 15222083
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 7341,
+            "favorite_count": 33092,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 04:00:03 +0000 2020",
+            "id": 1273827860755537921,
+            "text": "This baby's all cooked. #TheLastOfUsPartII is live worldwide! Endure &amp; Survive, y'all! https://t.co/tTZ4YSC6EI",
+            "entities": {
+                "hashtags": [
+                    "TheLastOfUsPartII"
+                ],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "Neil_Druckmann",
+                "id": 33030256
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 7921,
+            "favorite_count": 50016,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 17:06:43 +0000 2020",
+            "id": 1273663446597292032,
+            "text": "You can\u2019t stop this...\n\n#TheLastofUsPartII https://t.co/CVScSuFSrA",
+            "entities": {
+                "hashtags": [
+                    "TheLastofUsPartII"
+                ],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "TroyBakerVA",
+                "id": 434725454
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 2470,
+            "favorite_count": 24406,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 16:59:06 +0000 2020",
+            "id": 1273661529838071808,
+            "text": "Today. #TheLastofUsPartII https://t.co/n53oUbcUr6",
+            "entities": {
+                "hashtags": [
+                    "TheLastofUsPartII"
+                ],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "LauraBaileyVO",
+                "id": 508192094
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 2241,
+            "favorite_count": 25495,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 23:00:03 +0000 2020",
+            "id": 1273752362729922560,
+            "text": "#TheLastofUsPartII is officially out now across Europe! https://t.co/SXwXz705JA",
+            "entities": {
+                "hashtags": [
+                    "TheLastofUsPartII"
+                ],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "Naughty_Dog",
+                "id": 15222083
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 2951,
+            "favorite_count": 23091,
+            "lang": "en"
+        }
+    ]
+}

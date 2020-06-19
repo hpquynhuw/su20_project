@@ -1,0 +1,265 @@
+{
+    "statuses": [
+        {
+            "created_at": "Fri Jun 19 01:28:40 +0000 2020",
+            "id": 1273789763846156288,
+            "text": "\u2066@PeterMacKay\u2069 won both debates! He was prime ministerial tonite &amp; solid last night in French. \u201cMacKay stood tall,\u2026 https://t.co/g1U1qrUUzf",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "PeterMacKay",
+                        "id": 930386257
+                    }
+                ],
+                "urls": [
+                    "https://t.co/g1U1qrUUzf"
+                ]
+            },
+            "user": {
+                "screen_name": "jamesbezan",
+                "id": 44718864
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 38,
+            "favorite_count": 121,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 00:00:46 +0000 2020",
+            "id": 1273405256697884673,
+            "text": "So for two minutes \u2066@ErinOTooleMP\u2069 and \u2066@LeslynLewis\u2069 were \u201cdebating\u201d energy infrastructure. They never criticized\u2026 https://t.co/LP3FtjTCaP",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ErinOTooleMP",
+                        "id": 296553576
+                    },
+                    {
+                        "screen_name": "LeslynLewis",
+                        "id": 409687240
+                    }
+                ],
+                "urls": [
+                    "https://t.co/LP3FtjTCaP"
+                ]
+            },
+            "user": {
+                "screen_name": "brianlilley",
+                "id": 23865085
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 21,
+            "favorite_count": 75,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 01:04:48 +0000 2020",
+            "id": 1273421371595526145,
+            "text": "Pro-choix ou pro-vie? Peter MacKay pose la question \u00e0 Erin O'Toole. Pas de r\u00e9ponse.",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "melmarquis",
+                "id": 17931988
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 18,
+            "favorite_count": 23,
+            "lang": "fr"
+        },
+        {
+            "created_at": "Thu Jun 18 05:44:58 +0000 2020",
+            "id": 1273491876109332481,
+            "text": "In French floor video, MacKay clearly states (responding to O\u2019Toole):\nWhy are you always angry? Yes, I voted [that\u2026 https://t.co/rJc9B0rzlZ",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/rJc9B0rzlZ"
+                ]
+            },
+            "user": {
+                "screen_name": "denisebatters",
+                "id": 2422634642
+            },
+            "in_reply_to_status_id": 1273491874590846976,
+            "in_reply_to_screen_name": "denisebatters",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 15,
+            "favorite_count": 25,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 00:10:31 +0000 2020",
+            "id": 1273770096570359808,
+            "text": "So far O\u2019Toole has had the best answer on the government\u2019s response to COVID. #cpcldr #CPCdebate https://t.co/jcUm7c6O1D",
+            "entities": {
+                "hashtags": [
+                    "cpcldr",
+                    "CPCdebate"
+                ],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "brianlilley",
+                "id": 23865085
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 18,
+            "favorite_count": 101,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 12:07:31 +0000 2020",
+            "id": 1273950536748929024,
+            "text": "See how this game is played? Media cover Conservatives based on what Liberals say is issue du jour. Used to be prid\u2026 https://t.co/lP1Qf8HnWT",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/lP1Qf8HnWT"
+                ]
+            },
+            "user": {
+                "screen_name": "sunlorrie",
+                "id": 255340030
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 16,
+            "favorite_count": 33,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 00:24:13 +0000 2020",
+            "id": 1273773547043815425,
+            "text": "\"Socks and selfies\" won't help a small business owner struggling with the economy, O'Toole says of Trudeau.",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "user": {
+                "screen_name": "AndrewLawton",
+                "id": 19472876
+            },
+            "in_reply_to_status_id": 1273773449564033026,
+            "in_reply_to_screen_name": "AndrewLawton",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 10,
+            "favorite_count": 66,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Jun 17 12:47:47 +0000 2020",
+            "id": 1273235893403496449,
+            "text": "\"We should reduce regulation so we can build things. And we should adopt a growth-oriented tax reform that flattens\u2026 https://t.co/4dQwJhEUer",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/4dQwJhEUer"
+                ]
+            },
+            "user": {
+                "screen_name": "ErinOTooleMP",
+                "id": 296553576
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 136,
+            "favorite_count": 383,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 03:03:38 +0000 2020",
+            "id": 1273813665981124608,
+            "text": "If I cared, I\u2019d say electing O\u2019Toole means another decade of Trudeau. But, like most people, I just don\u2019t care. The\u2026 https://t.co/E6RB2tBdoG",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/E6RB2tBdoG"
+                ]
+            },
+            "user": {
+                "screen_name": "kinsellawarren",
+                "id": 16106522
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 47,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 12 23:10:06 +0000 2020",
+            "id": 1271580568401129472,
+            "text": "Fintan O\u2019Toole: The US has engaged in many armed conflicts, but three have never ended: the Civil War, the Vietnam\u2026 https://t.co/LXDDubFU53",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/LXDDubFU53"
+                ]
+            },
+            "user": {
+                "screen_name": "nybooks",
+                "id": 11178902
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 275,
+            "favorite_count": 532,
+            "lang": "en"
+        }
+    ]
+}

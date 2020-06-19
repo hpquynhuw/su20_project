@@ -1,0 +1,2819 @@
+{
+  "statuses": [
+    {
+      "created_at": "Tue Jun 16 18:03:47 +0000 2020",
+      "id": 1272953029768237063,
+      "id_str": "1272953029768237063",
+      "text": "RT @thewheelman518: @DeAnna4Congress Release all information regarding #pizzagate, #frazzledrip and #adrenochrome to the general public imm\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "pizzagate",
+            "indices": [
+              71,
+              81
+            ]
+          },
+          {
+            "text": "frazzledrip",
+            "indices": [
+              83,
+              95
+            ]
+          },
+          {
+            "text": "adrenochrome",
+            "indices": [
+              100,
+              113
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "thewheelman518",
+            "name": "thewheelm4n",
+            "id": 1171944746312511489,
+            "id_str": "1171944746312511489",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "DeAnna4Congress",
+            "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+            "id": 16740433,
+            "id_str": "16740433",
+            "indices": [
+              20,
+              36
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 173289098,
+        "id_str": "173289098",
+        "name": "Keith Wilcox",
+        "screen_name": "KeithDWilcox",
+        "location": "England, United Kingdom",
+        "description": "Songs are my biography. \nFootball is my poetry. \nGreat rants are music to my ears. \n\n\"I like beer.\" - I concur",
+        "url": "https://t.co/o6lIfwb1PZ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/o6lIfwb1PZ",
+                "expanded_url": "https://anchor.fm/politicaljunk/episodes/2020-Presidential-Election---AprilMay-edabdq?fbclid=IwAR0Sx",
+                "display_url": "anchor.fm/politicaljunk/\u2026",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 829,
+        "friends_count": 1816,
+        "listed_count": 15,
+        "created_at": "Sun Aug 01 00:44:15 +0000 2010",
+        "favourites_count": 6165,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17418,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3A815F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1004380135339053056/EPI90IKX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004380135339053056/EPI90IKX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/173289098/1410293636",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jun 09 23:54:59 +0000 2020",
+        "id": 1270504699058425858,
+        "id_str": "1270504699058425858",
+        "text": "@DeAnna4Congress Release all information regarding #pizzagate, #frazzledrip and #adrenochrome to the general public immediately.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "pizzagate",
+              "indices": [
+                51,
+                61
+              ]
+            },
+            {
+              "text": "frazzledrip",
+              "indices": [
+                63,
+                75
+              ]
+            },
+            {
+              "text": "adrenochrome",
+              "indices": [
+                80,
+                93
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "DeAnna4Congress",
+              "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+              "id": 16740433,
+              "id_str": "16740433",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1270466184216031233,
+        "in_reply_to_status_id_str": "1270466184216031233",
+        "in_reply_to_user_id": 16740433,
+        "in_reply_to_user_id_str": "16740433",
+        "in_reply_to_screen_name": "DeAnna4Congress",
+        "user": {
+          "id": 1171944746312511489,
+          "id_str": "1171944746312511489",
+          "name": "thewheelm4n",
+          "screen_name": "thewheelman518",
+          "location": "Upstate New York (unfortunate)",
+          "description": "Musician, professional driver. Politically Libertarian, morally conservative metalhead. Christian. Trust in God. Trust the plan. WWG1WGA. Now on #Parler",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 42,
+          "friends_count": 130,
+          "listed_count": 0,
+          "created_at": "Thu Sep 12 00:33:03 +0000 2019",
+          "favourites_count": 865,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 832,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1254890548214878211/vVQWkJxi_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254890548214878211/vVQWkJxi_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1171944746312511489/1590874450",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 54,
+        "favorite_count": 480,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 54,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 16 18:03:43 +0000 2020",
+      "id": 1272953015910227968,
+      "id_str": "1272953015910227968",
+      "text": "RT @JasonRobergeVA: @DeAnna4Congress The airlines are rejecting people with small dogs in a time where they have 30% occupancy and are blee\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "JasonRobergeVA",
+            "name": "Jason Alexander Roberge VA-7",
+            "id": 1144076089,
+            "id_str": "1144076089",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "DeAnna4Congress",
+            "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+            "id": 16740433,
+            "id_str": "16740433",
+            "indices": [
+              20,
+              36
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1205250013988900864,
+        "id_str": "1205250013988900864",
+        "name": "Dr. Phil Osopher",
+        "screen_name": "DrPhilOsopher54",
+        "location": "",
+        "description": "\"Think before you speak.\" ~ Le Penseur",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 4123,
+        "friends_count": 4729,
+        "listed_count": 0,
+        "created_at": "Thu Dec 12 22:16:18 +0000 2019",
+        "favourites_count": 6291,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2262,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205251564736274435/51vv9sjF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205251564736274435/51vv9sjF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1205250013988900864/1576189382",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jun 16 17:50:10 +0000 2020",
+        "id": 1272949602757591040,
+        "id_str": "1272949602757591040",
+        "text": "@DeAnna4Congress The airlines are rejecting people with small dogs in a time where they have 30% occupancy and are\u2026 https://t.co/SgJvPq47PE",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "DeAnna4Congress",
+              "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+              "id": 16740433,
+              "id_str": "16740433",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/SgJvPq47PE",
+              "expanded_url": "https://twitter.com/i/web/status/1272949602757591040",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1272939831379873797,
+        "in_reply_to_status_id_str": "1272939831379873797",
+        "in_reply_to_user_id": 16740433,
+        "in_reply_to_user_id_str": "16740433",
+        "in_reply_to_screen_name": "DeAnna4Congress",
+        "user": {
+          "id": 1144076089,
+          "id_str": "1144076089",
+          "name": "Jason Alexander Roberge VA-7",
+          "screen_name": "JasonRobergeVA",
+          "location": "Spotsylvania County, VA",
+          "description": "Congressional Candidate for #VA07 \ud83c\uddfa\ud83c\uddf8 US Military Vet. \ud83c\uddfa\ud83c\uddf8 Lawyer, Constitutional Originalist \ud83c\uddfa\ud83c\uddf8 Pro-Life, Pro-America 2020\ud83c\uddfa\ud83c\uddf8 Trump 2020 supporter",
+          "url": "https://t.co/pSFbVlqMzg",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/pSFbVlqMzg",
+                  "expanded_url": "https://secure.anedot.com/roberge/donate",
+                  "display_url": "secure.anedot.com/roberge/donate",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 11271,
+          "friends_count": 1223,
+          "listed_count": 41,
+          "created_at": "Sun Feb 03 03:21:55 +0000 2013",
+          "favourites_count": 16881,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 3496,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1216614980138815489/n9eM5viO_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1216614980138815489/n9eM5viO_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144076089/1581188854",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 13,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 16 18:02:37 +0000 2020",
+      "id": 1272952736338849793,
+      "id_str": "1272952736338849793",
+      "text": "@DeAnna4Congress Of course..took \"some other stuff\"! They should have been told to take care of themselves...the SCUM!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DeAnna4Congress",
+            "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+            "id": 16740433,
+            "id_str": "16740433",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272940219021451264,
+      "in_reply_to_status_id_str": "1272940219021451264",
+      "in_reply_to_user_id": 16740433,
+      "in_reply_to_user_id_str": "16740433",
+      "in_reply_to_screen_name": "DeAnna4Congress",
+      "user": {
+        "id": 2875234971,
+        "id_str": "2875234971",
+        "name": "Jan Dinkins",
+        "screen_name": "jan_dinkins",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 212,
+        "friends_count": 213,
+        "listed_count": 2,
+        "created_at": "Thu Nov 13 16:26:25 +0000 2014",
+        "favourites_count": 16306,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 37505,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 16 18:02:00 +0000 2020",
+      "id": 1272952580054884352,
+      "id_str": "1272952580054884352",
+      "text": "RT @lovelyQelefant1: @DeAnna4Congress @HillaryClinton YOU are the last person on Earth that I would take advice from! I don't take advice f\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lovelyQelefant1",
+            "name": "Brandi Selph",
+            "id": 1918741328,
+            "id_str": "1918741328",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "DeAnna4Congress",
+            "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+            "id": 16740433,
+            "id_str": "16740433",
+            "indices": [
+              21,
+              37
+            ]
+          },
+          {
+            "screen_name": "HillaryClinton",
+            "name": "Hillary Clinton",
+            "id": 1339835893,
+            "id_str": "1339835893",
+            "indices": [
+              38,
+              53
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1159157193943506944,
+        "id_str": "1159157193943506944",
+        "name": "Qpeepinglippy",
+        "screen_name": "peepinglippy",
+        "location": "Texas, USA",
+        "description": "i need the 2nd amendment so i can inspect welds. jasontneal@gmail.com",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 523,
+        "friends_count": 1470,
+        "listed_count": 0,
+        "created_at": "Wed Aug 07 17:39:45 +0000 2019",
+        "favourites_count": 4411,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2747,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1159157898121043971/9B70nj9D_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1159157898121043971/9B70nj9D_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1159157193943506944/1587266963",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jun 16 16:31:58 +0000 2020",
+        "id": 1272929923733377029,
+        "id_str": "1272929923733377029",
+        "text": "@DeAnna4Congress @HillaryClinton YOU are the last person on Earth that I would take advice from! I don't take advic\u2026 https://t.co/btv12wOO3Z",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "DeAnna4Congress",
+              "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+              "id": 16740433,
+              "id_str": "16740433",
+              "indices": [
+                0,
+                16
+              ]
+            },
+            {
+              "screen_name": "HillaryClinton",
+              "name": "Hillary Clinton",
+              "id": 1339835893,
+              "id_str": "1339835893",
+              "indices": [
+                17,
+                32
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/btv12wOO3Z",
+              "expanded_url": "https://twitter.com/i/web/status/1272929923733377029",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1272922037997182977,
+        "in_reply_to_status_id_str": "1272922037997182977",
+        "in_reply_to_user_id": 16740433,
+        "in_reply_to_user_id_str": "16740433",
+        "in_reply_to_screen_name": "DeAnna4Congress",
+        "user": {
+          "id": 1918741328,
+          "id_str": "1918741328",
+          "name": "Brandi Selph",
+          "screen_name": "lovelyQelefant1",
+          "location": "",
+          "description": "Wife, mother, grandmother, truth seeker. #wwg1wga \ud83d\udeabNO DATES I am HAPPILY married!",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 1295,
+          "friends_count": 1846,
+          "listed_count": 0,
+          "created_at": "Mon Sep 30 02:40:02 +0000 2013",
+          "favourites_count": 14114,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 13694,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1184332784694976513/svuFYacK_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1184332784694976513/svuFYacK_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918741328/1585583721",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 19,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 16 18:01:54 +0000 2020",
+      "id": 1272952557246337024,
+      "id_str": "1272952557246337024",
+      "text": "@DeAnna4Congress Or at least giving them parachutes. \ud83e\udd23\ud83e\udd23",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DeAnna4Congress",
+            "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+            "id": 16740433,
+            "id_str": "16740433",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1272939831379873797,
+      "in_reply_to_status_id_str": "1272939831379873797",
+      "in_reply_to_user_id": 16740433,
+      "in_reply_to_user_id_str": "16740433",
+      "in_reply_to_screen_name": "DeAnna4Congress",
+      "user": {
+        "id": 1159523559544381440,
+        "id_str": "1159523559544381440",
+        "name": "\ud83c\uddfa\ud83c\uddf2\ud83d\udd78\u2696\ud83c\udfb6\u15dd\u144e\u15f4 \u15dd\u15b4 \u15f0\u15e9\u144e\u01b3\ud83c\udfb6\u2696\ud83d\udd78\ud83c\uddfa\ud83c\uddf2\u2122",
+        "screen_name": "OneOfMa63134616",
+        "location": "United States",
+        "description": "Disclaimer:  possibly offensive to snowflakes, Demonkkkrats and the Twitter Police. If you can't take the heat, GTFO of the kitchen. #Trump2020, #MAGA, #KAG",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1274,
+        "friends_count": 1329,
+        "listed_count": 0,
+        "created_at": "Thu Aug 08 17:55:34 +0000 2019",
+        "favourites_count": 150,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 27743,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1165705084828864513/NP_dOfEr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1165705084828864513/NP_dOfEr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1159523559544381440/1573219401",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 16 18:01:39 +0000 2020",
+      "id": 1272952492620427268,
+      "id_str": "1272952492620427268",
+      "text": "@DeAnna4Congress @HillaryClinton Good Lord, I love your tweets and responses @DeAnna4Congress !! \ud83d\ude02\ud83d\udc4f",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DeAnna4Congress",
+            "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+            "id": 16740433,
+            "id_str": "16740433",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "HillaryClinton",
+            "name": "Hillary Clinton",
+            "id": 1339835893,
+            "id_str": "1339835893",
+            "indices": [
+              17,
+              32
+            ]
+          },
+          {
+            "screen_name": "DeAnna4Congress",
+            "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+            "id": 16740433,
+            "id_str": "16740433",
+            "indices": [
+              77,
+              93
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1272922037997182977,
+      "in_reply_to_status_id_str": "1272922037997182977",
+      "in_reply_to_user_id": 16740433,
+      "in_reply_to_user_id_str": "16740433",
+      "in_reply_to_screen_name": "DeAnna4Congress",
+      "user": {
+        "id": 1234257964762116097,
+        "id_str": "1234257964762116097",
+        "name": "LC",
+        "screen_name": "LCQanon",
+        "location": "",
+        "description": "Citizen of the World \u2764\ud83c\udf0d\n#WWG1WGA",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 186,
+        "friends_count": 537,
+        "listed_count": 1,
+        "created_at": "Sun Mar 01 23:23:38 +0000 2020",
+        "favourites_count": 2458,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1030,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246475298503372801/jPe2EZrt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246475298503372801/jPe2EZrt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1234257964762116097/1586004396",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 16 18:01:03 +0000 2020",
+      "id": 1272952340866379777,
+      "id_str": "1272952340866379777",
+      "text": "RT @JasonRobergeVA: @DeAnna4Congress The airlines are rejecting people with small dogs in a time where they have 30% occupancy and are blee\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "JasonRobergeVA",
+            "name": "Jason Alexander Roberge VA-7",
+            "id": 1144076089,
+            "id_str": "1144076089",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "DeAnna4Congress",
+            "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+            "id": 16740433,
+            "id_str": "16740433",
+            "indices": [
+              20,
+              36
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 374037230,
+        "id_str": "374037230",
+        "name": "\ud83d\udea8Chuck BacktheBlue\ud83c\uddfa\ud83c\uddf8Text TRUMP to 88022\ud83d\udea8\ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "kidgolferman",
+        "location": "north",
+        "description": "MAGA \ud83c\uddfa\ud83c\uddf8Conservative Married \ud83c\uddfa\ud83c\uddf8, Southern by the Grace of God, \u271d\ufe0fdevout Catholic\u2721\ufe0f\ud83c\uddee\ud83c\uddf1,NRA, TRUMP2020\ud83d\ude82Trump Synergy\ud83d\ude82\u25ab\ufe0fDefund Planned Parenthood & NPR\ud83d\udeabDMs",
+        "url": "https://t.co/XEL9lM4JVJ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/XEL9lM4JVJ",
+                "expanded_url": "http://parler.com/@kidgolferman",
+                "display_url": "parler.com/@kidgolferman",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 54305,
+        "friends_count": 52870,
+        "listed_count": 1,
+        "created_at": "Thu Sep 15 16:06:21 +0000 2011",
+        "favourites_count": 164768,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 229527,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1212835936763035649/iuRVKABQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212835936763035649/iuRVKABQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/374037230/1533254306",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jun 16 17:50:10 +0000 2020",
+        "id": 1272949602757591040,
+        "id_str": "1272949602757591040",
+        "text": "@DeAnna4Congress The airlines are rejecting people with small dogs in a time where they have 30% occupancy and are\u2026 https://t.co/SgJvPq47PE",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "DeAnna4Congress",
+              "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+              "id": 16740433,
+              "id_str": "16740433",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/SgJvPq47PE",
+              "expanded_url": "https://twitter.com/i/web/status/1272949602757591040",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1272939831379873797,
+        "in_reply_to_status_id_str": "1272939831379873797",
+        "in_reply_to_user_id": 16740433,
+        "in_reply_to_user_id_str": "16740433",
+        "in_reply_to_screen_name": "DeAnna4Congress",
+        "user": {
+          "id": 1144076089,
+          "id_str": "1144076089",
+          "name": "Jason Alexander Roberge VA-7",
+          "screen_name": "JasonRobergeVA",
+          "location": "Spotsylvania County, VA",
+          "description": "Congressional Candidate for #VA07 \ud83c\uddfa\ud83c\uddf8 US Military Vet. \ud83c\uddfa\ud83c\uddf8 Lawyer, Constitutional Originalist \ud83c\uddfa\ud83c\uddf8 Pro-Life, Pro-America 2020\ud83c\uddfa\ud83c\uddf8 Trump 2020 supporter",
+          "url": "https://t.co/pSFbVlqMzg",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/pSFbVlqMzg",
+                  "expanded_url": "https://secure.anedot.com/roberge/donate",
+                  "display_url": "secure.anedot.com/roberge/donate",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 11271,
+          "friends_count": 1223,
+          "listed_count": 41,
+          "created_at": "Sun Feb 03 03:21:55 +0000 2013",
+          "favourites_count": 16881,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 3496,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1216614980138815489/n9eM5viO_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1216614980138815489/n9eM5viO_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144076089/1581188854",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 13,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 16 18:01:01 +0000 2020",
+      "id": 1272952332439953408,
+      "id_str": "1272952332439953408",
+      "text": "RT @Yolo304741: @DeAnna4Congress @SarahD123 @realDonaldTrump This seems appropriate to share again m\ud83d\ude02 #TwitterFactCheck https://t.co/dG1A2w\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "TwitterFactCheck",
+            "indices": [
+              102,
+              119
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Yolo304741",
+            "name": "Question Everything \u2728\ud83c\uddfa\ud83c\uddf8\u2728",
+            "id": 29966996,
+            "id_str": "29966996",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "DeAnna4Congress",
+            "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+            "id": 16740433,
+            "id_str": "16740433",
+            "indices": [
+              16,
+              32
+            ]
+          },
+          {
+            "screen_name": "SarahD123",
+            "name": "\ud83c\uddfa\ud83c\uddf8SarahD123\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+            "id": 15353946,
+            "id_str": "15353946",
+            "indices": [
+              33,
+              43
+            ]
+          },
+          {
+            "screen_name": "realDonaldTrump",
+            "name": "Donald J. Trump",
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              44,
+              60
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1002660387865661441,
+        "id_str": "1002660387865661441",
+        "name": "Danabnredpilled \u2b50\u2b50\u2b50",
+        "screen_name": "Dana27457545",
+        "location": "",
+        "description": "Proud Patriot #WWG1WGA #QAnon #PatriotsUnited #MAGA",
+        "url": "https://t.co/pZUbPMpSwP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/pZUbPMpSwP",
+                "expanded_url": "https://isitwetyet.net/",
+                "display_url": "isitwetyet.net",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 715,
+        "friends_count": 1183,
+        "listed_count": 1,
+        "created_at": "Fri Jun 01 21:17:19 +0000 2018",
+        "favourites_count": 11361,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12348,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1269390339451822080/JNTmyVq6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269390339451822080/JNTmyVq6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1002660387865661441/1591319918",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed May 27 17:11:41 +0000 2020",
+        "id": 1265692161695244288,
+        "id_str": "1265692161695244288",
+        "text": "@DeAnna4Congress @SarahD123 @realDonaldTrump This seems appropriate to share again m\ud83d\ude02 #TwitterFactCheck https://t.co/dG1A2wMzuW",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "TwitterFactCheck",
+              "indices": [
+                86,
+                103
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "DeAnna4Congress",
+              "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+              "id": 16740433,
+              "id_str": "16740433",
+              "indices": [
+                0,
+                16
+              ]
+            },
+            {
+              "screen_name": "SarahD123",
+              "name": "\ud83c\uddfa\ud83c\uddf8SarahD123\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+              "id": 15353946,
+              "id_str": "15353946",
+              "indices": [
+                17,
+                27
+              ]
+            },
+            {
+              "screen_name": "realDonaldTrump",
+              "name": "Donald J. Trump",
+              "id": 25073877,
+              "id_str": "25073877",
+              "indices": [
+                28,
+                44
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1265692128912564224,
+              "id_str": "1265692128912564224",
+              "indices": [
+                104,
+                127
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1265692128912564224/pu/img/o7M5cv9m8WwuRUze.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1265692128912564224/pu/img/o7M5cv9m8WwuRUze.jpg",
+              "url": "https://t.co/dG1A2wMzuW",
+              "display_url": "pic.twitter.com/dG1A2wMzuW",
+              "expanded_url": "https://twitter.com/Yolo304741/status/1265692161695244288/video/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 616,
+                  "h": 302,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 616,
+                  "h": 302,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 616,
+                  "h": 302,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1265692128912564224,
+              "id_str": "1265692128912564224",
+              "indices": [
+                104,
+                127
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1265692128912564224/pu/img/o7M5cv9m8WwuRUze.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1265692128912564224/pu/img/o7M5cv9m8WwuRUze.jpg",
+              "url": "https://t.co/dG1A2wMzuW",
+              "display_url": "pic.twitter.com/dG1A2wMzuW",
+              "expanded_url": "https://twitter.com/Yolo304741/status/1265692161695244288/video/1",
+              "type": "video",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 616,
+                  "h": 302,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 616,
+                  "h": 302,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 616,
+                  "h": 302,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  308,
+                  151
+                ],
+                "duration_millis": 12508,
+                "variants": [
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1265692128912564224/pu/vid/616x302/witvyUPzmiA27sgA.mp4?tag=10"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1265692128912564224/pu/vid/550x270/VT0Ph-GcrainCDRZ.mp4?tag=10"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1265692128912564224/pu/pl/Brf9RUnFunBfCi38.m3u8?tag=10"
+                  }
+                ]
+              },
+              "additional_media_info": {
+                "monetizable": false
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1265689960926986241,
+        "in_reply_to_status_id_str": "1265689960926986241",
+        "in_reply_to_user_id": 16740433,
+        "in_reply_to_user_id_str": "16740433",
+        "in_reply_to_screen_name": "DeAnna4Congress",
+        "user": {
+          "id": 29966996,
+          "id_str": "29966996",
+          "name": "Question Everything \u2728\ud83c\uddfa\ud83c\uddf8\u2728",
+          "screen_name": "Yolo304741",
+          "location": "United States",
+          "description": "Nature lover \u2022 Photographer \u2022 Free thinker \u2022 God \u2022 Country \u2022 Patriot \u2022 Proud Granddaughter of WW2 fighter pilot, and Purple Heart recipient \u2022",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 1718,
+          "friends_count": 1207,
+          "listed_count": 2,
+          "created_at": "Thu Apr 09 11:44:37 +0000 2009",
+          "favourites_count": 11000,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 4142,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "352726",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1255376188765278210/F1O4yGta_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255376188765278210/F1O4yGta_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/29966996/1587956685",
+          "profile_link_color": "D02B55",
+          "profile_sidebar_border_color": "829D5E",
+          "profile_sidebar_fill_color": "99CC33",
+          "profile_text_color": "3E4415",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 160,
+        "favorite_count": 271,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 160,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 16 18:00:35 +0000 2020",
+      "id": 1272952225631961091,
+      "id_str": "1272952225631961091",
+      "text": "@DeAnna4Congress What do they care if i were to get sick. We were gonna fly on vacation, guess we won't be flying now",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DeAnna4Congress",
+            "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+            "id": 16740433,
+            "id_str": "16740433",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272939831379873797,
+      "in_reply_to_status_id_str": "1272939831379873797",
+      "in_reply_to_user_id": 16740433,
+      "in_reply_to_user_id_str": "16740433",
+      "in_reply_to_screen_name": "DeAnna4Congress",
+      "user": {
+        "id": 1141147921104154626,
+        "id_str": "1141147921104154626",
+        "name": "Marissa",
+        "screen_name": "Marissa52085649",
+        "location": "",
+        "description": "Christian and mother",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 94,
+        "friends_count": 65,
+        "listed_count": 0,
+        "created_at": "Wed Jun 19 00:57:20 +0000 2019",
+        "favourites_count": 8655,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5065,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255254700754194434/aDTCQt6v_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255254700754194434/aDTCQt6v_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 16 18:00:28 +0000 2020",
+      "id": 1272952196234182657,
+      "id_str": "1272952196234182657",
+      "text": "@DeAnna4Congress It would be more beneficial if they put technology into the air circulation system that zaps virus\u2026 https://t.co/tpRbuiubJG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DeAnna4Congress",
+            "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+            "id": 16740433,
+            "id_str": "16740433",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tpRbuiubJG",
+            "expanded_url": "https://twitter.com/i/web/status/1272952196234182657",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272939831379873797,
+      "in_reply_to_status_id_str": "1272939831379873797",
+      "in_reply_to_user_id": 16740433,
+      "in_reply_to_user_id_str": "16740433",
+      "in_reply_to_screen_name": "DeAnna4Congress",
+      "user": {
+        "id": 911529834173669376,
+        "id_str": "911529834173669376",
+        "name": "Stand for Something",
+        "screen_name": "systecdb",
+        "location": "St Petersburg, FL",
+        "description": "American Nationalist, as every citizen should be.\n\nIf you don't stand for something you'll fall for anything.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1355,
+        "friends_count": 1356,
+        "listed_count": 1,
+        "created_at": "Sat Sep 23 09:57:02 +0000 2017",
+        "favourites_count": 86107,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22564,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1263165173675761665/uhLsswle_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263165173675761665/uhLsswle_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 16 18:00:07 +0000 2020",
+      "id": 1272952108195762178,
+      "id_str": "1272952108195762178",
+      "text": "RT @JasonRobergeVA: @DeAnna4Congress The airlines are rejecting people with small dogs in a time where they have 30% occupancy and are blee\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "JasonRobergeVA",
+            "name": "Jason Alexander Roberge VA-7",
+            "id": 1144076089,
+            "id_str": "1144076089",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "DeAnna4Congress",
+            "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+            "id": 16740433,
+            "id_str": "16740433",
+            "indices": [
+              20,
+              36
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 115858838,
+        "id_str": "115858838",
+        "name": "Mr. Brummb\u00e4r\ud83c\uddfa\ud83c\uddf8\ud83c\uddf2\ud83c\uddfd\ud83e\udd20",
+        "screen_name": "Carlos_S01",
+        "location": "Mexico City",
+        "description": "Humans have such a powerful need that their own belief structure be the true belief. Frank Herbert #MAGA",
+        "url": "https://t.co/gnASmmoccb",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/gnASmmoccb",
+                "expanded_url": "https://www.youtube.com/watch?v=aFkcAH-m9W0",
+                "display_url": "youtube.com/watch?v=aFkcAH\u2026",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 8121,
+        "friends_count": 7238,
+        "listed_count": 260,
+        "created_at": "Sat Feb 20 06:12:48 +0000 2010",
+        "favourites_count": 13570,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 297324,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1262785423425900544/IDhJ9g-W_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1262785423425900544/IDhJ9g-W_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/115858838/1577078468",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jun 16 17:50:10 +0000 2020",
+        "id": 1272949602757591040,
+        "id_str": "1272949602757591040",
+        "text": "@DeAnna4Congress The airlines are rejecting people with small dogs in a time where they have 30% occupancy and are\u2026 https://t.co/SgJvPq47PE",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "DeAnna4Congress",
+              "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+              "id": 16740433,
+              "id_str": "16740433",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/SgJvPq47PE",
+              "expanded_url": "https://twitter.com/i/web/status/1272949602757591040",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1272939831379873797,
+        "in_reply_to_status_id_str": "1272939831379873797",
+        "in_reply_to_user_id": 16740433,
+        "in_reply_to_user_id_str": "16740433",
+        "in_reply_to_screen_name": "DeAnna4Congress",
+        "user": {
+          "id": 1144076089,
+          "id_str": "1144076089",
+          "name": "Jason Alexander Roberge VA-7",
+          "screen_name": "JasonRobergeVA",
+          "location": "Spotsylvania County, VA",
+          "description": "Congressional Candidate for #VA07 \ud83c\uddfa\ud83c\uddf8 US Military Vet. \ud83c\uddfa\ud83c\uddf8 Lawyer, Constitutional Originalist \ud83c\uddfa\ud83c\uddf8 Pro-Life, Pro-America 2020\ud83c\uddfa\ud83c\uddf8 Trump 2020 supporter",
+          "url": "https://t.co/pSFbVlqMzg",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/pSFbVlqMzg",
+                  "expanded_url": "https://secure.anedot.com/roberge/donate",
+                  "display_url": "secure.anedot.com/roberge/donate",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 11271,
+          "friends_count": 1223,
+          "listed_count": 41,
+          "created_at": "Sun Feb 03 03:21:55 +0000 2013",
+          "favourites_count": 16881,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 3496,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1216614980138815489/n9eM5viO_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1216614980138815489/n9eM5viO_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144076089/1581188854",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 13,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 16 17:59:55 +0000 2020",
+      "id": 1272952056660271106,
+      "id_str": "1272952056660271106",
+      "text": "@DeAnna4Congress And all this is because the president said it could be affective against the Chinese virus. The le\u2026 https://t.co/Pm9N3BUaV0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DeAnna4Congress",
+            "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+            "id": 16740433,
+            "id_str": "16740433",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Pm9N3BUaV0",
+            "expanded_url": "https://twitter.com/i/web/status/1272952056660271106",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1272582449470423040,
+      "in_reply_to_status_id_str": "1272582449470423040",
+      "in_reply_to_user_id": 16740433,
+      "in_reply_to_user_id_str": "16740433",
+      "in_reply_to_screen_name": "DeAnna4Congress",
+      "user": {
+        "id": 1200165460446236674,
+        "id_str": "1200165460446236674",
+        "name": "Roy Pitta Sr",
+        "screen_name": "PittaSr",
+        "location": "",
+        "description": "Constitutionalist Conservative. Formerly @Warkingroy1, suspended for speaking about some bearded jerk saying it was okay for those of his \u201creligion\u201d to rape.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 65,
+        "friends_count": 163,
+        "listed_count": 1,
+        "created_at": "Thu Nov 28 21:32:26 +0000 2019",
+        "favourites_count": 1856,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1756,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1227030255199760386/qCEKjYIv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227030255199760386/qCEKjYIv_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 16 17:59:34 +0000 2020",
+      "id": 1272951969502695425,
+      "id_str": "1272951969502695425",
+      "text": "@DeAnna4Congress Plus putting you on a banned list",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DeAnna4Congress",
+            "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+            "id": 16740433,
+            "id_str": "16740433",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1272939831379873797,
+      "in_reply_to_status_id_str": "1272939831379873797",
+      "in_reply_to_user_id": 16740433,
+      "in_reply_to_user_id_str": "16740433",
+      "in_reply_to_screen_name": "DeAnna4Congress",
+      "user": {
+        "id": 1177289346598096898,
+        "id_str": "1177289346598096898",
+        "name": "III Percenter",
+        "screen_name": "percenter_iii",
+        "location": "nunya. ",
+        "description": "WHEN TYRANNY BECOMES LAW, REBELLION BECOMES DUTY. ODS Army Combat Vet, 1A, 2A, MAGA, My oath has not expired! \ud83c\uddfa\ud83c\uddf8 1st, QAnon, #GirlsWithTattoos",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 639,
+        "friends_count": 861,
+        "listed_count": 1,
+        "created_at": "Thu Sep 26 18:30:33 +0000 2019",
+        "favourites_count": 48103,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13111,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1177289444958724096/8pDT_4WP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177289444958724096/8pDT_4WP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1177289346598096898/1570541814",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 16 17:59:30 +0000 2020",
+      "id": 1272951950842216451,
+      "id_str": "1272951950842216451",
+      "text": "@DeAnna4Congress @AOC I\u2019d rather keep people like you out of Congress Deanna",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DeAnna4Congress",
+            "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+            "id": 16740433,
+            "id_str": "16740433",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "AOC",
+            "name": "Alexandria Ocasio-Cortez",
+            "id": 138203134,
+            "id_str": "138203134",
+            "indices": [
+              17,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1272686059525201922,
+      "in_reply_to_status_id_str": "1272686059525201922",
+      "in_reply_to_user_id": 16740433,
+      "in_reply_to_user_id_str": "16740433",
+      "in_reply_to_screen_name": "DeAnna4Congress",
+      "user": {
+        "id": 1165325844908314625,
+        "id_str": "1165325844908314625",
+        "name": "Ethan Dittman",
+        "screen_name": "DittmanEthan",
+        "location": "",
+        "description": "Bernie 2020 \ud83c\udf39",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 6,
+        "friends_count": 25,
+        "listed_count": 0,
+        "created_at": "Sat Aug 24 18:11:58 +0000 2019",
+        "favourites_count": 582,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 858,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1165326140065615875/2q7Z5e08_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1165326140065615875/2q7Z5e08_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 16 17:59:28 +0000 2020",
+      "id": 1272951946253447168,
+      "id_str": "1272951946253447168",
+      "text": "RT @realTT2020: @DeAnna4Congress I refuse to except Globalism. \n\nI was the only one on my flight \nwith no mask. https://t.co/eJjgpEPpqg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "realTT2020",
+            "name": "Fake News Crime Fighter",
+            "id": 832763991487164416,
+            "id_str": "832763991487164416",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "DeAnna4Congress",
+            "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+            "id": 16740433,
+            "id_str": "16740433",
+            "indices": [
+              16,
+              32
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1272942900918325248,
+            "id_str": "1272942900918325248",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1272942900918325248/pu/img/OGtRXAQKAMWrhcsy.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1272942900918325248/pu/img/OGtRXAQKAMWrhcsy.jpg",
+            "url": "https://t.co/eJjgpEPpqg",
+            "display_url": "pic.twitter.com/eJjgpEPpqg",
+            "expanded_url": "https://twitter.com/realTT2020/status/1272943001208328198/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1272943001208328198,
+            "source_status_id_str": "1272943001208328198",
+            "source_user_id": 832763991487164416,
+            "source_user_id_str": "832763991487164416"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1272942900918325248,
+            "id_str": "1272942900918325248",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1272942900918325248/pu/img/OGtRXAQKAMWrhcsy.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1272942900918325248/pu/img/OGtRXAQKAMWrhcsy.jpg",
+            "url": "https://t.co/eJjgpEPpqg",
+            "display_url": "pic.twitter.com/eJjgpEPpqg",
+            "expanded_url": "https://twitter.com/realTT2020/status/1272943001208328198/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1272943001208328198,
+            "source_status_id_str": "1272943001208328198",
+            "source_user_id": 832763991487164416,
+            "source_user_id_str": "832763991487164416",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 52887,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1272942900918325248/pu/pl/oGQqzNRHuS-Nvkd9.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1272942900918325248/pu/vid/640x360/WjqUJBMDtRHkz0JQ.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1272942900918325248/pu/vid/480x270/L5MdjE98klASsmAY.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1272942900918325248/pu/vid/1280x720/Oq5wDHIlacDaSAyZ.mp4?tag=10"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "id": 832763991487164416,
+                "id_str": "832763991487164416",
+                "name": "Fake News Crime Fighter",
+                "screen_name": "realTT2020",
+                "location": "Denver, CO",
+                "description": "Matt|GeneralFlynnForTheWin|C4T \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u26a1\ufe0fPOWEREDbyGOD\u26a1\ufe0f\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800",
+                "url": null,
+                "entities": {
+                  "description": {
+                    "urls": []
+                  }
+                },
+                "protected": false,
+                "followers_count": 124105,
+                "friends_count": 106851,
+                "listed_count": 115,
+                "created_at": "Sat Feb 18 01:29:42 +0000 2017",
+                "favourites_count": 391588,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 561871,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1248413409973944320/3rxuJVRm_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248413409973944320/3rxuJVRm_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/832763991487164416/1589063573",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3192699614,
+        "id_str": "3192699614",
+        "name": "Curtis",
+        "screen_name": "BwsCurtis",
+        "location": "",
+        "description": "I wasn't born in a barn, But I got there as fast as I could.\nI know a little about everything &\neverything about nothing",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3473,
+        "friends_count": 2297,
+        "listed_count": 84,
+        "created_at": "Tue May 12 02:13:17 +0000 2015",
+        "favourites_count": 36608,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 70729,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1209608767513350144/FKN9gwzO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1209608767513350144/FKN9gwzO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3192699614/1520060932",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jun 16 17:23:56 +0000 2020",
+        "id": 1272943001208328198,
+        "id_str": "1272943001208328198",
+        "text": "@DeAnna4Congress I refuse to except Globalism. \n\nI was the only one on my flight \nwith no mask. https://t.co/eJjgpEPpqg",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "DeAnna4Congress",
+              "name": "DeAnna Lorraine \ud83c\uddfa\ud83c\uddf8",
+              "id": 16740433,
+              "id_str": "16740433",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1272942900918325248,
+              "id_str": "1272942900918325248",
+              "indices": [
+                96,
+                119
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1272942900918325248/pu/img/OGtRXAQKAMWrhcsy.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1272942900918325248/pu/img/OGtRXAQKAMWrhcsy.jpg",
+              "url": "https://t.co/eJjgpEPpqg",
+              "display_url": "pic.twitter.com/eJjgpEPpqg",
+              "expanded_url": "https://twitter.com/realTT2020/status/1272943001208328198/video/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1272942900918325248,
+              "id_str": "1272942900918325248",
+              "indices": [
+                96,
+                119
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1272942900918325248/pu/img/OGtRXAQKAMWrhcsy.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1272942900918325248/pu/img/OGtRXAQKAMWrhcsy.jpg",
+              "url": "https://t.co/eJjgpEPpqg",
+              "display_url": "pic.twitter.com/eJjgpEPpqg",
+              "expanded_url": "https://twitter.com/realTT2020/status/1272943001208328198/video/1",
+              "type": "video",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 52887,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1272942900918325248/pu/pl/oGQqzNRHuS-Nvkd9.m3u8?tag=10"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1272942900918325248/pu/vid/640x360/WjqUJBMDtRHkz0JQ.mp4?tag=10"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1272942900918325248/pu/vid/480x270/L5MdjE98klASsmAY.mp4?tag=10"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1272942900918325248/pu/vid/1280x720/Oq5wDHIlacDaSAyZ.mp4?tag=10"
+                  }
+                ]
+              },
+              "additional_media_info": {
+                "monetizable": false
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1272939831379873797,
+        "in_reply_to_status_id_str": "1272939831379873797",
+        "in_reply_to_user_id": 16740433,
+        "in_reply_to_user_id_str": "16740433",
+        "in_reply_to_screen_name": "DeAnna4Congress",
+        "user": {
+          "id": 832763991487164416,
+          "id_str": "832763991487164416",
+          "name": "Fake News Crime Fighter",
+          "screen_name": "realTT2020",
+          "location": "Denver, CO",
+          "description": "Matt|GeneralFlynnForTheWin|C4T \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u26a1\ufe0fPOWEREDbyGOD\u26a1\ufe0f\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 124105,
+          "friends_count": 106851,
+          "listed_count": 115,
+          "created_at": "Sat Feb 18 01:29:42 +0000 2017",
+          "favourites_count": 391588,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 561871,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1248413409973944320/3rxuJVRm_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248413409973944320/3rxuJVRm_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/832763991487164416/1589063573",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "07d9e389cf083003",
+          "url": "https://api.twitter.com/1.1/geo/id/07d9e389cf083003.json",
+          "place_type": "poi",
+          "name": "Nashville International Airport (BNA)",
+          "full_name": "Nashville International Airport (BNA)",
+          "country_code": "US",
+          "country": "United States",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -86.66953654590385,
+                  36.13098261843337
+                ],
+                [
+                  -86.66953654590385,
+                  36.13098261843337
+                ],
+                [
+                  -86.66953654590385,
+                  36.13098261843337
+                ],
+                [
+                  -86.66953654590385,
+                  36.13098261843337
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 25,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.092,
+    "max_id": 1272953029768237063,
+    "max_id_str": "1272953029768237063",
+    "next_results": "?max_id=1272951946253447167&q=to%3ADeAnna4Congress&include_entities=1",
+    "query": "to%3ADeAnna4Congress",
+    "refresh_url": "?since_id=1272953029768237063&q=to%3ADeAnna4Congress&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

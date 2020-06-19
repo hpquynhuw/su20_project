@@ -1,0 +1,254 @@
+{
+    "statuses": [
+        {
+            "created_at": "Fri Jun 19 08:40:08 +0000 2020",
+            "id": 1273898346189664256,
+            "text": "\ud83d\ude90 An abandoned bus popularized by the book and movie \u201cInto the Wild\u201d was airlifted in the Alaska backcountry Thursd\u2026 https://t.co/QmN0Tfrfud",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/QmN0Tfrfud"
+                ]
+            },
+            "user": {
+                "screen_name": "QuickTake",
+                "id": 252751061
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 1395,
+            "favorite_count": 3319,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 03:16:03 +0000 2020",
+            "id": 1273816790284500993,
+            "text": "An abandoned city bus, made famous by the book \u201cInto the Wild\u201d and the movie of the same name, was airlifted out of\u2026 https://t.co/pthiRC3S6L",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/pthiRC3S6L"
+                ]
+            },
+            "user": {
+                "screen_name": "ABC",
+                "id": 28785486
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 2265,
+            "favorite_count": 5734,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 14:30:22 +0000 2020",
+            "id": 1273986486669578243,
+            "text": "WATCH: The Alaska National Guard has air-lifted and removed the \"Into the Wild\" bus - a dangerous tourist lure \u2013 fr\u2026 https://t.co/4uBmLpsG7e",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/4uBmLpsG7e"
+                ]
+            },
+            "user": {
+                "screen_name": "CBSNews",
+                "id": 15012486
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 335,
+            "favorite_count": 854,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 12:05:00 +0000 2020",
+            "id": 1273949902817517568,
+            "text": "The \u2018Into the Wild\u2019 bus is no longer in the wild https://t.co/7Ttrt8uLrW https://t.co/xg1MtX4ECk",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/7Ttrt8uLrW"
+                ]
+            },
+            "user": {
+                "screen_name": "Reuters",
+                "id": 1652541
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 434,
+            "favorite_count": 957,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Jun 18 20:22:22 +0000 2020",
+            "id": 1273712680604512276,
+            "text": "15 giant tortoises who lived in captivity for decades while in a repopulation program were released into the wild i\u2026 https://t.co/JFmo4tH64a",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/JFmo4tH64a"
+                ]
+            },
+            "user": {
+                "screen_name": "ABC",
+                "id": 28785486
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 315,
+            "favorite_count": 1160,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 10:23:11 +0000 2020",
+            "id": 1273924281131585537,
+            "text": "'Into The Wild' bus removed from Alaska wilderness after increasing numbers of tourists get into difficulties visit\u2026 https://t.co/pH3G4fvIf7",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/pH3G4fvIf7"
+                ]
+            },
+            "user": {
+                "screen_name": "BBCWorld",
+                "id": 742143
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 239,
+            "favorite_count": 862,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 04:59:04 +0000 2020",
+            "id": 1273842714589704193,
+            "text": "Alaskan authorities airlift the abandoned bus where Chris McCandless\u2014profiled in \u2018Into the Wild\u2019\u2014died in 1992, appa\u2026 https://t.co/8YuszNusIC",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/8YuszNusIC"
+                ]
+            },
+            "user": {
+                "screen_name": "brynstole",
+                "id": 347419000
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 191,
+            "favorite_count": 390,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 16:05:00 +0000 2020",
+            "id": 1274010301013397504,
+            "text": "Alaska officials airlifted the wrecked bus made famous by the 1996 book and 2007 movie \u2018Into the Wild,\u2019 removing th\u2026 https://t.co/d9RJQWYgnP",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/d9RJQWYgnP"
+                ]
+            },
+            "user": {
+                "screen_name": "Reuters",
+                "id": 1652541
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 118,
+            "favorite_count": 305,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 15:26:25 +0000 2020",
+            "id": 1274000591841382400,
+            "text": "Authorities have airlifted an abandoned bus in the Alaskan wilderness, citing public safety.\n\nThe bus, popularized\u2026 https://t.co/8s0TuisTGC",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/8s0TuisTGC"
+                ]
+            },
+            "user": {
+                "screen_name": "nowthisnews",
+                "id": 701725963
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 91,
+            "favorite_count": 261,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 19 07:15:01 +0000 2020",
+            "id": 1273876928429203457,
+            "text": "'Into the Wild' bus removed from Alaska trail for safety concerns https://t.co/VyCV7OHEkd https://t.co/Vu5PBsc8k2",
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    "https://t.co/VyCV7OHEkd"
+                ]
+            },
+            "user": {
+                "screen_name": "Reuters",
+                "id": 1652541
+            },
+            "in_reply_to_status_id": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "is_quote_status": false,
+            "retweet_count": 107,
+            "favorite_count": 313,
+            "lang": "en"
+        }
+    ]
+}
