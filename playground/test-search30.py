@@ -33,9 +33,8 @@ class Test_Search30:
                           max_pages=1,
                           **search_args)
 
-                # out_file = open(f"sample_{QUERY}.json", "w")
-                # json.dump(tweet_data, out_file, indent=6)
-                # out_file.close()
+                # TOTALLY FORGOT ABOUT REQUESTS RATE
+                # CAN'T DO THIS FOR A TREND FILE SINCE THERE ARE OVER 20 TRENDS
 
                 with open(f"trend30-{name}-{today}.json", 'w', encoding='utf-8') as f:
                     for tweet in rs.stream():
@@ -43,13 +42,9 @@ class Test_Search30:
                         f.write('\n')
                 print('done')
 
-
-
         # Examples of query set-ups:
         #   https://api.twitter.com/1.1/search/tweets.json?q=twitterdev%20new%20premium
         #   https://api.twitter.com/1.1/search/tweets.json?q=%23superbowl&result_type=recent
-
-
 
 if __name__ == '__main__':
     cp=Test_Search30()

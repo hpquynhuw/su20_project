@@ -1,0 +1,357 @@
+[
+      {
+            "trends": [
+                  {
+                        "name": "#bbcqt",
+                        "url": "http://twitter.com/search?q=%23bbcqt",
+                        "promoted_content": null,
+                        "query": "%23bbcqt",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#DoggingTales",
+                        "url": "http://twitter.com/search?q=%23DoggingTales",
+                        "promoted_content": null,
+                        "query": "%23DoggingTales",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Benzema",
+                        "url": "http://twitter.com/search?q=Benzema",
+                        "promoted_content": null,
+                        "query": "Benzema",
+                        "tweet_volume": 127330
+                  },
+                  {
+                        "name": "#SpeakingOut",
+                        "url": "http://twitter.com/search?q=%23SpeakingOut",
+                        "promoted_content": null,
+                        "query": "%23SpeakingOut",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Boris",
+                        "url": "http://twitter.com/search?q=Boris",
+                        "promoted_content": null,
+                        "query": "Boris",
+                        "tweet_volume": 131723
+                  },
+                  {
+                        "name": "America",
+                        "url": "http://twitter.com/search?q=America",
+                        "promoted_content": null,
+                        "query": "America",
+                        "tweet_volume": 1164987
+                  },
+                  {
+                        "name": "Asensio",
+                        "url": "http://twitter.com/search?q=Asensio",
+                        "promoted_content": null,
+                        "query": "Asensio",
+                        "tweet_volume": 84517
+                  },
+                  {
+                        "name": "#EAPlayLive",
+                        "url": "http://twitter.com/search?q=%23EAPlayLive",
+                        "promoted_content": null,
+                        "query": "%23EAPlayLive",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#TheLastofUsPartII",
+                        "url": "http://twitter.com/search?q=%23TheLastofUsPartII",
+                        "promoted_content": null,
+                        "query": "%23TheLastofUsPartII",
+                        "tweet_volume": 64512
+                  },
+                  {
+                        "name": "Christmas",
+                        "url": "http://twitter.com/search?q=Christmas",
+                        "promoted_content": null,
+                        "query": "Christmas",
+                        "tweet_volume": 55208
+                  },
+                  {
+                        "name": "Noname",
+                        "url": "http://twitter.com/search?q=Noname",
+                        "promoted_content": null,
+                        "query": "Noname",
+                        "tweet_volume": 90228
+                  },
+                  {
+                        "name": "Cheltenham",
+                        "url": "http://twitter.com/search?q=Cheltenham",
+                        "promoted_content": null,
+                        "query": "Cheltenham",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Jackie Stallone",
+                        "url": "http://twitter.com/search?q=%22Jackie+Stallone%22",
+                        "promoted_content": null,
+                        "query": "%22Jackie+Stallone%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "British Wrestling",
+                        "url": "http://twitter.com/search?q=%22British+Wrestling%22",
+                        "promoted_content": null,
+                        "query": "%22British+Wrestling%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Russia",
+                        "url": "http://twitter.com/search?q=Russia",
+                        "promoted_content": null,
+                        "query": "Russia",
+                        "tweet_volume": 229125
+                  },
+                  {
+                        "name": "Swing Low",
+                        "url": "http://twitter.com/search?q=%22Swing+Low%22",
+                        "promoted_content": null,
+                        "query": "%22Swing+Low%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Apple",
+                        "url": "http://twitter.com/search?q=Apple",
+                        "promoted_content": null,
+                        "query": "Apple",
+                        "tweet_volume": 509514
+                  },
+                  {
+                        "name": "Resident Evil",
+                        "url": "http://twitter.com/search?q=%22Resident+Evil%22",
+                        "promoted_content": null,
+                        "query": "%22Resident+Evil%22",
+                        "tweet_volume": 10840
+                  },
+                  {
+                        "name": "Dolphin",
+                        "url": "http://twitter.com/search?q=Dolphin",
+                        "promoted_content": null,
+                        "query": "Dolphin",
+                        "tweet_volume": 17816
+                  },
+                  {
+                        "name": "Seahorse",
+                        "url": "http://twitter.com/search?q=Seahorse",
+                        "promoted_content": null,
+                        "query": "Seahorse",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Duke Street",
+                        "url": "http://twitter.com/search?q=%22Duke+Street%22",
+                        "promoted_content": null,
+                        "query": "%22Duke+Street%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Huncho",
+                        "url": "http://twitter.com/search?q=Huncho",
+                        "promoted_content": null,
+                        "query": "Huncho",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Jimmy Havoc",
+                        "url": "http://twitter.com/search?q=%22Jimmy+Havoc%22",
+                        "promoted_content": null,
+                        "query": "%22Jimmy+Havoc%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Blanco",
+                        "url": "http://twitter.com/search?q=Blanco",
+                        "promoted_content": null,
+                        "query": "Blanco",
+                        "tweet_volume": 72680
+                  },
+                  {
+                        "name": "Diet Coke",
+                        "url": "http://twitter.com/search?q=%22Diet+Coke%22",
+                        "promoted_content": null,
+                        "query": "%22Diet+Coke%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Seyi",
+                        "url": "http://twitter.com/search?q=Seyi",
+                        "promoted_content": null,
+                        "query": "Seyi",
+                        "tweet_volume": 60148
+                  },
+                  {
+                        "name": "Potter",
+                        "url": "http://twitter.com/search?q=Potter",
+                        "promoted_content": null,
+                        "query": "Potter",
+                        "tweet_volume": 52556
+                  },
+                  {
+                        "name": "Dappy",
+                        "url": "http://twitter.com/search?q=Dappy",
+                        "promoted_content": null,
+                        "query": "Dappy",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Size 10",
+                        "url": "http://twitter.com/search?q=%22Size+10%22",
+                        "promoted_content": null,
+                        "query": "%22Size+10%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Republican",
+                        "url": "http://twitter.com/search?q=Republican",
+                        "promoted_content": null,
+                        "query": "Republican",
+                        "tweet_volume": 284641
+                  },
+                  {
+                        "name": "#Ambulance",
+                        "url": "http://twitter.com/search?q=%23Ambulance",
+                        "promoted_content": null,
+                        "query": "%23Ambulance",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#GClash10",
+                        "url": "http://twitter.com/search?q=%23GClash10",
+                        "promoted_content": null,
+                        "query": "%23GClash10",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#jaysvirtualpubquiz",
+                        "url": "http://twitter.com/search?q=%23jaysvirtualpubquiz",
+                        "promoted_content": null,
+                        "query": "%23jaysvirtualpubquiz",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#realmadridvalencia",
+                        "url": "http://twitter.com/search?q=%23realmadridvalencia",
+                        "promoted_content": null,
+                        "query": "%23realmadridvalencia",
+                        "tweet_volume": 52651
+                  },
+                  {
+                        "name": "#questiontime",
+                        "url": "http://twitter.com/search?q=%23questiontime",
+                        "promoted_content": null,
+                        "query": "%23questiontime",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#HealthAndSafetyRemakes",
+                        "url": "http://twitter.com/search?q=%23HealthAndSafetyRemakes",
+                        "promoted_content": null,
+                        "query": "%23HealthAndSafetyRemakes",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#SmallIsland",
+                        "url": "http://twitter.com/search?q=%23SmallIsland",
+                        "promoted_content": null,
+                        "query": "%23SmallIsland",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#OldPeopleFilmsAndSongs",
+                        "url": "http://twitter.com/search?q=%23OldPeopleFilmsAndSongs",
+                        "promoted_content": null,
+                        "query": "%23OldPeopleFilmsAndSongs",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#page3",
+                        "url": "http://twitter.com/search?q=%23page3",
+                        "promoted_content": null,
+                        "query": "%23page3",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#rmaval",
+                        "url": "http://twitter.com/search?q=%23rmaval",
+                        "promoted_content": null,
+                        "query": "%23rmaval",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#London",
+                        "url": "http://twitter.com/search?q=%23London",
+                        "promoted_content": null,
+                        "query": "%23London",
+                        "tweet_volume": 11982
+                  },
+                  {
+                        "name": "#youarewhatyouwear",
+                        "url": "http://twitter.com/search?q=%23youarewhatyouwear",
+                        "promoted_content": null,
+                        "query": "%23youarewhatyouwear",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#Newsnight",
+                        "url": "http://twitter.com/search?q=%23Newsnight",
+                        "promoted_content": null,
+                        "query": "%23Newsnight",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#HalaMadrid",
+                        "url": "http://twitter.com/search?q=%23HalaMadrid",
+                        "promoted_content": null,
+                        "query": "%23HalaMadrid",
+                        "tweet_volume": 34576
+                  },
+                  {
+                        "name": "#TLPLive",
+                        "url": "http://twitter.com/search?q=%23TLPLive",
+                        "promoted_content": null,
+                        "query": "%23TLPLive",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#Britainsbestparent",
+                        "url": "http://twitter.com/search?q=%23Britainsbestparent",
+                        "promoted_content": null,
+                        "query": "%23Britainsbestparent",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#euro96",
+                        "url": "http://twitter.com/search?q=%23euro96",
+                        "promoted_content": null,
+                        "query": "%23euro96",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#remarkableplacestoeat",
+                        "url": "http://twitter.com/search?q=%23remarkableplacestoeat",
+                        "promoted_content": null,
+                        "query": "%23remarkableplacestoeat",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#TheNakedTruth",
+                        "url": "http://twitter.com/search?q=%23TheNakedTruth",
+                        "promoted_content": null,
+                        "query": "%23TheNakedTruth",
+                        "tweet_volume": null
+                  }
+            ],
+            "as_of": "2020-06-18T23:13:42Z",
+            "created_at": "2020-06-18T23:06:26Z",
+            "locations": [
+                  {
+                        "name": "London",
+                        "woeid": 44418
+                  }
+            ]
+      }
+]

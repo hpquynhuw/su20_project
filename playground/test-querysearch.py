@@ -8,14 +8,14 @@ from datetime import date
 # This can return data for the specified query and time period.
 # We will use the 30-day search period: /search/30day/Test.json
 # and the searchtweets package
-# Sandbox: 30 requests per min, and 100 tweets per request
+# Sandbox: 30 REQUESTS PER MINUTE, and 100 TWEETS PER REQUEST, MAX 25K TWEETS MONTHLY
 
 class Test_Searchquery:
     def __init__(self):
         search_args={
-        'bearer_token': twitter_token,
-        'endpoint': base_url+"tweets/search/30day/Test.json",
-        'extra_headers_dict': None
+            'bearer_token': twitter_token,
+            'endpoint': base_url+"tweets/search/30day/Test.json",
+            'extra_headers_dict': None
         }
 
         txt = input("Type query: ")
