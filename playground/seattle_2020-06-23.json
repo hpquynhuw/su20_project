@@ -1,0 +1,364 @@
+[
+      {
+            "trends": [
+                  {
+                        "name": "#TMobileTuesdays",
+                        "url": "http://twitter.com/search?q=%23TMobileTuesdays",
+                        "promoted_content": null,
+                        "query": "%23TMobileTuesdays",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "NASCAR",
+                        "url": "http://twitter.com/search?q=NASCAR",
+                        "promoted_content": null,
+                        "query": "NASCAR",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#BreonnaTalyor",
+                        "url": "http://twitter.com/search?q=%23BreonnaTalyor",
+                        "promoted_content": null,
+                        "query": "%23BreonnaTalyor",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Mixer",
+                        "url": "http://twitter.com/search?q=Mixer",
+                        "promoted_content": null,
+                        "query": "Mixer",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#WWDC2020",
+                        "url": "http://twitter.com/search?q=%23WWDC2020",
+                        "promoted_content": null,
+                        "query": "%23WWDC2020",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "America",
+                        "url": "http://twitter.com/search?q=America",
+                        "promoted_content": null,
+                        "query": "America",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "East Precinct",
+                        "url": "http://twitter.com/search?q=%22East+Precinct%22",
+                        "promoted_content": null,
+                        "query": "%22East+Precinct%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Andrew Jackson",
+                        "url": "http://twitter.com/search?q=%22Andrew+Jackson%22",
+                        "promoted_content": null,
+                        "query": "%22Andrew+Jackson%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Ron Jeremy",
+                        "url": "http://twitter.com/search?q=%22Ron+Jeremy%22",
+                        "promoted_content": null,
+                        "query": "%22Ron+Jeremy%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#COYS",
+                        "url": "http://twitter.com/search?q=%23COYS",
+                        "promoted_content": null,
+                        "query": "%23COYS",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Rakitic",
+                        "url": "http://twitter.com/search?q=Rakitic",
+                        "promoted_content": null,
+                        "query": "Rakitic",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Rihanna",
+                        "url": "http://twitter.com/search?q=Rihanna",
+                        "promoted_content": null,
+                        "query": "Rihanna",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Suarez",
+                        "url": "http://twitter.com/search?q=Suarez",
+                        "promoted_content": null,
+                        "query": "Suarez",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Jokic",
+                        "url": "http://twitter.com/search?q=Jokic",
+                        "promoted_content": null,
+                        "query": "Jokic",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#BlackArmyBlockParty",
+                        "url": "http://twitter.com/search?q=%23BlackArmyBlockParty",
+                        "promoted_content": null,
+                        "query": "%23BlackArmyBlockParty",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "West Ham",
+                        "url": "http://twitter.com/search?q=%22West+Ham%22",
+                        "promoted_content": null,
+                        "query": "%22West+Ham%22",
+                        "tweet_volume": 30530
+                  },
+                  {
+                        "name": "Drew Carey",
+                        "url": "http://twitter.com/search?q=%22Drew+Carey%22",
+                        "promoted_content": null,
+                        "query": "%22Drew+Carey%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "J Prince",
+                        "url": "http://twitter.com/search?q=%22J+Prince%22",
+                        "promoted_content": null,
+                        "query": "%22J+Prince%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Ravens",
+                        "url": "http://twitter.com/search?q=Ravens",
+                        "promoted_content": null,
+                        "query": "Ravens",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Mohammad",
+                        "url": "http://twitter.com/search?q=Mohammad",
+                        "promoted_content": null,
+                        "query": "Mohammad",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Griezmann",
+                        "url": "http://twitter.com/search?q=Griezmann",
+                        "promoted_content": null,
+                        "query": "Griezmann",
+                        "tweet_volume": 22277
+                  },
+                  {
+                        "name": "Roger Stone",
+                        "url": "http://twitter.com/search?q=%22Roger+Stone%22",
+                        "promoted_content": null,
+                        "query": "%22Roger+Stone%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Fauci",
+                        "url": "http://twitter.com/search?q=Fauci",
+                        "promoted_content": null,
+                        "query": "Fauci",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Be With You",
+                        "url": "http://twitter.com/search?q=%22Be+With+You%22",
+                        "promoted_content": null,
+                        "query": "%22Be+With+You%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Cornyn",
+                        "url": "http://twitter.com/search?q=Cornyn",
+                        "promoted_content": null,
+                        "query": "Cornyn",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Gerald Ford",
+                        "url": "http://twitter.com/search?q=%22Gerald+Ford%22",
+                        "promoted_content": null,
+                        "query": "%22Gerald+Ford%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Mel Gibson",
+                        "url": "http://twitter.com/search?q=%22Mel+Gibson%22",
+                        "promoted_content": null,
+                        "query": "%22Mel+Gibson%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Joe Haden",
+                        "url": "http://twitter.com/search?q=%22Joe+Haden%22",
+                        "promoted_content": null,
+                        "query": "%22Joe+Haden%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Oaxaca",
+                        "url": "http://twitter.com/search?q=Oaxaca",
+                        "promoted_content": null,
+                        "query": "Oaxaca",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Barca",
+                        "url": "http://twitter.com/search?q=Barca",
+                        "promoted_content": null,
+                        "query": "Barca",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Puig",
+                        "url": "http://twitter.com/search?q=Puig",
+                        "promoted_content": null,
+                        "query": "Puig",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "youngjae",
+                        "url": "http://twitter.com/search?q=youngjae",
+                        "promoted_content": null,
+                        "query": "youngjae",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Lo Celso",
+                        "url": "http://twitter.com/search?q=%22Lo+Celso%22",
+                        "promoted_content": null,
+                        "query": "%22Lo+Celso%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Beasley",
+                        "url": "http://twitter.com/search?q=Beasley",
+                        "promoted_content": null,
+                        "query": "Beasley",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Russell Simmons",
+                        "url": "http://twitter.com/search?q=%22Russell+Simmons%22",
+                        "promoted_content": null,
+                        "query": "%22Russell+Simmons%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Ndombele",
+                        "url": "http://twitter.com/search?q=Ndombele",
+                        "promoted_content": null,
+                        "query": "Ndombele",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Hasheem Thabeet",
+                        "url": "http://twitter.com/search?q=%22Hasheem+Thabeet%22",
+                        "promoted_content": null,
+                        "query": "%22Hasheem+Thabeet%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Riri",
+                        "url": "http://twitter.com/search?q=Riri",
+                        "promoted_content": null,
+                        "query": "Riri",
+                        "tweet_volume": 32767
+                  },
+                  {
+                        "name": "K Love",
+                        "url": "http://twitter.com/search?q=%22K+Love%22",
+                        "promoted_content": null,
+                        "query": "%22K+Love%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Lettuce",
+                        "url": "http://twitter.com/search?q=Lettuce",
+                        "promoted_content": null,
+                        "query": "Lettuce",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#TOTWHU",
+                        "url": "http://twitter.com/search?q=%23TOTWHU",
+                        "promoted_content": null,
+                        "query": "%23TOTWHU",
+                        "tweet_volume": 13793
+                  },
+                  {
+                        "name": "#COVID__19",
+                        "url": "http://twitter.com/search?q=%23COVID__19",
+                        "promoted_content": null,
+                        "query": "%23COVID__19",
+                        "tweet_volume": 51078
+                  },
+                  {
+                        "name": "#ItsOkayToBeRacist",
+                        "url": "http://twitter.com/search?q=%23ItsOkayToBeRacist",
+                        "promoted_content": null,
+                        "query": "%23ItsOkayToBeRacist",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#RTXOn",
+                        "url": "http://twitter.com/search?q=%23RTXOn",
+                        "promoted_content": null,
+                        "query": "%23RTXOn",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#TrumpIsALaughingStock",
+                        "url": "http://twitter.com/search?q=%23TrumpIsALaughingStock",
+                        "promoted_content": null,
+                        "query": "%23TrumpIsALaughingStock",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#TitleIX",
+                        "url": "http://twitter.com/search?q=%23TitleIX",
+                        "promoted_content": null,
+                        "query": "%23TitleIX",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#StupidQuestionsForJohnBolton",
+                        "url": "http://twitter.com/search?q=%23StupidQuestionsForJohnBolton",
+                        "promoted_content": null,
+                        "query": "%23StupidQuestionsForJohnBolton",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#MakeASongPastTense",
+                        "url": "http://twitter.com/search?q=%23MakeASongPastTense",
+                        "promoted_content": null,
+                        "query": "%23MakeASongPastTense",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#AbolitionistTeaching",
+                        "url": "http://twitter.com/search?q=%23AbolitionistTeaching",
+                        "promoted_content": null,
+                        "query": "%23AbolitionistTeaching",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#TheEquityProject",
+                        "url": "http://twitter.com/search?q=%23TheEquityProject",
+                        "promoted_content": null,
+                        "query": "%23TheEquityProject",
+                        "tweet_volume": null
+                  }
+            ],
+            "as_of": "2020-06-23T21:46:35Z",
+            "created_at": "2020-06-23T21:44:13Z",
+            "locations": [
+                  {
+                        "name": "Seattle",
+                        "woeid": 2490383
+                  }
+            ]
+      }
+]

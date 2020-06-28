@@ -1,0 +1,252 @@
+[
+      {
+            "trends": [
+                  {
+                        "name": "Liverpool",
+                        "url": "http://twitter.com/search?q=Liverpool",
+                        "promoted_content": null,
+                        "query": "Liverpool",
+                        "tweet_volume": 271187
+                  },
+                  {
+                        "name": "#CHEMCI",
+                        "url": "http://twitter.com/search?q=%23CHEMCI",
+                        "promoted_content": null,
+                        "query": "%23CHEMCI",
+                        "tweet_volume": 135394
+                  },
+                  {
+                        "name": "Fernandinho",
+                        "url": "http://twitter.com/search?q=Fernandinho",
+                        "promoted_content": null,
+                        "query": "Fernandinho",
+                        "tweet_volume": 31055
+                  },
+                  {
+                        "name": "Pulisic",
+                        "url": "http://twitter.com/search?q=Pulisic",
+                        "promoted_content": null,
+                        "query": "Pulisic",
+                        "tweet_volume": 77193
+                  },
+                  {
+                        "name": "Willian",
+                        "url": "http://twitter.com/search?q=Willian",
+                        "promoted_content": null,
+                        "query": "Willian",
+                        "tweet_volume": 25604
+                  },
+                  {
+                        "name": "#YNWA",
+                        "url": "http://twitter.com/search?q=%23YNWA",
+                        "promoted_content": null,
+                        "query": "%23YNWA",
+                        "tweet_volume": 30476
+                  },
+                  {
+                        "name": "Kyle Walker",
+                        "url": "http://twitter.com/search?q=%22Kyle+Walker%22",
+                        "promoted_content": null,
+                        "query": "%22Kyle+Walker%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#Champions",
+                        "url": "http://twitter.com/search?q=%23Champions",
+                        "promoted_content": null,
+                        "query": "%23Champions",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Sterling",
+                        "url": "http://twitter.com/search?q=Sterling",
+                        "promoted_content": null,
+                        "query": "Sterling",
+                        "tweet_volume": 37465
+                  },
+                  {
+                        "name": "Bournemouth",
+                        "url": "http://twitter.com/search?q=Bournemouth",
+                        "promoted_content": null,
+                        "query": "Bournemouth",
+                        "tweet_volume": 75814
+                  },
+                  {
+                        "name": "#jaysvirtualpubquiz",
+                        "url": "http://twitter.com/search?q=%23jaysvirtualpubquiz",
+                        "promoted_content": null,
+                        "query": "%23jaysvirtualpubquiz",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#theschoolthattriedtoendracism",
+                        "url": "http://twitter.com/search?q=%23theschoolthattriedtoendracism",
+                        "promoted_content": null,
+                        "query": "%23theschoolthattriedtoendracism",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Barkley",
+                        "url": "http://twitter.com/search?q=Barkley",
+                        "promoted_content": null,
+                        "query": "Barkley",
+                        "tweet_volume": 13019
+                  },
+                  {
+                        "name": "Israel",
+                        "url": "http://twitter.com/search?q=Israel",
+                        "promoted_content": null,
+                        "query": "Israel",
+                        "tweet_volume": 188060
+                  },
+                  {
+                        "name": "Steve McManaman",
+                        "url": "http://twitter.com/search?q=%22Steve+McManaman%22",
+                        "promoted_content": null,
+                        "query": "%22Steve+McManaman%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Lampard",
+                        "url": "http://twitter.com/search?q=Lampard",
+                        "promoted_content": null,
+                        "query": "Lampard",
+                        "tweet_volume": 31312
+                  },
+                  {
+                        "name": "Bellerin",
+                        "url": "http://twitter.com/search?q=Bellerin",
+                        "promoted_content": null,
+                        "query": "Bellerin",
+                        "tweet_volume": 13549
+                  },
+                  {
+                        "name": "Ogmore",
+                        "url": "http://twitter.com/search?q=Ogmore",
+                        "promoted_content": null,
+                        "query": "Ogmore",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Xhaka",
+                        "url": "http://twitter.com/search?q=Xhaka",
+                        "promoted_content": null,
+                        "query": "Xhaka",
+                        "tweet_volume": 13811
+                  },
+                  {
+                        "name": "Kante",
+                        "url": "http://twitter.com/search?q=Kante",
+                        "promoted_content": null,
+                        "query": "Kante",
+                        "tweet_volume": 13035
+                  },
+                  {
+                        "name": "Willock",
+                        "url": "http://twitter.com/search?q=Willock",
+                        "promoted_content": null,
+                        "query": "Willock",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Bailey",
+                        "url": "http://twitter.com/search?q=Bailey",
+                        "promoted_content": null,
+                        "query": "Bailey",
+                        "tweet_volume": 149813
+                  },
+                  {
+                        "name": "Starmer",
+                        "url": "http://twitter.com/search?q=Starmer",
+                        "promoted_content": null,
+                        "query": "Starmer",
+                        "tweet_volume": 212070
+                  },
+                  {
+                        "name": "Christensen",
+                        "url": "http://twitter.com/search?q=Christensen",
+                        "promoted_content": null,
+                        "query": "Christensen",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Tammy",
+                        "url": "http://twitter.com/search?q=Tammy",
+                        "promoted_content": null,
+                        "query": "Tammy",
+                        "tweet_volume": 18403
+                  },
+                  {
+                        "name": "Mason Mount",
+                        "url": "http://twitter.com/search?q=%22Mason+Mount%22",
+                        "promoted_content": null,
+                        "query": "%22Mason+Mount%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Jordan Henderson",
+                        "url": "http://twitter.com/search?q=%22Jordan+Henderson%22",
+                        "promoted_content": null,
+                        "query": "%22Jordan+Henderson%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Southampton",
+                        "url": "http://twitter.com/search?q=Southampton",
+                        "promoted_content": null,
+                        "query": "Southampton",
+                        "tweet_volume": 33047
+                  },
+                  {
+                        "name": "#SOUARS",
+                        "url": "http://twitter.com/search?q=%23SOUARS",
+                        "promoted_content": null,
+                        "query": "%23SOUARS",
+                        "tweet_volume": 30322
+                  },
+                  {
+                        "name": "#makemefamous",
+                        "url": "http://twitter.com/search?q=%23makemefamous",
+                        "promoted_content": null,
+                        "query": "%23makemefamous",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#parasiteeve",
+                        "url": "http://twitter.com/search?q=%23parasiteeve",
+                        "promoted_content": null,
+                        "query": "%23parasiteeve",
+                        "tweet_volume": 36251
+                  },
+                  {
+                        "name": "#BridgeDream",
+                        "url": "http://twitter.com/search?q=%23BridgeDream",
+                        "promoted_content": null,
+                        "query": "%23BridgeDream",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#Britainsbestparent",
+                        "url": "http://twitter.com/search?q=%23Britainsbestparent",
+                        "promoted_content": null,
+                        "query": "%23Britainsbestparent",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#watfordfc",
+                        "url": "http://twitter.com/search?q=%23watfordfc",
+                        "promoted_content": null,
+                        "query": "%23watfordfc",
+                        "tweet_volume": null
+                  }
+            ],
+            "as_of": "2020-06-25T21:11:31Z",
+            "created_at": "2020-06-25T21:09:29Z",
+            "locations": [
+                  {
+                        "name": "London",
+                        "woeid": 44418
+                  }
+            ]
+      }
+]

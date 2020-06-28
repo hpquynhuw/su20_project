@@ -1,0 +1,364 @@
+[
+      {
+            "trends": [
+                  {
+                        "name": "#facup",
+                        "url": "http://twitter.com/search?q=%23facup",
+                        "promoted_content": null,
+                        "query": "%23facup",
+                        "tweet_volume": 56540
+                  },
+                  {
+                        "name": "#mufc",
+                        "url": "http://twitter.com/search?q=%23mufc",
+                        "promoted_content": null,
+                        "query": "%23mufc",
+                        "tweet_volume": 84497
+                  },
+                  {
+                        "name": "Norwich",
+                        "url": "http://twitter.com/search?q=Norwich",
+                        "promoted_content": null,
+                        "query": "Norwich",
+                        "tweet_volume": 56879
+                  },
+                  {
+                        "name": "#couchpeloton",
+                        "url": "http://twitter.com/search?q=%23couchpeloton",
+                        "promoted_content": null,
+                        "query": "%23couchpeloton",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Putin",
+                        "url": "http://twitter.com/search?q=Putin",
+                        "promoted_content": null,
+                        "query": "Putin",
+                        "tweet_volume": 912153
+                  },
+                  {
+                        "name": "#afldonsblues",
+                        "url": "http://twitter.com/search?q=%23afldonsblues",
+                        "promoted_content": null,
+                        "query": "%23afldonsblues",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#AFLSaintsTigers",
+                        "url": "http://twitter.com/search?q=%23AFLSaintsTigers",
+                        "promoted_content": null,
+                        "query": "%23AFLSaintsTigers",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Rowell",
+                        "url": "http://twitter.com/search?q=Rowell",
+                        "promoted_content": null,
+                        "query": "Rowell",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Dan Butler",
+                        "url": "http://twitter.com/search?q=%22Dan+Butler%22",
+                        "promoted_content": null,
+                        "query": "%22Dan+Butler%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Seibold",
+                        "url": "http://twitter.com/search?q=Seibold",
+                        "promoted_content": null,
+                        "query": "Seibold",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Charlie Dixon",
+                        "url": "http://twitter.com/search?q=%22Charlie+Dixon%22",
+                        "promoted_content": null,
+                        "query": "%22Charlie+Dixon%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Fyfe",
+                        "url": "http://twitter.com/search?q=Fyfe",
+                        "promoted_content": null,
+                        "query": "Fyfe",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Simon",
+                        "url": "http://twitter.com/search?q=Simon",
+                        "promoted_content": null,
+                        "query": "Simon",
+                        "tweet_volume": 72589
+                  },
+                  {
+                        "name": "caulfield",
+                        "url": "http://twitter.com/search?q=caulfield",
+                        "promoted_content": null,
+                        "query": "caulfield",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Howe",
+                        "url": "http://twitter.com/search?q=Howe",
+                        "promoted_content": null,
+                        "query": "Howe",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Eurovision",
+                        "url": "http://twitter.com/search?q=Eurovision",
+                        "promoted_content": null,
+                        "query": "Eurovision",
+                        "tweet_volume": 23870
+                  },
+                  {
+                        "name": "Merrett",
+                        "url": "http://twitter.com/search?q=Merrett",
+                        "promoted_content": null,
+                        "query": "Merrett",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "BLACKPINK",
+                        "url": "http://twitter.com/search?q=BLACKPINK",
+                        "promoted_content": null,
+                        "query": "BLACKPINK",
+                        "tweet_volume": 3309067
+                  },
+                  {
+                        "name": "gladys liu",
+                        "url": "http://twitter.com/search?q=%22gladys+liu%22",
+                        "promoted_content": null,
+                        "query": "%22gladys+liu%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Liverpool",
+                        "url": "http://twitter.com/search?q=Liverpool",
+                        "promoted_content": null,
+                        "query": "Liverpool",
+                        "tweet_volume": 189404
+                  },
+                  {
+                        "name": "Dr Disrespect",
+                        "url": "http://twitter.com/search?q=%22Dr+Disrespect%22",
+                        "promoted_content": null,
+                        "query": "%22Dr+Disrespect%22",
+                        "tweet_volume": 46071
+                  },
+                  {
+                        "name": "Toby Greene",
+                        "url": "http://twitter.com/search?q=%22Toby+Greene%22",
+                        "promoted_content": null,
+                        "query": "%22Toby+Greene%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Leeds",
+                        "url": "http://twitter.com/search?q=Leeds",
+                        "promoted_content": null,
+                        "query": "Leeds",
+                        "tweet_volume": 35240
+                  },
+                  {
+                        "name": "townsend",
+                        "url": "http://twitter.com/search?q=townsend",
+                        "promoted_content": null,
+                        "query": "townsend",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Cripps",
+                        "url": "http://twitter.com/search?q=Cripps",
+                        "promoted_content": null,
+                        "query": "Cripps",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Tim Smith",
+                        "url": "http://twitter.com/search?q=%22Tim+Smith%22",
+                        "promoted_content": null,
+                        "query": "%22Tim+Smith%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "rosehill",
+                        "url": "http://twitter.com/search?q=rosehill",
+                        "promoted_content": null,
+                        "query": "rosehill",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "harbour views",
+                        "url": "http://twitter.com/search?q=%22harbour+views%22",
+                        "promoted_content": null,
+                        "query": "%22harbour+views%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "moses",
+                        "url": "http://twitter.com/search?q=moses",
+                        "promoted_content": null,
+                        "query": "moses",
+                        "tweet_volume": 14896
+                  },
+                  {
+                        "name": "hayden young",
+                        "url": "http://twitter.com/search?q=%22hayden+young%22",
+                        "promoted_content": null,
+                        "query": "%22hayden+young%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Bellchambers",
+                        "url": "http://twitter.com/search?q=Bellchambers",
+                        "promoted_content": null,
+                        "query": "Bellchambers",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Mick",
+                        "url": "http://twitter.com/search?q=Mick",
+                        "promoted_content": null,
+                        "query": "Mick",
+                        "tweet_volume": 12889
+                  },
+                  {
+                        "name": "west coast",
+                        "url": "http://twitter.com/search?q=%22west+coast%22",
+                        "promoted_content": null,
+                        "query": "%22west+coast%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#nrlbroncostitans",
+                        "url": "http://twitter.com/search?q=%23nrlbroncostitans",
+                        "promoted_content": null,
+                        "query": "%23nrlbroncostitans",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#nrleelsraiders",
+                        "url": "http://twitter.com/search?q=%23nrleelsraiders",
+                        "promoted_content": null,
+                        "query": "%23nrleelsraiders",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#AFLSunsFreo",
+                        "url": "http://twitter.com/search?q=%23AFLSunsFreo",
+                        "promoted_content": null,
+                        "query": "%23AFLSunsFreo",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#aflpowereagles",
+                        "url": "http://twitter.com/search?q=%23aflpowereagles",
+                        "promoted_content": null,
+                        "query": "%23aflpowereagles",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#NRLCowboysKnights",
+                        "url": "http://twitter.com/search?q=%23NRLCowboysKnights",
+                        "promoted_content": null,
+                        "query": "%23NRLCowboysKnights",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#aflgiantspies",
+                        "url": "http://twitter.com/search?q=%23aflgiantspies",
+                        "promoted_content": null,
+                        "query": "%23aflgiantspies",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#vasc",
+                        "url": "http://twitter.com/search?q=%23vasc",
+                        "promoted_content": null,
+                        "query": "%23vasc",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#nrlroostersdragons",
+                        "url": "http://twitter.com/search?q=%23nrlroostersdragons",
+                        "promoted_content": null,
+                        "query": "%23nrlroostersdragons",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#OwnTheFuture",
+                        "url": "http://twitter.com/search?q=%23OwnTheFuture",
+                        "promoted_content": null,
+                        "query": "%23OwnTheFuture",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#flicksnochills",
+                        "url": "http://twitter.com/search?q=%23flicksnochills",
+                        "promoted_content": null,
+                        "query": "%23flicksnochills",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#bronxnation",
+                        "url": "http://twitter.com/search?q=%23bronxnation",
+                        "promoted_content": null,
+                        "query": "%23bronxnation",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#nrlstormwarriors",
+                        "url": "http://twitter.com/search?q=%23nrlstormwarriors",
+                        "promoted_content": null,
+                        "query": "%23nrlstormwarriors",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#sbscycling",
+                        "url": "http://twitter.com/search?q=%23sbscycling",
+                        "promoted_content": null,
+                        "query": "%23sbscycling",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#foreverfreo",
+                        "url": "http://twitter.com/search?q=%23foreverfreo",
+                        "promoted_content": null,
+                        "query": "%23foreverfreo",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#HowYouLikeThat",
+                        "url": "http://twitter.com/search?q=%23HowYouLikeThat",
+                        "promoted_content": null,
+                        "query": "%23HowYouLikeThat",
+                        "tweet_volume": 1344487
+                  },
+                  {
+                        "name": "#ridemcowboys",
+                        "url": "http://twitter.com/search?q=%23ridemcowboys",
+                        "promoted_content": null,
+                        "query": "%23ridemcowboys",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#aflsunsdockers",
+                        "url": "http://twitter.com/search?q=%23aflsunsdockers",
+                        "promoted_content": null,
+                        "query": "%23aflsunsdockers",
+                        "tweet_volume": null
+                  }
+            ],
+            "as_of": "2020-06-27T21:10:12Z",
+            "created_at": "2020-06-27T21:05:20Z",
+            "locations": [
+                  {
+                        "name": "Sydney",
+                        "woeid": 1105779
+                  }
+            ]
+      }
+]
