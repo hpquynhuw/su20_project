@@ -22,6 +22,7 @@ class Test_Countstreaks:
             dates.append(str(i)[:-9])
 
         base=[]
+        names=[]
         with open(f'{loc}_{dates[0]}.json') as js:
             dat=json.load(js)
             for n in dat[0]['trends']:
@@ -30,6 +31,7 @@ class Test_Countstreaks:
                     'streaks': 1,
                     'first_trended': dates[0]
                     })
+                names.append(n['name'])
 
         df = pd.DataFrame(base)
 
@@ -40,15 +42,16 @@ class Test_Countstreaks:
                 data = json.load(json_file)
                 for p in data[0]['trends']:
                     name=p['name']
-                    if name not in df['trend_name']:
+                    if name not in names:
                         dat.append({
-                            'trend_name': p['name'],
+                            'trend_name': name,
                             'streaks': 1,
                             'first_trended': j
                             })
+                        names.append(name)
                     else:
                         idx = df.index[df['trend_name']==name]
-                        df['streaks'][idx]=df['streaks'][idx]+1
+                        df.loc[idx, 'streaks'] += 1
                 new_df = pd.DataFrame(dat)
             df=df.append(new_df)
             print(j)
