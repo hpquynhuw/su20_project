@@ -8,17 +8,23 @@ class Test_Countstreaks:
 
         loc = input("Enter where you want to count streaks for: ").lower()
         sdate = date(2020,6,12)   # start date
-        e1date = date(2020,6,18)
+        edate = date(2020,6,18)
 
         s1date = date(2020,6,23)
+        e1date=date(2020,6,28)
+
+        s2date=date(2020,7,2)
         e2date = date.today()  # end date
-        range=pd.date_range(sdate,e1date-timedelta(days=0), freq='d')
-        range1=pd.date_range(s1date,e2date-timedelta(days=0), freq='d')
+        range=pd.date_range(sdate,edate-timedelta(days=0), freq='d')
+        range1=pd.date_range(s1date,e1date-timedelta(days=0), freq='d')
+        range2=pd.date_range(s2date,e2date-timedelta(days=0), freq='d')
 
         dates=[]
         for i in range:
             dates.append(str(i)[:-9])
         for i in range1:
+            dates.append(str(i)[:-9])
+        for i in range2:
             dates.append(str(i)[:-9])
 
         base=[]
@@ -56,7 +62,8 @@ class Test_Countstreaks:
             df=df.append(new_df)
             print(j)
 
-            df.to_csv(f'{loc}_streaks.csv', index = False, header=True, sep='\t', encoding='utf-8')
+        df=df.sort_values(by=['streaks'], ascending=False)
+        df.to_csv(f'{loc}_streaks.csv', index = False, header=True, sep='\t', encoding='utf-8')
 
 if __name__ == '__main__':
     cp=Test_Countstreaks()
