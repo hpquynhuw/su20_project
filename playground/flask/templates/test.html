@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Testing how cool Quinh is</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <!-- Custom styles for this template -->
+    <link href="/static/pretty.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rambla:bold,bolditalic,regular|Muli:italic,light,regular,regularitalic,medium">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="/static/testScript.js"></script>
+  </head>
+
+
+
+
+  <body>
+  <div class="jumbotron jumbotron-fluid">
+    <div class="container">
+      <h1 class="title"> Quinh is hella cool </h1>
+      <p class="subtitle"> Yes she kinda is sometimes, but she should actually put down the
+        project summary here. </p>
+    </div>
+  </div>
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <h2>Today's trends</h2>
+      <p> Select location to see trending Twitter topics: </p>
+      <button type="button"> Seattle</button>
+      <script>
+        $('#click').click(function () {
+          $.ajax({
+            typr:'GET',
+            url: '/data',
+            success: function (response) {
+              alert(response)
+            }
+          })
+        }
+      </script>
+      <button type="button"onclick="myFunction()"> Sydney</button>
+      <button type="button"onclick="myFunction()"> London</button>
+      <button type="button"onclick="myFunction()"> Toronto</button>
+      <p id="demo"></p>
+    </div>
+    <div class="col">
+      <h2></h2>
+    </div>
+  <div class="col">
+    <h2>Trends leaderboard</h2>
+  </div>
+
+
+
+
+  </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</body>
+
+
+
+
+</html>

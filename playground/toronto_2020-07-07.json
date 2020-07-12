@@ -1,0 +1,364 @@
+[
+      {
+            "trends": [
+                  {
+                        "name": "Arsenal",
+                        "url": "http://twitter.com/search?q=Arsenal",
+                        "promoted_content": null,
+                        "query": "Arsenal",
+                        "tweet_volume": 230254
+                  },
+                  {
+                        "name": "Milan",
+                        "url": "http://twitter.com/search?q=Milan",
+                        "promoted_content": null,
+                        "query": "Milan",
+                        "tweet_volume": 164409
+                  },
+                  {
+                        "name": "Juve",
+                        "url": "http://twitter.com/search?q=Juve",
+                        "promoted_content": null,
+                        "query": "Juve",
+                        "tweet_volume": 70219
+                  },
+                  {
+                        "name": "SAKA",
+                        "url": "http://twitter.com/search?q=SAKA",
+                        "promoted_content": null,
+                        "query": "SAKA",
+                        "tweet_volume": 79891
+                  },
+                  {
+                        "name": "#arslei",
+                        "url": "http://twitter.com/search?q=%23arslei",
+                        "promoted_content": null,
+                        "query": "%23arslei",
+                        "tweet_volume": 59456
+                  },
+                  {
+                        "name": "Leicester",
+                        "url": "http://twitter.com/search?q=Leicester",
+                        "promoted_content": null,
+                        "query": "Leicester",
+                        "tweet_volume": 103213
+                  },
+                  {
+                        "name": "Coffee Crisp",
+                        "url": "http://twitter.com/search?q=%22Coffee+Crisp%22",
+                        "promoted_content": null,
+                        "query": "%22Coffee+Crisp%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Rugani",
+                        "url": "http://twitter.com/search?q=Rugani",
+                        "promoted_content": null,
+                        "query": "Rugani",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Vardy",
+                        "url": "http://twitter.com/search?q=Vardy",
+                        "promoted_content": null,
+                        "query": "Vardy",
+                        "tweet_volume": 28213
+                  },
+                  {
+                        "name": "Scheer",
+                        "url": "http://twitter.com/search?q=Scheer",
+                        "promoted_content": null,
+                        "query": "Scheer",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Bill 32",
+                        "url": "http://twitter.com/search?q=%22Bill+32%22",
+                        "promoted_content": null,
+                        "query": "%22Bill+32%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Alex Sandro",
+                        "url": "http://twitter.com/search?q=%22Alex+Sandro%22",
+                        "promoted_content": null,
+                        "query": "%22Alex+Sandro%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Nketiah",
+                        "url": "http://twitter.com/search?q=Nketiah",
+                        "promoted_content": null,
+                        "query": "Nketiah",
+                        "tweet_volume": 23327
+                  },
+                  {
+                        "name": "rabiot",
+                        "url": "http://twitter.com/search?q=rabiot",
+                        "promoted_content": null,
+                        "query": "rabiot",
+                        "tweet_volume": 28021
+                  },
+                  {
+                        "name": "#StupidQuestionsForKPop",
+                        "url": "http://twitter.com/search?q=%23StupidQuestionsForKPop",
+                        "promoted_content": null,
+                        "query": "%23StupidQuestionsForKPop",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Joe Carter",
+                        "url": "http://twitter.com/search?q=%22Joe+Carter%22",
+                        "promoted_content": null,
+                        "query": "%22Joe+Carter%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Rebic",
+                        "url": "http://twitter.com/search?q=Rebic",
+                        "promoted_content": null,
+                        "query": "Rebic",
+                        "tweet_volume": 15242
+                  },
+                  {
+                        "name": "Ceballos",
+                        "url": "http://twitter.com/search?q=Ceballos",
+                        "promoted_content": null,
+                        "query": "Ceballos",
+                        "tweet_volume": 20080
+                  },
+                  {
+                        "name": "De Ligt",
+                        "url": "http://twitter.com/search?q=%22De+Ligt%22",
+                        "promoted_content": null,
+                        "query": "%22De+Ligt%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "World Health Organization",
+                        "url": "http://twitter.com/search?q=%22World+Health+Organization%22",
+                        "promoted_content": null,
+                        "query": "%22World+Health+Organization%22",
+                        "tweet_volume": 161191
+                  },
+                  {
+                        "name": "Sarri",
+                        "url": "http://twitter.com/search?q=Sarri",
+                        "promoted_content": null,
+                        "query": "Sarri",
+                        "tweet_volume": 13230
+                  },
+                  {
+                        "name": "auba",
+                        "url": "http://twitter.com/search?q=auba",
+                        "promoted_content": null,
+                        "query": "auba",
+                        "tweet_volume": 15522
+                  },
+                  {
+                        "name": "SATs",
+                        "url": "http://twitter.com/search?q=SATs",
+                        "promoted_content": null,
+                        "query": "SATs",
+                        "tweet_volume": 95149
+                  },
+                  {
+                        "name": "Big Turk",
+                        "url": "http://twitter.com/search?q=%22Big+Turk%22",
+                        "promoted_content": null,
+                        "query": "%22Big+Turk%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Laca",
+                        "url": "http://twitter.com/search?q=Laca",
+                        "promoted_content": null,
+                        "query": "Laca",
+                        "tweet_volume": 10277
+                  },
+                  {
+                        "name": "Jared Leto",
+                        "url": "http://twitter.com/search?q=%22Jared+Leto%22",
+                        "promoted_content": null,
+                        "query": "%22Jared+Leto%22",
+                        "tweet_volume": 13223
+                  },
+                  {
+                        "name": "Dybala",
+                        "url": "http://twitter.com/search?q=Dybala",
+                        "promoted_content": null,
+                        "query": "Dybala",
+                        "tweet_volume": 11562
+                  },
+                  {
+                        "name": "Tom Hanks",
+                        "url": "http://twitter.com/search?q=%22Tom+Hanks%22",
+                        "promoted_content": null,
+                        "query": "%22Tom+Hanks%22",
+                        "tweet_volume": 53532
+                  },
+                  {
+                        "name": "OHIP",
+                        "url": "http://twitter.com/search?q=OHIP",
+                        "promoted_content": null,
+                        "query": "OHIP",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Mary Trump",
+                        "url": "http://twitter.com/search?q=%22Mary+Trump%22",
+                        "promoted_content": null,
+                        "query": "%22Mary+Trump%22",
+                        "tweet_volume": 195388
+                  },
+                  {
+                        "name": "Nets",
+                        "url": "http://twitter.com/search?q=Nets",
+                        "promoted_content": null,
+                        "query": "Nets",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#WorldChocolateDay",
+                        "url": "http://twitter.com/search?q=%23WorldChocolateDay",
+                        "promoted_content": null,
+                        "query": "%23WorldChocolateDay",
+                        "tweet_volume": 40957
+                  },
+                  {
+                        "name": "Chomsky",
+                        "url": "http://twitter.com/search?q=Chomsky",
+                        "promoted_content": null,
+                        "query": "Chomsky",
+                        "tweet_volume": 21621
+                  },
+                  {
+                        "name": "Pioli",
+                        "url": "http://twitter.com/search?q=Pioli",
+                        "promoted_content": null,
+                        "query": "Pioli",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "The WHO",
+                        "url": "http://twitter.com/search?q=%22The+WHO%22",
+                        "promoted_content": null,
+                        "query": "%22The+WHO%22",
+                        "tweet_volume": 86330
+                  },
+                  {
+                        "name": "#COYG",
+                        "url": "http://twitter.com/search?q=%23COYG",
+                        "promoted_content": null,
+                        "query": "%23COYG",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Zouma",
+                        "url": "http://twitter.com/search?q=Zouma",
+                        "promoted_content": null,
+                        "query": "Zouma",
+                        "tweet_volume": 49879
+                  },
+                  {
+                        "name": "Evans",
+                        "url": "http://twitter.com/search?q=Evans",
+                        "promoted_content": null,
+                        "query": "Evans",
+                        "tweet_volume": 31911
+                  },
+                  {
+                        "name": "Reese",
+                        "url": "http://twitter.com/search?q=Reese",
+                        "promoted_content": null,
+                        "query": "Reese",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Benteke",
+                        "url": "http://twitter.com/search?q=Benteke",
+                        "promoted_content": null,
+                        "query": "Benteke",
+                        "tweet_volume": 10409
+                  },
+                  {
+                        "name": "Kylie",
+                        "url": "http://twitter.com/search?q=Kylie",
+                        "promoted_content": null,
+                        "query": "Kylie",
+                        "tweet_volume": 138858
+                  },
+                  {
+                        "name": "#yyccc",
+                        "url": "http://twitter.com/search?q=%23yyccc",
+                        "promoted_content": null,
+                        "query": "%23yyccc",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Pulisic",
+                        "url": "http://twitter.com/search?q=Pulisic",
+                        "promoted_content": null,
+                        "query": "Pulisic",
+                        "tweet_volume": 56222
+                  },
+                  {
+                        "name": "Pusha",
+                        "url": "http://twitter.com/search?q=Pusha",
+                        "promoted_content": null,
+                        "query": "Pusha",
+                        "tweet_volume": 80218
+                  },
+                  {
+                        "name": "G\u00e9meaux",
+                        "url": "http://twitter.com/search?q=G%C3%A9meaux",
+                        "promoted_content": null,
+                        "query": "G%C3%A9meaux",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Olympia Lightning Bolt",
+                        "url": "http://twitter.com/search?q=%22Olympia+Lightning+Bolt%22",
+                        "promoted_content": null,
+                        "query": "%22Olympia+Lightning+Bolt%22",
+                        "tweet_volume": 38242
+                  },
+                  {
+                        "name": "Pearson",
+                        "url": "http://twitter.com/search?q=Pearson",
+                        "promoted_content": null,
+                        "query": "Pearson",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "jose bautista",
+                        "url": "http://twitter.com/search?q=%22jose+bautista%22",
+                        "promoted_content": null,
+                        "query": "%22jose+bautista%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "WNBA",
+                        "url": "http://twitter.com/search?q=WNBA",
+                        "promoted_content": null,
+                        "query": "WNBA",
+                        "tweet_volume": 28756
+                  },
+                  {
+                        "name": "Arteta",
+                        "url": "http://twitter.com/search?q=Arteta",
+                        "promoted_content": null,
+                        "query": "Arteta",
+                        "tweet_volume": 30204
+                  }
+            ],
+            "as_of": "2020-07-07T22:56:19Z",
+            "created_at": "2020-07-07T22:52:33Z",
+            "locations": [
+                  {
+                        "name": "Toronto",
+                        "woeid": 4118
+                  }
+            ]
+      }
+]

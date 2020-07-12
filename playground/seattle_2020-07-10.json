@@ -1,0 +1,280 @@
+[
+      {
+            "trends": [
+                  {
+                        "name": "Jada",
+                        "url": "http://twitter.com/search?q=Jada",
+                        "promoted_content": null,
+                        "query": "Jada",
+                        "tweet_volume": 529765
+                  },
+                  {
+                        "name": "Will Smith",
+                        "url": "http://twitter.com/search?q=%22Will+Smith%22",
+                        "promoted_content": null,
+                        "query": "%22Will+Smith%22",
+                        "tweet_volume": 114448
+                  },
+                  {
+                        "name": "Goya",
+                        "url": "http://twitter.com/search?q=Goya",
+                        "promoted_content": null,
+                        "query": "Goya",
+                        "tweet_volume": 743553
+                  },
+                  {
+                        "name": "#No2IRChinaTreaty",
+                        "url": "http://twitter.com/search?q=%23No2IRChinaTreaty",
+                        "promoted_content": null,
+                        "query": "%23No2IRChinaTreaty",
+                        "tweet_volume": 129754
+                  },
+                  {
+                        "name": "TikTok",
+                        "url": "http://twitter.com/search?q=TikTok",
+                        "promoted_content": null,
+                        "query": "TikTok",
+                        "tweet_volume": 694921
+                  },
+                  {
+                        "name": "#PulteDropsBitcoin",
+                        "url": "http://twitter.com/search?q=%23PulteDropsBitcoin",
+                        "promoted_content": null,
+                        "query": "%23PulteDropsBitcoin",
+                        "tweet_volume": 28186
+                  },
+                  {
+                        "name": "Keke",
+                        "url": "http://twitter.com/search?q=Keke",
+                        "promoted_content": null,
+                        "query": "Keke",
+                        "tweet_volume": 30241
+                  },
+                  {
+                        "name": "Roger Stone",
+                        "url": "http://twitter.com/search?q=%22Roger+Stone%22",
+                        "promoted_content": null,
+                        "query": "%22Roger+Stone%22",
+                        "tweet_volume": 189239
+                  },
+                  {
+                        "name": "August Alsina",
+                        "url": "http://twitter.com/search?q=%22August+Alsina%22",
+                        "promoted_content": null,
+                        "query": "%22August+Alsina%22",
+                        "tweet_volume": 67145
+                  },
+                  {
+                        "name": "Ann Coulter",
+                        "url": "http://twitter.com/search?q=%22Ann+Coulter%22",
+                        "promoted_content": null,
+                        "query": "%22Ann+Coulter%22",
+                        "tweet_volume": 17586
+                  },
+                  {
+                        "name": "Entanglement",
+                        "url": "http://twitter.com/search?q=Entanglement",
+                        "promoted_content": null,
+                        "query": "Entanglement",
+                        "tweet_volume": 273617
+                  },
+                  {
+                        "name": "Wayfair",
+                        "url": "http://twitter.com/search?q=Wayfair",
+                        "promoted_content": null,
+                        "query": "Wayfair",
+                        "tweet_volume": 338056
+                  },
+                  {
+                        "name": "#ChadSportsBaseball",
+                        "url": "http://twitter.com/search?q=%23ChadSportsBaseball",
+                        "promoted_content": null,
+                        "query": "%23ChadSportsBaseball",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "DACA",
+                        "url": "http://twitter.com/search?q=DACA",
+                        "promoted_content": null,
+                        "query": "DACA",
+                        "tweet_volume": 18457
+                  },
+                  {
+                        "name": "Pac-12",
+                        "url": "http://twitter.com/search?q=Pac-12",
+                        "promoted_content": null,
+                        "query": "Pac-12",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "\"Aug\"",
+                        "url": "http://twitter.com/search?q=%22Aug%22",
+                        "promoted_content": null,
+                        "query": "%22Aug%22",
+                        "tweet_volume": 63791
+                  },
+                  {
+                        "name": "Margot Robbie",
+                        "url": "http://twitter.com/search?q=%22Margot+Robbie%22",
+                        "promoted_content": null,
+                        "query": "%22Margot+Robbie%22",
+                        "tweet_volume": 16217
+                  },
+                  {
+                        "name": "Jill Scott",
+                        "url": "http://twitter.com/search?q=%22Jill+Scott%22",
+                        "promoted_content": null,
+                        "query": "%22Jill+Scott%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#IfKanyeWerePresident",
+                        "url": "http://twitter.com/search?q=%23IfKanyeWerePresident",
+                        "promoted_content": null,
+                        "query": "%23IfKanyeWerePresident",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Black Twitter",
+                        "url": "http://twitter.com/search?q=%22Black+Twitter%22",
+                        "promoted_content": null,
+                        "query": "%22Black+Twitter%22",
+                        "tweet_volume": 17737
+                  },
+                  {
+                        "name": "Morphe",
+                        "url": "http://twitter.com/search?q=Morphe",
+                        "promoted_content": null,
+                        "query": "Morphe",
+                        "tweet_volume": 24111
+                  },
+                  {
+                        "name": "Poor Will",
+                        "url": "http://twitter.com/search?q=%22Poor+Will%22",
+                        "promoted_content": null,
+                        "query": "%22Poor+Will%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "LAW AND ORDER",
+                        "url": "http://twitter.com/search?q=%22LAW+AND+ORDER%22",
+                        "promoted_content": null,
+                        "query": "%22LAW+AND+ORDER%22",
+                        "tweet_volume": 25005
+                  },
+                  {
+                        "name": "Kopech",
+                        "url": "http://twitter.com/search?q=Kopech",
+                        "promoted_content": null,
+                        "query": "Kopech",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#FridayVibes",
+                        "url": "http://twitter.com/search?q=%23FridayVibes",
+                        "promoted_content": null,
+                        "query": "%23FridayVibes",
+                        "tweet_volume": 19874
+                  },
+                  {
+                        "name": "Ted Cruz",
+                        "url": "http://twitter.com/search?q=%22Ted+Cruz%22",
+                        "promoted_content": null,
+                        "query": "%22Ted+Cruz%22",
+                        "tweet_volume": 11013
+                  },
+                  {
+                        "name": "Blake Neff",
+                        "url": "http://twitter.com/search?q=%22Blake+Neff%22",
+                        "promoted_content": null,
+                        "query": "%22Blake+Neff%22",
+                        "tweet_volume": 13147
+                  },
+                  {
+                        "name": "Zac Efron",
+                        "url": "http://twitter.com/search?q=%22Zac+Efron%22",
+                        "promoted_content": null,
+                        "query": "%22Zac+Efron%22",
+                        "tweet_volume": 16969
+                  },
+                  {
+                        "name": "Rafael",
+                        "url": "http://twitter.com/search?q=Rafael",
+                        "promoted_content": null,
+                        "query": "Rafael",
+                        "tweet_volume": 64225
+                  },
+                  {
+                        "name": "Malcolm Jenkins",
+                        "url": "http://twitter.com/search?q=%22Malcolm+Jenkins%22",
+                        "promoted_content": null,
+                        "query": "%22Malcolm+Jenkins%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Bakugan",
+                        "url": "http://twitter.com/search?q=Bakugan",
+                        "promoted_content": null,
+                        "query": "Bakugan",
+                        "tweet_volume": 38658
+                  },
+                  {
+                        "name": "Boeser",
+                        "url": "http://twitter.com/search?q=Boeser",
+                        "promoted_content": null,
+                        "query": "Boeser",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#pipelinewriters",
+                        "url": "http://twitter.com/search?q=%23pipelinewriters",
+                        "promoted_content": null,
+                        "query": "%23pipelinewriters",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#QUEENOFBROKENHEARTS",
+                        "url": "http://twitter.com/search?q=%23QUEENOFBROKENHEARTS",
+                        "promoted_content": null,
+                        "query": "%23QUEENOFBROKENHEARTS",
+                        "tweet_volume": 75510
+                  },
+                  {
+                        "name": "#WojBomb",
+                        "url": "http://twitter.com/search?q=%23WojBomb",
+                        "promoted_content": null,
+                        "query": "%23WojBomb",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#KidsTheseDaysWont",
+                        "url": "http://twitter.com/search?q=%23KidsTheseDaysWont",
+                        "promoted_content": null,
+                        "query": "%23KidsTheseDaysWont",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#TheOldGuard",
+                        "url": "http://twitter.com/search?q=%23TheOldGuard",
+                        "promoted_content": null,
+                        "query": "%23TheOldGuard",
+                        "tweet_volume": 12444
+                  },
+                  {
+                        "name": "#FreeCodeFridayContest",
+                        "url": "http://twitter.com/search?q=%23FreeCodeFridayContest",
+                        "promoted_content": null,
+                        "query": "%23FreeCodeFridayContest",
+                        "tweet_volume": null
+                  }
+            ],
+            "as_of": "2020-07-11T00:18:41Z",
+            "created_at": "2020-07-11T00:13:31Z",
+            "locations": [
+                  {
+                        "name": "Seattle",
+                        "woeid": 2490383
+                  }
+            ]
+      }
+]

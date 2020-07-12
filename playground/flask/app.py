@@ -1,9 +1,11 @@
-from flask import Flask
-from flask import render_template
+from flask import Flask, render_template, url_for
 
 app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    name="kwin"
-    return render_template('play.html',name=name)
+    return render_template('test.html')
+
+@app.route('/data/')
+def data():
+    return 'hello world'

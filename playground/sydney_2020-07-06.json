@@ -2,87 +2,150 @@
       {
             "trends": [
                   {
-                        "name": "Jose",
-                        "url": "http://twitter.com/search?q=Jose",
+                        "name": "jungkook",
+                        "url": "http://twitter.com/search?q=jungkook",
                         "promoted_content": null,
-                        "query": "Jose",
-                        "tweet_volume": 172983
+                        "query": "jungkook",
+                        "tweet_volume": 694437
                   },
                   {
-                        "name": "#9News",
-                        "url": "http://twitter.com/search?q=%239News",
+                        "name": "#WWERaw",
+                        "url": "http://twitter.com/search?q=%23WWERaw",
                         "promoted_content": null,
-                        "query": "%239News",
+                        "query": "%23WWERaw",
+                        "tweet_volume": 61053
+                  },
+                  {
+                        "name": "#lilhuddyisoverparty",
+                        "url": "http://twitter.com/search?q=%23lilhuddyisoverparty",
+                        "promoted_content": null,
+                        "query": "%23lilhuddyisoverparty",
+                        "tweet_volume": 34916
+                  },
+                  {
+                        "name": "Mexicans",
+                        "url": "http://twitter.com/search?q=Mexicans",
+                        "promoted_content": null,
+                        "query": "Mexicans",
                         "tweet_volume": null
                   },
                   {
-                        "name": "Ennio Morricone",
-                        "url": "http://twitter.com/search?q=%22Ennio+Morricone%22",
+                        "name": "Port Fairy",
+                        "url": "http://twitter.com/search?q=%22Port+Fairy%22",
                         "promoted_content": null,
-                        "query": "%22Ennio+Morricone%22",
-                        "tweet_volume": 395971
-                  },
-                  {
-                        "name": "Pauline Hanson",
-                        "url": "http://twitter.com/search?q=%22Pauline+Hanson%22",
-                        "promoted_content": null,
-                        "query": "%22Pauline+Hanson%22",
-                        "tweet_volume": 19846
-                  },
-                  {
-                        "name": "#qanda",
-                        "url": "http://twitter.com/search?q=%23qanda",
-                        "promoted_content": null,
-                        "query": "%23qanda",
+                        "query": "%22Port+Fairy%22",
                         "tweet_volume": null
                   },
                   {
-                        "name": "#MasterChefAU",
-                        "url": "http://twitter.com/search?q=%23MasterChefAU",
+                        "name": "irene",
+                        "url": "http://twitter.com/search?q=irene",
                         "promoted_content": null,
-                        "query": "%23MasterChefAU",
+                        "query": "irene",
+                        "tweet_volume": 1383550
+                  },
+                  {
+                        "name": "#wheresscotty",
+                        "url": "http://twitter.com/search?q=%23wheresscotty",
+                        "promoted_content": null,
+                        "query": "%23wheresscotty",
                         "tweet_volume": null
                   },
                   {
-                        "name": "#thevoiceau",
-                        "url": "http://twitter.com/search?q=%23thevoiceau",
+                        "name": "Enid Blyton",
+                        "url": "http://twitter.com/search?q=%22Enid+Blyton%22",
                         "promoted_content": null,
-                        "query": "%23thevoiceau",
+                        "query": "%22Enid+Blyton%22",
                         "tweet_volume": null
                   },
                   {
-                        "name": "Kanye",
-                        "url": "http://twitter.com/search?q=Kanye",
+                        "name": "#freethe9blocks",
+                        "url": "http://twitter.com/search?q=%23freethe9blocks",
                         "promoted_content": null,
-                        "query": "Kanye",
-                        "tweet_volume": 912671
-                  },
-                  {
-                        "name": "Channel 9",
-                        "url": "http://twitter.com/search?q=%22Channel+9%22",
-                        "promoted_content": null,
-                        "query": "%22Channel+9%22",
+                        "query": "%23freethe9blocks",
                         "tweet_volume": null
                   },
                   {
-                        "name": "#CovidVic",
-                        "url": "http://twitter.com/search?q=%23CovidVic",
+                        "name": "Jane Austen",
+                        "url": "http://twitter.com/search?q=%22Jane+Austen%22",
                         "promoted_content": null,
-                        "query": "%23CovidVic",
+                        "query": "%22Jane+Austen%22",
                         "tweet_volume": null
                   },
                   {
-                        "name": "Christopher Pyne",
-                        "url": "http://twitter.com/search?q=%22Christopher+Pyne%22",
+                        "name": "Teal",
+                        "url": "http://twitter.com/search?q=Teal",
                         "promoted_content": null,
-                        "query": "%22Christopher+Pyne%22",
+                        "query": "Teal",
+                        "tweet_volume": 35193
+                  },
+                  {
+                        "name": "Stuart Robert",
+                        "url": "http://twitter.com/search?q=%22Stuart+Robert%22",
+                        "promoted_content": null,
+                        "query": "%22Stuart+Robert%22",
                         "tweet_volume": null
                   },
                   {
-                        "name": "marissa",
-                        "url": "http://twitter.com/search?q=marissa",
+                        "name": "A-League",
+                        "url": "http://twitter.com/search?q=A-League",
                         "promoted_content": null,
-                        "query": "marissa",
+                        "query": "A-League",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "#TrumpVirus",
+                        "url": "http://twitter.com/search?q=%23TrumpVirus",
+                        "promoted_content": null,
+                        "query": "%23TrumpVirus",
+                        "tweet_volume": 158275
+                  },
+                  {
+                        "name": "Meghan",
+                        "url": "http://twitter.com/search?q=Meghan",
+                        "promoted_content": null,
+                        "query": "Meghan",
+                        "tweet_volume": 54657
+                  },
+                  {
+                        "name": "Graham",
+                        "url": "http://twitter.com/search?q=Graham",
+                        "promoted_content": null,
+                        "query": "Graham",
+                        "tweet_volume": 60105
+                  },
+                  {
+                        "name": "commonwealth",
+                        "url": "http://twitter.com/search?q=commonwealth",
+                        "promoted_content": null,
+                        "query": "commonwealth",
+                        "tweet_volume": 13981
+                  },
+                  {
+                        "name": "Wyndham",
+                        "url": "http://twitter.com/search?q=Wyndham",
+                        "promoted_content": null,
+                        "query": "Wyndham",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "patrick mahomes",
+                        "url": "http://twitter.com/search?q=%22patrick+mahomes%22",
+                        "promoted_content": null,
+                        "query": "%22patrick+mahomes%22",
+                        "tweet_volume": 209716
+                  },
+                  {
+                        "name": "charli",
+                        "url": "http://twitter.com/search?q=charli",
+                        "promoted_content": null,
+                        "query": "charli",
+                        "tweet_volume": 64177
+                  },
+                  {
+                        "name": "New South Wales",
+                        "url": "http://twitter.com/search?q=%22New+South+Wales%22",
+                        "promoted_content": null,
+                        "query": "%22New+South+Wales%22",
                         "tweet_volume": null
                   },
                   {
@@ -93,73 +156,45 @@
                         "tweet_volume": null
                   },
                   {
-                        "name": "callum",
-                        "url": "http://twitter.com/search?q=callum",
+                        "name": "Brooke Boney",
+                        "url": "http://twitter.com/search?q=%22Brooke+Boney%22",
                         "promoted_content": null,
-                        "query": "callum",
+                        "query": "%22Brooke+Boney%22",
                         "tweet_volume": null
                   },
                   {
-                        "name": "Murray",
-                        "url": "http://twitter.com/search?q=Murray",
+                        "name": "Margaret",
+                        "url": "http://twitter.com/search?q=Margaret",
                         "promoted_content": null,
-                        "query": "Murray",
-                        "tweet_volume": 25332
+                        "query": "Margaret",
+                        "tweet_volume": 16399
                   },
                   {
-                        "name": "Mark Naley",
-                        "url": "http://twitter.com/search?q=%22Mark+Naley%22",
+                        "name": "DHHS",
+                        "url": "http://twitter.com/search?q=DHHS",
                         "promoted_content": null,
-                        "query": "%22Mark+Naley%22",
+                        "query": "DHHS",
                         "tweet_volume": null
                   },
                   {
-                        "name": "sikh",
-                        "url": "http://twitter.com/search?q=sikh",
+                        "name": "Daily Telegraph",
+                        "url": "http://twitter.com/search?q=%22Daily+Telegraph%22",
                         "promoted_content": null,
-                        "query": "sikh",
-                        "tweet_volume": 23219
-                  },
-                  {
-                        "name": "jk rowling",
-                        "url": "http://twitter.com/search?q=%22jk+rowling%22",
-                        "promoted_content": null,
-                        "query": "%22jk+rowling%22",
-                        "tweet_volume": 197517
-                  },
-                  {
-                        "name": "Labor",
-                        "url": "http://twitter.com/search?q=Labor",
-                        "promoted_content": null,
-                        "query": "Labor",
-                        "tweet_volume": 123354
-                  },
-                  {
-                        "name": "Wodonga",
-                        "url": "http://twitter.com/search?q=Wodonga",
-                        "promoted_content": null,
-                        "query": "Wodonga",
+                        "query": "%22Daily+Telegraph%22",
                         "tweet_volume": null
                   },
                   {
-                        "name": "kieran",
-                        "url": "http://twitter.com/search?q=kieran",
+                        "name": "Blake",
+                        "url": "http://twitter.com/search?q=Blake",
                         "promoted_content": null,
-                        "query": "kieran",
-                        "tweet_volume": null
+                        "query": "Blake",
+                        "tweet_volume": 21349
                   },
                   {
-                        "name": "Chungha",
-                        "url": "http://twitter.com/search?q=Chungha",
+                        "name": "Clive",
+                        "url": "http://twitter.com/search?q=Clive",
                         "promoted_content": null,
-                        "query": "Chungha",
-                        "tweet_volume": 101449
-                  },
-                  {
-                        "name": "Flemington",
-                        "url": "http://twitter.com/search?q=Flemington",
-                        "promoted_content": null,
-                        "query": "Flemington",
+                        "query": "Clive",
                         "tweet_volume": null
                   },
                   {
@@ -170,6 +205,69 @@
                         "tweet_volume": null
                   },
                   {
+                        "name": "Ennio Morricone",
+                        "url": "http://twitter.com/search?q=%22Ennio+Morricone%22",
+                        "promoted_content": null,
+                        "query": "%22Ennio+Morricone%22",
+                        "tweet_volume": 440177
+                  },
+                  {
+                        "name": "Kanye",
+                        "url": "http://twitter.com/search?q=Kanye",
+                        "promoted_content": null,
+                        "query": "Kanye",
+                        "tweet_volume": 767606
+                  },
+                  {
+                        "name": "Channel 9",
+                        "url": "http://twitter.com/search?q=%22Channel+9%22",
+                        "promoted_content": null,
+                        "query": "%22Channel+9%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Today Show",
+                        "url": "http://twitter.com/search?q=%22Today+Show%22",
+                        "promoted_content": null,
+                        "query": "%22Today+Show%22",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Pyne",
+                        "url": "http://twitter.com/search?q=Pyne",
+                        "promoted_content": null,
+                        "query": "Pyne",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "Murray",
+                        "url": "http://twitter.com/search?q=Murray",
+                        "promoted_content": null,
+                        "query": "Murray",
+                        "tweet_volume": 25386
+                  },
+                  {
+                        "name": "Wodonga",
+                        "url": "http://twitter.com/search?q=Wodonga",
+                        "promoted_content": null,
+                        "query": "Wodonga",
+                        "tweet_volume": null
+                  },
+                  {
+                        "name": "the good",
+                        "url": "http://twitter.com/search?q=%22the+good%22",
+                        "promoted_content": null,
+                        "query": "%22the+good%22",
+                        "tweet_volume": 139120
+                  },
+                  {
+                        "name": "Andrews",
+                        "url": "http://twitter.com/search?q=Andrews",
+                        "promoted_content": null,
+                        "query": "Andrews",
+                        "tweet_volume": 17936
+                  },
+                  {
                         "name": "Cobargo",
                         "url": "http://twitter.com/search?q=Cobargo",
                         "promoted_content": null,
@@ -177,59 +275,66 @@
                         "tweet_volume": null
                   },
                   {
-                        "name": "terri butler",
-                        "url": "http://twitter.com/search?q=%22terri+butler%22",
+                        "name": "#WorldChocolateDay",
+                        "url": "http://twitter.com/search?q=%23WorldChocolateDay",
                         "promoted_content": null,
-                        "query": "%22terri+butler%22",
+                        "query": "%23WorldChocolateDay",
                         "tweet_volume": null
                   },
                   {
-                        "name": "Chad",
-                        "url": "http://twitter.com/search?q=Chad",
+                        "name": "#borderclosure",
+                        "url": "http://twitter.com/search?q=%23borderclosure",
                         "promoted_content": null,
-                        "query": "Chad",
-                        "tweet_volume": 53838
-                  },
-                  {
-                        "name": "Mark Latham",
-                        "url": "http://twitter.com/search?q=%22Mark+Latham%22",
-                        "promoted_content": null,
-                        "query": "%22Mark+Latham%22",
+                        "query": "%23borderclosure",
                         "tweet_volume": null
                   },
                   {
-                        "name": "Greg Sheridan",
-                        "url": "http://twitter.com/search?q=%22Greg+Sheridan%22",
+                        "name": "#ARMYSelcaDay",
+                        "url": "http://twitter.com/search?q=%23ARMYSelcaDay",
                         "promoted_content": null,
-                        "query": "%22Greg+Sheridan%22",
+                        "query": "%23ARMYSelcaDay",
+                        "tweet_volume": 1084523
+                  },
+                  {
+                        "name": "#ARSD",
+                        "url": "http://twitter.com/search?q=%23ARSD",
+                        "promoted_content": null,
+                        "query": "%23ARSD",
+                        "tweet_volume": 1144122
+                  },
+                  {
+                        "name": "#ScottyFromMarketting",
+                        "url": "http://twitter.com/search?q=%23ScottyFromMarketting",
+                        "promoted_content": null,
+                        "query": "%23ScottyFromMarketting",
                         "tweet_volume": null
                   },
                   {
-                        "name": "#lockdownmelbourne",
-                        "url": "http://twitter.com/search?q=%23lockdownmelbourne",
+                        "name": "#qanda",
+                        "url": "http://twitter.com/search?q=%23qanda",
                         "promoted_content": null,
-                        "query": "%23lockdownmelbourne",
+                        "query": "%23qanda",
                         "tweet_volume": null
                   },
                   {
-                        "name": "#monsterishere",
-                        "url": "http://twitter.com/search?q=%23monsterishere",
+                        "name": "#masterchefau",
+                        "url": "http://twitter.com/search?q=%23masterchefau",
                         "promoted_content": null,
-                        "query": "%23monsterishere",
-                        "tweet_volume": 566353
+                        "query": "%23masterchefau",
+                        "tweet_volume": null
                   },
                   {
-                        "name": "#austriangp",
-                        "url": "http://twitter.com/search?q=%23austriangp",
+                        "name": "#thevoiceau",
+                        "url": "http://twitter.com/search?q=%23thevoiceau",
                         "promoted_content": null,
-                        "query": "%23austriangp",
-                        "tweet_volume": 41044
+                        "query": "%23thevoiceau",
+                        "tweet_volume": null
                   },
                   {
-                        "name": "#libspill",
-                        "url": "http://twitter.com/search?q=%23libspill",
+                        "name": "#COVID19Vic",
+                        "url": "http://twitter.com/search?q=%23COVID19Vic",
                         "promoted_content": null,
-                        "query": "%23libspill",
+                        "query": "%23COVID19Vic",
                         "tweet_volume": null
                   },
                   {
@@ -240,120 +345,15 @@
                         "tweet_volume": null
                   },
                   {
-                        "name": "#TransPeopleAreRealPeople",
-                        "url": "http://twitter.com/search?q=%23TransPeopleAreRealPeople",
+                        "name": "#transpeoplearerealpeople",
+                        "url": "http://twitter.com/search?q=%23transpeoplearerealpeople",
                         "promoted_content": null,
-                        "query": "%23TransPeopleAreRealPeople",
-                        "tweet_volume": 31689
-                  },
-                  {
-                        "name": "#ARSD",
-                        "url": "http://twitter.com/search?q=%23ARSD",
-                        "promoted_content": null,
-                        "query": "%23ARSD",
-                        "tweet_volume": 1006258
-                  },
-                  {
-                        "name": "#bbau",
-                        "url": "http://twitter.com/search?q=%23bbau",
-                        "promoted_content": null,
-                        "query": "%23bbau",
-                        "tweet_volume": null
-                  },
-                  {
-                        "name": "#appleeduchat",
-                        "url": "http://twitter.com/search?q=%23appleeduchat",
-                        "promoted_content": null,
-                        "query": "%23appleeduchat",
-                        "tweet_volume": null
-                  },
-                  {
-                        "name": "#bigbrotherau",
-                        "url": "http://twitter.com/search?q=%23bigbrotherau",
-                        "promoted_content": null,
-                        "query": "%23bigbrotherau",
-                        "tweet_volume": null
-                  },
-                  {
-                        "name": "#RedVelvet_IRENE_SEULGI",
-                        "url": "http://twitter.com/search?q=%23RedVelvet_IRENE_SEULGI",
-                        "promoted_content": null,
-                        "query": "%23RedVelvet_IRENE_SEULGI",
-                        "tweet_volume": 490569
-                  },
-                  {
-                        "name": "#hybpa",
-                        "url": "http://twitter.com/search?q=%23hybpa",
-                        "promoted_content": null,
-                        "query": "%23hybpa",
-                        "tweet_volume": null
-                  },
-                  {
-                        "name": "#RIPEnnioMorricone",
-                        "url": "http://twitter.com/search?q=%23RIPEnnioMorricone",
-                        "promoted_content": null,
-                        "query": "%23RIPEnnioMorricone",
-                        "tweet_volume": 14823
-                  },
-                  {
-                        "name": "#handsoffourabc",
-                        "url": "http://twitter.com/search?q=%23handsoffourabc",
-                        "promoted_content": null,
-                        "query": "%23handsoffourabc",
-                        "tweet_volume": null
-                  },
-                  {
-                        "name": "#NRLManlyKnights",
-                        "url": "http://twitter.com/search?q=%23NRLManlyKnights",
-                        "promoted_content": null,
-                        "query": "%23NRLManlyKnights",
-                        "tweet_volume": null
-                  },
-                  {
-                        "name": "#9today",
-                        "url": "http://twitter.com/search?q=%239today",
-                        "promoted_content": null,
-                        "query": "%239today",
-                        "tweet_volume": null
-                  },
-                  {
-                        "name": "#dilbecharatrailer",
-                        "url": "http://twitter.com/search?q=%23dilbecharatrailer",
-                        "promoted_content": null,
-                        "query": "%23dilbecharatrailer",
-                        "tweet_volume": 282553
-                  },
-                  {
-                        "name": "#FairTreatmentForGOT7",
-                        "url": "http://twitter.com/search?q=%23FairTreatmentForGOT7",
-                        "promoted_content": null,
-                        "query": "%23FairTreatmentForGOT7",
-                        "tweet_volume": 1414738
-                  },
-                  {
-                        "name": "#inmyblooditruns",
-                        "url": "http://twitter.com/search?q=%23inmyblooditruns",
-                        "promoted_content": null,
-                        "query": "%23inmyblooditruns",
-                        "tweet_volume": null
-                  },
-                  {
-                        "name": "#backroads",
-                        "url": "http://twitter.com/search?q=%23backroads",
-                        "promoted_content": null,
-                        "query": "%23backroads",
-                        "tweet_volume": null
-                  },
-                  {
-                        "name": "#ufc251",
-                        "url": "http://twitter.com/search?q=%23ufc251",
-                        "promoted_content": null,
-                        "query": "%23ufc251",
-                        "tweet_volume": 43944
+                        "query": "%23transpeoplearerealpeople",
+                        "tweet_volume": 27133
                   }
             ],
-            "as_of": "2020-07-06T21:49:05Z",
-            "created_at": "2020-07-06T21:41:20Z",
+            "as_of": "2020-07-07T04:00:47Z",
+            "created_at": "2020-07-07T03:56:22Z",
             "locations": [
                   {
                         "name": "Sydney",

@@ -14,10 +14,15 @@ class Test_Countstreaks:
         e1date=date(2020,6,28)
 
         s2date=date(2020,7,2)
-        e2date = date.today()  # end date
+        e2date=date(2020,7,8)
+        # Trynna skip any missing trend files..
+        s3date=date(2020,7,10)
+        e3date = date.today()  # end date
+
         range=pd.date_range(sdate,edate-timedelta(days=0), freq='d')
         range1=pd.date_range(s1date,e1date-timedelta(days=0), freq='d')
         range2=pd.date_range(s2date,e2date-timedelta(days=0), freq='d')
+        range3=pd.date_range(s3date,e3date-timedelta(days=0), freq='d')
 
         dates=[]
         for i in range:
@@ -25,6 +30,8 @@ class Test_Countstreaks:
         for i in range1:
             dates.append(str(i)[:-9])
         for i in range2:
+            dates.append(str(i)[:-9])
+        for i in range3:
             dates.append(str(i)[:-9])
 
         base=[]
