@@ -9,3 +9,6 @@ def hello_world():
 @app.route('/data/')
 def data():
     return 'hello world'
+
+if __name__ == "__main__":
+    app.run(debug=True)
