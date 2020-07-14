@@ -11,12 +11,10 @@
     <link href="/static/pretty.css" rel="stylesheet">
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rambla:bold,bolditalic,regular|Muli:italic,light,regular,regularitalic,medium">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+
     <script src="/static/testScript.js"></script>
   </head>
-
-
-
 
   <body>
   <div class="jumbotron jumbotron-fluid">
@@ -32,22 +30,17 @@
     <div class="col">
       <h2>Today's trends</h2>
       <p> Select location to see trending Twitter topics: </p>
-      <button type="button"> Seattle</button>
-      <script>
-        $('#click').click(function () {
-          $.ajax({
-            typr:'GET',
-            url: '/data',
-            success: function (response) {
-              alert(response)
-            }
-          })
-        }
-      </script>
-      <button type="button"onclick="myFunction()"> Sydney</button>
-      <button type="button"onclick="myFunction()"> London</button>
-      <button type="button"onclick="myFunction()"> Toronto</button>
-      <p id="demo"></p>
+
+
+      <a href="/seattle"><input type="button" value="Seattle"></a>
+      <a href="/sydney"><input type="button" value="Sydney"></a>
+      <a href="/london"><input type="button" value="London"></a>
+      <a href="/toronto"><input type="button" value="Toronto"></a>
+
+
+        {% block content %}
+        {% endblock %}
+
     </div>
     // Trends go here
     <div class="col">
@@ -64,7 +57,8 @@
   </div>
 </div>
 
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 </body>

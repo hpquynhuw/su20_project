@@ -1,10 +1,16 @@
 function myFunction() {
-  document.getElementById('demo').innerHTML = Date();
   $.ajax({
-    type: 'GET',
-    url:'/data/',
-    success: function (response) {
-      console.log(response);
-    }
-  })
+         method: 'GET',
+         url: '/home',
+         });
+  document.getElementById('list').innerHTML = "";
+  document.getElementById('list').innerHTML = Date();
+
+}
+
+function ajaxCall() {
+  $.ajax({
+        method: 'GET',
+        url: '/seattle',
+        });
 }

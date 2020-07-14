@@ -1,0 +1,20 @@
+{% extends "test.html" %}
+{% block content %}
+<p> test </p>
+<table class="table table-borderless">
+    <thead>
+      <tr>
+        <th>Trend name</th>
+        <th>Tweet Volume</th>
+      </tr>
+    </thead>
+    <tbody>
+{% for n in data[0]['trends']: %}
+      <tr>
+        <td>{{ n['name'] }}</td>
+        <td>{{ n['tweet_volume'] }}</td>
+      </tr>
+{% endfor %}
+</tbody>
+</table>
+{% endblock %}
